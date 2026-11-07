@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Generated knowledge-base artifacts
+data/knowledge_base/processed/
+data/knowledge_base/chunks/
+data/knowledge_base/metadata/generated/
+
+# Runtime and generated storage
+storage/vector_store/
+storage/sessions/
+storage/analytics/
+storage/logs/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Downloaded models and large generated artifacts
+models/
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Reports and temporary files
+reports/evaluation/
+reports/performance/
+tmp/
+temp/
