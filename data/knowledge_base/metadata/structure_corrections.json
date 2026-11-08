@@ -1,0 +1,361 @@
+{
+  "KB-01": {
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the source Asthma topic above its drug classes.",
+        "heading_level": 1
+      },
+      {
+        "position": 118,
+        "reason": "Retain the source COPD topic above its drug classes.",
+        "heading_level": 1
+      }
+    ]
+  },
+  "KB-02": {
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the source Peptic Ulcer and GERD topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 60,
+        "reason": "These effects belong to the source Sucralfate subsection.",
+        "parent_position": 58
+      },
+      {
+        "position": 65,
+        "reason": "These precautions belong to the source Sucralfate subsection.",
+        "parent_position": 58
+      },
+      {
+        "position": 72,
+        "reason": "These effects belong to the source Bismuth subsection.",
+        "parent_position": 70
+      },
+      {
+        "position": 77,
+        "reason": "These precautions belong to the source Bismuth subsection.",
+        "parent_position": 70
+      },
+      {
+        "position": 106,
+        "reason": "Shared effects cover multiple antibiotic subclasses, not only the last subclass.",
+        "parent_position": 96
+      },
+      {
+        "position": 114,
+        "reason": "Shared precautions cover the antibiotic section, including named Amoxicillin and Clarithromycin.",
+        "parent_position": 96
+      },
+      {
+        "position": 121,
+        "reason": "This classification table covers the GERD drug classes; separate it from H. pylori precautions without inventing a heading.",
+        "parent_position": 1,
+        "new_section": true,
+        "topic_positions": [
+          1
+        ]
+      },
+      {
+        "position": 130,
+        "reason": "Shared antiemetic effects are not limited to the last 5-HT3 subclass.",
+        "parent_position": 124
+      },
+      {
+        "position": 134,
+        "reason": "Shared antiemetic precautions are not limited to the last 5-HT3 subclass.",
+        "parent_position": 124
+      },
+      {
+        "position": 193,
+        "reason": "The existing summary heading covers both source topics; do not nest the mixed table under vomiting alone.",
+        "heading_level": 1,
+        "parent_position": null,
+        "topic_positions": [
+          1,
+          123
+        ]
+      }
+    ]
+  },
+  "KB-03": {
+    "source_sha256": "43471ade85a430db5a8d5072bb4f4de5fc582f0145150221f2790b4ba3107e7f",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the source Pain and Fever topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 91,
+        "reason": "The original Aspirin label scopes the following table and warnings.",
+        "heading_level": 3
+      },
+      {
+        "position": 93,
+        "reason": "These effects belong to the source Aspirin subsection.",
+        "parent_position": 91
+      },
+      {
+        "position": 99,
+        "reason": "These cautions belong to the source Aspirin subsection.",
+        "parent_position": 91
+      },
+      {
+        "position": 105,
+        "reason": "The original Topical Salicylates label begins a sibling subsection.",
+        "heading_level": 3
+      },
+      {
+        "position": 107,
+        "reason": "These effects belong to the source Topical Salicylates subsection.",
+        "parent_position": 105
+      },
+      {
+        "position": 112,
+        "reason": "These cautions belong to the source Topical Salicylates subsection.",
+        "parent_position": 105
+      },
+      {
+        "position": 120,
+        "reason": "Retain the source Headache and Migraine topic.",
+        "heading_level": 1
+      }
+    ]
+  },
+  "KB-04": {
+    "source_sha256": "f96a6761b5b48dc87330187a977e9771b249a49c042f3d77773ab32a9582f686",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the source Pharyngitis and Tonsillitis topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 67,
+        "reason": "Shared effects cover multiple antibiotic classes, not only Lincosamides.",
+        "parent_position": 57
+      },
+      {
+        "position": 75,
+        "reason": "Shared precautions explicitly cover Penicillins, Cephalosporins, Macrolides, and Clindamycin.",
+        "parent_position": 57
+      }
+    ]
+  },
+  "KB-05": {
+    "source_sha256": "e7586dd8655433959b092182de1376fbaf9535d209d468c8df09d7291b71db90",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the original opening topic as a root; preserve its text and duplicate numbering.",
+        "heading_level": 1
+      },
+      {
+        "position": 2,
+        "reason": "The second original Pneumonia heading is the root of the following material; keep both source headings verbatim.",
+        "heading_level": 1
+      }
+    ]
+  },
+  "KB-06": {
+    "source_sha256": "c0895dd47a61654c20b7080c7bb055010f439d84aa5c286ceab0c9db5d5505b3",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the source Allergic Diseases topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 40,
+        "reason": "The source side-effects label is the parent of the following route-specific labels.",
+        "heading_level": 3
+      },
+      {
+        "position": 41,
+        "reason": "Retain the original Intranasal effects label beneath side effects.",
+        "heading_level": 4
+      },
+      {
+        "position": 46,
+        "reason": "Retain the original Topical effects label beneath side effects.",
+        "heading_level": 4
+      },
+      {
+        "position": 51,
+        "reason": "Retain the original Systemic effects label beneath side effects.",
+        "heading_level": 4
+      },
+      {
+        "position": 58,
+        "reason": "These precautions apply to the Corticosteroids class, not only its final route label.",
+        "parent_position": 37
+      },
+      {
+        "position": 149,
+        "reason": "Retain the source Sinusitis topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 183,
+        "reason": "The source side-effects label contains route-specific decongestant effects.",
+        "heading_level": 3
+      },
+      {
+        "position": 184,
+        "reason": "Retain the original topical nasal decongestant effects label.",
+        "heading_level": 4
+      },
+      {
+        "position": 189,
+        "reason": "Retain the original oral decongestant effects label.",
+        "heading_level": 4
+      },
+      {
+        "position": 195,
+        "reason": "These precautions apply to the Decongestants class.",
+        "parent_position": 180
+      },
+      {
+        "position": 207,
+        "reason": "The source side-effects label contains named analgesic groups.",
+        "heading_level": 3
+      },
+      {
+        "position": 208,
+        "reason": "Retain the original Paracetamol effects label.",
+        "heading_level": 4
+      },
+      {
+        "position": 212,
+        "reason": "Retain the original NSAID effects label.",
+        "heading_level": 4
+      },
+      {
+        "position": 219,
+        "reason": "These precautions apply to the Analgesics section, not only the last subgroup.",
+        "parent_position": 204
+      }
+    ]
+  },
+  "KB-07": {
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the source Antidiabetic Drugs topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 127,
+        "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "heading_level": 4
+      },
+      {
+        "position": 129,
+        "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "heading_level": 4
+      },
+      {
+        "position": 131,
+        "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "heading_level": 4
+      },
+      {
+        "position": 133,
+        "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "heading_level": 4
+      },
+      {
+        "position": 135,
+        "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "heading_level": 4
+      }
+    ]
+  },
+  "KB-08": {
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "rules": [
+      {
+        "position": 1,
+        "reason": "Retain the source Antihypertensive Drugs topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 69,
+        "reason": "This source label introduces the Thiazide medication table, not a new drug class.",
+        "parent_position": 68
+      },
+      {
+        "position": 129,
+        "reason": "Retain the source Dyslipidemia topic.",
+        "heading_level": 1
+      },
+      {
+        "position": 143,
+        "reason": "The original Important interactions label is a sibling of Contraindications.",
+        "heading_level": 3
+      },
+      {
+        "position": 152,
+        "reason": "The original Combination products label is a subsection of the medication list.",
+        "heading_level": 4
+      },
+      {
+        "position": 170,
+        "reason": "The plain source Side Effects paragraph labels the following side-effect table.",
+        "heading_level": 3
+      },
+      {
+        "position": 177,
+        "reason": "Fibrates is a sibling drug class; the source styles it at level 3.",
+        "heading_level": 2
+      },
+      {
+        "position": 195,
+        "reason": "Retain Omega-3 as a sibling class; duplicate source number 4 is preserved, not corrected in text.",
+        "heading_level": 2
+      },
+      {
+        "position": 217,
+        "reason": "Retain the original Cholestyramine subsection beneath the medication list.",
+        "heading_level": 4
+      },
+      {
+        "position": 219,
+        "reason": "Retain the original Colesevelam subsection beneath the medication list.",
+        "heading_level": 4
+      },
+      {
+        "position": 229,
+        "reason": "The original Important drug interactions label is a class-level subsection.",
+        "heading_level": 3
+      },
+      {
+        "position": 230,
+        "reason": "Retain the original introductory interaction-list label beneath Important drug interactions.",
+        "heading_level": 4
+      }
+    ]
+  },
+  "KB-09": {
+    "source_sha256": "ad3234862fed2baae733f79081b3f2366e577fe8a2d4cae447fdfa8985e33c95",
+    "rules": [
+      {
+        "position": 223,
+        "reason": "The existing summary covers IBS and Arthritis; retain both source topics without assigning the table to Arthritis alone.",
+        "heading_level": 1,
+        "parent_position": null,
+        "topic_positions": [
+          1,
+          115
+        ]
+      }
+    ]
+  }
+}
