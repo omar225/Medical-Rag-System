@@ -1,0 +1,3984 @@
+{
+  "doc_id": "KB-07",
+  "title": "ادويه السكر",
+  "title_source": "filename_stem",
+  "filename": "ادويه السكر.docx",
+  "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "2. أدوية السكر – Antidiabetic Drugs",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "1. Biguanides",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides"
+      ],
+      "section_start": 2,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Type 2 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 2,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nGlucophage | Metformin\nGlucophage XR | Metformin\nCidophage | Metformin\nAmophage | Metformin\nDiaphage | Metformin\nMaxophage | Metformin\nMaxophage XR | Metformin\nMepaphage | Metformin\nMepaphage XR | Metformin\nMetianormin | Metformin\nAndoglycemic XR | Metformin\nEaformeat | Metformin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Glucophage",
+          "Metformin"
+        ],
+        [
+          "Glucophage XR",
+          "Metformin"
+        ],
+        [
+          "Cidophage",
+          "Metformin"
+        ],
+        [
+          "Amophage",
+          "Metformin"
+        ],
+        [
+          "Diaphage",
+          "Metformin"
+        ],
+        [
+          "Maxophage",
+          "Metformin"
+        ],
+        [
+          "Maxophage XR",
+          "Metformin"
+        ],
+        [
+          "Mepaphage",
+          "Metformin"
+        ],
+        [
+          "Mepaphage XR",
+          "Metformin"
+        ],
+        [
+          "Metianormin",
+          "Metformin"
+        ],
+        [
+          "Andoglycemic XR",
+          "Metformin"
+        ],
+        [
+          "Eaformeat",
+          "Metformin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Side Effects"
+      ],
+      "section_start": 2,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nNausea | غثيان\nDiarrhea | إسهال\nVomiting | قيء\nAbdominal discomfort | ألم وعدم ارتياح بالبطن\nMetallic taste | طعم معدني بالفم\nVitamin B12 deficiency | نقص فيتامين B12 مع الاستخدام الطويل\nLactic acidosis | حماض لاكتيكي، نادر لكنه خطير",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Side Effects"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Vomiting",
+          "قيء"
+        ],
+        [
+          "Abdominal discomfort",
+          "ألم وعدم ارتياح بالبطن"
+        ],
+        [
+          "Metallic taste",
+          "طعم معدني بالفم"
+        ],
+        [
+          "Vitamin B12 deficiency",
+          "نقص فيتامين B12 مع الاستخدام الطويل"
+        ],
+        [
+          "Lactic acidosis",
+          "حماض لاكتيكي، نادر لكنه خطير"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Contraindications"
+      ],
+      "section_start": 2,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "paragraph",
+      "text": "Severe renal impairment: eGFR أقل من 30 mL/min/1.73m².",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Contraindications"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "Metabolic acidosis: بما فيها Diabetic Ketoacidosis.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Contraindications"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "Severe hypoxia: مثل بعض حالات Shock أو Acute respiratory failure.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Contraindications"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "paragraph",
+      "text": "Severe hepatic impairment: زيادة خطر Lactic acidosis.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Contraindications"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "Severe dehydration: خصوصاً مع القيء والإسهال الشديد.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "1. Biguanides",
+        "Contraindications"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "heading",
+      "text": "2. Sulfonylureas",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas"
+      ],
+      "section_start": 15,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Type 2 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 15,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nAmaryl | Glimepiride\nGlimadel | Glimepiride\nGlimepiride MUP | Glimepiride\nGlucoryl | Glimepiride\nDiabinese | Chlorpropamide\nDiamicron | Gliclazide\nDiamicron MR | Gliclazide\nDiabeton | Gliclazide\nGliclazide MUP | Gliclazide\nMinidiab | Glipizide\nDaonil | Glibenclamide\nEuglucon | Glibenclamide\nGlibenclamide MUP | Glibenclamide\nAmaryl M* | Glimepiride + Metformin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 15,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Amaryl",
+          "Glimepiride"
+        ],
+        [
+          "Glimadel",
+          "Glimepiride"
+        ],
+        [
+          "Glimepiride MUP",
+          "Glimepiride"
+        ],
+        [
+          "Glucoryl",
+          "Glimepiride"
+        ],
+        [
+          "Diabinese",
+          "Chlorpropamide"
+        ],
+        [
+          "Diamicron",
+          "Gliclazide"
+        ],
+        [
+          "Diamicron MR",
+          "Gliclazide"
+        ],
+        [
+          "Diabeton",
+          "Gliclazide"
+        ],
+        [
+          "Gliclazide MUP",
+          "Gliclazide"
+        ],
+        [
+          "Minidiab",
+          "Glipizide"
+        ],
+        [
+          "Daonil",
+          "Glibenclamide"
+        ],
+        [
+          "Euglucon",
+          "Glibenclamide"
+        ],
+        [
+          "Glibenclamide MUP",
+          "Glibenclamide"
+        ],
+        [
+          "Amaryl M*",
+          "Glimepiride + Metformin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Side Effects"
+      ],
+      "section_start": 15,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nHypoglycemia | انخفاض سكر الدم، أهم عرض جانبي\nWeight gain | زيادة الوزن\nNausea | غثيان\nVomiting | قيء\nHeadache | صداع\nDizziness | دوخة\nSkin rash | طفح جلدي\nPhotosensitivity | حساسية للشمس\nHyponatremia | انخفاض الصوديوم، خصوصاً Chlorpropamide",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Side Effects"
+      ],
+      "section_start": 15,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Hypoglycemia",
+          "انخفاض سكر الدم، أهم عرض جانبي"
+        ],
+        [
+          "Weight gain",
+          "زيادة الوزن"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Vomiting",
+          "قيء"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Skin rash",
+          "طفح جلدي"
+        ],
+        [
+          "Photosensitivity",
+          "حساسية للشمس"
+        ],
+        [
+          "Hyponatremia",
+          "انخفاض الصوديوم، خصوصاً Chlorpropamide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "paragraph",
+      "text": "Type 1 Diabetes: غير مخصصة لعلاجه.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "Diabetic Ketoacidosis (DKA).",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "paragraph",
+      "text": "Severe hypoglycemia: انخفاض السكر الشديد أو المتكرر.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "Severe hepatic impairment: قصور كبدي شديد.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "Severe renal impairment: خصوصاً مع بعض الأنواع مثل Glibenclamide.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "paragraph",
+      "text": "Pregnancy: ليست الاختيار المعتاد لعلاج السكر أثناء الحمل.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "2. Sulfonylureas",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "heading",
+      "text": "3. Meglitinides",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides"
+      ],
+      "section_start": 30,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides"
+      ],
+      "section_start": 30,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Type 2 Diabetes، خصوصاً التحكم في Postprandial Hyperglycemia.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides"
+      ],
+      "section_start": 30,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "heading",
+      "text": "الأدوية",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "الأدوية"
+      ],
+      "section_start": 30,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nNovoNorm | Repaglinide\nPrandin | Repaglinide\nStarlix | Nateglinide",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "الأدوية"
+      ],
+      "section_start": 30,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "NovoNorm",
+          "Repaglinide"
+        ],
+        [
+          "Prandin",
+          "Repaglinide"
+        ],
+        [
+          "Starlix",
+          "Nateglinide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Side Effects"
+      ],
+      "section_start": 30,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nHypoglycemia | انخفاض السكر\nWeight gain | زيادة الوزن\nHeadache | صداع\nDizziness | دوخة\nNausea | غثيان\nDiarrhea | إسهال\nUpper respiratory infections | التهابات الجهاز التنفسي العلوي",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Side Effects"
+      ],
+      "section_start": 30,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Hypoglycemia",
+          "انخفاض السكر"
+        ],
+        [
+          "Weight gain",
+          "زيادة الوزن"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Upper respiratory infections",
+          "التهابات الجهاز التنفسي العلوي"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Contraindications"
+      ],
+      "section_start": 30,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "paragraph",
+      "text": "Type 1 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Contraindications"
+      ],
+      "section_start": 30,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "paragraph",
+      "text": "Diabetic Ketoacidosis.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Contraindications"
+      ],
+      "section_start": 30,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "paragraph",
+      "text": "Severe hepatic impairment.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Contraindications"
+      ],
+      "section_start": 30,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Repaglinide / Nateglinide.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Contraindications"
+      ],
+      "section_start": 30,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "Gemfibrozil with Repaglinide: الجمع بينهما ممنوع بسبب زيادة تركيز Repaglinide وخطر Hypoglycemia.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "3. Meglitinides",
+        "Contraindications"
+      ],
+      "section_start": 30,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "heading",
+      "text": "4. DPP-4 Inhibitors (Gliptins)",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)"
+      ],
+      "section_start": 43,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Type 2 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 43,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nJanuvia | Sitagliptin\nJanaglip | Sitagliptin\nGliptadalo | Sitagliptin\nPharmabetic | Sitagliptin\nGalvus | Vildagliptin\nJalra | Vildagliptin\nTrajenta | Linagliptin\nLinga | Linagliptin\nOnglyza | Saxagliptin\nSaxaptin | Saxagliptin\nFormigliptin | Saxagliptin\nVipidia | Alogliptin\nNesina | Alogliptin\nJanumet* | Sitagliptin + Metformin\nEucreas* | Vildagliptin + Metformin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 43,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Januvia",
+          "Sitagliptin"
+        ],
+        [
+          "Janaglip",
+          "Sitagliptin"
+        ],
+        [
+          "Gliptadalo",
+          "Sitagliptin"
+        ],
+        [
+          "Pharmabetic",
+          "Sitagliptin"
+        ],
+        [
+          "Galvus",
+          "Vildagliptin"
+        ],
+        [
+          "Jalra",
+          "Vildagliptin"
+        ],
+        [
+          "Trajenta",
+          "Linagliptin"
+        ],
+        [
+          "Linga",
+          "Linagliptin"
+        ],
+        [
+          "Onglyza",
+          "Saxagliptin"
+        ],
+        [
+          "Saxaptin",
+          "Saxagliptin"
+        ],
+        [
+          "Formigliptin",
+          "Saxagliptin"
+        ],
+        [
+          "Vipidia",
+          "Alogliptin"
+        ],
+        [
+          "Nesina",
+          "Alogliptin"
+        ],
+        [
+          "Janumet*",
+          "Sitagliptin + Metformin"
+        ],
+        [
+          "Eucreas*",
+          "Vildagliptin + Metformin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Side Effects"
+      ],
+      "section_start": 43,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nHeadache | صداع\nNasopharyngitis | التهاب الأنف والبلعوم\nUpper respiratory infections | التهابات الجهاز التنفسي العلوي\nNausea | غثيان\nHypoglycemia | انخفاض السكر، خصوصاً عند الجمع مع Sulfonylureas أو Insulin\nJoint pain | آلام المفاصل الشديدة أحياناً\nPancreatitis | التهاب البنكرياس، نادر\nSkin reactions | طفح جلدي وحساسية\nBullous pemphigoid | مرض جلدي فقاعي نادر",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Side Effects"
+      ],
+      "section_start": 43,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Nasopharyngitis",
+          "التهاب الأنف والبلعوم"
+        ],
+        [
+          "Upper respiratory infections",
+          "التهابات الجهاز التنفسي العلوي"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Hypoglycemia",
+          "انخفاض السكر، خصوصاً عند الجمع مع Sulfonylureas أو Insulin"
+        ],
+        [
+          "Joint pain",
+          "آلام المفاصل الشديدة أحياناً"
+        ],
+        [
+          "Pancreatitis",
+          "التهاب البنكرياس، نادر"
+        ],
+        [
+          "Skin reactions",
+          "طفح جلدي وحساسية"
+        ],
+        [
+          "Bullous pemphigoid",
+          "مرض جلدي فقاعي نادر"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Contraindications"
+      ],
+      "section_start": 43,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية شديدة للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Contraindications"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "paragraph",
+      "text": "History of serious allergic reactions: مثل Anaphylaxis أو Angioedema بسبب DPP-4 inhibitors.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Contraindications"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "paragraph",
+      "text": "Type 1 Diabetes: ليست مخصصة لعلاجه.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Contraindications"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "paragraph",
+      "text": "Diabetic Ketoacidosis: لا تستخدم لعلاجها.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Contraindications"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "paragraph",
+      "text": "History of pancreatitis: الحذر والتقييم الطبي، وليس مانعاً مطلقاً لكل أفراد المجموعة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Contraindications"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "paragraph",
+      "text": "Heart failure: الحذر مع Saxagliptin، خصوصاً في المرضى المعرضين لفشل القلب.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "4. DPP-4 Inhibitors (Gliptins)",
+        "Contraindications"
+      ],
+      "section_start": 43,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "heading",
+      "text": "5. SGLT2 Inhibitors (Gliflozins)",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)"
+      ],
+      "section_start": 57,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "الاستخدام:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "paragraph",
+      "text": "Type 2 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "الاستخدام:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "paragraph",
+      "text": "Heart Failure.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "الاستخدام:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "paragraph",
+      "text": "Chronic Kidney Disease (CKD) لبعض الأدوية، حتى في بعض المرضى غير المصابين بالسكري.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "الاستخدام:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 57,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nForxiga | Dapagliflozin\nDapablix | Dapagliflozin\nDexigloflozin | Dapagliflozin\nDapilart | Dapagliflozin\nGliflozino | Dapagliflozin\nZegapets | Dapagliflozin\nDiglifloz | Dapagliflozin\nJardiance | Empagliflozin\nEmpaglimax | Empagliflozin\nAtcogliflozin | Empagliflozin\nDiacurimap | Empagliflozin\nMellitofix | Empagliflozin\nGlimpacare | Empagliflozin\nInvokana | Canagliflozin\nSteglatro | Ertugliflozin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 57,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Forxiga",
+          "Dapagliflozin"
+        ],
+        [
+          "Dapablix",
+          "Dapagliflozin"
+        ],
+        [
+          "Dexigloflozin",
+          "Dapagliflozin"
+        ],
+        [
+          "Dapilart",
+          "Dapagliflozin"
+        ],
+        [
+          "Gliflozino",
+          "Dapagliflozin"
+        ],
+        [
+          "Zegapets",
+          "Dapagliflozin"
+        ],
+        [
+          "Diglifloz",
+          "Dapagliflozin"
+        ],
+        [
+          "Jardiance",
+          "Empagliflozin"
+        ],
+        [
+          "Empaglimax",
+          "Empagliflozin"
+        ],
+        [
+          "Atcogliflozin",
+          "Empagliflozin"
+        ],
+        [
+          "Diacurimap",
+          "Empagliflozin"
+        ],
+        [
+          "Mellitofix",
+          "Empagliflozin"
+        ],
+        [
+          "Glimpacare",
+          "Empagliflozin"
+        ],
+        [
+          "Invokana",
+          "Canagliflozin"
+        ],
+        [
+          "Steglatro",
+          "Ertugliflozin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Side Effects"
+      ],
+      "section_start": 57,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nGenital fungal infections | التهابات فطرية بالأعضاء التناسلية\nUrinary tract infections | التهابات المسالك البولية\nPolyuria | زيادة التبول\nDehydration | جفاف\nHypotension | انخفاض ضغط الدم\nDizziness | دوخة\nEuglycemic DKA | Diabetic Ketoacidosis حتى لو السكر مش مرتفع جداً\nIncreased urination | زيادة إخراج البول\nFournier's gangrene | عدوى نادرة وخطيرة في منطقة العجان",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Side Effects"
+      ],
+      "section_start": 57,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Genital fungal infections",
+          "التهابات فطرية بالأعضاء التناسلية"
+        ],
+        [
+          "Urinary tract infections",
+          "التهابات المسالك البولية"
+        ],
+        [
+          "Polyuria",
+          "زيادة التبول"
+        ],
+        [
+          "Dehydration",
+          "جفاف"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Euglycemic DKA",
+          "Diabetic Ketoacidosis حتى لو السكر مش مرتفع جداً"
+        ],
+        [
+          "Increased urination",
+          "زيادة إخراج البول"
+        ],
+        [
+          "Fournier's gangrene",
+          "عدوى نادرة وخطيرة في منطقة العجان"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Contraindications"
+      ],
+      "section_start": 57,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "paragraph",
+      "text": "Type 1 Diabetes: لا تستخدم روتينياً لعلاجه بسبب خطر DKA.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Contraindications"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "paragraph",
+      "text": "Active Diabetic Ketoacidosis.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Contraindications"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "paragraph",
+      "text": "Severe dehydration: الجفاف الشديد.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Contraindications"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "paragraph",
+      "text": "Severe hypersensitivity: حساسية شديدة للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Contraindications"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "paragraph",
+      "text": "Severe renal impairment: قد يمنع الاستخدام أو يقلل فائدته لعلاج السكر حسب eGFR والمنتج، مع اختلاف حدود الاستخدام حسب دواعي العلاج.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "5. SGLT2 Inhibitors (Gliflozins)",
+        "Contraindications"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "heading",
+      "text": "6. GLP-1 Receptor Agonists",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists"
+      ],
+      "section_start": 73,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "الاستخدام:"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "paragraph",
+      "text": "Type 2 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "الاستخدام:"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "paragraph",
+      "text": "Obesity / Weight management لبعض الأدوية.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "الاستخدام:"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "تقليل مخاطر Cardiovascular events في فئات معينة من المرضى.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "الاستخدام:"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 73,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nVictoza | Liraglutide\nSaxenda | Liraglutide\nTrulicity | Dulaglutide\nOzempic | Semaglutide\nRybelsus | Semaglutide\nByetta | Exenatide\nBydureon | Exenatide extended-release",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 73,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Victoza",
+          "Liraglutide"
+        ],
+        [
+          "Saxenda",
+          "Liraglutide"
+        ],
+        [
+          "Trulicity",
+          "Dulaglutide"
+        ],
+        [
+          "Ozempic",
+          "Semaglutide"
+        ],
+        [
+          "Rybelsus",
+          "Semaglutide"
+        ],
+        [
+          "Byetta",
+          "Exenatide"
+        ],
+        [
+          "Bydureon",
+          "Exenatide extended-release"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Side Effects"
+      ],
+      "section_start": 73,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nNausea | غثيان، من أشهر الأعراض\nVomiting | قيء\nDiarrhea | إسهال\nConstipation | إمساك\nAbdominal pain | ألم بالبطن\nDecreased appetite | انخفاض الشهية\nGastroesophageal reflux | ارتجاع وحموضة\nGallbladder disease | مشاكل المرارة وحصواتها\nPancreatitis | التهاب البنكرياس\nHypoglycemia | انخفاض السكر، خصوصاً مع Insulin أو Sulfonylureas",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Side Effects"
+      ],
+      "section_start": 73,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Nausea",
+          "غثيان، من أشهر الأعراض"
+        ],
+        [
+          "Vomiting",
+          "قيء"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Constipation",
+          "إمساك"
+        ],
+        [
+          "Abdominal pain",
+          "ألم بالبطن"
+        ],
+        [
+          "Decreased appetite",
+          "انخفاض الشهية"
+        ],
+        [
+          "Gastroesophageal reflux",
+          "ارتجاع وحموضة"
+        ],
+        [
+          "Gallbladder disease",
+          "مشاكل المرارة وحصواتها"
+        ],
+        [
+          "Pancreatitis",
+          "التهاب البنكرياس"
+        ],
+        [
+          "Hypoglycemia",
+          "انخفاض السكر، خصوصاً مع Insulin أو Sulfonylureas"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Contraindications"
+      ],
+      "section_start": 73,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 84,
+      "kind": "paragraph",
+      "text": "Personal or family history of Medullary Thyroid Carcinoma (MTC): مانع استعمال مهم حسب تحذيرات بعض المنتجات، ومنها Semaglutide وLiraglutide.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Contraindications"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 85,
+      "kind": "paragraph",
+      "text": "Multiple Endocrine Neoplasia type 2 (MEN2): حسب تحذيرات المنتجات المعنية.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Contraindications"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 86,
+      "kind": "paragraph",
+      "text": "Previous serious hypersensitivity: حساسية شديدة للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Contraindications"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 87,
+      "kind": "paragraph",
+      "text": "Severe gastroparesis: يُتجنب خصوصاً مع الحالات الشديدة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Contraindications"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 88,
+      "kind": "paragraph",
+      "text": "Pregnancy: لا تستخدم لإنقاص الوزن أثناء الحمل، ويجب مراجعة تعليمات المنتج بالنسبة لعلاج السكر.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Contraindications"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 89,
+      "kind": "paragraph",
+      "text": "History of pancreatitis: يحتاج تقييم وحذر طبي.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "6. GLP-1 Receptor Agonists",
+        "Contraindications"
+      ],
+      "section_start": 73,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 90,
+      "kind": "heading",
+      "text": "7. Thiazolidinediones (TZDs)",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)"
+      ],
+      "section_start": 90,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 91,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 92,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Type 2 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 93,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 90,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 94,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nActos | Pioglitazone\nGlustin | Pioglitazone\nGlitazone | Pioglitazone\nInsodine | Pioglitazone\nGlostazone | Pioglitazone\nGlitazine | Pioglitazone\nPioglit | Pioglitazone\nDiabetin | Pioglitazone\nPioglitazone MUP | Pioglitazone\nHigh Glitazone | Pioglitazone",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 90,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Actos",
+          "Pioglitazone"
+        ],
+        [
+          "Glustin",
+          "Pioglitazone"
+        ],
+        [
+          "Glitazone",
+          "Pioglitazone"
+        ],
+        [
+          "Insodine",
+          "Pioglitazone"
+        ],
+        [
+          "Glostazone",
+          "Pioglitazone"
+        ],
+        [
+          "Glitazine",
+          "Pioglitazone"
+        ],
+        [
+          "Pioglit",
+          "Pioglitazone"
+        ],
+        [
+          "Diabetin",
+          "Pioglitazone"
+        ],
+        [
+          "Pioglitazone MUP",
+          "Pioglitazone"
+        ],
+        [
+          "High Glitazone",
+          "Pioglitazone"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 95,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Side Effects"
+      ],
+      "section_start": 90,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 96,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nWeight gain | زيادة الوزن\nPeripheral edema | تورم الأطراف\nFluid retention | احتباس السوائل\nHeart failure exacerbation | زيادة سوء فشل القلب\nHypoglycemia | انخفاض السكر عند الجمع مع أدوية أخرى\nBone fractures | زيادة خطر الكسور\nMacular edema | تورم مركز الإبصار\nAnemia | انخفاض الهيموجلوبين",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Side Effects"
+      ],
+      "section_start": 90,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Weight gain",
+          "زيادة الوزن"
+        ],
+        [
+          "Peripheral edema",
+          "تورم الأطراف"
+        ],
+        [
+          "Fluid retention",
+          "احتباس السوائل"
+        ],
+        [
+          "Heart failure exacerbation",
+          "زيادة سوء فشل القلب"
+        ],
+        [
+          "Hypoglycemia",
+          "انخفاض السكر عند الجمع مع أدوية أخرى"
+        ],
+        [
+          "Bone fractures",
+          "زيادة خطر الكسور"
+        ],
+        [
+          "Macular edema",
+          "تورم مركز الإبصار"
+        ],
+        [
+          "Anemia",
+          "انخفاض الهيموجلوبين"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 97,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Contraindications"
+      ],
+      "section_start": 90,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 98,
+      "kind": "paragraph",
+      "text": "Heart Failure NYHA Class III or IV: فشل القلب الشديد.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Contraindications"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 99,
+      "kind": "paragraph",
+      "text": "Active bladder cancer: سرطان المثانة النشط.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Contraindications"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 100,
+      "kind": "paragraph",
+      "text": "Unexplained hematuria: وجود دم غير مفسر في البول يحتاج تقييم.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Contraindications"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 101,
+      "kind": "paragraph",
+      "text": "Severe hepatic impairment: يحتاج تقييم وظائف الكبد.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Contraindications"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 102,
+      "kind": "paragraph",
+      "text": "Type 1 Diabetes: غير مخصص لعلاجه.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Contraindications"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 103,
+      "kind": "paragraph",
+      "text": "Diabetic Ketoacidosis.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "7. Thiazolidinediones (TZDs)",
+        "Contraindications"
+      ],
+      "section_start": 90,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 104,
+      "kind": "heading",
+      "text": "8. Alpha-Glucosidase Inhibitors",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors"
+      ],
+      "section_start": 104,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 105,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 106,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Type 2 Diabetes، خصوصاً التحكم في ارتفاع السكر بعد الوجبات (Postprandial Hyperglycemia).",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 107,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 104,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 108,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nGlucobay | Acarbose\nPrecose | Acarbose\nDiastabol | Miglitol\nGlyset | Miglitol",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 104,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Glucobay",
+          "Acarbose"
+        ],
+        [
+          "Precose",
+          "Acarbose"
+        ],
+        [
+          "Diastabol",
+          "Miglitol"
+        ],
+        [
+          "Glyset",
+          "Miglitol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 109,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Side Effects"
+      ],
+      "section_start": 104,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 110,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nFlatulence | انتفاخ وغازات، أشهر عرض جانبي\nAbdominal pain | ألم بالبطن\nDiarrhea | إسهال\nBloating | انتفاخ\nNausea | غثيان\nElevated liver enzymes | ارتفاع إنزيمات الكبد، خصوصاً مع Acarbose",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Side Effects"
+      ],
+      "section_start": 104,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Flatulence",
+          "انتفاخ وغازات، أشهر عرض جانبي"
+        ],
+        [
+          "Abdominal pain",
+          "ألم بالبطن"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Bloating",
+          "انتفاخ"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Elevated liver enzymes",
+          "ارتفاع إنزيمات الكبد، خصوصاً مع Acarbose"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 111,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 112,
+      "kind": "paragraph",
+      "text": "Inflammatory Bowel Disease (IBD): أمراض الأمعاء الالتهابية.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "Intestinal obstruction: انسداد الأمعاء.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 114,
+      "kind": "paragraph",
+      "text": "Chronic intestinal disorders: أمراض الأمعاء المزمنة التي تؤثر على الهضم أو الامتصاص.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 115,
+      "kind": "paragraph",
+      "text": "Intestinal ulceration: تقرحات الأمعاء.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 116,
+      "kind": "paragraph",
+      "text": "Severe renal impairment: خصوصاً مع Acarbose.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 117,
+      "kind": "paragraph",
+      "text": "Liver cirrhosis: تليف الكبد، مانع مهم مع Acarbose.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 118,
+      "kind": "paragraph",
+      "text": "Diabetic Ketoacidosis.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "8. Alpha-Glucosidase Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 104,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 119,
+      "kind": "heading",
+      "text": "9. Insulins",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins"
+      ],
+      "section_start": 119,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 120,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 121,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الاستخدام:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 122,
+      "kind": "paragraph",
+      "text": "Type 1 Diabetes.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الاستخدام:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 123,
+      "kind": "paragraph",
+      "text": "Type 2 Diabetes في حالات معينة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الاستخدام:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 124,
+      "kind": "paragraph",
+      "text": "Gestational Diabetes في حالات تستدعي العلاج بالإنسولين.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الاستخدام:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 125,
+      "kind": "paragraph",
+      "text": "Diabetic emergencies حسب نوع الإنسولين والبروتوكول العلاجي.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الاستخدام:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 126,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 119,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 127,
+      "kind": "heading",
+      "text": "A. Rapid-acting Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "A. Rapid-acting Insulin"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127
+      ]
+    },
+    {
+      "position": 128,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nNovoRapid | Insulin Aspart\nNovoRapid FlexPen | Insulin Aspart\nFiasp | Faster-acting Insulin Aspart\nHumalog | Insulin Lispro\nApidra | Insulin Glulisine",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "A. Rapid-acting Insulin"
+      ],
+      "section_start": 119,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "NovoRapid",
+          "Insulin Aspart"
+        ],
+        [
+          "NovoRapid FlexPen",
+          "Insulin Aspart"
+        ],
+        [
+          "Fiasp",
+          "Faster-acting Insulin Aspart"
+        ],
+        [
+          "Humalog",
+          "Insulin Lispro"
+        ],
+        [
+          "Apidra",
+          "Insulin Glulisine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127
+      ]
+    },
+    {
+      "position": 129,
+      "kind": "heading",
+      "text": "B. Short-acting Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "B. Short-acting Insulin"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129
+      ]
+    },
+    {
+      "position": 130,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nActrapid | Regular Human Insulin\nHumulin R | Regular Human Insulin\nInsulinagypt R | Regular Human Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "B. Short-acting Insulin"
+      ],
+      "section_start": 119,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Actrapid",
+          "Regular Human Insulin"
+        ],
+        [
+          "Humulin R",
+          "Regular Human Insulin"
+        ],
+        [
+          "Insulinagypt R",
+          "Regular Human Insulin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129
+      ]
+    },
+    {
+      "position": 131,
+      "kind": "heading",
+      "text": "C. Intermediate-acting Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "C. Intermediate-acting Insulin"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131
+      ]
+    },
+    {
+      "position": 132,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nInsulatard | NPH Insulin\nHumulin N | NPH Insulin\nInsulinagypt N | NPH Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "C. Intermediate-acting Insulin"
+      ],
+      "section_start": 119,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Insulatard",
+          "NPH Insulin"
+        ],
+        [
+          "Humulin N",
+          "NPH Insulin"
+        ],
+        [
+          "Insulinagypt N",
+          "NPH Insulin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131
+      ]
+    },
+    {
+      "position": 133,
+      "kind": "heading",
+      "text": "D. Long-acting / Ultra-long-acting Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "D. Long-acting / Ultra-long-acting Insulin"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133
+      ]
+    },
+    {
+      "position": 134,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nLantus | Insulin Glargine\nToujeo | Insulin Glargine U-300\nBasaglar | Insulin Glargine\nGlargivin | Insulin Glargine\nLevemir | Insulin Detemir\nTresiba | Insulin Degludec",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "D. Long-acting / Ultra-long-acting Insulin"
+      ],
+      "section_start": 119,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Lantus",
+          "Insulin Glargine"
+        ],
+        [
+          "Toujeo",
+          "Insulin Glargine U-300"
+        ],
+        [
+          "Basaglar",
+          "Insulin Glargine"
+        ],
+        [
+          "Glargivin",
+          "Insulin Glargine"
+        ],
+        [
+          "Levemir",
+          "Insulin Detemir"
+        ],
+        [
+          "Tresiba",
+          "Insulin Degludec"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133
+      ]
+    },
+    {
+      "position": 135,
+      "kind": "heading",
+      "text": "E. Premixed Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "E. Premixed Insulin"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    },
+    {
+      "position": 136,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nMixtard 30 | 30% Soluble Insulin + 70% Isophane Insulin\nNovoMix 30 | 30% Insulin Aspart + 70% Protamine-crystallized Aspart\nHumalog Mix 25 | 25% Insulin Lispro + 75% Insulin Lispro Protamine\nHumalog Mix 50 | 50% Insulin Lispro + 50% Insulin Lispro Protamine\nInsulinagypt 70/30 | 30% Regular Insulin + 70% NPH Insulin\nHumulin 70/30 | 30% Regular Insulin + 70% NPH Insulin",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "الأدوية الموجودة في السوق المصري",
+        "E. Premixed Insulin"
+      ],
+      "section_start": 119,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Mixtard 30",
+          "30% Soluble Insulin + 70% Isophane Insulin"
+        ],
+        [
+          "NovoMix 30",
+          "30% Insulin Aspart + 70% Protamine-crystallized Aspart"
+        ],
+        [
+          "Humalog Mix 25",
+          "25% Insulin Lispro + 75% Insulin Lispro Protamine"
+        ],
+        [
+          "Humalog Mix 50",
+          "50% Insulin Lispro + 50% Insulin Lispro Protamine"
+        ],
+        [
+          "Insulinagypt 70/30",
+          "30% Regular Insulin + 70% NPH Insulin"
+        ],
+        [
+          "Humulin 70/30",
+          "30% Regular Insulin + 70% NPH Insulin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    },
+    {
+      "position": 137,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "Side Effects"
+      ],
+      "section_start": 119,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    },
+    {
+      "position": 138,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nHypoglycemia | انخفاض سكر الدم، أهم وأشهر عرض جانبي\nWeight gain | زيادة الوزن\nInjection site reactions | احمرار أو ألم مكان الحقن\nLipohypertrophy | تراكم الدهون تحت الجلد في مكان الحقن المتكرر\nLipodystrophy | تغير توزيع الدهون مكان الحقن\nEdema | احتباس السوائل وتورم الأطراف\nHypokalemia | انخفاض البوتاسيوم\nAllergic reactions | تفاعلات الحساسية",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "Side Effects"
+      ],
+      "section_start": 119,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Hypoglycemia",
+          "انخفاض سكر الدم، أهم وأشهر عرض جانبي"
+        ],
+        [
+          "Weight gain",
+          "زيادة الوزن"
+        ],
+        [
+          "Injection site reactions",
+          "احمرار أو ألم مكان الحقن"
+        ],
+        [
+          "Lipohypertrophy",
+          "تراكم الدهون تحت الجلد في مكان الحقن المتكرر"
+        ],
+        [
+          "Lipodystrophy",
+          "تغير توزيع الدهون مكان الحقن"
+        ],
+        [
+          "Edema",
+          "احتباس السوائل وتورم الأطراف"
+        ],
+        [
+          "Hypokalemia",
+          "انخفاض البوتاسيوم"
+        ],
+        [
+          "Allergic reactions",
+          "تفاعلات الحساسية"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    },
+    {
+      "position": 139,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "Contraindications"
+      ],
+      "section_start": 119,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    },
+    {
+      "position": 140,
+      "kind": "paragraph",
+      "text": "Current hypoglycemia: انخفاض السكر وقت إعطاء الجرعة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "Contraindications"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    },
+    {
+      "position": 141,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to insulin: حساسية شديدة للإنسولين أو مكونات المستحضر.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "Contraindications"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    },
+    {
+      "position": 142,
+      "kind": "paragraph",
+      "text": "Incorrect insulin administration: إعطاء نوع أو جرعة غير مناسبة قد يسبب Hypoglycemia خطيرة.",
+      "section_path": [
+        "2. أدوية السكر – Antidiabetic Drugs",
+        "9. Insulins",
+        "Contraindications"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية السكر – Antidiabetic Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        127,
+        129,
+        131,
+        133,
+        135
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the source Antidiabetic Drugs topic.",
+    "Block 127: Retain this original lettered insulin subtype beneath the medication-list heading.",
+    "Block 129: Retain this original lettered insulin subtype beneath the medication-list heading.",
+    "Block 131: Retain this original lettered insulin subtype beneath the medication-list heading.",
+    "Block 133: Retain this original lettered insulin subtype beneath the medication-list heading.",
+    "Block 135: Retain this original lettered insulin subtype beneath the medication-list heading."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        6
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        8
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        19
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        21
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        34
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        36
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        47
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        49
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        64
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        66
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        80
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        82
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        94
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        96
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        108
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        110
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        128
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        130
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        132
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        134
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        136
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        138
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Antidiabetic Drugs topic.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "block_positions": [
+        127
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "block_positions": [
+        129
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "block_positions": [
+        131
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "block_positions": [
+        133
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "block_positions": [
+        135
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the source Antidiabetic Drugs topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 127,
+      "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "heading_level": 4
+    },
+    {
+      "position": 129,
+      "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "heading_level": 4
+    },
+    {
+      "position": 131,
+      "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "heading_level": 4
+    },
+    {
+      "position": 133,
+      "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "heading_level": 4
+    },
+    {
+      "position": 135,
+      "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+      "heading_level": 4
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+}

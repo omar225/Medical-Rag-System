@@ -9,10 +9,14 @@ __pycache__/
 !.env.example
 .vscode/
 
-# Generated knowledge-base artifacts
-data/knowledge_base/processed/
-data/knowledge_base/chunks/
-data/knowledge_base/metadata/generated/
+# Only the approved-nine Stage 2.1 ingestion JSON is versioned.
+# Other candidate outputs, temporary files, and new document IDs remain ignored.
+data/knowledge_base/processed/*
+!data/knowledge_base/processed/KB-0[1-9].json
+data/knowledge_base/chunks/*
+!data/knowledge_base/chunks/KB-0[1-9].json
+data/knowledge_base/metadata/generated/*
+!data/knowledge_base/metadata/generated/ingestion_manifest.json
 
 # Runtime and generated storage
 storage/vector_store/

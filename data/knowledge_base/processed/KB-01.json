@@ -1,0 +1,6276 @@
+{
+  "doc_id": "KB-01",
+  "title": "asthma w copd",
+  "title_source": "filename_stem",
+  "filename": "asthma w copd.docx",
+  "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. أدوية الربو – Asthma",
+      "section_path": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "label",
+      "text": "ملاحظات مهمة قبل القائمة:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "ملاحظات مهمة قبل القائمة:"
+      ],
+      "section_start": 1,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "أدوية الـ LABA لا تُستخدم وحدها في علاج الربو؛ لازم تكون مع ICS.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "ملاحظات مهمة قبل القائمة:"
+      ],
+      "section_start": 1,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "paragraph",
+      "text": "الـ SABA بيوسّع الشعب بسرعة، لكنه مش بديل عن العلاج المضاد للالتهاب.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "ملاحظات مهمة قبل القائمة:"
+      ],
+      "section_start": 1,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "paragraph",
+      "text": "الـ Biologics مخصصة لأنواع معينة من الربو الشديد، وتحت إشراف متخصص.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "ملاحظات مهمة قبل القائمة:"
+      ],
+      "section_start": 1,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "paragraph",
+      "text": "أدوية الـ Systemic corticosteroids مش للاستخدام الذاتي أو لفترات طويلة من غير متابعة طبية.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "ملاحظات مهمة قبل القائمة:"
+      ],
+      "section_start": 1,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "heading",
+      "text": "1. SABA – Short-Acting Beta-2 Agonists",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists"
+      ],
+      "section_start": 7,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "paragraph",
+      "text": "الاستخدام: توسعة الشعب بسرعة عند اللزوم، مثل Salbutamol. مش علاجًا مضادًا للالتهاب.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nVentolin Evohaler | Salbutamol\nVentolin Diskus | Salbutamol\nVentolin Rotacaps | Salbutamol\nAerolin | Salbutamol\nButalin | Salbutamol\nVental Inhaler | Salbutamol\nViasalmol | Salbutamol\nBroncholin S Aerosol | Salbutamol\nSalbovent Respirator Solution | Salbutamol\nFarcolin Respirator Solution | Salbutamol\nAsthmarelief Nebulizer | Salbutamol\nAlveotrack Inhalation Solution | Salbutamol",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists"
+      ],
+      "section_start": 7,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Ventolin Evohaler",
+          "Salbutamol"
+        ],
+        [
+          "Ventolin Diskus",
+          "Salbutamol"
+        ],
+        [
+          "Ventolin Rotacaps",
+          "Salbutamol"
+        ],
+        [
+          "Aerolin",
+          "Salbutamol"
+        ],
+        [
+          "Butalin",
+          "Salbutamol"
+        ],
+        [
+          "Vental Inhaler",
+          "Salbutamol"
+        ],
+        [
+          "Viasalmol",
+          "Salbutamol"
+        ],
+        [
+          "Broncholin S Aerosol",
+          "Salbutamol"
+        ],
+        [
+          "Salbovent Respirator Solution",
+          "Salbutamol"
+        ],
+        [
+          "Farcolin Respirator Solution",
+          "Salbutamol"
+        ],
+        [
+          "Asthmarelief Nebulizer",
+          "Salbutamol"
+        ],
+        [
+          "Alveotrack Inhalation Solution",
+          "Salbutamol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "Tremors / رعشة.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "Palpitations وTachycardia.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "Nervousness.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "paragraph",
+      "text": "Hypokalemia، خصوصًا مع الجرعات العالية أو المتكررة.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to salbutamol.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "paragraph",
+      "text": "الحذر مع مرضى Arrhythmias وIschemic heart disease.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "paragraph",
+      "text": "الحذر مع Hyperthyroidism وUncontrolled hypertension.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "paragraph",
+      "text": "الجرعات العالية قد تسبب Hypokalemia.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 7,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "heading",
+      "text": "2. LABA – Long-Acting Beta-2 Agonists",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists"
+      ],
+      "section_start": 21,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "paragraph",
+      "text": "الاستخدام: التحكم طويل المدى في الربو، لكن لازم مع ICS، ولا يُستخدم LABA منفردًا في Asthma.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSerevent | Salmeterol\nSerevent Rotadisks | Salmeterol\nMetrovent | Salmeterol\nForadil | Formoterol\nForadil Aerolizer | Formoterol",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists"
+      ],
+      "section_start": 21,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Serevent",
+          "Salmeterol"
+        ],
+        [
+          "Serevent Rotadisks",
+          "Salmeterol"
+        ],
+        [
+          "Metrovent",
+          "Salmeterol"
+        ],
+        [
+          "Foradil",
+          "Formoterol"
+        ],
+        [
+          "Foradil Aerolizer",
+          "Formoterol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "paragraph",
+      "text": "Tremors.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "Palpitations وTachycardia.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "paragraph",
+      "text": "Muscle cramps.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "Hypokalemia.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "paragraph",
+      "text": "ممنوع استخدام LABA وحده في Asthma.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the drug.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "paragraph",
+      "text": "الحذر مع Arrhythmias وCardiovascular diseases.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "paragraph",
+      "text": "الحذر مع Hyperthyroidism وHypokalemia.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 21,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "heading",
+      "text": "3. Inhaled Corticosteroids – ICS",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS"
+      ],
+      "section_start": 35,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل التهاب الشعب الهوائية والوقاية من أعراض ونوبات الربو، وتُستخدم بانتظام حسب الخطة العلاجية.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nClenil | Beclometasone\nBeclate | Beclometasone\nBecotide | Beclometasone\nPulmicort | Budesonide\nPulmicort Turbuhaler | Budesonide\nBudecort | Budesonide\nFlixotide | Fluticasone propionate\nFlixotide Evohaler | Fluticasone propionate\nFlixotide Diskus | Fluticasone propionate",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS"
+      ],
+      "section_start": 35,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Clenil",
+          "Beclometasone"
+        ],
+        [
+          "Beclate",
+          "Beclometasone"
+        ],
+        [
+          "Becotide",
+          "Beclometasone"
+        ],
+        [
+          "Pulmicort",
+          "Budesonide"
+        ],
+        [
+          "Pulmicort Turbuhaler",
+          "Budesonide"
+        ],
+        [
+          "Budecort",
+          "Budesonide"
+        ],
+        [
+          "Flixotide",
+          "Fluticasone propionate"
+        ],
+        [
+          "Flixotide Evohaler",
+          "Fluticasone propionate"
+        ],
+        [
+          "Flixotide Diskus",
+          "Fluticasone propionate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Common side effects:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "paragraph",
+      "text": "Oral candidiasis (فطريات الفم).",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Common side effects:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "paragraph",
+      "text": "Dysphonia / بحة الصوت.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Common side effects:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "paragraph",
+      "text": "Throat irritation.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Common side effects:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "Cough.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Common side effects:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "مع الجرعات العالية لفترات طويلة: Adrenal suppression، وتأثيرات على العظام والعين.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Common side effects:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the drug.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "paragraph",
+      "text": "لا تُستخدم لعلاج Acute asthma attack بمفردها.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى Active pulmonary tuberculosis أو بعض عدوى الجهاز التنفسي.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "paragraph",
+      "text": "المضمضة بالماء والبصق بعد كل استخدام لتقليل Oral candidiasis.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "لا يتم إيقاف الجرعات العالية أو العلاج طويل المدى فجأة دون مراجعة الطبيب.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "3. Inhaled Corticosteroids – ICS",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 35,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "heading",
+      "text": "4. ICS/LABA Combinations",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations"
+      ],
+      "section_start": 50,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "الاستخدام: التحكم في الربو عن طريق الجمع بين مضاد الالتهاب وموسع الشعب طويل المفعول.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "table",
+      "text": "Trade name | Active ingredients\nSeretide | Fluticasone + Salmeterol\nSeretide Diskus | Fluticasone + Salmeterol\nSeretide Evohaler | Fluticasone + Salmeterol\nSeroflo | Fluticasone + Salmeterol\nSeroflo Inhaler | Fluticasone + Salmeterol\nSalmetocort | Fluticasone + Salmeterol\nMetricason | Fluticasone + Salmeterol\nSymbicort | Budesonide + Formoterol\nForacort | Budesonide + Formoterol\nFostair | Beclometasone + Formoterol\nFoster | Beclometasone + Formoterol\nViasalmol Plus | Beclometasone + Salbutamol",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations"
+      ],
+      "section_start": 50,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Seretide",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Seretide Diskus",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Seretide Evohaler",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Seroflo",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Seroflo Inhaler",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Salmetocort",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Metricason",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Symbicort",
+          "Budesonide + Formoterol"
+        ],
+        [
+          "Foracort",
+          "Budesonide + Formoterol"
+        ],
+        [
+          "Fostair",
+          "Beclometasone + Formoterol"
+        ],
+        [
+          "Foster",
+          "Beclometasone + Formoterol"
+        ],
+        [
+          "Viasalmol Plus",
+          "Beclometasone + Salbutamol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "paragraph",
+      "text": "Oral candidiasis.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "paragraph",
+      "text": "Hoarseness / Dysphonia.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "paragraph",
+      "text": "Tremors.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "paragraph",
+      "text": "Palpitations.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "paragraph",
+      "text": "Muscle cramps.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to any component.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "paragraph",
+      "text": "لا تُستخدم لعلاج نوبة ربو حادة إلا إذا كانت ضمن خطة علاجية محددة تسمح باستخدام تركيبة ICS/Formoterol كـ reliever.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "paragraph",
+      "text": "لا يتم الجمع عشوائيًا مع LABA آخر.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "paragraph",
+      "text": "المضمضة بعد الاستخدام مهمة جدًا.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "paragraph",
+      "text": "لا يتم إيقاف العلاج فجأة دون مراجعة الطبيب.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "4. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 50,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "heading",
+      "text": "5. Leukotriene Receptor Antagonists – LTRA",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA"
+      ],
+      "section_start": 66,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "paragraph",
+      "text": "الاستخدام: التحكم في الربو، خصوصًا المصاحب للحساسية أو Exercise-induced bronchoconstriction، وقد يُستخدم في Allergic rhinitis. مش لعلاج النوبة الحادة.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSingulair | Montelukast\nMontekal | Montelukast\nKokast | Montelukast\nKast | Montelukast\nSedokast | Montelukast\nInletair | Montelukast\nVentasthma | Montelukast\nMontelurama | Montelukast\nClear Air | Montelukast\nLelipel | Montelukast\nAsmakast | Montelukast",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA"
+      ],
+      "section_start": 66,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Singulair",
+          "Montelukast"
+        ],
+        [
+          "Montekal",
+          "Montelukast"
+        ],
+        [
+          "Kokast",
+          "Montelukast"
+        ],
+        [
+          "Kast",
+          "Montelukast"
+        ],
+        [
+          "Sedokast",
+          "Montelukast"
+        ],
+        [
+          "Inletair",
+          "Montelukast"
+        ],
+        [
+          "Ventasthma",
+          "Montelukast"
+        ],
+        [
+          "Montelurama",
+          "Montelukast"
+        ],
+        [
+          "Clear Air",
+          "Montelukast"
+        ],
+        [
+          "Lelipel",
+          "Montelukast"
+        ],
+        [
+          "Asmakast",
+          "Montelukast"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Common side effects:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Common side effects:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Common side effects:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Common side effects:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Common side effects:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Sleep disturbances.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Common side effects:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "paragraph",
+      "text": "Mood and behavioral changes.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Common side effects:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to montelukast.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "أهم تحذير: Neuropsychiatric events مثل depression، nightmares، aggression، وتغيرات السلوك، وقد تصل إلى suicidal thoughts.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "paragraph",
+      "text": "الحذر في المرضى الذين لديهم تاريخ نفسي.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "paragraph",
+      "text": "لا يُستخدم لعلاج Acute asthma attack.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "paragraph",
+      "text": "لا يتم استبدال ICS به أو إيقاف ICS فجأة.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "5. Leukotriene Receptor Antagonists – LTRA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 66,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "heading",
+      "text": "6. LAMA – Long-Acting Muscarinic Antagonists",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists"
+      ],
+      "section_start": 82,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج إضافي لبعض مرضى الربو غير المتحكم فيه رغم استخدام ICS/LABA، مثل Tiotropium.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 84,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSpiriva HandiHaler | Tiotropium\nSpiriva Respimat | Tiotropium",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists"
+      ],
+      "section_start": 82,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Spiriva HandiHaler",
+          "Tiotropium"
+        ],
+        [
+          "Spiriva Respimat",
+          "Tiotropium"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 85,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 86,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 87,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 88,
+      "kind": "paragraph",
+      "text": "Cough.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 89,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 90,
+      "kind": "paragraph",
+      "text": "Blurred vision إذا وصل الرذاذ للعين.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 91,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 92,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to tiotropium أو atropine derivatives.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 93,
+      "kind": "paragraph",
+      "text": "Narrow-angle glaucoma.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 94,
+      "kind": "paragraph",
+      "text": "Benign prostatic hyperplasia (BPH) أو urinary retention.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 95,
+      "kind": "paragraph",
+      "text": "الحذر في Renal impairment.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 96,
+      "kind": "paragraph",
+      "text": "لا يُستخدم كـ Rescue inhaler لعلاج النوبة الحادة.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "6. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 97,
+      "kind": "heading",
+      "text": "7. Systemic Corticosteroids",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids"
+      ],
+      "section_start": 97,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 98,
+      "kind": "paragraph",
+      "text": "الاستخدام: نوبات الربو الشديدة أو الحالات المختارة لفترات قصيرة، وأحيانًا في الحالات الشديدة التي تحتاج علاجًا متخصصًا.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 99,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSolupred | Prednisolone\nSolupred Oro | Prednisolone\nPredsol | Prednisolone\nPredilone | Prednisolone\nFastsolone | Prednisolone\nDisprelone | Prednisolone\nXilone | Prednisolone\nEpicopred | Prednisolone\nPrednisolone-Eva | Prednisolone\nPredsol Forte | Prednisolone\nSolu-Medrol | Methylprednisolone\nDepo-Medrol | Methylprednisolone\nXilopred | Methylprednisolone\nDexazone | Dexamethasone\nDexamethasone-Eipico | Dexamethasone",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids"
+      ],
+      "section_start": 97,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Solupred",
+          "Prednisolone"
+        ],
+        [
+          "Solupred Oro",
+          "Prednisolone"
+        ],
+        [
+          "Predsol",
+          "Prednisolone"
+        ],
+        [
+          "Predilone",
+          "Prednisolone"
+        ],
+        [
+          "Fastsolone",
+          "Prednisolone"
+        ],
+        [
+          "Disprelone",
+          "Prednisolone"
+        ],
+        [
+          "Xilone",
+          "Prednisolone"
+        ],
+        [
+          "Epicopred",
+          "Prednisolone"
+        ],
+        [
+          "Prednisolone-Eva",
+          "Prednisolone"
+        ],
+        [
+          "Predsol Forte",
+          "Prednisolone"
+        ],
+        [
+          "Solu-Medrol",
+          "Methylprednisolone"
+        ],
+        [
+          "Depo-Medrol",
+          "Methylprednisolone"
+        ],
+        [
+          "Xilopred",
+          "Methylprednisolone"
+        ],
+        [
+          "Dexazone",
+          "Dexamethasone"
+        ],
+        [
+          "Dexamethasone-Eipico",
+          "Dexamethasone"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 100,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 101,
+      "kind": "paragraph",
+      "text": "Increased appetite and weight gain.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 102,
+      "kind": "paragraph",
+      "text": "Insomnia.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 103,
+      "kind": "paragraph",
+      "text": "Mood changes.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 104,
+      "kind": "paragraph",
+      "text": "Gastric irritation.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 105,
+      "kind": "paragraph",
+      "text": "Increased blood glucose.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 106,
+      "kind": "paragraph",
+      "text": "Fluid retention and increased blood pressure.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 107,
+      "kind": "paragraph",
+      "text": "مع الاستخدام الطويل: Osteoporosis، Adrenal suppression، increased infection risk، وCushingoid features.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 108,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 109,
+      "kind": "paragraph",
+      "text": "Systemic fungal infection.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 110,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the drug.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 111,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى Diabetes، Hypertension، Peptic ulcer، Osteoporosis، وGlaucoma.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 112,
+      "kind": "paragraph",
+      "text": "الحذر مع وجود عدوى غير مسيطر عليها.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "الاستخدام الطويل لا يتم إيقافه فجأة بسبب خطر Adrenal insufficiency.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 114,
+      "kind": "paragraph",
+      "text": "استخدامه في نوبات الربو يكون بتقييم طبي، وليس كعلاج ذاتي.",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "7. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 97,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 115,
+      "kind": "heading",
+      "text": "OTC ولا Prescription؟",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 115,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 116,
+      "kind": "table",
+      "text": "Drug Class | Classification\nSABA | Prescription\nLABA | Prescription\nICS | Prescription\nICS/LABA | Prescription\nLTRA (Montelukast) | Prescription\nLAMA | Prescription\nBiologics | Prescription – Specialist use\nSystemic Corticosteroids | Prescription",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 115,
+      "headers": [
+        [
+          "Drug Class",
+          "Classification"
+        ]
+      ],
+      "rows": [
+        [
+          "SABA",
+          "Prescription"
+        ],
+        [
+          "LABA",
+          "Prescription"
+        ],
+        [
+          "ICS",
+          "Prescription"
+        ],
+        [
+          "ICS/LABA",
+          "Prescription"
+        ],
+        [
+          "LTRA (Montelukast)",
+          "Prescription"
+        ],
+        [
+          "LAMA",
+          "Prescription"
+        ],
+        [
+          "Biologics",
+          "Prescription – Specialist use"
+        ],
+        [
+          "Systemic Corticosteroids",
+          "Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 117,
+      "kind": "paragraph",
+      "text": "OTC: None",
+      "section_path": [
+        "1. أدوية الربو – Asthma",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 115,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الربو – Asthma"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 118,
+      "kind": "heading",
+      "text": "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "section_start": 118,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 119,
+      "kind": "heading",
+      "text": "1. SABA – Short-Acting Beta-2 Agonists",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists"
+      ],
+      "section_start": 119,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 120,
+      "kind": "paragraph",
+      "text": "الاستخدام: توسيع الشعب سريعًا عند اللزوم، وتُستخدم أيضًا أثناء تفاقم COPD حسب تقييم الحالة.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 121,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nVentolin | Salbutamol\nAerolin | Salbutamol\nButalin | Salbutamol\nVental | Salbutamol\nViasalmol | Salbutamol\nBroncholin S | Salbutamol\nSalbovent | Salbutamol\nFarcolin | Salbutamol\nAlveotrack | Salbutamol\nAsthmarelief | Salbutamol\nSalamol | Salbutamol",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists"
+      ],
+      "section_start": 119,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Ventolin",
+          "Salbutamol"
+        ],
+        [
+          "Aerolin",
+          "Salbutamol"
+        ],
+        [
+          "Butalin",
+          "Salbutamol"
+        ],
+        [
+          "Vental",
+          "Salbutamol"
+        ],
+        [
+          "Viasalmol",
+          "Salbutamol"
+        ],
+        [
+          "Broncholin S",
+          "Salbutamol"
+        ],
+        [
+          "Salbovent",
+          "Salbutamol"
+        ],
+        [
+          "Farcolin",
+          "Salbutamol"
+        ],
+        [
+          "Alveotrack",
+          "Salbutamol"
+        ],
+        [
+          "Asthmarelief",
+          "Salbutamol"
+        ],
+        [
+          "Salamol",
+          "Salbutamol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 122,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 123,
+      "kind": "paragraph",
+      "text": "Tremors.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 124,
+      "kind": "paragraph",
+      "text": "Palpitations وTachycardia.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 125,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 126,
+      "kind": "paragraph",
+      "text": "Nervousness.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 127,
+      "kind": "paragraph",
+      "text": "Hypokalemia مع الجرعات العالية.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 128,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 129,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Salbutamol.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 130,
+      "kind": "paragraph",
+      "text": "الحذر في Arrhythmias وIschemic heart disease.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 131,
+      "kind": "paragraph",
+      "text": "الحذر في Hyperthyroidism وUncontrolled hypertension.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 132,
+      "kind": "paragraph",
+      "text": "الجرعات المتكررة قد تسبب Hypokalemia.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "1. SABA – Short-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 119,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 133,
+      "kind": "heading",
+      "text": "2. LABA – Long-Acting Beta-2 Agonists",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists"
+      ],
+      "section_start": 133,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 134,
+      "kind": "paragraph",
+      "text": "الاستخدام: توسيع الشعب طويل المدى وتقليل أعراض COPD.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 135,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSerevent | Salmeterol\nForadil | Formoterol\nOxis | Formoterol\nOnbrez Breezhaler | Indacaterol\nStriverdi Respimat | Olodaterol",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists"
+      ],
+      "section_start": 133,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Serevent",
+          "Salmeterol"
+        ],
+        [
+          "Foradil",
+          "Formoterol"
+        ],
+        [
+          "Oxis",
+          "Formoterol"
+        ],
+        [
+          "Onbrez Breezhaler",
+          "Indacaterol"
+        ],
+        [
+          "Striverdi Respimat",
+          "Olodaterol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 136,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 137,
+      "kind": "paragraph",
+      "text": "Tremors.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 138,
+      "kind": "paragraph",
+      "text": "Palpitations.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 139,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 140,
+      "kind": "paragraph",
+      "text": "Muscle cramps.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 141,
+      "kind": "paragraph",
+      "text": "Hypokalemia.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Common side effects:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 142,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 143,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the drug.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 144,
+      "kind": "paragraph",
+      "text": "الحذر مع Arrhythmias وCardiovascular diseases.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 145,
+      "kind": "paragraph",
+      "text": "الحذر مع Hyperthyroidism وHypokalemia.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 146,
+      "kind": "paragraph",
+      "text": "في COPD يمكن استخدام LABA كعلاج صيانة منفردًا أو مع LAMA حسب الحالة، بعكس Asthma الذي لا يُستخدم فيه LABA منفردًا.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "2. LABA – Long-Acting Beta-2 Agonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 133,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 147,
+      "kind": "heading",
+      "text": "3. LAMA – Long-Acting Muscarinic Antagonists",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists"
+      ],
+      "section_start": 147,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 148,
+      "kind": "paragraph",
+      "text": "الاستخدام: تحسين التنفس وتقليل الأعراض والتفاقم، وتُستخدم كعلاج صيانة طويل المدى.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 149,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSpiriva HandiHaler | Tiotropium\nSpiriva Respimat | Tiotropium\nInhalex | Tiotropium\nCipla-Tropium | Tiotropium",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists"
+      ],
+      "section_start": 147,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Spiriva HandiHaler",
+          "Tiotropium"
+        ],
+        [
+          "Spiriva Respimat",
+          "Tiotropium"
+        ],
+        [
+          "Inhalex",
+          "Tiotropium"
+        ],
+        [
+          "Cipla-Tropium",
+          "Tiotropium"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 150,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 151,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 152,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 153,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 154,
+      "kind": "paragraph",
+      "text": "Blurred vision.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 155,
+      "kind": "paragraph",
+      "text": "Cough.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 156,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 157,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Tiotropium أو atropine derivatives.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 158,
+      "kind": "paragraph",
+      "text": "Narrow-angle glaucoma.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 159,
+      "kind": "paragraph",
+      "text": "الحذر في BPH وUrinary retention.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 160,
+      "kind": "paragraph",
+      "text": "الحذر في Renal impairment.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 161,
+      "kind": "paragraph",
+      "text": "لا يُستخدم لعلاج Acute bronchospasm.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "3. LAMA – Long-Acting Muscarinic Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 162,
+      "kind": "heading",
+      "text": "4. LABA/LAMA Combinations",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations"
+      ],
+      "section_start": 162,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 163,
+      "kind": "paragraph",
+      "text": "الاستخدام: التحكم طويل المدى في COPD، وتحسين ضيق التنفس وتقليل التفاقم.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 164,
+      "kind": "table",
+      "text": "Trade name | Active ingredients\nUltibro Breezhaler | Indacaterol + Glycopyrronium\nTretabreva Comb | Indacaterol + Glycopyrronium\nBronchopyonair Plus | Indacaterol + Glycopyrronium\nIndactoven | Indacaterol + Glycopyrronium\nSpiolto Respimat | Tiotropium + Olodaterol\nAnoro Ellipta | Umeclidinium + Vilanterol\nDuaklir Genuair | Aclidinium + Formoterol",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations"
+      ],
+      "section_start": 162,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Ultibro Breezhaler",
+          "Indacaterol + Glycopyrronium"
+        ],
+        [
+          "Tretabreva Comb",
+          "Indacaterol + Glycopyrronium"
+        ],
+        [
+          "Bronchopyonair Plus",
+          "Indacaterol + Glycopyrronium"
+        ],
+        [
+          "Indactoven",
+          "Indacaterol + Glycopyrronium"
+        ],
+        [
+          "Spiolto Respimat",
+          "Tiotropium + Olodaterol"
+        ],
+        [
+          "Anoro Ellipta",
+          "Umeclidinium + Vilanterol"
+        ],
+        [
+          "Duaklir Genuair",
+          "Aclidinium + Formoterol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 165,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 166,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 167,
+      "kind": "paragraph",
+      "text": "Tremors.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 168,
+      "kind": "paragraph",
+      "text": "Palpitations.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 169,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 170,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 171,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 172,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 173,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to any component.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 174,
+      "kind": "paragraph",
+      "text": "الحذر في Glaucoma وBPH.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 175,
+      "kind": "paragraph",
+      "text": "الحذر في Cardiovascular diseases.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 176,
+      "kind": "paragraph",
+      "text": "لا يتم الجمع بينها وبين LABA أو LAMA آخر بشكل عشوائي.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 177,
+      "kind": "paragraph",
+      "text": "ليست Rescue inhalers لعلاج النوبة الحادة.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "4. LABA/LAMA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 178,
+      "kind": "heading",
+      "text": "5. ICS/LABA Combinations",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations"
+      ],
+      "section_start": 178,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 179,
+      "kind": "paragraph",
+      "text": "الاستخدام: حالات مختارة من COPD، خصوصًا المرضى الذين لديهم تاريخ Exacerbations أو مؤشرات تستدعي إضافة ICS.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 180,
+      "kind": "table",
+      "text": "Trade name | Active ingredients\nSeretide | Fluticasone + Salmeterol\nSeretide Diskus | Fluticasone + Salmeterol\nSeretide Evohaler | Fluticasone + Salmeterol\nSeroflo | Fluticasone + Salmeterol\nSymbicort | Budesonide + Formoterol\nForacort | Budesonide + Formoterol\nFostair | Beclometasone + Formoterol\nFoster | Beclometasone + Formoterol\nRelvar Ellipta | Fluticasone furoate + Vilanterol",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations"
+      ],
+      "section_start": 178,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Seretide",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Seretide Diskus",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Seretide Evohaler",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Seroflo",
+          "Fluticasone + Salmeterol"
+        ],
+        [
+          "Symbicort",
+          "Budesonide + Formoterol"
+        ],
+        [
+          "Foracort",
+          "Budesonide + Formoterol"
+        ],
+        [
+          "Fostair",
+          "Beclometasone + Formoterol"
+        ],
+        [
+          "Foster",
+          "Beclometasone + Formoterol"
+        ],
+        [
+          "Relvar Ellipta",
+          "Fluticasone furoate + Vilanterol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 181,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 182,
+      "kind": "paragraph",
+      "text": "Oral candidiasis.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 183,
+      "kind": "paragraph",
+      "text": "Hoarseness.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 184,
+      "kind": "paragraph",
+      "text": "Throat irritation.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 185,
+      "kind": "paragraph",
+      "text": "Pneumonia risk، خصوصًا مع ICS في مرضى COPD.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 186,
+      "kind": "paragraph",
+      "text": "Tremors وPalpitations.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Common side effects:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 187,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 188,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to any component.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 189,
+      "kind": "paragraph",
+      "text": "لا تُستخدم لعلاج Acute exacerbation بمفردها.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 190,
+      "kind": "paragraph",
+      "text": "زيادة خطر Pneumonia في بعض مرضى COPD.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 191,
+      "kind": "paragraph",
+      "text": "المضمضة بعد الاستخدام.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 192,
+      "kind": "paragraph",
+      "text": "لا تُضاف ICS لكل مريض COPD؛ القرار يعتمد على تاريخ التفاقم وBlood eosinophils وعوامل أخرى.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "5. ICS/LABA Combinations",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 178,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 193,
+      "kind": "heading",
+      "text": "6. Triple Therapy – ICS/LABA/LAMA",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA"
+      ],
+      "section_start": 193,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 194,
+      "kind": "paragraph",
+      "text": "الاستخدام: بعض حالات COPD التي لا تتحسن بشكل كافٍ على LABA/LAMA، خصوصًا مع تكرار Exacerbations ووجود مؤشرات لإضافة ICS.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 195,
+      "kind": "table",
+      "text": "Trade name | Active ingredients\nTrelegy Ellipta | Fluticasone furoate + Umeclidinium + Vilanterol\nTrimbow | Beclometasone + Formoterol + Glycopyrronium",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA"
+      ],
+      "section_start": 193,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Trelegy Ellipta",
+          "Fluticasone furoate + Umeclidinium + Vilanterol"
+        ],
+        [
+          "Trimbow",
+          "Beclometasone + Formoterol + Glycopyrronium"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 196,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Common side effects:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 197,
+      "kind": "paragraph",
+      "text": "Oral candidiasis.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Common side effects:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 198,
+      "kind": "paragraph",
+      "text": "Hoarseness.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Common side effects:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 199,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Common side effects:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 200,
+      "kind": "paragraph",
+      "text": "Tremors.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Common side effects:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 201,
+      "kind": "paragraph",
+      "text": "Palpitations.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Common side effects:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 202,
+      "kind": "paragraph",
+      "text": "Increased risk of Pneumonia.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Common side effects:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 203,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 204,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to any component.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 205,
+      "kind": "paragraph",
+      "text": "الحذر في Glaucoma وBPH.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 206,
+      "kind": "paragraph",
+      "text": "الحذر في Cardiovascular diseases.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 207,
+      "kind": "paragraph",
+      "text": "زيادة احتمالية Pneumonia بسبب ICS.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 208,
+      "kind": "paragraph",
+      "text": "لا تُستخدم لعلاج النوبة الحادة.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "6. Triple Therapy – ICS/LABA/LAMA",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 193,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 209,
+      "kind": "heading",
+      "text": "7. PDE-4 Inhibitors",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors"
+      ],
+      "section_start": 209,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 210,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل Exacerbations في مرضى COPD المختارين، خصوصًا Severe COPD المصحوب بـ Chronic bronchitis وتاريخ متكرر للتفاقم.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 211,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nDaxas | Roflumilast\nDalivent | Roflumilast\nEndomilast | Roflumilast\nWestabreath | Roflumilast",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors"
+      ],
+      "section_start": 209,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Daxas",
+          "Roflumilast"
+        ],
+        [
+          "Dalivent",
+          "Roflumilast"
+        ],
+        [
+          "Endomilast",
+          "Roflumilast"
+        ],
+        [
+          "Westabreath",
+          "Roflumilast"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 212,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 213,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 214,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 215,
+      "kind": "paragraph",
+      "text": "Weight loss.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 216,
+      "kind": "paragraph",
+      "text": "Decreased appetite.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 217,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 218,
+      "kind": "paragraph",
+      "text": "Insomnia.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 219,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Common side effects:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 220,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 221,
+      "kind": "paragraph",
+      "text": "Moderate to severe hepatic impairment (Child-Pugh B or C).",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 222,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Roflumilast.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 223,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى Depression أو Suicidal thoughts.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 224,
+      "kind": "paragraph",
+      "text": "الحذر في المرضى الذين يعانون من نقص الوزن؛ لأنه قد يسبب Weight loss.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 225,
+      "kind": "paragraph",
+      "text": "لا يُستخدم لعلاج Acute bronchospasm.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "7. PDE-4 Inhibitors",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 209,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 226,
+      "kind": "heading",
+      "text": "8. Mucolytics",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics"
+      ],
+      "section_start": 226,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 227,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل لزوجة البلغم وتسهيل إخراجه في بعض مرضى COPD، وقد تقلل التفاقم لدى مرضى مختارين.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 228,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nFluimucil | Acetylcysteine\nMucoprov | Acetylcysteine\nAcetylcysteine | Acetylcysteine\nMucosol | Carbocisteine\nUltrasolv | Carbocisteine\nMucosol Adult Syrup | Carbocisteine\nErdomed | Erdosteine\nMucotec | Erdosteine\nBisolvon | Bromhexine\nMucosolvan | Ambroxol\nAmbroxol | Ambroxol",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics"
+      ],
+      "section_start": 226,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Fluimucil",
+          "Acetylcysteine"
+        ],
+        [
+          "Mucoprov",
+          "Acetylcysteine"
+        ],
+        [
+          "Acetylcysteine",
+          "Acetylcysteine"
+        ],
+        [
+          "Mucosol",
+          "Carbocisteine"
+        ],
+        [
+          "Ultrasolv",
+          "Carbocisteine"
+        ],
+        [
+          "Mucosol Adult Syrup",
+          "Carbocisteine"
+        ],
+        [
+          "Erdomed",
+          "Erdosteine"
+        ],
+        [
+          "Mucotec",
+          "Erdosteine"
+        ],
+        [
+          "Bisolvon",
+          "Bromhexine"
+        ],
+        [
+          "Mucosolvan",
+          "Ambroxol"
+        ],
+        [
+          "Ambroxol",
+          "Ambroxol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 229,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Common side effects:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 230,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Common side effects:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 231,
+      "kind": "paragraph",
+      "text": "Vomiting.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Common side effects:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 232,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Common side effects:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 233,
+      "kind": "paragraph",
+      "text": "Abdominal discomfort.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Common side effects:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 234,
+      "kind": "paragraph",
+      "text": "Unpleasant taste.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Common side effects:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 235,
+      "kind": "paragraph",
+      "text": "Hypersensitivity reactions (نادرًا).",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Common side effects:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 236,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 237,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 238,
+      "kind": "paragraph",
+      "text": "الحذر في Peptic ulcer disease.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 239,
+      "kind": "paragraph",
+      "text": "الحذر في المرضى الذين لديهم صعوبة في إخراج الإفرازات.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 240,
+      "kind": "paragraph",
+      "text": "بعض المستحضرات تحتوي على Sodium؛ مهم الانتباه لمرضى Hypertension أو Heart failure حسب التركيبة.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 241,
+      "kind": "paragraph",
+      "text": "لا يُعتبر كل Mucolytic علاجًا أساسيًا لكل مرضى COPD.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "8. Mucolytics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 226,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 242,
+      "kind": "heading",
+      "text": "9. Systemic Corticosteroids",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids"
+      ],
+      "section_start": 242,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 243,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج تفاقم COPD لفترة قصيرة في الحالات المناسبة، وليس علاج صيانة يوميًا بشكل روتيني.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 244,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSolupred | Prednisolone\nSolupred Oro | Prednisolone\nPredsol | Prednisolone\nPredilone | Prednisolone\nFastsolone | Prednisolone\nDisprelone | Prednisolone\nXilone | Prednisolone\nEpicopred | Prednisolone\nSolu-Medrol | Methylprednisolone\nDepo-Medrol | Methylprednisolone\nDexazone | Dexamethasone\nDexamethasone-Eipico | Dexamethasone",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids"
+      ],
+      "section_start": 242,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Solupred",
+          "Prednisolone"
+        ],
+        [
+          "Solupred Oro",
+          "Prednisolone"
+        ],
+        [
+          "Predsol",
+          "Prednisolone"
+        ],
+        [
+          "Predilone",
+          "Prednisolone"
+        ],
+        [
+          "Fastsolone",
+          "Prednisolone"
+        ],
+        [
+          "Disprelone",
+          "Prednisolone"
+        ],
+        [
+          "Xilone",
+          "Prednisolone"
+        ],
+        [
+          "Epicopred",
+          "Prednisolone"
+        ],
+        [
+          "Solu-Medrol",
+          "Methylprednisolone"
+        ],
+        [
+          "Depo-Medrol",
+          "Methylprednisolone"
+        ],
+        [
+          "Dexazone",
+          "Dexamethasone"
+        ],
+        [
+          "Dexamethasone-Eipico",
+          "Dexamethasone"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 245,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 246,
+      "kind": "paragraph",
+      "text": "Increased blood glucose.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 247,
+      "kind": "paragraph",
+      "text": "Increased appetite.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 248,
+      "kind": "paragraph",
+      "text": "Insomnia.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 249,
+      "kind": "paragraph",
+      "text": "Mood changes.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 250,
+      "kind": "paragraph",
+      "text": "Gastric irritation.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 251,
+      "kind": "paragraph",
+      "text": "Fluid retention.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 252,
+      "kind": "paragraph",
+      "text": "Increased blood pressure.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 253,
+      "kind": "paragraph",
+      "text": "Increased infection risk.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 254,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 255,
+      "kind": "paragraph",
+      "text": "Systemic fungal infections.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 256,
+      "kind": "paragraph",
+      "text": "Hypersensitivity.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 257,
+      "kind": "paragraph",
+      "text": "الحذر في Diabetes وHypertension وPeptic ulcer.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 258,
+      "kind": "paragraph",
+      "text": "الحذر في Osteoporosis وGlaucoma.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 259,
+      "kind": "paragraph",
+      "text": "الاستخدام المتكرر أو الطويل قد يسبب Adrenal suppression وOsteoporosis.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "9. Systemic Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 260,
+      "kind": "heading",
+      "text": "10. Antibiotics",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics"
+      ],
+      "section_start": 260,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 261,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Exacerbation المصحوب باحتمالية عدوى بكتيرية، مثل زيادة كمية البلغم وتحوله إلى Purulent sputum، مع زيادة ضيق التنفس أو الأعراض الأخرى حسب التقييم الطبي.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 262,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nAmoxil | Amoxicillin\nAugmentin | Amoxicillin + Clavulanic acid\nHibiotic | Amoxicillin + Clavulanic acid\nCuram | Amoxicillin + Clavulanic acid\nZithromax | Azithromycin\nZimax | Azithromycin\nKlacid | Clarithromycin\nFromilid | Clarithromycin\nVibramycin | Doxycycline\nDoxycycline-Eva | Doxycycline\nZinnat | Cefuroxime\nTavanic | Levofloxacin\nAvelox | Moxifloxacin",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics"
+      ],
+      "section_start": 260,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Amoxil",
+          "Amoxicillin"
+        ],
+        [
+          "Augmentin",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Hibiotic",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Curam",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Zithromax",
+          "Azithromycin"
+        ],
+        [
+          "Zimax",
+          "Azithromycin"
+        ],
+        [
+          "Klacid",
+          "Clarithromycin"
+        ],
+        [
+          "Fromilid",
+          "Clarithromycin"
+        ],
+        [
+          "Vibramycin",
+          "Doxycycline"
+        ],
+        [
+          "Doxycycline-Eva",
+          "Doxycycline"
+        ],
+        [
+          "Zinnat",
+          "Cefuroxime"
+        ],
+        [
+          "Tavanic",
+          "Levofloxacin"
+        ],
+        [
+          "Avelox",
+          "Moxifloxacin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 263,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 264,
+      "kind": "paragraph",
+      "text": "Nausea and vomiting.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 265,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 266,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 267,
+      "kind": "paragraph",
+      "text": "Skin rash.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 268,
+      "kind": "paragraph",
+      "text": "Candidiasis.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 269,
+      "kind": "paragraph",
+      "text": "Antibiotic-associated colitis.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 270,
+      "kind": "paragraph",
+      "text": "QT prolongation مع بعض المضادات مثل Macrolides وFluoroquinolones.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 271,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 272,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the antibiotic.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 273,
+      "kind": "paragraph",
+      "text": "Penicillin allergy مع Amoxicillin وAugmentin.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 274,
+      "kind": "paragraph",
+      "text": "الحذر في Renal impairment، مع تعديل الجرعة لبعض المضادات.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 275,
+      "kind": "paragraph",
+      "text": "الحذر مع QT prolongation وArrhythmias عند استخدام Macrolides أو Fluoroquinolones.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 276,
+      "kind": "paragraph",
+      "text": "Fluoroquinolones مثل Levofloxacin وMoxifloxacin لها تحذيرات مهمة تشمل Tendon injury وPeripheral neuropathy.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 277,
+      "kind": "paragraph",
+      "text": "لا تُستخدم Antibiotics لكل حالات COPD exacerbation؛ الاختيار يعتمد على الأعراض وشدة الحالة وعوامل مقاومة البكتيريا.",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "10. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 260,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 278,
+      "kind": "heading",
+      "text": "OTC ولا Prescription؟",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 278,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    },
+    {
+      "position": 279,
+      "kind": "table",
+      "text": "Drug Class | Classification\nSABA | Prescription\nLABA | Prescription\nLAMA | Prescription\nLABA/LAMA | Prescription\nICS/LABA | Prescription\nTriple Therapy | Prescription\nPDE-4 inhibitors | Prescription\nMucolytics | بعض المستحضرات OTC حسب المنتج\nSystemic Corticosteroids | Prescription\nAntibiotics | Prescription",
+      "section_path": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 278,
+      "headers": [
+        [
+          "Drug Class",
+          "Classification"
+        ]
+      ],
+      "rows": [
+        [
+          "SABA",
+          "Prescription"
+        ],
+        [
+          "LABA",
+          "Prescription"
+        ],
+        [
+          "LAMA",
+          "Prescription"
+        ],
+        [
+          "LABA/LAMA",
+          "Prescription"
+        ],
+        [
+          "ICS/LABA",
+          "Prescription"
+        ],
+        [
+          "Triple Therapy",
+          "Prescription"
+        ],
+        [
+          "PDE-4 inhibitors",
+          "Prescription"
+        ],
+        [
+          "Mucolytics",
+          "بعض المستحضرات OTC حسب المنتج"
+        ],
+        [
+          "Systemic Corticosteroids",
+          "Prescription"
+        ],
+        [
+          "Antibiotics",
+          "Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الانسداد الرئوي المزمن – COPD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        118
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the source Asthma topic above its drug classes.",
+    "Block 118: Retain the source COPD topic above its drug classes."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        9
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        23
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        37
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        52
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        68
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        84
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        99
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        116
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        121
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        135
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        149
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        164
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        180
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        195
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        211
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        228
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        244
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        262
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        279
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Asthma topic above its drug classes.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source COPD topic above its drug classes.",
+      "block_positions": [
+        118
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the source Asthma topic above its drug classes.",
+      "heading_level": 1
+    },
+    {
+      "position": 118,
+      "reason": "Retain the source COPD topic above its drug classes.",
+      "heading_level": 1
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+}

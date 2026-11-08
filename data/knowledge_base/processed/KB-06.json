@@ -1,0 +1,6366 @@
+{
+  "doc_id": "KB-06",
+  "title": "ادويه الحساسيه و الجيوب الانفيه",
+  "title_source": "filename_stem",
+  "filename": "ادويه الحساسيه و الجيوب الانفيه.docx",
+  "source_sha256": "c0895dd47a61654c20b7080c7bb055010f439d84aa5c286ceab0c9db5d5505b3",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. أدوية الحساسية – Allergic Diseases",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "1. H1 Antihistamines – First Generation",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation"
+      ],
+      "section_start": 2,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج الحساسية والحكة والـ Urticaria، وبعض أعراض Allergic rhinitis. بتسبب نعاس بدرجات مختلفة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nAnallerge | Chlorpheniramine\nAllergyl Syrup | Chlorpheniramine\nPirafene | Chlorpheniramine\nAvil | Pheniramine\nPhenergan | Promethazine\nFargan | Promethazine\nAtarax | Hydroxyzine\nUcerax | Hydroxyzine\nProphallerge | Ketotifen\nZaditen | Ketotifen\nZedotefen | Ketotifen\nZylofen | Ketotifen",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Anallerge",
+          "Chlorpheniramine"
+        ],
+        [
+          "Allergyl Syrup",
+          "Chlorpheniramine"
+        ],
+        [
+          "Pirafene",
+          "Chlorpheniramine"
+        ],
+        [
+          "Avil",
+          "Pheniramine"
+        ],
+        [
+          "Phenergan",
+          "Promethazine"
+        ],
+        [
+          "Fargan",
+          "Promethazine"
+        ],
+        [
+          "Atarax",
+          "Hydroxyzine"
+        ],
+        [
+          "Ucerax",
+          "Hydroxyzine"
+        ],
+        [
+          "Prophallerge",
+          "Ketotifen"
+        ],
+        [
+          "Zaditen",
+          "Ketotifen"
+        ],
+        [
+          "Zedotefen",
+          "Ketotifen"
+        ],
+        [
+          "Zylofen",
+          "Ketotifen"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "paragraph",
+      "text": "تنبيه: Ketotifen له خواص H1 antihistamine وMast cell stabilizer، لذلك ممكن تلاقيه تحت التصنيفين.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "paragraph",
+      "text": "Drowsiness and sedation.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "paragraph",
+      "text": "Blurred vision.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "Dizziness.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the drug.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "paragraph",
+      "text": "الحذر في Narrow-angle glaucoma.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "paragraph",
+      "text": "الحذر في BPH وUrinary retention.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "paragraph",
+      "text": "تجنب القيادة أو تشغيل الآلات لو حصل نعاس.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "paragraph",
+      "text": "تجنب الجمع مع Alcohol أو CNS depressants.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "paragraph",
+      "text": "بعض الأنواع لها تأثيرات Anticholinergic واضحة، خصوصًا في كبار السن.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "1. H1 Antihistamines – First Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "heading",
+      "text": "2. H1 Antihistamines – Second Generation",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation"
+      ],
+      "section_start": 20,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Allergic rhinitis، وChronic urticaria، والحكة الجلدية. أقل تسببًا في النعاس من First generation، لكن Cetirizine وLevocetirizine ممكن يسببوا نعاسًا.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nClaritine | Loratadine\nMosedin | Loratadine\nAerius | Desloratadine\nDelarex | Desloratadine\nDesa | Desloratadine\nTelfast | Fexofenadine\nAllerfen | Fexofenadine\nFastel | Fexofenadine\nFexostadine | Fexofenadine\nZyrtec | Cetirizine\nAlerid | Cetirizine\nCetrak | Cetirizine\nHistaclash | Levocetirizine\nLevohistam | Levocetirizine\nBilaxten | Bilastine\nHisatrup | Rupatadine",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation"
+      ],
+      "section_start": 20,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Claritine",
+          "Loratadine"
+        ],
+        [
+          "Mosedin",
+          "Loratadine"
+        ],
+        [
+          "Aerius",
+          "Desloratadine"
+        ],
+        [
+          "Delarex",
+          "Desloratadine"
+        ],
+        [
+          "Desa",
+          "Desloratadine"
+        ],
+        [
+          "Telfast",
+          "Fexofenadine"
+        ],
+        [
+          "Allerfen",
+          "Fexofenadine"
+        ],
+        [
+          "Fastel",
+          "Fexofenadine"
+        ],
+        [
+          "Fexostadine",
+          "Fexofenadine"
+        ],
+        [
+          "Zyrtec",
+          "Cetirizine"
+        ],
+        [
+          "Alerid",
+          "Cetirizine"
+        ],
+        [
+          "Cetrak",
+          "Cetirizine"
+        ],
+        [
+          "Histaclash",
+          "Levocetirizine"
+        ],
+        [
+          "Levohistam",
+          "Levocetirizine"
+        ],
+        [
+          "Bilaxten",
+          "Bilastine"
+        ],
+        [
+          "Hisatrup",
+          "Rupatadine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "Mild drowsiness.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "Fatigue.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "Dizziness.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "الحذر في Renal impairment، خصوصًا Cetirizine وLevocetirizine وFexofenadine.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "paragraph",
+      "text": "الحذر في Hepatic impairment مع بعض الأنواع.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "paragraph",
+      "text": "تجنب الجمع بين أكثر من Oral antihistamine بدون داعٍ طبي.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "paragraph",
+      "text": "Bilastine: يُؤخذ على معدة فارغة؛ الطعام وعصائر الفاكهة قد تقلل امتصاصه.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "paragraph",
+      "text": "Fexofenadine: تجنب تناوله مع عصائر التفاح والبرتقال والجريب فروت، وافصل بينه وبين بعض Antacids المحتوية على Aluminum أو Magnesium.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "2. H1 Antihistamines – Second Generation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "heading",
+      "text": "3. Corticosteroids",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids"
+      ],
+      "section_start": 37,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج التهابات وحالات الحساسية، مثل Allergic rhinitis وAllergic dermatitis وSevere allergic reactions كعلاج مساعد. تشمل Nasal، Topical، Oral وInjectable preparations.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nAvamys Nasal Spray | Fluticasone furoate\nFlixonase | Fluticasone propionate\nFlix Nasal Spray | Fluticasone propionate\nRhinorelief | Fluticasone propionate\nNasonex | Mometasone furoate\nMomate | Mometasone furoate\nAvocom | Mometasone furoate\nNorhinose | Mometasone furoate\nBeconase | Beclometasone\nXilone | Prednisolone\nSolupred | Prednisolone\nPredilone | Prednisolone\nEpicopred | Prednisolone\nHostacortin H | Prednisolone\nSolu-Medrol | Methylprednisolone\nDexazone | Dexamethasone",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids"
+      ],
+      "section_start": 37,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Avamys Nasal Spray",
+          "Fluticasone furoate"
+        ],
+        [
+          "Flixonase",
+          "Fluticasone propionate"
+        ],
+        [
+          "Flix Nasal Spray",
+          "Fluticasone propionate"
+        ],
+        [
+          "Rhinorelief",
+          "Fluticasone propionate"
+        ],
+        [
+          "Nasonex",
+          "Mometasone furoate"
+        ],
+        [
+          "Momate",
+          "Mometasone furoate"
+        ],
+        [
+          "Avocom",
+          "Mometasone furoate"
+        ],
+        [
+          "Norhinose",
+          "Mometasone furoate"
+        ],
+        [
+          "Beconase",
+          "Beclometasone"
+        ],
+        [
+          "Xilone",
+          "Prednisolone"
+        ],
+        [
+          "Solupred",
+          "Prednisolone"
+        ],
+        [
+          "Predilone",
+          "Prednisolone"
+        ],
+        [
+          "Epicopred",
+          "Prednisolone"
+        ],
+        [
+          "Hostacortin H",
+          "Prednisolone"
+        ],
+        [
+          "Solu-Medrol",
+          "Methylprednisolone"
+        ],
+        [
+          "Dexazone",
+          "Dexamethasone"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "heading",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "heading",
+      "text": "Intranasal:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Intranasal:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "Nasal irritation.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Intranasal:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "Epistaxis (نزيف الأنف).",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Intranasal:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "paragraph",
+      "text": "Dryness.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Intranasal:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Intranasal:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "heading",
+      "text": "Topical:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Topical:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "paragraph",
+      "text": "Skin thinning.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Topical:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "paragraph",
+      "text": "Striae.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Topical:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "Local irritation.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Topical:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "paragraph",
+      "text": "Telangiectasia مع الاستخدام الطويل.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Topical:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "heading",
+      "text": "Systemic:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Systemic:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "paragraph",
+      "text": "Increased blood glucose.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Systemic:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "paragraph",
+      "text": "Increased blood pressure.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Systemic:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "paragraph",
+      "text": "Weight gain.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Systemic:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "paragraph",
+      "text": "Mood changes.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Systemic:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "paragraph",
+      "text": "Osteoporosis.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Systemic:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "paragraph",
+      "text": "Adrenal suppression مع الاستخدام الطويل.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Common side effects:",
+        "Systemic:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51,
+        58
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the drug.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51,
+        58
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "paragraph",
+      "text": "Untreated local infections، خصوصًا مع Topical preparations.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51,
+        58
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "paragraph",
+      "text": "الحذر في Diabetes وHypertension وGlaucoma وOsteoporosis مع Systemic corticosteroids.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51,
+        58
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "paragraph",
+      "text": "Nasal steroids: الحذر بعد جراحات أو إصابات الأنف حتى الالتئام.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51,
+        58
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "paragraph",
+      "text": "Oral وInjectable corticosteroids لا تُستخدم بشكل عشوائي للحساسية البسيطة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51,
+        58
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "paragraph",
+      "text": "لا يتم إيقاف العلاج الجهازي طويل المدى فجأة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "3. Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        40,
+        41,
+        46,
+        51,
+        58
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "heading",
+      "text": "4. Leukotriene Antagonists",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists"
+      ],
+      "section_start": 65,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "paragraph",
+      "text": "الاستخدام: بعض حالات Allergic rhinitis والربو المصحوب بالحساسية، لكنه ليس الاختيار الأول لعلاج حساسية الأنف وحدها.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nSingulair | Montelukast\nMontekal | Montelukast\nAsmalair | Montelukast\nInletair | Montelukast\nLelipel | Montelukast\nMontelosab | Montelukast\nOpikast | Montelukast\nStatukast | Montelukast\nPirontagonist | Montelukast\nVentasthma | Montelukast",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists"
+      ],
+      "section_start": 65,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Singulair",
+          "Montelukast"
+        ],
+        [
+          "Montekal",
+          "Montelukast"
+        ],
+        [
+          "Asmalair",
+          "Montelukast"
+        ],
+        [
+          "Inletair",
+          "Montelukast"
+        ],
+        [
+          "Lelipel",
+          "Montelukast"
+        ],
+        [
+          "Montelosab",
+          "Montelukast"
+        ],
+        [
+          "Opikast",
+          "Montelukast"
+        ],
+        [
+          "Statukast",
+          "Montelukast"
+        ],
+        [
+          "Pirontagonist",
+          "Montelukast"
+        ],
+        [
+          "Ventasthma",
+          "Montelukast"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "paragraph",
+      "text": "Sleep disturbances.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Mood and behavioral changes.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Common side effects:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Montelukast.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "paragraph",
+      "text": "أهم تحذير هو Neuropsychiatric effects، مثل nightmares، aggression، depression، وتغيرات السلوك، وقد تصل إلى suicidal thoughts.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "الحذر في المرضى الذين لديهم تاريخ نفسي.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "paragraph",
+      "text": "لا يُستخدم لعلاج Acute asthma attack.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "paragraph",
+      "text": "لا يتم إيقاف ICS واستبداله به من غير مراجعة الطبيب.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "4. Leukotriene Antagonists",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "heading",
+      "text": "5. Mast Cell Stabilizers",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers"
+      ],
+      "section_start": 81,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "paragraph",
+      "text": "الاستخدام: الوقاية من بعض أعراض الحساسية، خصوصًا Allergic conjunctivitis وAllergic rhinitis. تُستخدم بانتظام، وليست علاجًا سريعًا للنوبة الحادة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nOpticure | Sodium cromoglicate\nViscrom | Sodium cromoglicate\nFarcocrom | Sodium cromoglicate\nNazotal | Sodium cromoglicate\nCollycrom | Sodium cromoglicate\nEpicrom | Sodium cromoglicate\nZaditen | Ketotifen\nProphallerge | Ketotifen\nMastosytex | Ketotifen\nGrandotifen | Ketotifen\nOrchazid | Ketotifen",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers"
+      ],
+      "section_start": 81,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Opticure",
+          "Sodium cromoglicate"
+        ],
+        [
+          "Viscrom",
+          "Sodium cromoglicate"
+        ],
+        [
+          "Farcocrom",
+          "Sodium cromoglicate"
+        ],
+        [
+          "Nazotal",
+          "Sodium cromoglicate"
+        ],
+        [
+          "Collycrom",
+          "Sodium cromoglicate"
+        ],
+        [
+          "Epicrom",
+          "Sodium cromoglicate"
+        ],
+        [
+          "Zaditen",
+          "Ketotifen"
+        ],
+        [
+          "Prophallerge",
+          "Ketotifen"
+        ],
+        [
+          "Mastosytex",
+          "Ketotifen"
+        ],
+        [
+          "Grandotifen",
+          "Ketotifen"
+        ],
+        [
+          "Orchazid",
+          "Ketotifen"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 84,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Common side effects:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 85,
+      "kind": "paragraph",
+      "text": "Eye irritation.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Common side effects:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 86,
+      "kind": "paragraph",
+      "text": "Burning or stinging sensation.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Common side effects:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 87,
+      "kind": "paragraph",
+      "text": "Unpleasant taste with nasal preparations.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Common side effects:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 88,
+      "kind": "paragraph",
+      "text": "Sneezing.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Common side effects:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 89,
+      "kind": "paragraph",
+      "text": "Mild headache.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Common side effects:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 90,
+      "kind": "paragraph",
+      "text": "Ketotifen oral preparations may cause drowsiness.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Common side effects:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 91,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 92,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 93,
+      "kind": "paragraph",
+      "text": "الحذر مع Contact lens use؛ بعض قطرات العين تحتوي على preservatives وقد تحتاج إزالة العدسات قبل الاستخدام.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 94,
+      "kind": "paragraph",
+      "text": "لا تُستخدم لعلاج Anaphylaxis أو Acute severe allergic reaction.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 95,
+      "kind": "paragraph",
+      "text": "تحتاج Regular use للحصول على التأثير الوقائي.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "5. Mast Cell Stabilizers",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 96,
+      "kind": "heading",
+      "text": "6. Topical Antihistamines",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines"
+      ],
+      "section_start": 96,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 97,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض حالات Allergic conjunctivitis، وحكة العين والأنف، وبعض مستحضرات الجلد للحكة الموضعية.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 98,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nRapilastin | Azelastine\nAzelast | Azelastine\nZalastin Nasal Spray | Azelastine\nZelagap | Azelastine\nOptist | Epinastine\nOquosilerg | Epinastine\nOquosilerg Forte | Epinastine\nOlohistin | Olopatadine\nOlohistin Forte | Olopatadine\nLivostin | Levocabastine\nAllergodil | Azelastine",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines"
+      ],
+      "section_start": 96,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Rapilastin",
+          "Azelastine"
+        ],
+        [
+          "Azelast",
+          "Azelastine"
+        ],
+        [
+          "Zalastin Nasal Spray",
+          "Azelastine"
+        ],
+        [
+          "Zelagap",
+          "Azelastine"
+        ],
+        [
+          "Optist",
+          "Epinastine"
+        ],
+        [
+          "Oquosilerg",
+          "Epinastine"
+        ],
+        [
+          "Oquosilerg Forte",
+          "Epinastine"
+        ],
+        [
+          "Olohistin",
+          "Olopatadine"
+        ],
+        [
+          "Olohistin Forte",
+          "Olopatadine"
+        ],
+        [
+          "Livostin",
+          "Levocabastine"
+        ],
+        [
+          "Allergodil",
+          "Azelastine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 99,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 100,
+      "kind": "paragraph",
+      "text": "Local burning or stinging.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 101,
+      "kind": "paragraph",
+      "text": "Eye irritation.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 102,
+      "kind": "paragraph",
+      "text": "Bitter taste with nasal sprays.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 103,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 104,
+      "kind": "paragraph",
+      "text": "Blurred vision temporarily after eye drops.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 105,
+      "kind": "paragraph",
+      "text": "Rare hypersensitivity reactions.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 106,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 107,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 108,
+      "kind": "paragraph",
+      "text": "تجنب ملامسة طرف العبوة للعين أو الجلد لتجنب التلوث.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 109,
+      "kind": "paragraph",
+      "text": "بعض Eye drops تحتاج إزالة Contact lenses قبل الاستخدام.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 110,
+      "kind": "paragraph",
+      "text": "تجنب استخدام قطرات العين لفترات طويلة بدون مراجعة الطبيب.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 111,
+      "kind": "paragraph",
+      "text": "بعض المستحضرات الجلدية المحتوية على antihistamines قد تسبب Contact dermatitis أو Photosensitivity.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "6. Topical Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 112,
+      "kind": "heading",
+      "text": "7. Adrenaline (Epinephrine)",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)"
+      ],
+      "section_start": 112,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "الاستخدام: العلاج الأول والأساسي في حالات Anaphylaxis، وهي الحساسية المفرطة التي قد تؤثر على التنفس أو الدورة الدموية.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 114,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nEpinephrine-Memphis | Adrenaline\nAdrenamax | Adrenaline\nEpinephrine-Misr | Adrenaline\nAdrenaline-CID | Adrenaline",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)"
+      ],
+      "section_start": 112,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Epinephrine-Memphis",
+          "Adrenaline"
+        ],
+        [
+          "Adrenamax",
+          "Adrenaline"
+        ],
+        [
+          "Epinephrine-Misr",
+          "Adrenaline"
+        ],
+        [
+          "Adrenaline-CID",
+          "Adrenaline"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 115,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 116,
+      "kind": "paragraph",
+      "text": "Tachycardia.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 117,
+      "kind": "paragraph",
+      "text": "Palpitations.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 118,
+      "kind": "paragraph",
+      "text": "Tremors.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 119,
+      "kind": "paragraph",
+      "text": "Anxiety.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 120,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 121,
+      "kind": "paragraph",
+      "text": "Increased blood pressure.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 122,
+      "kind": "paragraph",
+      "text": "Arrhythmias، خصوصًا مع الجرعات أو طرق الإعطاء غير الصحيحة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Common side effects:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 123,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 124,
+      "kind": "paragraph",
+      "text": "في Anaphylaxis مفيش Absolute contraindication تمنع إعطاء Adrenaline عند الحاجة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 125,
+      "kind": "paragraph",
+      "text": "الحذر في Cardiovascular diseases، لكن لا يؤخر ذلك إعطاءه في Anaphylaxis.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 126,
+      "kind": "paragraph",
+      "text": "الطريق المفضل في Anaphylaxis هو IM injection في منتصف الجزء الخارجي من الفخذ.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 127,
+      "kind": "paragraph",
+      "text": "IV adrenaline ليس طريقًا روتينيًا للعلاج الأولي؛ يحتاج متخصصين ومراقبة مناسبة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 128,
+      "kind": "paragraph",
+      "text": "Antihistamines وCorticosteroids لا يحلوا محل Adrenaline ولا يجب تأخير إعطائه بسببهم.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "7. Adrenaline (Epinephrine)",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 112,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 129,
+      "kind": "heading",
+      "text": "8. Biologics",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics"
+      ],
+      "section_start": 129,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 130,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض أنواع الحساسية والربو الشديد، والـ Chronic urticaria، والـ Atopic dermatitis، حسب نوع الـ Biologic والتشخيص.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 131,
+      "kind": "table",
+      "text": "Trade name | Active ingredient | Main indication\nXolair | Omalizumab | Allergic asthma / Chronic spontaneous urticaria\nDupixent | Dupilumab | Atopic dermatitis / Asthma / Nasal polyps\nNucala | Mepolizumab | Severe eosinophilic asthma\nFasenra | Benralizumab | Severe eosinophilic asthma\nCinqair | Reslizumab | Severe eosinophilic asthma",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics"
+      ],
+      "section_start": 129,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient",
+          "Main indication"
+        ]
+      ],
+      "rows": [
+        [
+          "Xolair",
+          "Omalizumab",
+          "Allergic asthma / Chronic spontaneous urticaria"
+        ],
+        [
+          "Dupixent",
+          "Dupilumab",
+          "Atopic dermatitis / Asthma / Nasal polyps"
+        ],
+        [
+          "Nucala",
+          "Mepolizumab",
+          "Severe eosinophilic asthma"
+        ],
+        [
+          "Fasenra",
+          "Benralizumab",
+          "Severe eosinophilic asthma"
+        ],
+        [
+          "Cinqair",
+          "Reslizumab",
+          "Severe eosinophilic asthma"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 132,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Common side effects:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 133,
+      "kind": "paragraph",
+      "text": "Injection-site reactions.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Common side effects:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 134,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Common side effects:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 135,
+      "kind": "paragraph",
+      "text": "Sore throat.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Common side effects:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 136,
+      "kind": "paragraph",
+      "text": "Upper respiratory tract infections.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Common side effects:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 137,
+      "kind": "paragraph",
+      "text": "Hypersensitivity reactions.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Common side effects:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 138,
+      "kind": "paragraph",
+      "text": "Anaphylaxis (نادر لكنه خطير مع بعض الأدوية).",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Common side effects:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 139,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 140,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 141,
+      "kind": "paragraph",
+      "text": "Xolair: خطر Anaphylaxis؛ يحتاج متابعة واحتياطات مناسبة.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 142,
+      "kind": "paragraph",
+      "text": "Dupixent: قد يحدث Conjunctivitis أو Keratitis.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 143,
+      "kind": "paragraph",
+      "text": "لا تُستخدم لعلاج Acute asthma attack أو Acute anaphylaxis.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 144,
+      "kind": "paragraph",
+      "text": "لا يتم إيقاف Corticosteroids فجأة عند بدء Biologic.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 145,
+      "kind": "paragraph",
+      "text": "اختيار العلاج يعتمد على Biomarkers ونوع المرض، مثل IgE وEosinophils.",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "8. Biologics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 129,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 146,
+      "kind": "heading",
+      "text": "OTC ولا Prescription؟",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 146,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 147,
+      "kind": "table",
+      "text": "Drug Class | Classification\nFirst-generation H1 antihistamines | حسب المستحضر؛ بعض المنتجات OTC\nSecond-generation H1 antihistamines | حسب المستحضر؛ بعض المنتجات OTC\nCorticosteroids | حسب الشكل والمنتج؛ بعض Nasal preparations OTC\nLeukotriene antagonists | Prescription\nMast cell stabilizers | حسب المستحضر\nTopical antihistamines | حسب المستحضر\nAdrenaline | Prescription / Emergency use\nBiologics | Prescription – Specialist use",
+      "section_path": [
+        "1. أدوية الحساسية – Allergic Diseases",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 146,
+      "headers": [
+        [
+          "Drug Class",
+          "Classification"
+        ]
+      ],
+      "rows": [
+        [
+          "First-generation H1 antihistamines",
+          "حسب المستحضر؛ بعض المنتجات OTC"
+        ],
+        [
+          "Second-generation H1 antihistamines",
+          "حسب المستحضر؛ بعض المنتجات OTC"
+        ],
+        [
+          "Corticosteroids",
+          "حسب الشكل والمنتج؛ بعض Nasal preparations OTC"
+        ],
+        [
+          "Leukotriene antagonists",
+          "Prescription"
+        ],
+        [
+          "Mast cell stabilizers",
+          "حسب المستحضر"
+        ],
+        [
+          "Topical antihistamines",
+          "حسب المستحضر"
+        ],
+        [
+          "Adrenaline",
+          "Prescription / Emergency use"
+        ],
+        [
+          "Biologics",
+          "Prescription – Specialist use"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الحساسية – Allergic Diseases"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 149,
+      "kind": "heading",
+      "text": "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "section_start": 149,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 150,
+      "kind": "heading",
+      "text": "1. Nasal Corticosteroids",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids"
+      ],
+      "section_start": 150,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 151,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل التهاب الأنف والجيوب والاحتقان، خصوصًا في Allergic rhinitis وChronic rhinosinusitis، وقد تُستخدم في Acute sinusitis لتخفيف الأعراض.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 152,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nAvamys | Fluticasone furoate\nFlixonase | Fluticasone propionate\nFlix | Fluticasone propionate\nNasonex | Mometasone furoate\nMomate | Mometasone furoate\nAvocom | Mometasone furoate\nNorhinose | Mometasone furoate\nBeconase | Beclometasone dipropionate\nRhinocort | Budesonide\nNasacort | Triamcinolone acetonide",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids"
+      ],
+      "section_start": 150,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Avamys",
+          "Fluticasone furoate"
+        ],
+        [
+          "Flixonase",
+          "Fluticasone propionate"
+        ],
+        [
+          "Flix",
+          "Fluticasone propionate"
+        ],
+        [
+          "Nasonex",
+          "Mometasone furoate"
+        ],
+        [
+          "Momate",
+          "Mometasone furoate"
+        ],
+        [
+          "Avocom",
+          "Mometasone furoate"
+        ],
+        [
+          "Norhinose",
+          "Mometasone furoate"
+        ],
+        [
+          "Beconase",
+          "Beclometasone dipropionate"
+        ],
+        [
+          "Rhinocort",
+          "Budesonide"
+        ],
+        [
+          "Nasacort",
+          "Triamcinolone acetonide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 153,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 154,
+      "kind": "paragraph",
+      "text": "Nasal irritation and dryness.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 155,
+      "kind": "paragraph",
+      "text": "Epistaxis (نزيف الأنف).",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 156,
+      "kind": "paragraph",
+      "text": "Sneezing.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 157,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 158,
+      "kind": "paragraph",
+      "text": "Sore throat.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Common side effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 159,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 160,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 161,
+      "kind": "paragraph",
+      "text": "الحذر في وجود untreated nasal infection.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 162,
+      "kind": "paragraph",
+      "text": "الحذر بعد جراحات أو إصابات الأنف لحين الالتئام.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 163,
+      "kind": "paragraph",
+      "text": "الاستخدام الخاطئ باتجاه Nasal septum ممكن يزيد نزيف الأنف.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 164,
+      "kind": "paragraph",
+      "text": "مش علاج فوري للاحتقان؛ يحتاج استخدام منتظم.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "1. Nasal Corticosteroids",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 165,
+      "kind": "heading",
+      "text": "2. Saline Nasal Irrigation",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation"
+      ],
+      "section_start": 165,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 166,
+      "kind": "paragraph",
+      "text": "الاستخدام: تنظيف الأنف وإزالة المخاط والإفرازات والقشور، وتخفيف الاحتقان، ويمكن استخدامه كعلاج مساعد في Acute وChronic sinusitis.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 167,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nOtrivin Baby Saline | Sodium chloride\nPhysiomer | Isotonic seawater\nMarimer Isotonic | Isotonic seawater\nMarimer Hypertonic | Hypertonic seawater\nSinomarin | Hypertonic seawater\nNadif Sea Water | Hypertonic seawater\nBaby Nadif | Hypertonic seawater\nBeegu Marin | Sodium chloride / seawater\nBeegu Nose | Sodium chloride\nApisal | Sodium chloride\nSterimar | Seawater\nNasomar | Sodium chloride",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation"
+      ],
+      "section_start": 165,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Otrivin Baby Saline",
+          "Sodium chloride"
+        ],
+        [
+          "Physiomer",
+          "Isotonic seawater"
+        ],
+        [
+          "Marimer Isotonic",
+          "Isotonic seawater"
+        ],
+        [
+          "Marimer Hypertonic",
+          "Hypertonic seawater"
+        ],
+        [
+          "Sinomarin",
+          "Hypertonic seawater"
+        ],
+        [
+          "Nadif Sea Water",
+          "Hypertonic seawater"
+        ],
+        [
+          "Baby Nadif",
+          "Hypertonic seawater"
+        ],
+        [
+          "Beegu Marin",
+          "Sodium chloride / seawater"
+        ],
+        [
+          "Beegu Nose",
+          "Sodium chloride"
+        ],
+        [
+          "Apisal",
+          "Sodium chloride"
+        ],
+        [
+          "Sterimar",
+          "Seawater"
+        ],
+        [
+          "Nasomar",
+          "Sodium chloride"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 168,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Common side effects:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 169,
+      "kind": "paragraph",
+      "text": "Mild nasal burning.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Common side effects:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 170,
+      "kind": "paragraph",
+      "text": "Irritation.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Common side effects:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 171,
+      "kind": "paragraph",
+      "text": "Sneezing.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Common side effects:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 172,
+      "kind": "paragraph",
+      "text": "Temporary ear fullness.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Common side effects:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 173,
+      "kind": "paragraph",
+      "text": "Dryness، خصوصًا مع Hypertonic saline.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Common side effects:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 174,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 175,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to any added ingredient.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 176,
+      "kind": "paragraph",
+      "text": "الحذر عند وجود complete nasal obstruction أو ألم بالأذن أثناء irrigation.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 177,
+      "kind": "paragraph",
+      "text": "استخدام ماء معقم أو مقطر أو مغلي ثم مبرد عند تحضير محلول الغسيل في المنزل؛ ممنوع استخدام ماء الصنبور مباشرة.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 178,
+      "kind": "paragraph",
+      "text": "تنظيف وتجفيف جهاز Nasal irrigation بعد الاستخدام.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 179,
+      "kind": "paragraph",
+      "text": "عدم مشاركة الجهاز مع شخص آخر.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "2. Saline Nasal Irrigation",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 165,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 180,
+      "kind": "heading",
+      "text": "3. Decongestants",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants"
+      ],
+      "section_start": 180,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 181,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل احتقان الأنف لفترة قصيرة، سواء في صورة Nasal drops/spray أو Oral preparations.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 182,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nOtrivin | Xylometazoline\nRinex | Xylometazoline\nDecozal | Xylometazoline\nOxymet | Oxymetazoline\nOxymet-MUP | Oxymetazoline\nNasopharm | Oxymetazoline\nNormifrin | Oxymetazoline\nOtrivin Complete | Xylometazoline + Ipratropium\nCongestal | Paracetamol + Pseudoephedrine + Chlorpheniramine\nCold Control | Paracetamol + Pseudoephedrine + Chlorpheniramine",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants"
+      ],
+      "section_start": 180,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Otrivin",
+          "Xylometazoline"
+        ],
+        [
+          "Rinex",
+          "Xylometazoline"
+        ],
+        [
+          "Decozal",
+          "Xylometazoline"
+        ],
+        [
+          "Oxymet",
+          "Oxymetazoline"
+        ],
+        [
+          "Oxymet-MUP",
+          "Oxymetazoline"
+        ],
+        [
+          "Nasopharm",
+          "Oxymetazoline"
+        ],
+        [
+          "Normifrin",
+          "Oxymetazoline"
+        ],
+        [
+          "Otrivin Complete",
+          "Xylometazoline + Ipratropium"
+        ],
+        [
+          "Congestal",
+          "Paracetamol + Pseudoephedrine + Chlorpheniramine"
+        ],
+        [
+          "Cold Control",
+          "Paracetamol + Pseudoephedrine + Chlorpheniramine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 183,
+      "kind": "heading",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183
+      ]
+    },
+    {
+      "position": 184,
+      "kind": "heading",
+      "text": "Topical nasal decongestants:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Topical nasal decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184
+      ]
+    },
+    {
+      "position": 185,
+      "kind": "paragraph",
+      "text": "Nasal dryness.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Topical nasal decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184
+      ]
+    },
+    {
+      "position": 186,
+      "kind": "paragraph",
+      "text": "Burning sensation.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Topical nasal decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184
+      ]
+    },
+    {
+      "position": 187,
+      "kind": "paragraph",
+      "text": "Sneezing.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Topical nasal decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184
+      ]
+    },
+    {
+      "position": 188,
+      "kind": "paragraph",
+      "text": "Rebound congestion (Rhinitis medicamentosa) مع الاستخدام المطوّل.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Topical nasal decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184
+      ]
+    },
+    {
+      "position": 189,
+      "kind": "heading",
+      "text": "Oral decongestants:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Oral decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189
+      ]
+    },
+    {
+      "position": 190,
+      "kind": "paragraph",
+      "text": "Palpitations.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Oral decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189
+      ]
+    },
+    {
+      "position": 191,
+      "kind": "paragraph",
+      "text": "Increased blood pressure.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Oral decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189
+      ]
+    },
+    {
+      "position": 192,
+      "kind": "paragraph",
+      "text": "Insomnia.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Oral decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189
+      ]
+    },
+    {
+      "position": 193,
+      "kind": "paragraph",
+      "text": "Nervousness.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Oral decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189
+      ]
+    },
+    {
+      "position": 194,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Common side effects:",
+        "Oral decongestants:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189
+      ]
+    },
+    {
+      "position": 195,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 196,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 197,
+      "kind": "paragraph",
+      "text": "Uncontrolled hypertension.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 198,
+      "kind": "paragraph",
+      "text": "Ischemic heart disease وArrhythmias.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 199,
+      "kind": "paragraph",
+      "text": "Hyperthyroidism.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 200,
+      "kind": "paragraph",
+      "text": "Narrow-angle glaucoma.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 201,
+      "kind": "paragraph",
+      "text": "الحذر في BPH وUrinary retention.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 202,
+      "kind": "paragraph",
+      "text": "لا يُستخدم Xylometazoline أو Oxymetazoline لأكثر من 3–5 أيام متتالية لتجنب Rebound congestion.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 203,
+      "kind": "paragraph",
+      "text": "لا تجمعي بين Oral وNasal sympathomimetics أو بين نوعين من مزيلات الاحتقان بدون مراجعة التداخلات.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "3. Decongestants",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 180,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        183,
+        184,
+        189,
+        195
+      ]
+    },
+    {
+      "position": 204,
+      "kind": "heading",
+      "text": "4. Analgesics",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics"
+      ],
+      "section_start": 204,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 205,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف ألم الوجه والضغط حول الجيوب الأنفية والصداع والحمّى المصاحبة.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 206,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nPanadol | Paracetamol\nFevadol | Paracetamol\nCetal | Paracetamol\nParamol | Paracetamol\nAdol | Paracetamol\nBrufen | Ibuprofen\nNurofen | Ibuprofen\nIbuflam | Ibuprofen\nProfinal | Ibuprofen\nCataflam | Diclofenac potassium\nVoltaren | Diclofenac sodium\nCelebrex | Celecoxib",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics"
+      ],
+      "section_start": 204,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol",
+          "Paracetamol"
+        ],
+        [
+          "Fevadol",
+          "Paracetamol"
+        ],
+        [
+          "Cetal",
+          "Paracetamol"
+        ],
+        [
+          "Paramol",
+          "Paracetamol"
+        ],
+        [
+          "Adol",
+          "Paracetamol"
+        ],
+        [
+          "Brufen",
+          "Ibuprofen"
+        ],
+        [
+          "Nurofen",
+          "Ibuprofen"
+        ],
+        [
+          "Ibuflam",
+          "Ibuprofen"
+        ],
+        [
+          "Profinal",
+          "Ibuprofen"
+        ],
+        [
+          "Cataflam",
+          "Diclofenac potassium"
+        ],
+        [
+          "Voltaren",
+          "Diclofenac sodium"
+        ],
+        [
+          "Celebrex",
+          "Celecoxib"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 207,
+      "kind": "heading",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207
+      ]
+    },
+    {
+      "position": 208,
+      "kind": "heading",
+      "text": "Paracetamol:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "Paracetamol:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208
+      ]
+    },
+    {
+      "position": 209,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "Paracetamol:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208
+      ]
+    },
+    {
+      "position": 210,
+      "kind": "paragraph",
+      "text": "Skin rash (نادر).",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "Paracetamol:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208
+      ]
+    },
+    {
+      "position": 211,
+      "kind": "paragraph",
+      "text": "Liver toxicity مع الجرعات الزائدة.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "Paracetamol:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208
+      ]
+    },
+    {
+      "position": 212,
+      "kind": "heading",
+      "text": "NSAIDs:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "NSAIDs:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212
+      ]
+    },
+    {
+      "position": 213,
+      "kind": "paragraph",
+      "text": "Gastric irritation.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "NSAIDs:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212
+      ]
+    },
+    {
+      "position": 214,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "NSAIDs:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212
+      ]
+    },
+    {
+      "position": 215,
+      "kind": "paragraph",
+      "text": "Peptic ulcer and GI bleeding.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "NSAIDs:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212
+      ]
+    },
+    {
+      "position": 216,
+      "kind": "paragraph",
+      "text": "Fluid retention.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "NSAIDs:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212
+      ]
+    },
+    {
+      "position": 217,
+      "kind": "paragraph",
+      "text": "Increased blood pressure.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "NSAIDs:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212
+      ]
+    },
+    {
+      "position": 218,
+      "kind": "paragraph",
+      "text": "Renal impairment.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Common side effects:",
+        "NSAIDs:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212
+      ]
+    },
+    {
+      "position": 219,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 220,
+      "kind": "paragraph",
+      "text": "Paracetamol: Severe hepatic impairment، والحذر في مرضى الكبد.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 221,
+      "kind": "paragraph",
+      "text": "NSAIDs: Active peptic ulcer أو GI bleeding.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 222,
+      "kind": "paragraph",
+      "text": "Severe renal impairment.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 223,
+      "kind": "paragraph",
+      "text": "NSAID hypersensitivity أو Aspirin-sensitive asthma.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 224,
+      "kind": "paragraph",
+      "text": "الحذر في Hypertension وHeart failure وCardiovascular diseases.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 225,
+      "kind": "paragraph",
+      "text": "تجنب الجمع بين أكثر من NSAID في نفس الوقت.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 226,
+      "kind": "paragraph",
+      "text": "الحذر في Pregnancy، خصوصًا من الأسبوع 20 فصاعدًا، وتُتجنب NSAIDs من الأسبوع 30.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "4. Analgesics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 204,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149,
+        207,
+        208,
+        212,
+        219
+      ]
+    },
+    {
+      "position": 227,
+      "kind": "heading",
+      "text": "5. Antihistamines",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines"
+      ],
+      "section_start": 227,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 228,
+      "kind": "paragraph",
+      "text": "الاستخدام: تُستخدم عند وجود Allergic rhinitis مصاحبة لالتهاب الجيوب، خصوصًا مع العطس والحكة وسيلان الأنف. مش علاجًا روتينيًا لكل حالات Sinusitis.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 229,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nClaritine | Loratadine\nMosedin | Loratadine\nAerius | Desloratadine\nDelarex | Desloratadine\nTelfast | Fexofenadine\nAllerfen | Fexofenadine\nZyrtec | Cetirizine\nAlerid | Cetirizine\nCetrak | Cetirizine\nBilaxten | Bilastine\nAtarax | Hydroxyzine\nAvil | Pheniramine\nPhenergan | Promethazine",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines"
+      ],
+      "section_start": 227,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Claritine",
+          "Loratadine"
+        ],
+        [
+          "Mosedin",
+          "Loratadine"
+        ],
+        [
+          "Aerius",
+          "Desloratadine"
+        ],
+        [
+          "Delarex",
+          "Desloratadine"
+        ],
+        [
+          "Telfast",
+          "Fexofenadine"
+        ],
+        [
+          "Allerfen",
+          "Fexofenadine"
+        ],
+        [
+          "Zyrtec",
+          "Cetirizine"
+        ],
+        [
+          "Alerid",
+          "Cetirizine"
+        ],
+        [
+          "Cetrak",
+          "Cetirizine"
+        ],
+        [
+          "Bilaxten",
+          "Bilastine"
+        ],
+        [
+          "Atarax",
+          "Hydroxyzine"
+        ],
+        [
+          "Avil",
+          "Pheniramine"
+        ],
+        [
+          "Phenergan",
+          "Promethazine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 230,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 231,
+      "kind": "paragraph",
+      "text": "Drowsiness، خصوصًا First-generation.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 232,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 233,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 234,
+      "kind": "paragraph",
+      "text": "Dizziness.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 235,
+      "kind": "paragraph",
+      "text": "Blurred vision.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 236,
+      "kind": "paragraph",
+      "text": "Fatigue.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Common side effects:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 237,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 238,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 239,
+      "kind": "paragraph",
+      "text": "الحذر في Renal impairment مع Cetirizine وFexofenadine وBilastine.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 240,
+      "kind": "paragraph",
+      "text": "First-generation: الحذر في Glaucoma وBPH وUrinary retention.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 241,
+      "kind": "paragraph",
+      "text": "تجنب القيادة مع الأدوية المسببة للنعاس.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "5. Antihistamines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 227,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 242,
+      "kind": "heading",
+      "text": "6. Antibiotics",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics"
+      ],
+      "section_start": 242,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 243,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Acute bacterial rhinosinusitis عند وجود داعٍ طبي للعلاج بالمضادات الحيوية، وليس Viral sinusitis.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 244,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nAugmentin | Amoxicillin + Clavulanic acid\nHibiotic | Amoxicillin + Clavulanic acid\nCuram | Amoxicillin + Clavulanic acid\nMegamox | Amoxicillin + Clavulanic acid\nAmoclan | Amoxicillin + Clavulanic acid\nClavimox | Amoxicillin + Clavulanic acid\nAmoxil | Amoxicillin\nZinnat | Cefuroxime\nZinacef | Cefuroxime\nVibramycin | Doxycycline\nTavanic | Levofloxacin\nAvelox | Moxifloxacin",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics"
+      ],
+      "section_start": 242,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Augmentin",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Hibiotic",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Curam",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Megamox",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Amoclan",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Clavimox",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Amoxil",
+          "Amoxicillin"
+        ],
+        [
+          "Zinnat",
+          "Cefuroxime"
+        ],
+        [
+          "Zinacef",
+          "Cefuroxime"
+        ],
+        [
+          "Vibramycin",
+          "Doxycycline"
+        ],
+        [
+          "Tavanic",
+          "Levofloxacin"
+        ],
+        [
+          "Avelox",
+          "Moxifloxacin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 245,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 246,
+      "kind": "paragraph",
+      "text": "Nausea and vomiting.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 247,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 248,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 249,
+      "kind": "paragraph",
+      "text": "Skin rash.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 250,
+      "kind": "paragraph",
+      "text": "Candidiasis.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 251,
+      "kind": "paragraph",
+      "text": "Antibiotic-associated colitis.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 252,
+      "kind": "paragraph",
+      "text": "Tendon injury and QT prolongation مع بعض Fluoroquinolones.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Common side effects:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 253,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 254,
+      "kind": "paragraph",
+      "text": "Severe hypersensitivity to Penicillins أو المادة المستخدمة.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 255,
+      "kind": "paragraph",
+      "text": "Amoxicillin/Clavulanate: الحذر في تاريخ Cholestatic jaundice المرتبط بالدواء.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 256,
+      "kind": "paragraph",
+      "text": "Renal impairment: قد يحتاج تعديل الجرعة.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 257,
+      "kind": "paragraph",
+      "text": "Doxycycline: يُتجنب عادةً في Pregnancy والأطفال أقل من 8 سنوات.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 258,
+      "kind": "paragraph",
+      "text": "Fluoroquinolones: لها تحذيرات مهمة تخص Tendons وPeripheral neuropathy وQT prolongation، ولا تُستخدم كاختيار أول روتيني.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 259,
+      "kind": "paragraph",
+      "text": "لا يتم صرف Antibiotics لمجرد وجود Nasal discharge أو لون أصفر/أخضر للإفرازات.",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "6. Antibiotics",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 242,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 260,
+      "kind": "heading",
+      "text": "OTC ولا Prescription؟",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 260,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    },
+    {
+      "position": 261,
+      "kind": "table",
+      "text": "Drug Class | Classification\nNasal Corticosteroids | حسب المستحضر؛ بعضها OTC\nSaline Nasal Irrigation | OTC\nNasal Decongestants | بعض المنتجات OTC\nOral Decongestants | حسب التركيبة والمنتج\nAnalgesics | بعض المنتجات OTC\nAntihistamines | بعض المنتجات OTC\nAntibiotics | Prescription",
+      "section_path": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 260,
+      "headers": [
+        [
+          "Drug Class",
+          "Classification"
+        ]
+      ],
+      "rows": [
+        [
+          "Nasal Corticosteroids",
+          "حسب المستحضر؛ بعضها OTC"
+        ],
+        [
+          "Saline Nasal Irrigation",
+          "OTC"
+        ],
+        [
+          "Nasal Decongestants",
+          "بعض المنتجات OTC"
+        ],
+        [
+          "Oral Decongestants",
+          "حسب التركيبة والمنتج"
+        ],
+        [
+          "Analgesics",
+          "بعض المنتجات OTC"
+        ],
+        [
+          "Antihistamines",
+          "بعض المنتجات OTC"
+        ],
+        [
+          "Antibiotics",
+          "Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب الجيوب الأنفية – Sinusitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        149
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the source Allergic Diseases topic.",
+    "Block 40: The source side-effects label is the parent of the following route-specific labels.",
+    "Block 41: Retain the original Intranasal effects label beneath side effects.",
+    "Block 46: Retain the original Topical effects label beneath side effects.",
+    "Block 51: Retain the original Systemic effects label beneath side effects.",
+    "Block 58: These precautions apply to the Corticosteroids class, not only its final route label.",
+    "Block 149: Retain the source Sinusitis topic.",
+    "Block 183: The source side-effects label contains route-specific decongestant effects.",
+    "Block 184: Retain the original topical nasal decongestant effects label.",
+    "Block 189: Retain the original oral decongestant effects label.",
+    "Block 195: These precautions apply to the Decongestants class.",
+    "Block 207: The source side-effects label contains named analgesic groups.",
+    "Block 208: Retain the original Paracetamol effects label.",
+    "Block 212: Retain the original NSAID effects label.",
+    "Block 219: These precautions apply to the Analgesics section, not only the last subgroup."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        4
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        22
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        39
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        67
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        83
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        98
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        114
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        131
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        147
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        152
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        167
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        182
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        206
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        229
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        244
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        261
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Allergic Diseases topic.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The source side-effects label is the parent of the following route-specific labels.",
+      "block_positions": [
+        40
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original Intranasal effects label beneath side effects.",
+      "block_positions": [
+        41
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original Topical effects label beneath side effects.",
+      "block_positions": [
+        46
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original Systemic effects label beneath side effects.",
+      "block_positions": [
+        51
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These precautions apply to the Corticosteroids class, not only its final route label.",
+      "block_positions": [
+        58
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Sinusitis topic.",
+      "block_positions": [
+        149
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The source side-effects label contains route-specific decongestant effects.",
+      "block_positions": [
+        183
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original topical nasal decongestant effects label.",
+      "block_positions": [
+        184
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original oral decongestant effects label.",
+      "block_positions": [
+        189
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These precautions apply to the Decongestants class.",
+      "block_positions": [
+        195
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The source side-effects label contains named analgesic groups.",
+      "block_positions": [
+        207
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original Paracetamol effects label.",
+      "block_positions": [
+        208
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original NSAID effects label.",
+      "block_positions": [
+        212
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These precautions apply to the Analgesics section, not only the last subgroup.",
+      "block_positions": [
+        219
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the source Allergic Diseases topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 40,
+      "reason": "The source side-effects label is the parent of the following route-specific labels.",
+      "heading_level": 3
+    },
+    {
+      "position": 41,
+      "reason": "Retain the original Intranasal effects label beneath side effects.",
+      "heading_level": 4
+    },
+    {
+      "position": 46,
+      "reason": "Retain the original Topical effects label beneath side effects.",
+      "heading_level": 4
+    },
+    {
+      "position": 51,
+      "reason": "Retain the original Systemic effects label beneath side effects.",
+      "heading_level": 4
+    },
+    {
+      "position": 58,
+      "reason": "These precautions apply to the Corticosteroids class, not only its final route label.",
+      "parent_position": 37
+    },
+    {
+      "position": 149,
+      "reason": "Retain the source Sinusitis topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 183,
+      "reason": "The source side-effects label contains route-specific decongestant effects.",
+      "heading_level": 3
+    },
+    {
+      "position": 184,
+      "reason": "Retain the original topical nasal decongestant effects label.",
+      "heading_level": 4
+    },
+    {
+      "position": 189,
+      "reason": "Retain the original oral decongestant effects label.",
+      "heading_level": 4
+    },
+    {
+      "position": 195,
+      "reason": "These precautions apply to the Decongestants class.",
+      "parent_position": 180
+    },
+    {
+      "position": 207,
+      "reason": "The source side-effects label contains named analgesic groups.",
+      "heading_level": 3
+    },
+    {
+      "position": 208,
+      "reason": "Retain the original Paracetamol effects label.",
+      "heading_level": 4
+    },
+    {
+      "position": 212,
+      "reason": "Retain the original NSAID effects label.",
+      "heading_level": 4
+    },
+    {
+      "position": 219,
+      "reason": "These precautions apply to the Analgesics section, not only the last subgroup.",
+      "parent_position": 204
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "e7a7dcfd45aa4de5b0c77861e84526b1aaa710005925dce8c513ea2da0818511"
+}

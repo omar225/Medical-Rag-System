@@ -1,0 +1,2316 @@
+{
+  "schema_version": 2,
+  "pipeline_version": "docx-ingestion-2.1-v1",
+  "max_chars": 2400,
+  "document_count": 9,
+  "table_count": 153,
+  "chunk_count": 113,
+  "documents": [
+    {
+      "doc_id": "KB-01",
+      "filename": "asthma w copd.docx",
+      "title": "asthma w copd",
+      "title_source": "filename_stem",
+      "source_path": "KB-01/asthma w copd.docx",
+      "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+      "paragraph_count": 260,
+      "heading_count": 21,
+      "source_heading_count": 21,
+      "inferred_label_count": 35,
+      "table_count": 19,
+      "chunk_count": 20,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the source Asthma topic above its drug classes.",
+        "Block 118: Retain the source COPD topic above its drug classes."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the source Asthma topic above its drug classes.",
+          "heading_level": 1
+        },
+        {
+          "position": 118,
+          "reason": "Retain the source COPD topic above its drug classes.",
+          "heading_level": 1
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            9
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            23
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            37
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            52
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            68
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            84
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            99
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            116
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            121
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            135
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            149
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            164
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            180
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            195
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            211
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            228
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            244
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            262
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            279
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Asthma topic above its drug classes.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source COPD topic above its drug classes.",
+          "block_positions": [
+            118
+          ]
+        }
+      ],
+      "requires_review": false
+    },
+    {
+      "doc_id": "KB-02",
+      "filename": "gerd& vomiting.docx",
+      "title": "gerd& vomiting",
+      "title_source": "filename_stem",
+      "source_path": "KB-02/gerd& vomiting.docx",
+      "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+      "paragraph_count": 172,
+      "heading_count": 22,
+      "source_heading_count": 22,
+      "inferred_label_count": 28,
+      "table_count": 19,
+      "chunk_count": 13,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the source Peptic Ulcer and GERD topic.",
+        "Block 60: These effects belong to the source Sucralfate subsection.",
+        "Block 65: These precautions belong to the source Sucralfate subsection.",
+        "Block 72: These effects belong to the source Bismuth subsection.",
+        "Block 77: These precautions belong to the source Bismuth subsection.",
+        "Block 106: Shared effects cover multiple antibiotic subclasses, not only the last subclass.",
+        "Block 114: Shared precautions cover the antibiotic section, including named Amoxicillin and Clarithromycin.",
+        "Block 121: This classification table covers the GERD drug classes; separate it from H. pylori precautions without inventing a heading.",
+        "Block 130: Shared antiemetic effects are not limited to the last 5-HT3 subclass.",
+        "Block 134: Shared antiemetic precautions are not limited to the last 5-HT3 subclass.",
+        "Block 193: The existing summary heading covers both source topics; do not nest the mixed table under vomiting alone."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the source Peptic Ulcer and GERD topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 60,
+          "reason": "These effects belong to the source Sucralfate subsection.",
+          "parent_position": 58
+        },
+        {
+          "position": 65,
+          "reason": "These precautions belong to the source Sucralfate subsection.",
+          "parent_position": 58
+        },
+        {
+          "position": 72,
+          "reason": "These effects belong to the source Bismuth subsection.",
+          "parent_position": 70
+        },
+        {
+          "position": 77,
+          "reason": "These precautions belong to the source Bismuth subsection.",
+          "parent_position": 70
+        },
+        {
+          "position": 106,
+          "reason": "Shared effects cover multiple antibiotic subclasses, not only the last subclass.",
+          "parent_position": 96
+        },
+        {
+          "position": 114,
+          "reason": "Shared precautions cover the antibiotic section, including named Amoxicillin and Clarithromycin.",
+          "parent_position": 96
+        },
+        {
+          "position": 121,
+          "reason": "This classification table covers the GERD drug classes; separate it from H. pylori precautions without inventing a heading.",
+          "parent_position": 1,
+          "new_section": true,
+          "topic_positions": [
+            1
+          ]
+        },
+        {
+          "position": 130,
+          "reason": "Shared antiemetic effects are not limited to the last 5-HT3 subclass.",
+          "parent_position": 124
+        },
+        {
+          "position": 134,
+          "reason": "Shared antiemetic precautions are not limited to the last 5-HT3 subclass.",
+          "parent_position": 124
+        },
+        {
+          "position": 193,
+          "reason": "The existing summary heading covers both source topics; do not nest the mixed table under vomiting alone.",
+          "heading_level": 1,
+          "parent_position": null,
+          "topic_positions": [
+            1,
+            123
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            4
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            19
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            33
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            46
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            59
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            71
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            84
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            99
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            101
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            103
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            105
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            121
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            127
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            129
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            141
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            158
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            160
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            182
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            194
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Peptic Ulcer and GERD topic.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These effects belong to the source Sucralfate subsection.",
+          "block_positions": [
+            60
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These precautions belong to the source Sucralfate subsection.",
+          "block_positions": [
+            65
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These effects belong to the source Bismuth subsection.",
+          "block_positions": [
+            72
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These precautions belong to the source Bismuth subsection.",
+          "block_positions": [
+            77
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Shared effects cover multiple antibiotic subclasses, not only the last subclass.",
+          "block_positions": [
+            106
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Shared precautions cover the antibiotic section, including named Amoxicillin and Clarithromycin.",
+          "block_positions": [
+            114
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "This classification table covers the GERD drug classes; separate it from H. pylori precautions without inventing a heading.",
+          "block_positions": [
+            121
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Shared antiemetic effects are not limited to the last 5-HT3 subclass.",
+          "block_positions": [
+            130
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Shared antiemetic precautions are not limited to the last 5-HT3 subclass.",
+          "block_positions": [
+            134
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The existing summary heading covers both source topics; do not nest the mixed table under vomiting alone.",
+          "block_positions": [
+            193
+          ]
+        }
+      ],
+      "requires_review": false
+    },
+    {
+      "doc_id": "KB-03",
+      "filename": "pain headache ibs arthritis.docx",
+      "title": "pain headache ibs arthritis",
+      "title_source": "filename_stem",
+      "source_path": "KB-03/pain headache ibs arthritis.docx",
+      "source_sha256": "43471ade85a430db5a8d5072bb4f4de5fc582f0145150221f2790b4ba3107e7f",
+      "paragraph_count": 171,
+      "heading_count": 17,
+      "source_heading_count": 15,
+      "inferred_label_count": 33,
+      "table_count": 15,
+      "chunk_count": 12,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the source Pain and Fever topic.",
+        "Block 91: The original Aspirin label scopes the following table and warnings.",
+        "Block 93: These effects belong to the source Aspirin subsection.",
+        "Block 99: These cautions belong to the source Aspirin subsection.",
+        "Block 105: The original Topical Salicylates label begins a sibling subsection.",
+        "Block 107: These effects belong to the source Topical Salicylates subsection.",
+        "Block 112: These cautions belong to the source Topical Salicylates subsection.",
+        "Block 120: Retain the source Headache and Migraine topic."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "460112a8ac48257e89fc1ae6c353d6cb07407f6860d264190f327ef356d64caf",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the source Pain and Fever topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 91,
+          "reason": "The original Aspirin label scopes the following table and warnings.",
+          "heading_level": 3
+        },
+        {
+          "position": 93,
+          "reason": "These effects belong to the source Aspirin subsection.",
+          "parent_position": 91
+        },
+        {
+          "position": 99,
+          "reason": "These cautions belong to the source Aspirin subsection.",
+          "parent_position": 91
+        },
+        {
+          "position": 105,
+          "reason": "The original Topical Salicylates label begins a sibling subsection.",
+          "heading_level": 3
+        },
+        {
+          "position": 107,
+          "reason": "These effects belong to the source Topical Salicylates subsection.",
+          "parent_position": 105
+        },
+        {
+          "position": 112,
+          "reason": "These cautions belong to the source Topical Salicylates subsection.",
+          "parent_position": 105
+        },
+        {
+          "position": 120,
+          "reason": "Retain the source Headache and Migraine topic.",
+          "heading_level": 1
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            5
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            19
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            40
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            56
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            76
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            92
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            106
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            118
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            124
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            135
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            153
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            169
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            183
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            186
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            188
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Pain and Fever topic.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The original Aspirin label scopes the following table and warnings.",
+          "block_positions": [
+            91
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These effects belong to the source Aspirin subsection.",
+          "block_positions": [
+            93
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These cautions belong to the source Aspirin subsection.",
+          "block_positions": [
+            99
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The original Topical Salicylates label begins a sibling subsection.",
+          "block_positions": [
+            105
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These effects belong to the source Topical Salicylates subsection.",
+          "block_positions": [
+            107
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These cautions belong to the source Topical Salicylates subsection.",
+          "block_positions": [
+            112
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Headache and Migraine topic.",
+          "block_positions": [
+            120
+          ]
+        }
+      ],
+      "requires_review": false
+    },
+    {
+      "doc_id": "KB-04",
+      "filename": "pharyngitis.docx",
+      "title": "pharyngitis",
+      "title_source": "filename_stem",
+      "source_path": "KB-04/pharyngitis.docx",
+      "source_sha256": "f96a6761b5b48dc87330187a977e9771b249a49c042f3d77773ab32a9582f686",
+      "paragraph_count": 74,
+      "heading_count": 11,
+      "source_heading_count": 11,
+      "inferred_label_count": 11,
+      "table_count": 9,
+      "chunk_count": 6,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the source Pharyngitis and Tonsillitis topic.",
+        "Block 67: Shared effects cover multiple antibiotic classes, not only Lincosamides.",
+        "Block 75: Shared precautions explicitly cover Penicillins, Cephalosporins, Macrolides, and Clindamycin."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "699e4d8f75e5ef29e12fe6850f2f8dbc4625d658cdac31be8a05e70520693240",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the source Pharyngitis and Tonsillitis topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 67,
+          "reason": "Shared effects cover multiple antibiotic classes, not only Lincosamides.",
+          "parent_position": 57
+        },
+        {
+          "position": 75,
+          "reason": "Shared precautions explicitly cover Penicillins, Cephalosporins, Macrolides, and Clindamycin.",
+          "parent_position": 57
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            4
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            16
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            27
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            44
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            60
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            62
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            64
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            66
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            83
+          ]
+        },
+        {
+          "code": "blank_table_value",
+          "severity": "review",
+          "message": "A nonempty source data row contains a blank value; no missing value was inferred",
+          "block_positions": [
+            83
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Pharyngitis and Tonsillitis topic.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Shared effects cover multiple antibiotic classes, not only Lincosamides.",
+          "block_positions": [
+            67
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Shared precautions explicitly cover Penicillins, Cephalosporins, Macrolides, and Clindamycin.",
+          "block_positions": [
+            75
+          ]
+        }
+      ],
+      "requires_review": true
+    },
+    {
+      "doc_id": "KB-05",
+      "filename": "أدوية الالتهاب الرئوي.docx",
+      "title": "أدوية الالتهاب الرئوي",
+      "title_source": "filename_stem",
+      "source_path": "KB-05/أدوية الالتهاب الرئوي.docx",
+      "source_sha256": "e7586dd8655433959b092182de1376fbaf9535d209d468c8df09d7291b71db90",
+      "paragraph_count": 112,
+      "heading_count": 10,
+      "source_heading_count": 10,
+      "inferred_label_count": 14,
+      "table_count": 8,
+      "chunk_count": 9,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the original opening topic as a root; preserve its text and duplicate numbering.",
+        "Block 2: The second original Pneumonia heading is the root of the following material; keep both source headings verbatim."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "246454328a3dcf03559bb2cfcb37cc651e78a44948ef98c86435c3069ac469c0",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the original opening topic as a root; preserve its text and duplicate numbering.",
+          "heading_level": 1
+        },
+        {
+          "position": 2,
+          "reason": "The second original Pneumonia heading is the root of the following material; keep both source headings verbatim.",
+          "heading_level": 1
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            7
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            22
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            38
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            54
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            73
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            88
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            103
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            119
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original opening topic as a root; preserve its text and duplicate numbering.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The second original Pneumonia heading is the root of the following material; keep both source headings verbatim.",
+          "block_positions": [
+            2
+          ]
+        }
+      ],
+      "requires_review": false
+    },
+    {
+      "doc_id": "KB-06",
+      "filename": "ادويه الحساسيه و الجيوب الانفيه.docx",
+      "title": "ادويه الحساسيه و الجيوب الانفيه",
+      "title_source": "filename_stem",
+      "source_path": "KB-06/ادويه الحساسيه و الجيوب الانفيه.docx",
+      "source_sha256": "c0895dd47a61654c20b7080c7bb055010f439d84aa5c286ceab0c9db5d5505b3",
+      "paragraph_count": 244,
+      "heading_count": 28,
+      "source_heading_count": 18,
+      "inferred_label_count": 25,
+      "table_count": 16,
+      "chunk_count": 16,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the source Allergic Diseases topic.",
+        "Block 40: The source side-effects label is the parent of the following route-specific labels.",
+        "Block 41: Retain the original Intranasal effects label beneath side effects.",
+        "Block 46: Retain the original Topical effects label beneath side effects.",
+        "Block 51: Retain the original Systemic effects label beneath side effects.",
+        "Block 58: These precautions apply to the Corticosteroids class, not only its final route label.",
+        "Block 149: Retain the source Sinusitis topic.",
+        "Block 183: The source side-effects label contains route-specific decongestant effects.",
+        "Block 184: Retain the original topical nasal decongestant effects label.",
+        "Block 189: Retain the original oral decongestant effects label.",
+        "Block 195: These precautions apply to the Decongestants class.",
+        "Block 207: The source side-effects label contains named analgesic groups.",
+        "Block 208: Retain the original Paracetamol effects label.",
+        "Block 212: Retain the original NSAID effects label.",
+        "Block 219: These precautions apply to the Analgesics section, not only the last subgroup."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "e7a7dcfd45aa4de5b0c77861e84526b1aaa710005925dce8c513ea2da0818511",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the source Allergic Diseases topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 40,
+          "reason": "The source side-effects label is the parent of the following route-specific labels.",
+          "heading_level": 3
+        },
+        {
+          "position": 41,
+          "reason": "Retain the original Intranasal effects label beneath side effects.",
+          "heading_level": 4
+        },
+        {
+          "position": 46,
+          "reason": "Retain the original Topical effects label beneath side effects.",
+          "heading_level": 4
+        },
+        {
+          "position": 51,
+          "reason": "Retain the original Systemic effects label beneath side effects.",
+          "heading_level": 4
+        },
+        {
+          "position": 58,
+          "reason": "These precautions apply to the Corticosteroids class, not only its final route label.",
+          "parent_position": 37
+        },
+        {
+          "position": 149,
+          "reason": "Retain the source Sinusitis topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 183,
+          "reason": "The source side-effects label contains route-specific decongestant effects.",
+          "heading_level": 3
+        },
+        {
+          "position": 184,
+          "reason": "Retain the original topical nasal decongestant effects label.",
+          "heading_level": 4
+        },
+        {
+          "position": 189,
+          "reason": "Retain the original oral decongestant effects label.",
+          "heading_level": 4
+        },
+        {
+          "position": 195,
+          "reason": "These precautions apply to the Decongestants class.",
+          "parent_position": 180
+        },
+        {
+          "position": 207,
+          "reason": "The source side-effects label contains named analgesic groups.",
+          "heading_level": 3
+        },
+        {
+          "position": 208,
+          "reason": "Retain the original Paracetamol effects label.",
+          "heading_level": 4
+        },
+        {
+          "position": 212,
+          "reason": "Retain the original NSAID effects label.",
+          "heading_level": 4
+        },
+        {
+          "position": 219,
+          "reason": "These precautions apply to the Analgesics section, not only the last subgroup.",
+          "parent_position": 204
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            4
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            22
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            39
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            67
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            83
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            98
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            114
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            131
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            147
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            152
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            167
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            182
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            206
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            229
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            244
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            261
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Allergic Diseases topic.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The source side-effects label is the parent of the following route-specific labels.",
+          "block_positions": [
+            40
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original Intranasal effects label beneath side effects.",
+          "block_positions": [
+            41
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original Topical effects label beneath side effects.",
+          "block_positions": [
+            46
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original Systemic effects label beneath side effects.",
+          "block_positions": [
+            51
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These precautions apply to the Corticosteroids class, not only its final route label.",
+          "block_positions": [
+            58
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Sinusitis topic.",
+          "block_positions": [
+            149
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The source side-effects label contains route-specific decongestant effects.",
+          "block_positions": [
+            183
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original topical nasal decongestant effects label.",
+          "block_positions": [
+            184
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original oral decongestant effects label.",
+          "block_positions": [
+            189
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These precautions apply to the Decongestants class.",
+          "block_positions": [
+            195
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The source side-effects label contains named analgesic groups.",
+          "block_positions": [
+            207
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original Paracetamol effects label.",
+          "block_positions": [
+            208
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original NSAID effects label.",
+          "block_positions": [
+            212
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "These precautions apply to the Analgesics section, not only the last subgroup.",
+          "block_positions": [
+            219
+          ]
+        }
+      ],
+      "requires_review": false
+    },
+    {
+      "doc_id": "KB-07",
+      "filename": "ادويه السكر.docx",
+      "title": "ادويه السكر",
+      "title_source": "filename_stem",
+      "source_path": "KB-07/ادويه السكر.docx",
+      "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+      "paragraph_count": 120,
+      "heading_count": 42,
+      "source_heading_count": 37,
+      "inferred_label_count": 3,
+      "table_count": 22,
+      "chunk_count": 9,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the source Antidiabetic Drugs topic.",
+        "Block 127: Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "Block 129: Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "Block 131: Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "Block 133: Retain this original lettered insulin subtype beneath the medication-list heading.",
+        "Block 135: Retain this original lettered insulin subtype beneath the medication-list heading."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the source Antidiabetic Drugs topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 127,
+          "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "heading_level": 4
+        },
+        {
+          "position": 129,
+          "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "heading_level": 4
+        },
+        {
+          "position": 131,
+          "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "heading_level": 4
+        },
+        {
+          "position": 133,
+          "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "heading_level": 4
+        },
+        {
+          "position": 135,
+          "reason": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "heading_level": 4
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            6
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            8
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            19
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            21
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            34
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            36
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            47
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            49
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            64
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            66
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            80
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            82
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            94
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            96
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            108
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            110
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            128
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            130
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            132
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            134
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            136
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            138
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Antidiabetic Drugs topic.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "block_positions": [
+            127
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "block_positions": [
+            129
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "block_positions": [
+            131
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "block_positions": [
+            133
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain this original lettered insulin subtype beneath the medication-list heading.",
+          "block_positions": [
+            135
+          ]
+        }
+      ],
+      "requires_review": false
+    },
+    {
+      "doc_id": "KB-08",
+      "filename": "ادويه الضغط و الكوليسترول.docx",
+      "title": "ادويه الضغط و الكوليسترول",
+      "title_source": "filename_stem",
+      "source_path": "KB-08/ادويه الضغط و الكوليسترول.docx",
+      "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+      "paragraph_count": 204,
+      "heading_count": 65,
+      "source_heading_count": 58,
+      "inferred_label_count": 9,
+      "table_count": 30,
+      "chunk_count": 14,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 1: Retain the source Antihypertensive Drugs topic.",
+        "Block 69: This source label introduces the Thiazide medication table, not a new drug class.",
+        "Block 129: Retain the source Dyslipidemia topic.",
+        "Block 143: The original Important interactions label is a sibling of Contraindications.",
+        "Block 152: The original Combination products label is a subsection of the medication list.",
+        "Block 170: The plain source Side Effects paragraph labels the following side-effect table.",
+        "Block 177: Fibrates is a sibling drug class; the source styles it at level 3.",
+        "Block 195: Retain Omega-3 as a sibling class; duplicate source number 4 is preserved, not corrected in text.",
+        "Block 217: Retain the original Cholestyramine subsection beneath the medication list.",
+        "Block 219: Retain the original Colesevelam subsection beneath the medication list.",
+        "Block 229: The original Important drug interactions label is a class-level subsection.",
+        "Block 230: Retain the original introductory interaction-list label beneath Important drug interactions."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530",
+      "applied_corrections": [
+        {
+          "position": 1,
+          "reason": "Retain the source Antihypertensive Drugs topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 69,
+          "reason": "This source label introduces the Thiazide medication table, not a new drug class.",
+          "parent_position": 68
+        },
+        {
+          "position": 129,
+          "reason": "Retain the source Dyslipidemia topic.",
+          "heading_level": 1
+        },
+        {
+          "position": 143,
+          "reason": "The original Important interactions label is a sibling of Contraindications.",
+          "heading_level": 3
+        },
+        {
+          "position": 152,
+          "reason": "The original Combination products label is a subsection of the medication list.",
+          "heading_level": 4
+        },
+        {
+          "position": 170,
+          "reason": "The plain source Side Effects paragraph labels the following side-effect table.",
+          "heading_level": 3
+        },
+        {
+          "position": 177,
+          "reason": "Fibrates is a sibling drug class; the source styles it at level 3.",
+          "heading_level": 2
+        },
+        {
+          "position": 195,
+          "reason": "Retain Omega-3 as a sibling class; duplicate source number 4 is preserved, not corrected in text.",
+          "heading_level": 2
+        },
+        {
+          "position": 217,
+          "reason": "Retain the original Cholestyramine subsection beneath the medication list.",
+          "heading_level": 4
+        },
+        {
+          "position": 219,
+          "reason": "Retain the original Colesevelam subsection beneath the medication list.",
+          "heading_level": 4
+        },
+        {
+          "position": 229,
+          "reason": "The original Important drug interactions label is a class-level subsection.",
+          "heading_level": 3
+        },
+        {
+          "position": 230,
+          "reason": "Retain the original introductory interaction-list label beneath Important drug interactions.",
+          "heading_level": 4
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            6
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            8
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            19
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            21
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            38
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            40
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            55
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            57
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            70
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            72
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            87
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            89
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            104
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            106
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            120
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            122
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            134
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            136
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            151
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            153
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            155
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            169
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            171
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            185
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            187
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            202
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            204
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            218
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            220
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            222
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Antihypertensive Drugs topic.",
+          "block_positions": [
+            1
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "This source label introduces the Thiazide medication table, not a new drug class.",
+          "block_positions": [
+            69
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the source Dyslipidemia topic.",
+          "block_positions": [
+            129
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The original Important interactions label is a sibling of Contraindications.",
+          "block_positions": [
+            143
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The original Combination products label is a subsection of the medication list.",
+          "block_positions": [
+            152
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The plain source Side Effects paragraph labels the following side-effect table.",
+          "block_positions": [
+            170
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Fibrates is a sibling drug class; the source styles it at level 3.",
+          "block_positions": [
+            177
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain Omega-3 as a sibling class; duplicate source number 4 is preserved, not corrected in text.",
+          "block_positions": [
+            195
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original Cholestyramine subsection beneath the medication list.",
+          "block_positions": [
+            217
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original Colesevelam subsection beneath the medication list.",
+          "block_positions": [
+            219
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The original Important drug interactions label is a class-level subsection.",
+          "block_positions": [
+            229
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "Retain the original introductory interaction-list label beneath Important drug interactions.",
+          "block_positions": [
+            230
+          ]
+        }
+      ],
+      "requires_review": false
+    },
+    {
+      "doc_id": "KB-09",
+      "filename": "ادويه القولون و التهابات المفاصل.docx",
+      "title": "ادويه القولون و التهابات المفاصل",
+      "title_source": "filename_stem",
+      "source_path": "KB-09/ادويه القولون و التهابات المفاصل.docx",
+      "source_sha256": "ad3234862fed2baae733f79081b3f2366e577fe8a2d4cae447fdfa8985e33c95",
+      "paragraph_count": 209,
+      "heading_count": 16,
+      "source_heading_count": 16,
+      "inferred_label_count": 41,
+      "table_count": 15,
+      "chunk_count": 14,
+      "oversized_chunk_ids": [],
+      "notes": [
+        "Block 223: The existing summary covers IBS and Arthritis; retain both source topics without assigning the table to Arthritis alone."
+      ],
+      "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+      "build_id": "e74292732f82cd6e345023c07e62b883a9a3148b75a455469709a90f7fab4862",
+      "applied_corrections": [
+        {
+          "position": 223,
+          "reason": "The existing summary covers IBS and Arthritis; retain both source topics without assigning the table to Arthritis alone.",
+          "heading_level": 1,
+          "parent_position": null,
+          "topic_positions": [
+            1,
+            115
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            5
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            23
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            39
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            55
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            70
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            85
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            104
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            119
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            138
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            157
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            159
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            170
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            188
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            213
+          ]
+        },
+        {
+          "code": "inferred_table_header",
+          "severity": "info",
+          "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+          "block_positions": [
+            224
+          ]
+        },
+        {
+          "code": "reviewed_structure_correction",
+          "severity": "info",
+          "message": "The existing summary covers IBS and Arthritis; retain both source topics without assigning the table to Arthritis alone.",
+          "block_positions": [
+            223
+          ]
+        }
+      ],
+      "requires_review": false
+    }
+  ],
+  "issue_counts": {
+    "info": 213,
+    "review": 1
+  }
+}

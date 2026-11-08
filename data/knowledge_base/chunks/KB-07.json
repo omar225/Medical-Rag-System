@@ -1,0 +1,720 @@
+[
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0001",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 1. Biguanides",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "1. Biguanides"
+    ],
+    "section_start": 2,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n1. Biguanides\nPrescription Only\nالاستخدام: علاج Type 2 Diabetes.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nGlucophage | Metformin\nGlucophage XR | Metformin\nCidophage | Metformin\nAmophage | Metformin\nDiaphage | Metformin\nMaxophage | Metformin\nMaxophage XR | Metformin\nMepaphage | Metformin\nMepaphage XR | Metformin\nMetianormin | Metformin\nAndoglycemic XR | Metformin\nEaformeat | Metformin\n\nSide Effects\n\nSide effect | التوضيح\nNausea | غثيان\nDiarrhea | إسهال\nVomiting | قيء\nAbdominal discomfort | ألم وعدم ارتياح بالبطن\nMetallic taste | طعم معدني بالفم\nVitamin B12 deficiency | نقص فيتامين B12 مع الاستخدام الطويل\nLactic acidosis | حماض لاكتيكي، نادر لكنه خطير\n\nContraindications\nSevere renal impairment: eGFR أقل من 30 mL/min/1.73m².\nMetabolic acidosis: بما فيها Diabetic Ketoacidosis.\nSevere hypoxia: مثل بعض حالات Shock أو Acute respiratory failure.\nSevere hepatic impairment: زيادة خطر Lactic acidosis.\nSevere dehydration: خصوصاً مع القيء والإسهال الشديد.",
+    "source_spans": [
+      {
+        "block_position": 1
+      },
+      {
+        "block_position": 2
+      },
+      {
+        "block_position": 3
+      },
+      {
+        "block_position": 4
+      },
+      {
+        "block_position": 5
+      },
+      {
+        "block_position": 6,
+        "row_start": 2,
+        "row_end": 13
+      },
+      {
+        "block_position": 7
+      },
+      {
+        "block_position": 8,
+        "row_start": 2,
+        "row_end": 8
+      },
+      {
+        "block_position": 9
+      },
+      {
+        "block_position": 10
+      },
+      {
+        "block_position": 11
+      },
+      {
+        "block_position": 12
+      },
+      {
+        "block_position": 13
+      },
+      {
+        "block_position": 14
+      }
+    ],
+    "char_count": 1018,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0002",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 2. Sulfonylureas",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "2. Sulfonylureas"
+    ],
+    "section_start": 15,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n2. Sulfonylureas\nPrescription Only\nالاستخدام: علاج Type 2 Diabetes.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nAmaryl | Glimepiride\nGlimadel | Glimepiride\nGlimepiride MUP | Glimepiride\nGlucoryl | Glimepiride\nDiabinese | Chlorpropamide\nDiamicron | Gliclazide\nDiamicron MR | Gliclazide\nDiabeton | Gliclazide\nGliclazide MUP | Gliclazide\nMinidiab | Glipizide\nDaonil | Glibenclamide\nEuglucon | Glibenclamide\nGlibenclamide MUP | Glibenclamide\nAmaryl M* | Glimepiride + Metformin\n\nSide Effects\n\nSide effect | التوضيح\nHypoglycemia | انخفاض سكر الدم، أهم عرض جانبي\nWeight gain | زيادة الوزن\nNausea | غثيان\nVomiting | قيء\nHeadache | صداع\nDizziness | دوخة\nSkin rash | طفح جلدي\nPhotosensitivity | حساسية للشمس\nHyponatremia | انخفاض الصوديوم، خصوصاً Chlorpropamide\n\nContraindications\nType 1 Diabetes: غير مخصصة لعلاجه.\nDiabetic Ketoacidosis (DKA).\nSevere hypoglycemia: انخفاض السكر الشديد أو المتكرر.\nSevere hepatic impairment: قصور كبدي شديد.\nSevere renal impairment: خصوصاً مع بعض الأنواع مثل Glibenclamide.\nPregnancy: ليست الاختيار المعتاد لعلاج السكر أثناء الحمل.\nHypersensitivity: حساسية للمادة الفعالة.",
+    "source_spans": [
+      {
+        "block_position": 15
+      },
+      {
+        "block_position": 16
+      },
+      {
+        "block_position": 17
+      },
+      {
+        "block_position": 18
+      },
+      {
+        "block_position": 19,
+        "row_start": 2,
+        "row_end": 15
+      },
+      {
+        "block_position": 20
+      },
+      {
+        "block_position": 21,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 22
+      },
+      {
+        "block_position": 23
+      },
+      {
+        "block_position": 24
+      },
+      {
+        "block_position": 25
+      },
+      {
+        "block_position": 26
+      },
+      {
+        "block_position": 27
+      },
+      {
+        "block_position": 28
+      },
+      {
+        "block_position": 29
+      }
+    ],
+    "char_count": 1155,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0003",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 3. Meglitinides",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "3. Meglitinides"
+    ],
+    "section_start": 30,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n3. Meglitinides\nPrescription Only\nالاستخدام: علاج Type 2 Diabetes، خصوصاً التحكم في Postprandial Hyperglycemia.\n\nالأدوية\n\nBrand name | Active ingredient\nNovoNorm | Repaglinide\nPrandin | Repaglinide\nStarlix | Nateglinide\n\nSide Effects\n\nSide effect | التوضيح\nHypoglycemia | انخفاض السكر\nWeight gain | زيادة الوزن\nHeadache | صداع\nDizziness | دوخة\nNausea | غثيان\nDiarrhea | إسهال\nUpper respiratory infections | التهابات الجهاز التنفسي العلوي\n\nContraindications\nType 1 Diabetes.\nDiabetic Ketoacidosis.\nSevere hepatic impairment.\nHypersensitivity to Repaglinide / Nateglinide.\nGemfibrozil with Repaglinide: الجمع بينهما ممنوع بسبب زيادة تركيز Repaglinide وخطر Hypoglycemia.",
+    "source_spans": [
+      {
+        "block_position": 30
+      },
+      {
+        "block_position": 31
+      },
+      {
+        "block_position": 32
+      },
+      {
+        "block_position": 33
+      },
+      {
+        "block_position": 34,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 35
+      },
+      {
+        "block_position": 36,
+        "row_start": 2,
+        "row_end": 8
+      },
+      {
+        "block_position": 37
+      },
+      {
+        "block_position": 38
+      },
+      {
+        "block_position": 39
+      },
+      {
+        "block_position": 40
+      },
+      {
+        "block_position": 41
+      },
+      {
+        "block_position": 42
+      }
+    ],
+    "char_count": 704,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0004",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 4. DPP-4 Inhibitors (Gliptins)",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "4. DPP-4 Inhibitors (Gliptins)"
+    ],
+    "section_start": 43,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n4. DPP-4 Inhibitors (Gliptins)\nPrescription Only\nالاستخدام: علاج Type 2 Diabetes.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nJanuvia | Sitagliptin\nJanaglip | Sitagliptin\nGliptadalo | Sitagliptin\nPharmabetic | Sitagliptin\nGalvus | Vildagliptin\nJalra | Vildagliptin\nTrajenta | Linagliptin\nLinga | Linagliptin\nOnglyza | Saxagliptin\nSaxaptin | Saxagliptin\nFormigliptin | Saxagliptin\nVipidia | Alogliptin\nNesina | Alogliptin\nJanumet* | Sitagliptin + Metformin\nEucreas* | Vildagliptin + Metformin\n\nSide Effects\n\nSide effect | التوضيح\nHeadache | صداع\nNasopharyngitis | التهاب الأنف والبلعوم\nUpper respiratory infections | التهابات الجهاز التنفسي العلوي\nNausea | غثيان\nHypoglycemia | انخفاض السكر، خصوصاً عند الجمع مع Sulfonylureas أو Insulin\nJoint pain | آلام المفاصل الشديدة أحياناً\nPancreatitis | التهاب البنكرياس، نادر\nSkin reactions | طفح جلدي وحساسية\nBullous pemphigoid | مرض جلدي فقاعي نادر\n\nContraindications\nHypersensitivity: حساسية شديدة للمادة الفعالة.\nHistory of serious allergic reactions: مثل Anaphylaxis أو Angioedema بسبب DPP-4 inhibitors.\nType 1 Diabetes: ليست مخصصة لعلاجه.\nDiabetic Ketoacidosis: لا تستخدم لعلاجها.\nHistory of pancreatitis: الحذر والتقييم الطبي، وليس مانعاً مطلقاً لكل أفراد المجموعة.\nHeart failure: الحذر مع Saxagliptin، خصوصاً في المرضى المعرضين لفشل القلب.",
+    "source_spans": [
+      {
+        "block_position": 43
+      },
+      {
+        "block_position": 44
+      },
+      {
+        "block_position": 45
+      },
+      {
+        "block_position": 46
+      },
+      {
+        "block_position": 47,
+        "row_start": 2,
+        "row_end": 16
+      },
+      {
+        "block_position": 48
+      },
+      {
+        "block_position": 49,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 50
+      },
+      {
+        "block_position": 51
+      },
+      {
+        "block_position": 52
+      },
+      {
+        "block_position": 53
+      },
+      {
+        "block_position": 54
+      },
+      {
+        "block_position": 55
+      },
+      {
+        "block_position": 56
+      }
+    ],
+    "char_count": 1346,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0005",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 5. SGLT2 Inhibitors (Gliflozins)",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "5. SGLT2 Inhibitors (Gliflozins)"
+    ],
+    "section_start": 57,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n5. SGLT2 Inhibitors (Gliflozins)\nPrescription Only\n\nالاستخدام:\nType 2 Diabetes.\nHeart Failure.\nChronic Kidney Disease (CKD) لبعض الأدوية، حتى في بعض المرضى غير المصابين بالسكري.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nForxiga | Dapagliflozin\nDapablix | Dapagliflozin\nDexigloflozin | Dapagliflozin\nDapilart | Dapagliflozin\nGliflozino | Dapagliflozin\nZegapets | Dapagliflozin\nDiglifloz | Dapagliflozin\nJardiance | Empagliflozin\nEmpaglimax | Empagliflozin\nAtcogliflozin | Empagliflozin\nDiacurimap | Empagliflozin\nMellitofix | Empagliflozin\nGlimpacare | Empagliflozin\nInvokana | Canagliflozin\nSteglatro | Ertugliflozin\n\nSide Effects\n\nSide effect | التوضيح\nGenital fungal infections | التهابات فطرية بالأعضاء التناسلية\nUrinary tract infections | التهابات المسالك البولية\nPolyuria | زيادة التبول\nDehydration | جفاف\nHypotension | انخفاض ضغط الدم\nDizziness | دوخة\nEuglycemic DKA | Diabetic Ketoacidosis حتى لو السكر مش مرتفع جداً\nIncreased urination | زيادة إخراج البول\nFournier's gangrene | عدوى نادرة وخطيرة في منطقة العجان\n\nContraindications\nType 1 Diabetes: لا تستخدم روتينياً لعلاجه بسبب خطر DKA.\nActive Diabetic Ketoacidosis.\nSevere dehydration: الجفاف الشديد.\nSevere hypersensitivity: حساسية شديدة للمادة الفعالة.\nSevere renal impairment: قد يمنع الاستخدام أو يقلل فائدته لعلاج السكر حسب eGFR والمنتج، مع اختلاف حدود الاستخدام حسب دواعي العلاج.",
+    "source_spans": [
+      {
+        "block_position": 57
+      },
+      {
+        "block_position": 58
+      },
+      {
+        "block_position": 59
+      },
+      {
+        "block_position": 60
+      },
+      {
+        "block_position": 61
+      },
+      {
+        "block_position": 62
+      },
+      {
+        "block_position": 63
+      },
+      {
+        "block_position": 64,
+        "row_start": 2,
+        "row_end": 16
+      },
+      {
+        "block_position": 65
+      },
+      {
+        "block_position": 66,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 67
+      },
+      {
+        "block_position": 68
+      },
+      {
+        "block_position": 69
+      },
+      {
+        "block_position": 70
+      },
+      {
+        "block_position": 71
+      },
+      {
+        "block_position": 72
+      }
+    ],
+    "char_count": 1406,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0006",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 6. GLP-1 Receptor Agonists",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "6. GLP-1 Receptor Agonists"
+    ],
+    "section_start": 73,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n6. GLP-1 Receptor Agonists\nPrescription Only\n\nالاستخدام:\nType 2 Diabetes.\nObesity / Weight management لبعض الأدوية.\nتقليل مخاطر Cardiovascular events في فئات معينة من المرضى.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nVictoza | Liraglutide\nSaxenda | Liraglutide\nTrulicity | Dulaglutide\nOzempic | Semaglutide\nRybelsus | Semaglutide\nByetta | Exenatide\nBydureon | Exenatide extended-release\n\nSide Effects\n\nSide effect | التوضيح\nNausea | غثيان، من أشهر الأعراض\nVomiting | قيء\nDiarrhea | إسهال\nConstipation | إمساك\nAbdominal pain | ألم بالبطن\nDecreased appetite | انخفاض الشهية\nGastroesophageal reflux | ارتجاع وحموضة\nGallbladder disease | مشاكل المرارة وحصواتها\nPancreatitis | التهاب البنكرياس\nHypoglycemia | انخفاض السكر، خصوصاً مع Insulin أو Sulfonylureas\n\nContraindications\nPersonal or family history of Medullary Thyroid Carcinoma (MTC): مانع استعمال مهم حسب تحذيرات بعض المنتجات، ومنها Semaglutide وLiraglutide.\nMultiple Endocrine Neoplasia type 2 (MEN2): حسب تحذيرات المنتجات المعنية.\nPrevious serious hypersensitivity: حساسية شديدة للمادة الفعالة.\nSevere gastroparesis: يُتجنب خصوصاً مع الحالات الشديدة.\nPregnancy: لا تستخدم لإنقاص الوزن أثناء الحمل، ويجب مراجعة تعليمات المنتج بالنسبة لعلاج السكر.\nHistory of pancreatitis: يحتاج تقييم وحذر طبي.",
+    "source_spans": [
+      {
+        "block_position": 73
+      },
+      {
+        "block_position": 74
+      },
+      {
+        "block_position": 75
+      },
+      {
+        "block_position": 76
+      },
+      {
+        "block_position": 77
+      },
+      {
+        "block_position": 78
+      },
+      {
+        "block_position": 79
+      },
+      {
+        "block_position": 80,
+        "row_start": 2,
+        "row_end": 8
+      },
+      {
+        "block_position": 81
+      },
+      {
+        "block_position": 82,
+        "row_start": 2,
+        "row_end": 11
+      },
+      {
+        "block_position": 83
+      },
+      {
+        "block_position": 84
+      },
+      {
+        "block_position": 85
+      },
+      {
+        "block_position": 86
+      },
+      {
+        "block_position": 87
+      },
+      {
+        "block_position": 88
+      },
+      {
+        "block_position": 89
+      }
+    ],
+    "char_count": 1308,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0007",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 7. Thiazolidinediones (TZDs)",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "7. Thiazolidinediones (TZDs)"
+    ],
+    "section_start": 90,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n7. Thiazolidinediones (TZDs)\nPrescription Only\nالاستخدام: علاج Type 2 Diabetes.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nActos | Pioglitazone\nGlustin | Pioglitazone\nGlitazone | Pioglitazone\nInsodine | Pioglitazone\nGlostazone | Pioglitazone\nGlitazine | Pioglitazone\nPioglit | Pioglitazone\nDiabetin | Pioglitazone\nPioglitazone MUP | Pioglitazone\nHigh Glitazone | Pioglitazone\n\nSide Effects\n\nSide effect | التوضيح\nWeight gain | زيادة الوزن\nPeripheral edema | تورم الأطراف\nFluid retention | احتباس السوائل\nHeart failure exacerbation | زيادة سوء فشل القلب\nHypoglycemia | انخفاض السكر عند الجمع مع أدوية أخرى\nBone fractures | زيادة خطر الكسور\nMacular edema | تورم مركز الإبصار\nAnemia | انخفاض الهيموجلوبين\n\nContraindications\nHeart Failure NYHA Class III or IV: فشل القلب الشديد.\nActive bladder cancer: سرطان المثانة النشط.\nUnexplained hematuria: وجود دم غير مفسر في البول يحتاج تقييم.\nSevere hepatic impairment: يحتاج تقييم وظائف الكبد.\nType 1 Diabetes: غير مخصص لعلاجه.\nDiabetic Ketoacidosis.",
+    "source_spans": [
+      {
+        "block_position": 90
+      },
+      {
+        "block_position": 91
+      },
+      {
+        "block_position": 92
+      },
+      {
+        "block_position": 93
+      },
+      {
+        "block_position": 94,
+        "row_start": 2,
+        "row_end": 11
+      },
+      {
+        "block_position": 95
+      },
+      {
+        "block_position": 96,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 97
+      },
+      {
+        "block_position": 98
+      },
+      {
+        "block_position": 99
+      },
+      {
+        "block_position": 100
+      },
+      {
+        "block_position": 101
+      },
+      {
+        "block_position": 102
+      },
+      {
+        "block_position": 103
+      }
+    ],
+    "char_count": 1049,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0008",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 8. Alpha-Glucosidase Inhibitors",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "8. Alpha-Glucosidase Inhibitors"
+    ],
+    "section_start": 104,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n8. Alpha-Glucosidase Inhibitors\nPrescription Only\nالاستخدام: علاج Type 2 Diabetes، خصوصاً التحكم في ارتفاع السكر بعد الوجبات (Postprandial Hyperglycemia).\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nGlucobay | Acarbose\nPrecose | Acarbose\nDiastabol | Miglitol\nGlyset | Miglitol\n\nSide Effects\n\nSide effect | التوضيح\nFlatulence | انتفاخ وغازات، أشهر عرض جانبي\nAbdominal pain | ألم بالبطن\nDiarrhea | إسهال\nBloating | انتفاخ\nNausea | غثيان\nElevated liver enzymes | ارتفاع إنزيمات الكبد، خصوصاً مع Acarbose\n\nContraindications\nInflammatory Bowel Disease (IBD): أمراض الأمعاء الالتهابية.\nIntestinal obstruction: انسداد الأمعاء.\nChronic intestinal disorders: أمراض الأمعاء المزمنة التي تؤثر على الهضم أو الامتصاص.\nIntestinal ulceration: تقرحات الأمعاء.\nSevere renal impairment: خصوصاً مع Acarbose.\nLiver cirrhosis: تليف الكبد، مانع مهم مع Acarbose.\nDiabetic Ketoacidosis.",
+    "source_spans": [
+      {
+        "block_position": 104
+      },
+      {
+        "block_position": 105
+      },
+      {
+        "block_position": 106
+      },
+      {
+        "block_position": 107
+      },
+      {
+        "block_position": 108,
+        "row_start": 2,
+        "row_end": 5
+      },
+      {
+        "block_position": 109
+      },
+      {
+        "block_position": 110,
+        "row_start": 2,
+        "row_end": 7
+      },
+      {
+        "block_position": 111
+      },
+      {
+        "block_position": 112
+      },
+      {
+        "block_position": 113
+      },
+      {
+        "block_position": 114
+      },
+      {
+        "block_position": 115
+      },
+      {
+        "block_position": 116
+      },
+      {
+        "block_position": 117
+      },
+      {
+        "block_position": 118
+      }
+    ],
+    "char_count": 921,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  },
+  {
+    "chunk_id": "KB-07-e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e-0009",
+    "doc_id": "KB-07",
+    "title": "ادويه السكر",
+    "section": "2. أدوية السكر – Antidiabetic Drugs > 9. Insulins",
+    "section_path": [
+      "2. أدوية السكر – Antidiabetic Drugs",
+      "9. Insulins"
+    ],
+    "section_start": 119,
+    "filename": "ادويه السكر.docx",
+    "text": "2. أدوية السكر – Antidiabetic Drugs\n\n9. Insulins\nPrescription Only\n\nالاستخدام:\nType 1 Diabetes.\nType 2 Diabetes في حالات معينة.\nGestational Diabetes في حالات تستدعي العلاج بالإنسولين.\nDiabetic emergencies حسب نوع الإنسولين والبروتوكول العلاجي.\n\nالأدوية الموجودة في السوق المصري\n\nA. Rapid-acting Insulin\n\nBrand name | Active ingredient\nNovoRapid | Insulin Aspart\nNovoRapid FlexPen | Insulin Aspart\nFiasp | Faster-acting Insulin Aspart\nHumalog | Insulin Lispro\nApidra | Insulin Glulisine\n\nB. Short-acting Insulin\n\nBrand name | Active ingredient\nActrapid | Regular Human Insulin\nHumulin R | Regular Human Insulin\nInsulinagypt R | Regular Human Insulin\n\nC. Intermediate-acting Insulin\n\nBrand name | Active ingredient\nInsulatard | NPH Insulin\nHumulin N | NPH Insulin\nInsulinagypt N | NPH Insulin\n\nD. Long-acting / Ultra-long-acting Insulin\n\nBrand name | Active ingredient\nLantus | Insulin Glargine\nToujeo | Insulin Glargine U-300\nBasaglar | Insulin Glargine\nGlargivin | Insulin Glargine\nLevemir | Insulin Detemir\nTresiba | Insulin Degludec\n\nE. Premixed Insulin\n\nBrand name | Active ingredient\nMixtard 30 | 30% Soluble Insulin + 70% Isophane Insulin\nNovoMix 30 | 30% Insulin Aspart + 70% Protamine-crystallized Aspart\nHumalog Mix 25 | 25% Insulin Lispro + 75% Insulin Lispro Protamine\nHumalog Mix 50 | 50% Insulin Lispro + 50% Insulin Lispro Protamine\nInsulinagypt 70/30 | 30% Regular Insulin + 70% NPH Insulin\nHumulin 70/30 | 30% Regular Insulin + 70% NPH Insulin\n\nSide Effects\n\nSide effect | التوضيح\nHypoglycemia | انخفاض سكر الدم، أهم وأشهر عرض جانبي\nWeight gain | زيادة الوزن\nInjection site reactions | احمرار أو ألم مكان الحقن\nLipohypertrophy | تراكم الدهون تحت الجلد في مكان الحقن المتكرر\nLipodystrophy | تغير توزيع الدهون مكان الحقن\nEdema | احتباس السوائل وتورم الأطراف\nHypokalemia | انخفاض البوتاسيوم\nAllergic reactions | تفاعلات الحساسية\n\nContraindications\nCurrent hypoglycemia: انخفاض السكر وقت إعطاء الجرعة.\nHypersensitivity to insulin: حساسية شديدة للإنسولين أو مكونات المستحضر.\nIncorrect insulin administration: إعطاء نوع أو جرعة غير مناسبة قد يسبب Hypoglycemia خطيرة.",
+    "source_spans": [
+      {
+        "block_position": 119
+      },
+      {
+        "block_position": 120
+      },
+      {
+        "block_position": 121
+      },
+      {
+        "block_position": 122
+      },
+      {
+        "block_position": 123
+      },
+      {
+        "block_position": 124
+      },
+      {
+        "block_position": 125
+      },
+      {
+        "block_position": 126
+      },
+      {
+        "block_position": 127
+      },
+      {
+        "block_position": 128,
+        "row_start": 2,
+        "row_end": 6
+      },
+      {
+        "block_position": 129
+      },
+      {
+        "block_position": 130,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 131
+      },
+      {
+        "block_position": 132,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 133
+      },
+      {
+        "block_position": 134,
+        "row_start": 2,
+        "row_end": 7
+      },
+      {
+        "block_position": 135
+      },
+      {
+        "block_position": 136,
+        "row_start": 2,
+        "row_end": 7
+      },
+      {
+        "block_position": 137
+      },
+      {
+        "block_position": 138,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 139
+      },
+      {
+        "block_position": 140
+      },
+      {
+        "block_position": 141
+      },
+      {
+        "block_position": 142
+      }
+    ],
+    "char_count": 2075,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية السكر – Antidiabetic Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1,
+      127,
+      129,
+      131,
+      133,
+      135
+    ],
+    "source_sha256": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "e059acfcc1408535577093d906a1f60591fa74f17e43c51fa8460cd787b1d35e"
+  }
+]

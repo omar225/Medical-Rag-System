@@ -1,0 +1,1152 @@
+[
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0001",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 1. ACE Inhibitors",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "1. ACE Inhibitors"
+    ],
+    "section_start": 2,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n1. ACE Inhibitors\nPrescription Only\nالاستخدام: علاج ارتفاع ضغط الدم، وبعض حالات Heart Failure، وحماية الكلى في حالات معينة، خصوصاً مع مرضى Diabetes.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nCapoten | Captopril\nCaptopril | Captopril\nFarcopril | Captopril\nEzapril | Enalapril\nRenitec | Enalapril\nAcapril | Enalapril\nZestril | Lisinopril\nSinopril | Lisinopril\nMavipril | Lisinopril\nTritace | Ramipril\nRamitac | Ramipril\nCoversyl | Perindopril\n\nSide Effects (الأعراض الجانبية)\n\nSide effect | التوضيح\nDry cough | كحة جافة مستمرة، من أشهر الأعراض المميزة للـ class\nHypotension | انخفاض ضغط الدم، خصوصاً بعد أول جرعة\nDizziness | دوخة\nHyperkalemia | ارتفاع مستوى البوتاسيوم في الدم\nIncreased serum creatinine | ارتفاع الكرياتينين، خصوصاً مع مشاكل الكلى\nAngioedema | تورم الوجه أو الشفتين أو اللسان، نادر لكنه خطير\nTaste disturbance | تغير أو فقدان حاسة التذوق، خصوصاً مع Captopril\n\nContraindications (موانع الاستعمال)\nPregnancy: ممنوعة أثناء الحمل بسبب خطر إصابة الجنين.\nHistory of ACE inhibitor-induced angioedema: لو المريض حصل له Angioedema بسبب الدواء قبل كده.\nBilateral renal artery stenosis: ضيق الشريانين المغذيين للكلى.\nHyperkalemia: ارتفاع البوتاسيوم بشكل ملحوظ.\nConcomitant use with aliskiren in diabetic patients: الجمع بينهم ممنوع في مرضى السكري.",
+    "source_spans": [
+      {
+        "block_position": 1
+      },
+      {
+        "block_position": 2
+      },
+      {
+        "block_position": 3
+      },
+      {
+        "block_position": 4
+      },
+      {
+        "block_position": 5
+      },
+      {
+        "block_position": 6,
+        "row_start": 2,
+        "row_end": 13
+      },
+      {
+        "block_position": 7
+      },
+      {
+        "block_position": 8,
+        "row_start": 2,
+        "row_end": 8
+      },
+      {
+        "block_position": 9
+      },
+      {
+        "block_position": 10
+      },
+      {
+        "block_position": 11
+      },
+      {
+        "block_position": 12
+      },
+      {
+        "block_position": 13
+      },
+      {
+        "block_position": 14
+      }
+    ],
+    "char_count": 1316,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0002",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 2. ARBs – Angiotensin II Receptor Blockers",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "2. ARBs – Angiotensin II Receptor Blockers"
+    ],
+    "section_start": 15,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n2. ARBs – Angiotensin II Receptor Blockers\nPrescription Only\nالاستخدام: علاج ارتفاع ضغط الدم، وبعض حالات Heart Failure، وتقليل تدهور وظائف الكلى في بعض مرضى السكري.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nCozaar | Losartan\nAmosar | Losartan\nKanzar | Losartan\nLosar | Losartan\nTareg | Valsartan\nDisartan | Valsartan\nAprovel | Irbesartan\nX-Tension | Irbesartan\nMicardis | Telmisartan\nBiocardis | Telmisartan\nAtacand | Candesartan\nCandesar | Candesartan\nErastapex | Olmesartan\nTeveten | Eprosartan\n\nSide Effects\n\nSide effect | التوضيح\nDizziness | دوخة\nHypotension | انخفاض ضغط الدم\nHyperkalemia | ارتفاع البوتاسيوم\nIncreased creatinine | ارتفاع الكرياتينين\nFatigue | إرهاق\nHeadache | صداع\nAngioedema | تورم الوجه أو اللسان، نادر\nDiarrhea | إسهال، وقد يكون شديداً مع Olmesartan في حالات نادرة\n\nContraindications\nPregnancy: ممنوعة أثناء الحمل.\nBilateral renal artery stenosis: ضيق الشريانين الكلويين.\nHyperkalemia: ارتفاع البوتاسيوم بشكل ملحوظ.\nSevere hypotension: انخفاض ضغط الدم الشديد.\nSevere hepatic impairment / biliary obstruction: مهم بشكل خاص مع بعض الأدوية مثل Olmesartan حسب الحالة.\nConcomitant ACE inhibitors: لا يُنصح بالجمع الروتيني بين ACE inhibitors وARBs بسبب زيادة خطر Hyperkalemia وRenal impairment وHypotension.",
+    "source_spans": [
+      {
+        "block_position": 15
+      },
+      {
+        "block_position": 16
+      },
+      {
+        "block_position": 17
+      },
+      {
+        "block_position": 18
+      },
+      {
+        "block_position": 19,
+        "row_start": 2,
+        "row_end": 15
+      },
+      {
+        "block_position": 20
+      },
+      {
+        "block_position": 21,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 22
+      },
+      {
+        "block_position": 23
+      },
+      {
+        "block_position": 24
+      },
+      {
+        "block_position": 25
+      },
+      {
+        "block_position": 26
+      },
+      {
+        "block_position": 27
+      },
+      {
+        "block_position": 28
+      }
+    ],
+    "char_count": 1292,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0003",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 3. Beta Blockers",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "3. Beta Blockers"
+    ],
+    "section_start": 29,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n3. Beta Blockers\nPrescription Only\n\nالاستخدام:\nعلاج ارتفاع ضغط الدم في حالات معينة.\nAngina (الذبحة الصدرية).\nHeart Failure لبعض الأنواع.\nArrhythmias (اضطرابات ضربات القلب).\nبعد Myocardial Infarction في حالات معينة.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nConcor | Bisoprolol\nBistol | Bisoprolol\nBisocard | Bisoprolol\nTenormin | Atenolol\nAteno | Atenolol\nBlokium | Atenolol\nBetaloc | Metoprolol\nBetalol | Metoprolol\nLow-press | Metoprolol\nInderal | Propranolol\nIndolol | Propranolol\nSotacor | Sotalol\nNebilet | Nebivolol\nNevibol | Nebivolol\nDilatrend | Carvedilol\n\nSide Effects\n\nSide effect | التوضيح\nBradycardia | بطء ضربات القلب\nHypotension | انخفاض ضغط الدم\nFatigue | إرهاق وتعب\nDizziness | دوخة\nCold extremities | برودة اليدين والقدمين\nSexual dysfunction | ضعف أو اضطرابات الوظيفة الجنسية\nBronchospasm | ضيق الشعب الهوائية، خصوصاً مع Non-selective beta blockers\nSleep disturbances | اضطرابات النوم، خصوصاً مع بعض الأنواع\nMasking hypoglycemia | إخفاء بعض أعراض انخفاض السكر، خصوصاً Tachycardia\n\nContraindications\nSevere Bradycardia: بطء ضربات القلب الشديد.\nSecond or third-degree AV block: اضطرابات التوصيل القلبي بدون Pacemaker.\nCardiogenic shock: الصدمة القلبية.\nSevere uncontrolled heart failure: فشل القلب الحاد غير المستقر.\nSevere asthma / Bronchospasm: خصوصاً مع Non-selective beta blockers.\nSevere hypotension: انخفاض ضغط الدم الشديد.",
+    "source_spans": [
+      {
+        "block_position": 29
+      },
+      {
+        "block_position": 30
+      },
+      {
+        "block_position": 31
+      },
+      {
+        "block_position": 32
+      },
+      {
+        "block_position": 33
+      },
+      {
+        "block_position": 34
+      },
+      {
+        "block_position": 35
+      },
+      {
+        "block_position": 36
+      },
+      {
+        "block_position": 37
+      },
+      {
+        "block_position": 38,
+        "row_start": 2,
+        "row_end": 16
+      },
+      {
+        "block_position": 39
+      },
+      {
+        "block_position": 40,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 41
+      },
+      {
+        "block_position": 42
+      },
+      {
+        "block_position": 43
+      },
+      {
+        "block_position": 44
+      },
+      {
+        "block_position": 45
+      },
+      {
+        "block_position": 46
+      },
+      {
+        "block_position": 47
+      }
+    ],
+    "char_count": 1410,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0004",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 4. Calcium Channel Blockers (CCBs)",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "4. Calcium Channel Blockers (CCBs)"
+    ],
+    "section_start": 48,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n4. Calcium Channel Blockers (CCBs)\nPrescription Only\n\nالاستخدام:\nعلاج ارتفاع ضغط الدم.\nAngina (الذبحة الصدرية).\nبعض أنواع Arrhythmias، خصوصاً مع Verapamil وDiltiazem.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nNorvasc | Amlodipine\nAlkapress | Amlodipine\nAmilo | Amlodipine\nMyodura | Amlodipine\nPlendil | Felodipine\nFelocor | Felodipine\nAdalat | Nifedipine\nEpilat | Nifedipine\nPelcard SR | Nicardipine\nCaredipine | Lercanidipine\nLacipil | Lacidipine\nDilzem | Diltiazem\nAltiazem | Diltiazem\nIsoptin | Verapamil\nVeramil | Verapamil\n\nSide Effects\n\nSide effect | التوضيح\nPeripheral edema | تورم القدمين والكاحلين، شائع مع Amlodipine\nHeadache | صداع\nFlushing | احمرار وسخونة الوجه\nDizziness | دوخة\nHypotension | انخفاض ضغط الدم\nPalpitations | إحساس بخفقان القلب، خصوصاً مع بعض DHPs\nConstipation | إمساك، مشهور مع Verapamil\nBradycardia | بطء ضربات القلب، خصوصاً Verapamil وDiltiazem\nGingival hyperplasia | تضخم اللثة، ممكن يحصل مع بعض الأدوية\n\nContraindications\nSevere hypotension: انخفاض ضغط الدم الشديد.\nCardiogenic shock: الصدمة القلبية.\nSevere bradycardia: خصوصاً مع Verapamil وDiltiazem.\nSecond or third-degree AV block: خصوصاً مع Non-DHP، بدون Pacemaker.\nHeart failure with reduced ejection fraction (HFrEF): تجنب Verapamil وDiltiazem في الحالات دي.\nConcomitant beta blockers: الجمع مع Verapamil أو Diltiazem قد يؤدي إلى Bradycardia وHeart block.",
+    "source_spans": [
+      {
+        "block_position": 48
+      },
+      {
+        "block_position": 49
+      },
+      {
+        "block_position": 50
+      },
+      {
+        "block_position": 51
+      },
+      {
+        "block_position": 52
+      },
+      {
+        "block_position": 53
+      },
+      {
+        "block_position": 54
+      },
+      {
+        "block_position": 55,
+        "row_start": 2,
+        "row_end": 16
+      },
+      {
+        "block_position": 56
+      },
+      {
+        "block_position": 57,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 58
+      },
+      {
+        "block_position": 59
+      },
+      {
+        "block_position": 60
+      },
+      {
+        "block_position": 61
+      },
+      {
+        "block_position": 62
+      },
+      {
+        "block_position": 63
+      },
+      {
+        "block_position": 64
+      }
+    ],
+    "char_count": 1409,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0005",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 5. Thiazide Diuretics",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "5. Thiazide Diuretics"
+    ],
+    "section_start": 65,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n5. Thiazide Diuretics\nPrescription Only\nالاستخدام: علاج ارتفاع ضغط الدم، وتقليل احتباس السوائل في بعض الحالات.\n\nالأدوية الموجودة في السوق المصري\n\nفي المجموعة دي فيه 3 مواد فعالة أساسية، وبعضها Thiazide-like:\n\nBrand name | Active ingredient\nHydretic | Hydrochlorothiazide\nHydrozide | Hydrochlorothiazide\nHCT Georetic | Hydrochlorothiazide\nNatrilix | Indapamide\nHypotense | Indapamide\nDiurex | Indapamide\nHygroton | Chlorthalidone\n\nSide Effects\n\nSide effect | التوضيح\nHypokalemia | انخفاض البوتاسيوم\nHyponatremia | انخفاض الصوديوم\nHypomagnesemia | انخفاض المغنيسيوم\nHyperuricemia | ارتفاع Uric acid وقد يسبب Gout\nHyperglycemia | ارتفاع سكر الدم\nDehydration | جفاف بسبب فقدان السوائل\nHypotension | انخفاض ضغط الدم\nDizziness | دوخة\nHypercalcemia | ارتفاع الكالسيوم في الدم\n\nContraindications\nSevere renal impairment / Anuria: خصوصاً في الحالات التي لا تستجيب فيها الكلى للدواء.\nSevere electrolyte depletion: انخفاض شديد في Sodium أو Potassium.\nHypersensitivity to sulfonamide-derived drugs: تاريخ حساسية شديدة للدواء أو مشتقاته.\nSevere dehydration: الجفاف الشديد.\nGout: يُستخدم بحذر شديد لأنه ممكن يرفع Uric acid ويزود نوبات النقرس.",
+    "source_spans": [
+      {
+        "block_position": 65
+      },
+      {
+        "block_position": 66
+      },
+      {
+        "block_position": 67
+      },
+      {
+        "block_position": 68
+      },
+      {
+        "block_position": 69
+      },
+      {
+        "block_position": 70,
+        "row_start": 2,
+        "row_end": 8
+      },
+      {
+        "block_position": 71
+      },
+      {
+        "block_position": 72,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 73
+      },
+      {
+        "block_position": 74
+      },
+      {
+        "block_position": 75
+      },
+      {
+        "block_position": 76
+      },
+      {
+        "block_position": 77
+      },
+      {
+        "block_position": 78
+      }
+    ],
+    "char_count": 1169,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1,
+      69
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0006",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 6. Loop Diuretics",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "6. Loop Diuretics"
+    ],
+    "section_start": 79,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n6. Loop Diuretics\nPrescription Only\n\nالاستخدام:\nعلاج احتباس السوائل (Edema).\nHeart Failure.\nPulmonary Edema.\nبعض حالات ارتفاع ضغط الدم المصاحبة لمشاكل الكلى أو احتباس السوائل.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nLasix | Furosemide\nFuroretic | Furosemide\nLafurex | Furosemide\nDiusex | Furosemide\nFurosemide-Alex | Furosemide\nGenesemide | Furosemide\nBurinex | Bumetanide\nEdemex | Bumetanide\nTorseretic | Torsemide\nExamide | Torsemide\nTorsamolex | Torsemide\nCardiotimide | Torsemide\nExaretic | Torsemide\nOnced | Torsemide\nRetorinad | Torsemide\n\nSide Effects\n\nSide effect | التوضيح\nHypokalemia | انخفاض البوتاسيوم\nHyponatremia | انخفاض الصوديوم\nHypomagnesemia | انخفاض المغنيسيوم\nDehydration | جفاف وفقدان السوائل\nHypotension | انخفاض ضغط الدم\nHyperuricemia | ارتفاع Uric acid وقد يسبب Gout\nOtotoxicity | تأثير على السمع، خصوصاً مع الجرعات العالية أو الحقن السريع\nIncreased creatinine | ارتفاع الكرياتينين نتيجة نقص السوائل أو تأثر وظائف الكلى\nMetabolic alkalosis | زيادة قلوية الدم\n\nContraindications\nAnuria: انقطاع البول وعدم استجابة الكلى للدواء.\nSevere dehydration: الجفاف الشديد.\nSevere electrolyte imbalance: اضطراب شديد في Sodium أو Potassium.\nHepatic coma / Severe hepatic encephalopathy: حالات الاعتلال الدماغي الكبدي الشديد.\nHypersensitivity: حساسية شديدة للمادة الفعالة.",
+    "source_spans": [
+      {
+        "block_position": 79
+      },
+      {
+        "block_position": 80
+      },
+      {
+        "block_position": 81
+      },
+      {
+        "block_position": 82
+      },
+      {
+        "block_position": 83
+      },
+      {
+        "block_position": 84
+      },
+      {
+        "block_position": 85
+      },
+      {
+        "block_position": 86
+      },
+      {
+        "block_position": 87,
+        "row_start": 2,
+        "row_end": 16
+      },
+      {
+        "block_position": 88
+      },
+      {
+        "block_position": 89,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 90
+      },
+      {
+        "block_position": 91
+      },
+      {
+        "block_position": 92
+      },
+      {
+        "block_position": 93
+      },
+      {
+        "block_position": 94
+      },
+      {
+        "block_position": 95
+      }
+    ],
+    "char_count": 1348,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0007",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 7. Potassium-Sparing Diuretics",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "7. Potassium-Sparing Diuretics"
+    ],
+    "section_start": 96,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n7. Potassium-Sparing Diuretics\nPrescription Only\n\nالاستخدام:\nعلاج ارتفاع ضغط الدم في حالات معينة.\nHeart Failure.\nPrimary Hyperaldosteronism.\nتقليل فقدان البوتاسيوم مع بعض أنواع Diuretics.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nAldactone | Spironolactone\nEpilactone | Spironolactone\nSpectone | Spironolactone\nPotasave | Spironolactone\nPotaspirono | Spironolactone\nSpironolactone Delta | Spironolactone\nTensopleron | Eplerenone\nCarvalon | Eplerenone\nEralonir | Eplerenone\nAldactazide* | Spironolactone + Hydrochlorothiazide\nLasilactone* | Spironolactone + Furosemide\n\nSide Effects\n\nSide effect | التوضيح\nHyperkalemia | ارتفاع البوتاسيوم، أهم عرض جانبي\nNausea | غثيان\nVomiting | قيء\nDizziness | دوخة\nHypotension | انخفاض ضغط الدم\nRenal impairment | تدهور وظائف الكلى\nGynecomastia | تضخم الثدي عند الرجال، خصوصاً Spironolactone\nMenstrual irregularities | اضطرابات الدورة الشهرية\nErectile dysfunction | ضعف الانتصاب\nDiarrhea | إسهال\n\nContraindications\nHyperkalemia: ارتفاع البوتاسيوم.\nSevere renal impairment: قصور كلوي شديد.\nAnuria: انقطاع البول.\nAddison's disease: قصور الغدة الكظرية، خصوصاً Spironolactone.\nConcomitant potassium supplements: الجمع مع مكملات البوتاسيوم دون إشراف طبي.\nConcomitant use of other potassium-sparing diuretics: زيادة خطر Hyperkalemia.",
+    "source_spans": [
+      {
+        "block_position": 96
+      },
+      {
+        "block_position": 97
+      },
+      {
+        "block_position": 98
+      },
+      {
+        "block_position": 99
+      },
+      {
+        "block_position": 100
+      },
+      {
+        "block_position": 101
+      },
+      {
+        "block_position": 102
+      },
+      {
+        "block_position": 103
+      },
+      {
+        "block_position": 104,
+        "row_start": 2,
+        "row_end": 12
+      },
+      {
+        "block_position": 105
+      },
+      {
+        "block_position": 106,
+        "row_start": 2,
+        "row_end": 11
+      },
+      {
+        "block_position": 107
+      },
+      {
+        "block_position": 108
+      },
+      {
+        "block_position": 109
+      },
+      {
+        "block_position": 110
+      },
+      {
+        "block_position": 111
+      },
+      {
+        "block_position": 112
+      },
+      {
+        "block_position": 113
+      }
+    ],
+    "char_count": 1327,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0008",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "1. أدوية الضغط – Antihypertensive Drugs > 8. Alpha-1 Blockers",
+    "section_path": [
+      "1. أدوية الضغط – Antihypertensive Drugs",
+      "8. Alpha-1 Blockers"
+    ],
+    "section_start": 114,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "1. أدوية الضغط – Antihypertensive Drugs\n\n8. Alpha-1 Blockers\nPrescription Only\n\nالاستخدام:\nعلاج ارتفاع ضغط الدم في حالات معينة.\nBenign Prostatic Hyperplasia (BPH)، تضخم البروستاتا الحميد.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nMinipress | Prazosin\nCardura | Doxazosin\nDosin | Doxazosin\nDoxazin | Doxazosin\nDoxacor | Doxazosin\nHytrin | Terazosin\n\nSide Effects\n\nSide effect | التوضيح\nOrthostatic hypotension | انخفاض ضغط الدم عند الوقوف\nFirst-dose hypotension | انخفاض شديد في الضغط بعد أول جرعة\nDizziness | دوخة\nSyncope | إغماء\nHeadache | صداع\nPalpitations | خفقان القلب\nFatigue | إرهاق\nNasal congestion | احتقان الأنف\nPeripheral edema | تورم الأطراف\n\nContraindications\nHistory of severe orthostatic hypotension: تاريخ انخفاض الضغط الوضعي الشديد.\nHypersensitivity: حساسية للمادة الفعالة.\nSevere hypotension: انخفاض ضغط الدم الشديد.\nMicturition syncope: تاريخ الإغماء المرتبط بالتبول، خصوصاً مع Doxazosin في مرضى BPH.",
+    "source_spans": [
+      {
+        "block_position": 114
+      },
+      {
+        "block_position": 115
+      },
+      {
+        "block_position": 116
+      },
+      {
+        "block_position": 117
+      },
+      {
+        "block_position": 118
+      },
+      {
+        "block_position": 119
+      },
+      {
+        "block_position": 120,
+        "row_start": 2,
+        "row_end": 7
+      },
+      {
+        "block_position": 121
+      },
+      {
+        "block_position": 122,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 123
+      },
+      {
+        "block_position": 124
+      },
+      {
+        "block_position": 125
+      },
+      {
+        "block_position": 126
+      },
+      {
+        "block_position": 127
+      }
+    ],
+    "char_count": 942,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الضغط – Antihypertensive Drugs"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0009",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "2. أدوية الكوليسترول والدهون – Dyslipidemia > 1. Statins",
+    "section_path": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+      "1. Statins"
+    ],
+    "section_start": 130,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "2. أدوية الكوليسترول والدهون – Dyslipidemia\n\n1. Statins\nPrescription Only\nالاستخدام: تقليل LDL Cholesterol، وتقليل خطر الإصابة بأمراض القلب والأوعية الدموية والجلطات في المرضى المناسبين.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nLipitor | Atorvastatin\nAtor | Atorvastatin\nAtorstat | Atorvastatin\nAntichol | Atorvastatin\nLipovast | Atorvastatin\nPrevenvast | Atorvastatin\nRositor | Rosuvastatin\nColiroz | Rosuvastatin\nJustechol | Rosuvastatin\nDecanadal | Rosuvastatin\nCrestor | Rosuvastatin\nRosuvastatin | Rosuvastatin\n\nSide Effects\n\nSide effect | التوضيح\nMyalgia | ألم العضلات، من أشهر الأعراض\nMuscle weakness | ضعف العضلات\nElevated liver enzymes | ارتفاع إنزيمات الكبد\nNausea | غثيان\nDiarrhea | إسهال\nConstipation | إمساك\nHeadache | صداع\nDyspepsia | عسر الهضم\nMyopathy | اعتلال العضلات\nRhabdomyolysis | تكسير العضلات، نادر لكنه خطير\n\nContraindications\nActive liver disease: مرض كبدي نشط.\nUnexplained persistent elevation of liver enzymes: ارتفاع مستمر وغير مفسر في إنزيمات الكبد.\nPregnancy: تُتجنب أثناء الحمل.\nBreastfeeding: لا يُنصح باستخدامها أثناء الرضاعة.\nHypersensitivity: حساسية شديدة للمادة الفعالة.\n\nImportant interactions:\nالجمع مع Gemfibrozil يزيد خطر Myopathy وRhabdomyolysis.\nبعض المضادات الحيوية مثل Clarithromycin قد تزيد تركيز بعض Statins.\nGrapefruit juice قد يتداخل مع بعض الأنواع، خصوصاً Atorvastatin وSimvastatin.",
+    "source_spans": [
+      {
+        "block_position": 129
+      },
+      {
+        "block_position": 130
+      },
+      {
+        "block_position": 131
+      },
+      {
+        "block_position": 132
+      },
+      {
+        "block_position": 133
+      },
+      {
+        "block_position": 134,
+        "row_start": 2,
+        "row_end": 13
+      },
+      {
+        "block_position": 135
+      },
+      {
+        "block_position": 136,
+        "row_start": 2,
+        "row_end": 11
+      },
+      {
+        "block_position": 137
+      },
+      {
+        "block_position": 138
+      },
+      {
+        "block_position": 139
+      },
+      {
+        "block_position": 140
+      },
+      {
+        "block_position": 141
+      },
+      {
+        "block_position": 142
+      },
+      {
+        "block_position": 143
+      },
+      {
+        "block_position": 144
+      },
+      {
+        "block_position": 145
+      },
+      {
+        "block_position": 146
+      }
+    ],
+    "char_count": 1356,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      129,
+      143
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0010",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "2. أدوية الكوليسترول والدهون – Dyslipidemia > 2. Ezetimibe",
+    "section_path": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+      "2. Ezetimibe"
+    ],
+    "section_start": 147,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "2. أدوية الكوليسترول والدهون – Dyslipidemia\n\n2. Ezetimibe\nPrescription Only\nالاستخدام: تقليل امتصاص الكوليسترول من الأمعاء، وتقليل LDL، وغالباً يُستخدم مع Statins أو بمفرده في حالات عدم تحمل Statins.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nEzetrol | Ezetimibe\nLowtimib | Ezetimibe\nEzetimibe Borg | Ezetimibe\nZetamibe | Ezetimibe\nZetlip | Ezetimibe\nCholstop | Ezetimibe\nCholetimb | Ezetimibe\nLipidnorm | Ezetimibe\n\nCombination products:\n\nBrand name | Active ingredients\nInegy | Ezetimibe + Simvastatin\nVytorin | Ezetimibe + Simvastatin\nNovistoric Plus | Ezetimibe + Rosuvastatin\nLowtimib Comp | Ezetimibe + Atorvastatin\nFastatinal | Ezetimibe + Atorvastatin\n\nSide Effects\n\nSide effect | التوضيح\nDiarrhea | إسهال\nAbdominal pain | ألم بالبطن\nFatigue | إرهاق\nHeadache | صداع\nArthralgia | ألم المفاصل\nIncreased liver enzymes | ارتفاع إنزيمات الكبد، خصوصاً مع Statins\nMyalgia | ألم العضلات\nMyopathy | اعتلال العضلات، نادر\n\nContraindications\nHypersensitivity: حساسية للمادة الفعالة.\nActive liver disease: خصوصاً عند استخدامه مع Statins.\nUnexplained persistent elevation of liver enzymes: عند استخدامه مع Statins.\nPregnancy: يجب تقييم الاستخدام مع الطبيب، خصوصاً في التركيبات مع Statins.\nBreastfeeding: يحتاج تقييم طبي، خصوصاً مع Statins.",
+    "source_spans": [
+      {
+        "block_position": 147
+      },
+      {
+        "block_position": 148
+      },
+      {
+        "block_position": 149
+      },
+      {
+        "block_position": 150
+      },
+      {
+        "block_position": 151,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 152
+      },
+      {
+        "block_position": 153,
+        "row_start": 2,
+        "row_end": 6
+      },
+      {
+        "block_position": 154
+      },
+      {
+        "block_position": 155,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 156
+      },
+      {
+        "block_position": 157
+      },
+      {
+        "block_position": 158
+      },
+      {
+        "block_position": 159
+      },
+      {
+        "block_position": 160
+      },
+      {
+        "block_position": 161
+      }
+    ],
+    "char_count": 1256,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      129,
+      152
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0011",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "2. أدوية الكوليسترول والدهون – Dyslipidemia > 3. PCSK9 Inhibitors",
+    "section_path": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+      "3. PCSK9 Inhibitors"
+    ],
+    "section_start": 162,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "2. أدوية الكوليسترول والدهون – Dyslipidemia\n\n3. PCSK9 Inhibitors\nPrescription Only\n\nالاستخدام: خفض LDL Cholesterol بشكل كبير، خصوصاً في:\nFamilial Hypercholesterolemia.\nمرضى ASCVD الذين لم يصلوا إلى LDL target باستخدام Statins وEzetimibe.\nبعض المرضى ذوي الخطورة القلبية الوعائية العالية.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nRepatha | Evolocumab\nPraluent | Alirocumab\nLeqvio | Inclisiran\n\nSide Effects\n\nSide effect | التوضيح\nInjection site reactions | ألم أو احمرار مكان الحقن\nNasopharyngitis | التهاب الأنف والبلعوم\nFlu-like symptoms | أعراض شبيهة بالإنفلونزا\nHeadache | صداع\nBack pain | ألم الظهر\nArthralgia | ألم المفاصل\nHypersensitivity reactions | تفاعلات الحساسية\nFatigue | إرهاق\n\nContraindications\nHypersensitivity: حساسية شديدة للمادة الفعالة أو مكونات المستحضر.\nPrevious serious allergic reaction: تاريخ تفاعل تحسسي شديد مع الدواء.\nPregnancy: يحتاج تقييم الفائدة والمخاطر قبل الاستخدام.\nBreastfeeding: يحتاج تقييم طبي.",
+    "source_spans": [
+      {
+        "block_position": 162
+      },
+      {
+        "block_position": 163
+      },
+      {
+        "block_position": 164
+      },
+      {
+        "block_position": 165
+      },
+      {
+        "block_position": 166
+      },
+      {
+        "block_position": 167
+      },
+      {
+        "block_position": 168
+      },
+      {
+        "block_position": 169,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 170
+      },
+      {
+        "block_position": 171,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 172
+      },
+      {
+        "block_position": 173
+      },
+      {
+        "block_position": 174
+      },
+      {
+        "block_position": 175
+      },
+      {
+        "block_position": 176
+      }
+    ],
+    "char_count": 955,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      129,
+      170
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0012",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "2. أدوية الكوليسترول والدهون – Dyslipidemia > 4. Fibrates",
+    "section_path": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+      "4. Fibrates"
+    ],
+    "section_start": 177,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "2. أدوية الكوليسترول والدهون – Dyslipidemia\n\n4. Fibrates\nPrescription Only\n\nالاستخدام:\nتقليل Triglycerides.\nعلاج Hypertriglyceridemia.\nتحسين HDL في بعض المرضى.\nبعض الحالات تحتاج Fibrates بالإضافة إلى Statins تحت إشراف طبي.\n\nالأدوية الموجودة في السوق المصري\n\nBrand name | Active ingredient\nLipanthyl | Fenofibrate\nLipanthyl Supra | Fenofibrate\nFinolip | Fenofibrate\nFinofib | Fenofibrate\nFinorate | Fenofibrate\nFinorate Retard | Fenofibrate\nKemifib | Fenofibrate\nLipolex | Fenofibrate\nLipomedizen | Fenofibrate\nLipifibrate | Fenofibrate\nNofibra | Fenofibrate\nLipanthyl 300 | Fenofibrate\nLopid | Gemfibrozil\nBezalip | Bezafibrate\n\nSide Effects\n\nSide effect | التوضيح\nAbdominal pain | ألم بالبطن\nNausea | غثيان\nDiarrhea | إسهال\nElevated liver enzymes | ارتفاع إنزيمات الكبد\nMyalgia | ألم العضلات\nMyopathy | اعتلال العضلات\nRhabdomyolysis | تكسير العضلات، نادر لكنه خطير\nIncreased creatinine | ارتفاع الكرياتينين\nGallstones | حصوات المرارة\nHeadache | صداع\n\nContraindications\nSevere renal impairment: قصور كلوي شديد.\nActive liver disease: مرض كبدي نشط.\nPre-existing gallbladder disease: أمراض المرارة الموجودة مسبقاً.\nPregnancy: ممنوعة أو يُتجنب استخدامها حسب المنتج.\nBreastfeeding: يُتجنب استخدامها.\nHypersensitivity: حساسية للمادة الفعالة.",
+    "source_spans": [
+      {
+        "block_position": 177
+      },
+      {
+        "block_position": 178
+      },
+      {
+        "block_position": 179
+      },
+      {
+        "block_position": 180
+      },
+      {
+        "block_position": 181
+      },
+      {
+        "block_position": 182
+      },
+      {
+        "block_position": 183
+      },
+      {
+        "block_position": 184
+      },
+      {
+        "block_position": 185,
+        "row_start": 2,
+        "row_end": 15
+      },
+      {
+        "block_position": 186
+      },
+      {
+        "block_position": 187,
+        "row_start": 2,
+        "row_end": 11
+      },
+      {
+        "block_position": 188
+      },
+      {
+        "block_position": 189
+      },
+      {
+        "block_position": 190
+      },
+      {
+        "block_position": 191
+      },
+      {
+        "block_position": 192
+      },
+      {
+        "block_position": 193
+      },
+      {
+        "block_position": 194
+      }
+    ],
+    "char_count": 1235,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      129,
+      177
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0013",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "2. أدوية الكوليسترول والدهون – Dyslipidemia > 4. Omega-3 Fatty Acids",
+    "section_path": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+      "4. Omega-3 Fatty Acids"
+    ],
+    "section_start": 195,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "2. أدوية الكوليسترول والدهون – Dyslipidemia\n\n4. Omega-3 Fatty Acids\nDepends on formulation\n\nالاستخدام:\nتقليل Triglycerides.\nعلاج بعض حالات Hypertriglyceridemia.\nبعض التركيبات الدوائية تُستخدم لتقليل Cardiovascular risk في مرضى محددين.\n\nالأدوية والمستحضرات الموجودة في السوق المصري\n\nBrand name | Active ingredient\nOmegatonex | Omega-3 EPA + DHA\nSuper Omega | Omega-3 Fish Oil\nOmega-300 | Omega-3 Fish Oil\nOmega 3 Serio | Omega-3 Fish Oil\nOmegafit | Omega-3 Fatty Acids\nOmegafit 1000 | Omega-3 Fatty Acids\nOmega 3 Safe | Omega-3 Fish Oil\nOmega-Saja | Omega-3 Fish Oil\nRenew-Life Omega-3 | Omega-3 Fish Oil\nUltra Omega-3 | Omega-3 Fish Oil\nSeven Seas | Fish Oil / Omega-3\nOmacor | Omega-3-acid ethyl esters\n\nSide Effects\n\nSide effect | التوضيح\nFishy aftertaste | طعم أو رائحة السمك بعد الاستخدام\nNausea | غثيان\nDiarrhea | إسهال\nAbdominal discomfort | عدم ارتياح بالبطن\nDyspepsia | عسر الهضم\nBelching | تجشؤ\nIncreased bleeding tendency | احتمال زيادة النزيف، خصوصاً مع جرعات مرتفعة أو أدوية سيولة\nAtrial fibrillation | زيادة احتمال Atrial fibrillation مع بعض الجرعات الدوائية المرتفعة\n\nContraindications\nFish or seafood allergy: الحذر مع الحساسية من الأسماك أو مكونات المستحضر.\nHypersensitivity: حساسية للمادة الفعالة أو مكونات المستحضر.\nBleeding disorders: الحذر في حالات اضطرابات النزيف.\nConcomitant anticoagulants: الحذر مع Warfarin أو Apixaban أو غيرها من أدوية السيولة.\nHistory of atrial fibrillation: يحتاج تقييم ومتابعة طبية، خصوصاً مع الجرعات الدوائية العالية.\n\nOTC ولا Prescription؟\nFish oil supplements: غالباً OTC كـ Dietary Supplements.\nHigh-dose pharmaceutical Omega-3 preparations: Prescription حسب المستحضر والتصنيف المحلي.",
+    "source_spans": [
+      {
+        "block_position": 195
+      },
+      {
+        "block_position": 196
+      },
+      {
+        "block_position": 197
+      },
+      {
+        "block_position": 198
+      },
+      {
+        "block_position": 199
+      },
+      {
+        "block_position": 200
+      },
+      {
+        "block_position": 201
+      },
+      {
+        "block_position": 202,
+        "row_start": 2,
+        "row_end": 13
+      },
+      {
+        "block_position": 203
+      },
+      {
+        "block_position": 204,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 205
+      },
+      {
+        "block_position": 206
+      },
+      {
+        "block_position": 207
+      },
+      {
+        "block_position": 208
+      },
+      {
+        "block_position": 209
+      },
+      {
+        "block_position": 210
+      },
+      {
+        "block_position": 211
+      },
+      {
+        "block_position": 212
+      },
+      {
+        "block_position": 213
+      }
+    ],
+    "char_count": 1634,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      129,
+      195
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  },
+  {
+    "chunk_id": "KB-08-f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530-0014",
+    "doc_id": "KB-08",
+    "title": "ادويه الضغط و الكوليسترول",
+    "section": "2. أدوية الكوليسترول والدهون – Dyslipidemia > 5. Bile Acid Sequestrants",
+    "section_path": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+      "5. Bile Acid Sequestrants"
+    ],
+    "section_start": 214,
+    "filename": "ادويه الضغط و الكوليسترول.docx",
+    "text": "2. أدوية الكوليسترول والدهون – Dyslipidemia\n\n5. Bile Acid Sequestrants\nPrescription Only\n\nالأدوية الموجودة في السوق المصري\n\nA. Cholestyramine\n\nBrand name | Active ingredient\nCholestran | Cholestyramine\nQuantamash | Cholestyramine\nQuestran | Cholestyramine\n\nB. Colesevelam\n\nBrand name | Active ingredient\nAndocholest | Colesevelam\nCholwell | Colesevelam\nColesevedmia | Colesevelam\nStorvelam | Colesevelam\nPromostatin | Colesevelam\n\nSide Effects\n\nSide effect | التوضيح\nConstipation | إمساك، من أشهر الأعراض\nBloating | انتفاخ\nFlatulence | غازات\nNausea | غثيان\nAbdominal pain | ألم بالبطن\nDyspepsia | عسر الهضم\nIncreased triglycerides | ارتفاع Triglycerides\nFat-soluble vitamin deficiency | نقص Vitamins A, D, E, K مع الاستخدام الطويل\nReduced absorption of other drugs | تقليل امتصاص أدوية أخرى\n\nContraindications\nComplete biliary obstruction: انسداد كامل بالقنوات المرارية.\nSevere hypertriglyceridemia: ارتفاع شديد في Triglycerides، خصوصاً مع Colesevelam.\nHypersensitivity: حساسية للمادة الفعالة.\nBowel obstruction: الحذر أو تجنب الاستخدام حسب الحالة.\nSevere constipation: الحذر في المرضى الذين يعانون من إمساك شديد.\n\nImportant drug interactions:\n\nممكن تقلل امتصاص أدوية كتير، مثل:\nLevothyroxine.\nWarfarin.\nDigoxin.\nبعض Diuretics.\nلذلك لازم مراعاة الفصل بين مواعيد تناول الأدوية والـ Bile Acid Sequestrants.",
+    "source_spans": [
+      {
+        "block_position": 214
+      },
+      {
+        "block_position": 215
+      },
+      {
+        "block_position": 216
+      },
+      {
+        "block_position": 217
+      },
+      {
+        "block_position": 218,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 219
+      },
+      {
+        "block_position": 220,
+        "row_start": 2,
+        "row_end": 6
+      },
+      {
+        "block_position": 221
+      },
+      {
+        "block_position": 222,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 223
+      },
+      {
+        "block_position": 224
+      },
+      {
+        "block_position": 225
+      },
+      {
+        "block_position": 226
+      },
+      {
+        "block_position": 227
+      },
+      {
+        "block_position": 228
+      },
+      {
+        "block_position": 229
+      },
+      {
+        "block_position": 230
+      },
+      {
+        "block_position": 231
+      },
+      {
+        "block_position": 232
+      },
+      {
+        "block_position": 233
+      },
+      {
+        "block_position": 234
+      },
+      {
+        "block_position": 235
+      }
+    ],
+    "char_count": 1304,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      129,
+      217,
+      219,
+      229,
+      230
+    ],
+    "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+  }
+]

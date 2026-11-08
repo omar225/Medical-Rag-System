@@ -1,0 +1,6456 @@
+{
+  "doc_id": "KB-08",
+  "title": "ادويه الضغط و الكوليسترول",
+  "title_source": "filename_stem",
+  "filename": "ادويه الضغط و الكوليسترول.docx",
+  "source_sha256": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. أدوية الضغط – Antihypertensive Drugs",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "1. ACE Inhibitors",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors"
+      ],
+      "section_start": 2,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج ارتفاع ضغط الدم، وبعض حالات Heart Failure، وحماية الكلى في حالات معينة، خصوصاً مع مرضى Diabetes.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 2,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nCapoten | Captopril\nCaptopril | Captopril\nFarcopril | Captopril\nEzapril | Enalapril\nRenitec | Enalapril\nAcapril | Enalapril\nZestril | Lisinopril\nSinopril | Lisinopril\nMavipril | Lisinopril\nTritace | Ramipril\nRamitac | Ramipril\nCoversyl | Perindopril",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Capoten",
+          "Captopril"
+        ],
+        [
+          "Captopril",
+          "Captopril"
+        ],
+        [
+          "Farcopril",
+          "Captopril"
+        ],
+        [
+          "Ezapril",
+          "Enalapril"
+        ],
+        [
+          "Renitec",
+          "Enalapril"
+        ],
+        [
+          "Acapril",
+          "Enalapril"
+        ],
+        [
+          "Zestril",
+          "Lisinopril"
+        ],
+        [
+          "Sinopril",
+          "Lisinopril"
+        ],
+        [
+          "Mavipril",
+          "Lisinopril"
+        ],
+        [
+          "Tritace",
+          "Ramipril"
+        ],
+        [
+          "Ramitac",
+          "Ramipril"
+        ],
+        [
+          "Coversyl",
+          "Perindopril"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "heading",
+      "text": "Side Effects (الأعراض الجانبية)",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Side Effects (الأعراض الجانبية)"
+      ],
+      "section_start": 2,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nDry cough | كحة جافة مستمرة، من أشهر الأعراض المميزة للـ class\nHypotension | انخفاض ضغط الدم، خصوصاً بعد أول جرعة\nDizziness | دوخة\nHyperkalemia | ارتفاع مستوى البوتاسيوم في الدم\nIncreased serum creatinine | ارتفاع الكرياتينين، خصوصاً مع مشاكل الكلى\nAngioedema | تورم الوجه أو الشفتين أو اللسان، نادر لكنه خطير\nTaste disturbance | تغير أو فقدان حاسة التذوق، خصوصاً مع Captopril",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Side Effects (الأعراض الجانبية)"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Dry cough",
+          "كحة جافة مستمرة، من أشهر الأعراض المميزة للـ class"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم، خصوصاً بعد أول جرعة"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Hyperkalemia",
+          "ارتفاع مستوى البوتاسيوم في الدم"
+        ],
+        [
+          "Increased serum creatinine",
+          "ارتفاع الكرياتينين، خصوصاً مع مشاكل الكلى"
+        ],
+        [
+          "Angioedema",
+          "تورم الوجه أو الشفتين أو اللسان، نادر لكنه خطير"
+        ],
+        [
+          "Taste disturbance",
+          "تغير أو فقدان حاسة التذوق، خصوصاً مع Captopril"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "heading",
+      "text": "Contraindications (موانع الاستعمال)",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Contraindications (موانع الاستعمال)"
+      ],
+      "section_start": 2,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "paragraph",
+      "text": "Pregnancy: ممنوعة أثناء الحمل بسبب خطر إصابة الجنين.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Contraindications (موانع الاستعمال)"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "History of ACE inhibitor-induced angioedema: لو المريض حصل له Angioedema بسبب الدواء قبل كده.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Contraindications (موانع الاستعمال)"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "Bilateral renal artery stenosis: ضيق الشريانين المغذيين للكلى.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Contraindications (موانع الاستعمال)"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "paragraph",
+      "text": "Hyperkalemia: ارتفاع البوتاسيوم بشكل ملحوظ.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Contraindications (موانع الاستعمال)"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "Concomitant use with aliskiren in diabetic patients: الجمع بينهم ممنوع في مرضى السكري.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "1. ACE Inhibitors",
+        "Contraindications (موانع الاستعمال)"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "heading",
+      "text": "2. ARBs – Angiotensin II Receptor Blockers",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers"
+      ],
+      "section_start": 15,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج ارتفاع ضغط الدم، وبعض حالات Heart Failure، وتقليل تدهور وظائف الكلى في بعض مرضى السكري.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 15,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nCozaar | Losartan\nAmosar | Losartan\nKanzar | Losartan\nLosar | Losartan\nTareg | Valsartan\nDisartan | Valsartan\nAprovel | Irbesartan\nX-Tension | Irbesartan\nMicardis | Telmisartan\nBiocardis | Telmisartan\nAtacand | Candesartan\nCandesar | Candesartan\nErastapex | Olmesartan\nTeveten | Eprosartan",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 15,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Cozaar",
+          "Losartan"
+        ],
+        [
+          "Amosar",
+          "Losartan"
+        ],
+        [
+          "Kanzar",
+          "Losartan"
+        ],
+        [
+          "Losar",
+          "Losartan"
+        ],
+        [
+          "Tareg",
+          "Valsartan"
+        ],
+        [
+          "Disartan",
+          "Valsartan"
+        ],
+        [
+          "Aprovel",
+          "Irbesartan"
+        ],
+        [
+          "X-Tension",
+          "Irbesartan"
+        ],
+        [
+          "Micardis",
+          "Telmisartan"
+        ],
+        [
+          "Biocardis",
+          "Telmisartan"
+        ],
+        [
+          "Atacand",
+          "Candesartan"
+        ],
+        [
+          "Candesar",
+          "Candesartan"
+        ],
+        [
+          "Erastapex",
+          "Olmesartan"
+        ],
+        [
+          "Teveten",
+          "Eprosartan"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Side Effects"
+      ],
+      "section_start": 15,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nDizziness | دوخة\nHypotension | انخفاض ضغط الدم\nHyperkalemia | ارتفاع البوتاسيوم\nIncreased creatinine | ارتفاع الكرياتينين\nFatigue | إرهاق\nHeadache | صداع\nAngioedema | تورم الوجه أو اللسان، نادر\nDiarrhea | إسهال، وقد يكون شديداً مع Olmesartan في حالات نادرة",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Side Effects"
+      ],
+      "section_start": 15,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم"
+        ],
+        [
+          "Hyperkalemia",
+          "ارتفاع البوتاسيوم"
+        ],
+        [
+          "Increased creatinine",
+          "ارتفاع الكرياتينين"
+        ],
+        [
+          "Fatigue",
+          "إرهاق"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Angioedema",
+          "تورم الوجه أو اللسان، نادر"
+        ],
+        [
+          "Diarrhea",
+          "إسهال، وقد يكون شديداً مع Olmesartan في حالات نادرة"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "paragraph",
+      "text": "Pregnancy: ممنوعة أثناء الحمل.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "Bilateral renal artery stenosis: ضيق الشريانين الكلويين.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "paragraph",
+      "text": "Hyperkalemia: ارتفاع البوتاسيوم بشكل ملحوظ.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "Severe hypotension: انخفاض ضغط الدم الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "Severe hepatic impairment / biliary obstruction: مهم بشكل خاص مع بعض الأدوية مثل Olmesartan حسب الحالة.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "paragraph",
+      "text": "Concomitant ACE inhibitors: لا يُنصح بالجمع الروتيني بين ACE inhibitors وARBs بسبب زيادة خطر Hyperkalemia وRenal impairment وHypotension.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "2. ARBs – Angiotensin II Receptor Blockers",
+        "Contraindications"
+      ],
+      "section_start": 15,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "heading",
+      "text": "3. Beta Blockers",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers"
+      ],
+      "section_start": 29,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "علاج ارتفاع ضغط الدم في حالات معينة.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "paragraph",
+      "text": "Angina (الذبحة الصدرية).",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "paragraph",
+      "text": "Heart Failure لبعض الأنواع.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "paragraph",
+      "text": "Arrhythmias (اضطرابات ضربات القلب).",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "paragraph",
+      "text": "بعد Myocardial Infarction في حالات معينة.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 29,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nConcor | Bisoprolol\nBistol | Bisoprolol\nBisocard | Bisoprolol\nTenormin | Atenolol\nAteno | Atenolol\nBlokium | Atenolol\nBetaloc | Metoprolol\nBetalol | Metoprolol\nLow-press | Metoprolol\nInderal | Propranolol\nIndolol | Propranolol\nSotacor | Sotalol\nNebilet | Nebivolol\nNevibol | Nebivolol\nDilatrend | Carvedilol",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 29,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Concor",
+          "Bisoprolol"
+        ],
+        [
+          "Bistol",
+          "Bisoprolol"
+        ],
+        [
+          "Bisocard",
+          "Bisoprolol"
+        ],
+        [
+          "Tenormin",
+          "Atenolol"
+        ],
+        [
+          "Ateno",
+          "Atenolol"
+        ],
+        [
+          "Blokium",
+          "Atenolol"
+        ],
+        [
+          "Betaloc",
+          "Metoprolol"
+        ],
+        [
+          "Betalol",
+          "Metoprolol"
+        ],
+        [
+          "Low-press",
+          "Metoprolol"
+        ],
+        [
+          "Inderal",
+          "Propranolol"
+        ],
+        [
+          "Indolol",
+          "Propranolol"
+        ],
+        [
+          "Sotacor",
+          "Sotalol"
+        ],
+        [
+          "Nebilet",
+          "Nebivolol"
+        ],
+        [
+          "Nevibol",
+          "Nebivolol"
+        ],
+        [
+          "Dilatrend",
+          "Carvedilol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Side Effects"
+      ],
+      "section_start": 29,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nBradycardia | بطء ضربات القلب\nHypotension | انخفاض ضغط الدم\nFatigue | إرهاق وتعب\nDizziness | دوخة\nCold extremities | برودة اليدين والقدمين\nSexual dysfunction | ضعف أو اضطرابات الوظيفة الجنسية\nBronchospasm | ضيق الشعب الهوائية، خصوصاً مع Non-selective beta blockers\nSleep disturbances | اضطرابات النوم، خصوصاً مع بعض الأنواع\nMasking hypoglycemia | إخفاء بعض أعراض انخفاض السكر، خصوصاً Tachycardia",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Side Effects"
+      ],
+      "section_start": 29,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Bradycardia",
+          "بطء ضربات القلب"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم"
+        ],
+        [
+          "Fatigue",
+          "إرهاق وتعب"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Cold extremities",
+          "برودة اليدين والقدمين"
+        ],
+        [
+          "Sexual dysfunction",
+          "ضعف أو اضطرابات الوظيفة الجنسية"
+        ],
+        [
+          "Bronchospasm",
+          "ضيق الشعب الهوائية، خصوصاً مع Non-selective beta blockers"
+        ],
+        [
+          "Sleep disturbances",
+          "اضطرابات النوم، خصوصاً مع بعض الأنواع"
+        ],
+        [
+          "Masking hypoglycemia",
+          "إخفاء بعض أعراض انخفاض السكر، خصوصاً Tachycardia"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Contraindications"
+      ],
+      "section_start": 29,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "Severe Bradycardia: بطء ضربات القلب الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Contraindications"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "Second or third-degree AV block: اضطرابات التوصيل القلبي بدون Pacemaker.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Contraindications"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "paragraph",
+      "text": "Cardiogenic shock: الصدمة القلبية.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Contraindications"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "Severe uncontrolled heart failure: فشل القلب الحاد غير المستقر.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Contraindications"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "paragraph",
+      "text": "Severe asthma / Bronchospasm: خصوصاً مع Non-selective beta blockers.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Contraindications"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "paragraph",
+      "text": "Severe hypotension: انخفاض ضغط الدم الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "3. Beta Blockers",
+        "Contraindications"
+      ],
+      "section_start": 29,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "heading",
+      "text": "4. Calcium Channel Blockers (CCBs)",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)"
+      ],
+      "section_start": 48,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "الاستخدام:"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "علاج ارتفاع ضغط الدم.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "الاستخدام:"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "paragraph",
+      "text": "Angina (الذبحة الصدرية).",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "الاستخدام:"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "paragraph",
+      "text": "بعض أنواع Arrhythmias، خصوصاً مع Verapamil وDiltiazem.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "الاستخدام:"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 48,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nNorvasc | Amlodipine\nAlkapress | Amlodipine\nAmilo | Amlodipine\nMyodura | Amlodipine\nPlendil | Felodipine\nFelocor | Felodipine\nAdalat | Nifedipine\nEpilat | Nifedipine\nPelcard SR | Nicardipine\nCaredipine | Lercanidipine\nLacipil | Lacidipine\nDilzem | Diltiazem\nAltiazem | Diltiazem\nIsoptin | Verapamil\nVeramil | Verapamil",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 48,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Norvasc",
+          "Amlodipine"
+        ],
+        [
+          "Alkapress",
+          "Amlodipine"
+        ],
+        [
+          "Amilo",
+          "Amlodipine"
+        ],
+        [
+          "Myodura",
+          "Amlodipine"
+        ],
+        [
+          "Plendil",
+          "Felodipine"
+        ],
+        [
+          "Felocor",
+          "Felodipine"
+        ],
+        [
+          "Adalat",
+          "Nifedipine"
+        ],
+        [
+          "Epilat",
+          "Nifedipine"
+        ],
+        [
+          "Pelcard SR",
+          "Nicardipine"
+        ],
+        [
+          "Caredipine",
+          "Lercanidipine"
+        ],
+        [
+          "Lacipil",
+          "Lacidipine"
+        ],
+        [
+          "Dilzem",
+          "Diltiazem"
+        ],
+        [
+          "Altiazem",
+          "Diltiazem"
+        ],
+        [
+          "Isoptin",
+          "Verapamil"
+        ],
+        [
+          "Veramil",
+          "Verapamil"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Side Effects"
+      ],
+      "section_start": 48,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nPeripheral edema | تورم القدمين والكاحلين، شائع مع Amlodipine\nHeadache | صداع\nFlushing | احمرار وسخونة الوجه\nDizziness | دوخة\nHypotension | انخفاض ضغط الدم\nPalpitations | إحساس بخفقان القلب، خصوصاً مع بعض DHPs\nConstipation | إمساك، مشهور مع Verapamil\nBradycardia | بطء ضربات القلب، خصوصاً Verapamil وDiltiazem\nGingival hyperplasia | تضخم اللثة، ممكن يحصل مع بعض الأدوية",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Side Effects"
+      ],
+      "section_start": 48,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Peripheral edema",
+          "تورم القدمين والكاحلين، شائع مع Amlodipine"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Flushing",
+          "احمرار وسخونة الوجه"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم"
+        ],
+        [
+          "Palpitations",
+          "إحساس بخفقان القلب، خصوصاً مع بعض DHPs"
+        ],
+        [
+          "Constipation",
+          "إمساك، مشهور مع Verapamil"
+        ],
+        [
+          "Bradycardia",
+          "بطء ضربات القلب، خصوصاً Verapamil وDiltiazem"
+        ],
+        [
+          "Gingival hyperplasia",
+          "تضخم اللثة، ممكن يحصل مع بعض الأدوية"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Contraindications"
+      ],
+      "section_start": 48,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "paragraph",
+      "text": "Severe hypotension: انخفاض ضغط الدم الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Contraindications"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "paragraph",
+      "text": "Cardiogenic shock: الصدمة القلبية.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Contraindications"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "paragraph",
+      "text": "Severe bradycardia: خصوصاً مع Verapamil وDiltiazem.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Contraindications"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "paragraph",
+      "text": "Second or third-degree AV block: خصوصاً مع Non-DHP، بدون Pacemaker.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Contraindications"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "paragraph",
+      "text": "Heart failure with reduced ejection fraction (HFrEF): تجنب Verapamil وDiltiazem في الحالات دي.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Contraindications"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "paragraph",
+      "text": "Concomitant beta blockers: الجمع مع Verapamil أو Diltiazem قد يؤدي إلى Bradycardia وHeart block.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "4. Calcium Channel Blockers (CCBs)",
+        "Contraindications"
+      ],
+      "section_start": 48,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "heading",
+      "text": "5. Thiazide Diuretics",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics"
+      ],
+      "section_start": 65,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج ارتفاع ضغط الدم، وتقليل احتباس السوائل في بعض الحالات.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 65,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "label",
+      "text": "في المجموعة دي فيه 3 مواد فعالة أساسية، وبعضها Thiazide-like:",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "الأدوية الموجودة في السوق المصري",
+        "في المجموعة دي فيه 3 مواد فعالة أساسية، وبعضها Thiazide-like:"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nHydretic | Hydrochlorothiazide\nHydrozide | Hydrochlorothiazide\nHCT Georetic | Hydrochlorothiazide\nNatrilix | Indapamide\nHypotense | Indapamide\nDiurex | Indapamide\nHygroton | Chlorthalidone",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "الأدوية الموجودة في السوق المصري",
+        "في المجموعة دي فيه 3 مواد فعالة أساسية، وبعضها Thiazide-like:"
+      ],
+      "section_start": 65,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Hydretic",
+          "Hydrochlorothiazide"
+        ],
+        [
+          "Hydrozide",
+          "Hydrochlorothiazide"
+        ],
+        [
+          "HCT Georetic",
+          "Hydrochlorothiazide"
+        ],
+        [
+          "Natrilix",
+          "Indapamide"
+        ],
+        [
+          "Hypotense",
+          "Indapamide"
+        ],
+        [
+          "Diurex",
+          "Indapamide"
+        ],
+        [
+          "Hygroton",
+          "Chlorthalidone"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Side Effects"
+      ],
+      "section_start": 65,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nHypokalemia | انخفاض البوتاسيوم\nHyponatremia | انخفاض الصوديوم\nHypomagnesemia | انخفاض المغنيسيوم\nHyperuricemia | ارتفاع Uric acid وقد يسبب Gout\nHyperglycemia | ارتفاع سكر الدم\nDehydration | جفاف بسبب فقدان السوائل\nHypotension | انخفاض ضغط الدم\nDizziness | دوخة\nHypercalcemia | ارتفاع الكالسيوم في الدم",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Side Effects"
+      ],
+      "section_start": 65,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Hypokalemia",
+          "انخفاض البوتاسيوم"
+        ],
+        [
+          "Hyponatremia",
+          "انخفاض الصوديوم"
+        ],
+        [
+          "Hypomagnesemia",
+          "انخفاض المغنيسيوم"
+        ],
+        [
+          "Hyperuricemia",
+          "ارتفاع Uric acid وقد يسبب Gout"
+        ],
+        [
+          "Hyperglycemia",
+          "ارتفاع سكر الدم"
+        ],
+        [
+          "Dehydration",
+          "جفاف بسبب فقدان السوائل"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Hypercalcemia",
+          "ارتفاع الكالسيوم في الدم"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 65,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Severe renal impairment / Anuria: خصوصاً في الحالات التي لا تستجيب فيها الكلى للدواء.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "paragraph",
+      "text": "Severe electrolyte depletion: انخفاض شديد في Sodium أو Potassium.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to sulfonamide-derived drugs: تاريخ حساسية شديدة للدواء أو مشتقاته.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "paragraph",
+      "text": "Severe dehydration: الجفاف الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "Gout: يُستخدم بحذر شديد لأنه ممكن يرفع Uric acid ويزود نوبات النقرس.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "5. Thiazide Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 65,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        69
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "heading",
+      "text": "6. Loop Diuretics",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics"
+      ],
+      "section_start": 79,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "paragraph",
+      "text": "علاج احتباس السوائل (Edema).",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "paragraph",
+      "text": "Heart Failure.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 84,
+      "kind": "paragraph",
+      "text": "Pulmonary Edema.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 85,
+      "kind": "paragraph",
+      "text": "بعض حالات ارتفاع ضغط الدم المصاحبة لمشاكل الكلى أو احتباس السوائل.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 86,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 79,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 87,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nLasix | Furosemide\nFuroretic | Furosemide\nLafurex | Furosemide\nDiusex | Furosemide\nFurosemide-Alex | Furosemide\nGenesemide | Furosemide\nBurinex | Bumetanide\nEdemex | Bumetanide\nTorseretic | Torsemide\nExamide | Torsemide\nTorsamolex | Torsemide\nCardiotimide | Torsemide\nExaretic | Torsemide\nOnced | Torsemide\nRetorinad | Torsemide",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 79,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Lasix",
+          "Furosemide"
+        ],
+        [
+          "Furoretic",
+          "Furosemide"
+        ],
+        [
+          "Lafurex",
+          "Furosemide"
+        ],
+        [
+          "Diusex",
+          "Furosemide"
+        ],
+        [
+          "Furosemide-Alex",
+          "Furosemide"
+        ],
+        [
+          "Genesemide",
+          "Furosemide"
+        ],
+        [
+          "Burinex",
+          "Bumetanide"
+        ],
+        [
+          "Edemex",
+          "Bumetanide"
+        ],
+        [
+          "Torseretic",
+          "Torsemide"
+        ],
+        [
+          "Examide",
+          "Torsemide"
+        ],
+        [
+          "Torsamolex",
+          "Torsemide"
+        ],
+        [
+          "Cardiotimide",
+          "Torsemide"
+        ],
+        [
+          "Exaretic",
+          "Torsemide"
+        ],
+        [
+          "Onced",
+          "Torsemide"
+        ],
+        [
+          "Retorinad",
+          "Torsemide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 88,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Side Effects"
+      ],
+      "section_start": 79,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 89,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nHypokalemia | انخفاض البوتاسيوم\nHyponatremia | انخفاض الصوديوم\nHypomagnesemia | انخفاض المغنيسيوم\nDehydration | جفاف وفقدان السوائل\nHypotension | انخفاض ضغط الدم\nHyperuricemia | ارتفاع Uric acid وقد يسبب Gout\nOtotoxicity | تأثير على السمع، خصوصاً مع الجرعات العالية أو الحقن السريع\nIncreased creatinine | ارتفاع الكرياتينين نتيجة نقص السوائل أو تأثر وظائف الكلى\nMetabolic alkalosis | زيادة قلوية الدم",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Side Effects"
+      ],
+      "section_start": 79,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Hypokalemia",
+          "انخفاض البوتاسيوم"
+        ],
+        [
+          "Hyponatremia",
+          "انخفاض الصوديوم"
+        ],
+        [
+          "Hypomagnesemia",
+          "انخفاض المغنيسيوم"
+        ],
+        [
+          "Dehydration",
+          "جفاف وفقدان السوائل"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم"
+        ],
+        [
+          "Hyperuricemia",
+          "ارتفاع Uric acid وقد يسبب Gout"
+        ],
+        [
+          "Ototoxicity",
+          "تأثير على السمع، خصوصاً مع الجرعات العالية أو الحقن السريع"
+        ],
+        [
+          "Increased creatinine",
+          "ارتفاع الكرياتينين نتيجة نقص السوائل أو تأثر وظائف الكلى"
+        ],
+        [
+          "Metabolic alkalosis",
+          "زيادة قلوية الدم"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 90,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 79,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 91,
+      "kind": "paragraph",
+      "text": "Anuria: انقطاع البول وعدم استجابة الكلى للدواء.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 92,
+      "kind": "paragraph",
+      "text": "Severe dehydration: الجفاف الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 93,
+      "kind": "paragraph",
+      "text": "Severe electrolyte imbalance: اضطراب شديد في Sodium أو Potassium.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 94,
+      "kind": "paragraph",
+      "text": "Hepatic coma / Severe hepatic encephalopathy: حالات الاعتلال الدماغي الكبدي الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 95,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية شديدة للمادة الفعالة.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "6. Loop Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 79,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 96,
+      "kind": "heading",
+      "text": "7. Potassium-Sparing Diuretics",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics"
+      ],
+      "section_start": 96,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 97,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 98,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 99,
+      "kind": "paragraph",
+      "text": "علاج ارتفاع ضغط الدم في حالات معينة.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 100,
+      "kind": "paragraph",
+      "text": "Heart Failure.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 101,
+      "kind": "paragraph",
+      "text": "Primary Hyperaldosteronism.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 102,
+      "kind": "paragraph",
+      "text": "تقليل فقدان البوتاسيوم مع بعض أنواع Diuretics.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "الاستخدام:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 103,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 96,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 104,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nAldactone | Spironolactone\nEpilactone | Spironolactone\nSpectone | Spironolactone\nPotasave | Spironolactone\nPotaspirono | Spironolactone\nSpironolactone Delta | Spironolactone\nTensopleron | Eplerenone\nCarvalon | Eplerenone\nEralonir | Eplerenone\nAldactazide* | Spironolactone + Hydrochlorothiazide\nLasilactone* | Spironolactone + Furosemide",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 96,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Aldactone",
+          "Spironolactone"
+        ],
+        [
+          "Epilactone",
+          "Spironolactone"
+        ],
+        [
+          "Spectone",
+          "Spironolactone"
+        ],
+        [
+          "Potasave",
+          "Spironolactone"
+        ],
+        [
+          "Potaspirono",
+          "Spironolactone"
+        ],
+        [
+          "Spironolactone Delta",
+          "Spironolactone"
+        ],
+        [
+          "Tensopleron",
+          "Eplerenone"
+        ],
+        [
+          "Carvalon",
+          "Eplerenone"
+        ],
+        [
+          "Eralonir",
+          "Eplerenone"
+        ],
+        [
+          "Aldactazide*",
+          "Spironolactone + Hydrochlorothiazide"
+        ],
+        [
+          "Lasilactone*",
+          "Spironolactone + Furosemide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 105,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Side Effects"
+      ],
+      "section_start": 96,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 106,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nHyperkalemia | ارتفاع البوتاسيوم، أهم عرض جانبي\nNausea | غثيان\nVomiting | قيء\nDizziness | دوخة\nHypotension | انخفاض ضغط الدم\nRenal impairment | تدهور وظائف الكلى\nGynecomastia | تضخم الثدي عند الرجال، خصوصاً Spironolactone\nMenstrual irregularities | اضطرابات الدورة الشهرية\nErectile dysfunction | ضعف الانتصاب\nDiarrhea | إسهال",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Side Effects"
+      ],
+      "section_start": 96,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Hyperkalemia",
+          "ارتفاع البوتاسيوم، أهم عرض جانبي"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Vomiting",
+          "قيء"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Hypotension",
+          "انخفاض ضغط الدم"
+        ],
+        [
+          "Renal impairment",
+          "تدهور وظائف الكلى"
+        ],
+        [
+          "Gynecomastia",
+          "تضخم الثدي عند الرجال، خصوصاً Spironolactone"
+        ],
+        [
+          "Menstrual irregularities",
+          "اضطرابات الدورة الشهرية"
+        ],
+        [
+          "Erectile dysfunction",
+          "ضعف الانتصاب"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 107,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 96,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 108,
+      "kind": "paragraph",
+      "text": "Hyperkalemia: ارتفاع البوتاسيوم.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 109,
+      "kind": "paragraph",
+      "text": "Severe renal impairment: قصور كلوي شديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 110,
+      "kind": "paragraph",
+      "text": "Anuria: انقطاع البول.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 111,
+      "kind": "paragraph",
+      "text": "Addison's disease: قصور الغدة الكظرية، خصوصاً Spironolactone.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 112,
+      "kind": "paragraph",
+      "text": "Concomitant potassium supplements: الجمع مع مكملات البوتاسيوم دون إشراف طبي.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "Concomitant use of other potassium-sparing diuretics: زيادة خطر Hyperkalemia.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "7. Potassium-Sparing Diuretics",
+        "Contraindications"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 114,
+      "kind": "heading",
+      "text": "8. Alpha-1 Blockers",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers"
+      ],
+      "section_start": 114,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 115,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 116,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 117,
+      "kind": "paragraph",
+      "text": "علاج ارتفاع ضغط الدم في حالات معينة.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 118,
+      "kind": "paragraph",
+      "text": "Benign Prostatic Hyperplasia (BPH)، تضخم البروستاتا الحميد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "الاستخدام:"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 119,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 114,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 120,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nMinipress | Prazosin\nCardura | Doxazosin\nDosin | Doxazosin\nDoxazin | Doxazosin\nDoxacor | Doxazosin\nHytrin | Terazosin",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 114,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Minipress",
+          "Prazosin"
+        ],
+        [
+          "Cardura",
+          "Doxazosin"
+        ],
+        [
+          "Dosin",
+          "Doxazosin"
+        ],
+        [
+          "Doxazin",
+          "Doxazosin"
+        ],
+        [
+          "Doxacor",
+          "Doxazosin"
+        ],
+        [
+          "Hytrin",
+          "Terazosin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 121,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "Side Effects"
+      ],
+      "section_start": 114,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 122,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nOrthostatic hypotension | انخفاض ضغط الدم عند الوقوف\nFirst-dose hypotension | انخفاض شديد في الضغط بعد أول جرعة\nDizziness | دوخة\nSyncope | إغماء\nHeadache | صداع\nPalpitations | خفقان القلب\nFatigue | إرهاق\nNasal congestion | احتقان الأنف\nPeripheral edema | تورم الأطراف",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "Side Effects"
+      ],
+      "section_start": 114,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Orthostatic hypotension",
+          "انخفاض ضغط الدم عند الوقوف"
+        ],
+        [
+          "First-dose hypotension",
+          "انخفاض شديد في الضغط بعد أول جرعة"
+        ],
+        [
+          "Dizziness",
+          "دوخة"
+        ],
+        [
+          "Syncope",
+          "إغماء"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Palpitations",
+          "خفقان القلب"
+        ],
+        [
+          "Fatigue",
+          "إرهاق"
+        ],
+        [
+          "Nasal congestion",
+          "احتقان الأنف"
+        ],
+        [
+          "Peripheral edema",
+          "تورم الأطراف"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 123,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "Contraindications"
+      ],
+      "section_start": 114,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 124,
+      "kind": "paragraph",
+      "text": "History of severe orthostatic hypotension: تاريخ انخفاض الضغط الوضعي الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "Contraindications"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 125,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية للمادة الفعالة.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "Contraindications"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 126,
+      "kind": "paragraph",
+      "text": "Severe hypotension: انخفاض ضغط الدم الشديد.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "Contraindications"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 127,
+      "kind": "paragraph",
+      "text": "Micturition syncope: تاريخ الإغماء المرتبط بالتبول، خصوصاً مع Doxazosin في مرضى BPH.",
+      "section_path": [
+        "1. أدوية الضغط – Antihypertensive Drugs",
+        "8. Alpha-1 Blockers",
+        "Contraindications"
+      ],
+      "section_start": 114,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية الضغط – Antihypertensive Drugs"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 129,
+      "kind": "heading",
+      "text": "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "section_start": 129,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 130,
+      "kind": "heading",
+      "text": "1. Statins",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins"
+      ],
+      "section_start": 130,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 131,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 132,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل LDL Cholesterol، وتقليل خطر الإصابة بأمراض القلب والأوعية الدموية والجلطات في المرضى المناسبين.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 133,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 130,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 134,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nLipitor | Atorvastatin\nAtor | Atorvastatin\nAtorstat | Atorvastatin\nAntichol | Atorvastatin\nLipovast | Atorvastatin\nPrevenvast | Atorvastatin\nRositor | Rosuvastatin\nColiroz | Rosuvastatin\nJustechol | Rosuvastatin\nDecanadal | Rosuvastatin\nCrestor | Rosuvastatin\nRosuvastatin | Rosuvastatin",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 130,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Lipitor",
+          "Atorvastatin"
+        ],
+        [
+          "Ator",
+          "Atorvastatin"
+        ],
+        [
+          "Atorstat",
+          "Atorvastatin"
+        ],
+        [
+          "Antichol",
+          "Atorvastatin"
+        ],
+        [
+          "Lipovast",
+          "Atorvastatin"
+        ],
+        [
+          "Prevenvast",
+          "Atorvastatin"
+        ],
+        [
+          "Rositor",
+          "Rosuvastatin"
+        ],
+        [
+          "Coliroz",
+          "Rosuvastatin"
+        ],
+        [
+          "Justechol",
+          "Rosuvastatin"
+        ],
+        [
+          "Decanadal",
+          "Rosuvastatin"
+        ],
+        [
+          "Crestor",
+          "Rosuvastatin"
+        ],
+        [
+          "Rosuvastatin",
+          "Rosuvastatin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 135,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Side Effects"
+      ],
+      "section_start": 130,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 136,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nMyalgia | ألم العضلات، من أشهر الأعراض\nMuscle weakness | ضعف العضلات\nElevated liver enzymes | ارتفاع إنزيمات الكبد\nNausea | غثيان\nDiarrhea | إسهال\nConstipation | إمساك\nHeadache | صداع\nDyspepsia | عسر الهضم\nMyopathy | اعتلال العضلات\nRhabdomyolysis | تكسير العضلات، نادر لكنه خطير",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Side Effects"
+      ],
+      "section_start": 130,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Myalgia",
+          "ألم العضلات، من أشهر الأعراض"
+        ],
+        [
+          "Muscle weakness",
+          "ضعف العضلات"
+        ],
+        [
+          "Elevated liver enzymes",
+          "ارتفاع إنزيمات الكبد"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Constipation",
+          "إمساك"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Dyspepsia",
+          "عسر الهضم"
+        ],
+        [
+          "Myopathy",
+          "اعتلال العضلات"
+        ],
+        [
+          "Rhabdomyolysis",
+          "تكسير العضلات، نادر لكنه خطير"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 137,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Contraindications"
+      ],
+      "section_start": 130,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 138,
+      "kind": "paragraph",
+      "text": "Active liver disease: مرض كبدي نشط.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Contraindications"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 139,
+      "kind": "paragraph",
+      "text": "Unexplained persistent elevation of liver enzymes: ارتفاع مستمر وغير مفسر في إنزيمات الكبد.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Contraindications"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 140,
+      "kind": "paragraph",
+      "text": "Pregnancy: تُتجنب أثناء الحمل.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Contraindications"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 141,
+      "kind": "paragraph",
+      "text": "Breastfeeding: لا يُنصح باستخدامها أثناء الرضاعة.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Contraindications"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 142,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية شديدة للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Contraindications"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 143,
+      "kind": "heading",
+      "text": "Important interactions:",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Important interactions:"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        143
+      ]
+    },
+    {
+      "position": 144,
+      "kind": "paragraph",
+      "text": "الجمع مع Gemfibrozil يزيد خطر Myopathy وRhabdomyolysis.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Important interactions:"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        143
+      ]
+    },
+    {
+      "position": 145,
+      "kind": "paragraph",
+      "text": "بعض المضادات الحيوية مثل Clarithromycin قد تزيد تركيز بعض Statins.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Important interactions:"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        143
+      ]
+    },
+    {
+      "position": 146,
+      "kind": "paragraph",
+      "text": "Grapefruit juice قد يتداخل مع بعض الأنواع، خصوصاً Atorvastatin وSimvastatin.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "1. Statins",
+        "Important interactions:"
+      ],
+      "section_start": 130,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        143
+      ]
+    },
+    {
+      "position": 147,
+      "kind": "heading",
+      "text": "2. Ezetimibe",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe"
+      ],
+      "section_start": 147,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 148,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 149,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل امتصاص الكوليسترول من الأمعاء، وتقليل LDL، وغالباً يُستخدم مع Statins أو بمفرده في حالات عدم تحمل Statins.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 150,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 147,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 151,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nEzetrol | Ezetimibe\nLowtimib | Ezetimibe\nEzetimibe Borg | Ezetimibe\nZetamibe | Ezetimibe\nZetlip | Ezetimibe\nCholstop | Ezetimibe\nCholetimb | Ezetimibe\nLipidnorm | Ezetimibe",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 147,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Ezetrol",
+          "Ezetimibe"
+        ],
+        [
+          "Lowtimib",
+          "Ezetimibe"
+        ],
+        [
+          "Ezetimibe Borg",
+          "Ezetimibe"
+        ],
+        [
+          "Zetamibe",
+          "Ezetimibe"
+        ],
+        [
+          "Zetlip",
+          "Ezetimibe"
+        ],
+        [
+          "Cholstop",
+          "Ezetimibe"
+        ],
+        [
+          "Choletimb",
+          "Ezetimibe"
+        ],
+        [
+          "Lipidnorm",
+          "Ezetimibe"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 152,
+      "kind": "heading",
+      "text": "Combination products:",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "الأدوية الموجودة في السوق المصري",
+        "Combination products:"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 153,
+      "kind": "table",
+      "text": "Brand name | Active ingredients\nInegy | Ezetimibe + Simvastatin\nVytorin | Ezetimibe + Simvastatin\nNovistoric Plus | Ezetimibe + Rosuvastatin\nLowtimib Comp | Ezetimibe + Atorvastatin\nFastatinal | Ezetimibe + Atorvastatin",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "الأدوية الموجودة في السوق المصري",
+        "Combination products:"
+      ],
+      "section_start": 147,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Inegy",
+          "Ezetimibe + Simvastatin"
+        ],
+        [
+          "Vytorin",
+          "Ezetimibe + Simvastatin"
+        ],
+        [
+          "Novistoric Plus",
+          "Ezetimibe + Rosuvastatin"
+        ],
+        [
+          "Lowtimib Comp",
+          "Ezetimibe + Atorvastatin"
+        ],
+        [
+          "Fastatinal",
+          "Ezetimibe + Atorvastatin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 154,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Side Effects"
+      ],
+      "section_start": 147,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 155,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nDiarrhea | إسهال\nAbdominal pain | ألم بالبطن\nFatigue | إرهاق\nHeadache | صداع\nArthralgia | ألم المفاصل\nIncreased liver enzymes | ارتفاع إنزيمات الكبد، خصوصاً مع Statins\nMyalgia | ألم العضلات\nMyopathy | اعتلال العضلات، نادر",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Side Effects"
+      ],
+      "section_start": 147,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Abdominal pain",
+          "ألم بالبطن"
+        ],
+        [
+          "Fatigue",
+          "إرهاق"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Arthralgia",
+          "ألم المفاصل"
+        ],
+        [
+          "Increased liver enzymes",
+          "ارتفاع إنزيمات الكبد، خصوصاً مع Statins"
+        ],
+        [
+          "Myalgia",
+          "ألم العضلات"
+        ],
+        [
+          "Myopathy",
+          "اعتلال العضلات، نادر"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 156,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Contraindications"
+      ],
+      "section_start": 147,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 157,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Contraindications"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 158,
+      "kind": "paragraph",
+      "text": "Active liver disease: خصوصاً عند استخدامه مع Statins.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Contraindications"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 159,
+      "kind": "paragraph",
+      "text": "Unexplained persistent elevation of liver enzymes: عند استخدامه مع Statins.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Contraindications"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 160,
+      "kind": "paragraph",
+      "text": "Pregnancy: يجب تقييم الاستخدام مع الطبيب، خصوصاً في التركيبات مع Statins.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Contraindications"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 161,
+      "kind": "paragraph",
+      "text": "Breastfeeding: يحتاج تقييم طبي، خصوصاً مع Statins.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "2. Ezetimibe",
+        "Contraindications"
+      ],
+      "section_start": 147,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        152
+      ]
+    },
+    {
+      "position": 162,
+      "kind": "heading",
+      "text": "3. PCSK9 Inhibitors",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors"
+      ],
+      "section_start": 162,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 163,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 164,
+      "kind": "label",
+      "text": "الاستخدام: خفض LDL Cholesterol بشكل كبير، خصوصاً في:",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "الاستخدام: خفض LDL Cholesterol بشكل كبير، خصوصاً في:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 165,
+      "kind": "paragraph",
+      "text": "Familial Hypercholesterolemia.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "الاستخدام: خفض LDL Cholesterol بشكل كبير، خصوصاً في:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 166,
+      "kind": "paragraph",
+      "text": "مرضى ASCVD الذين لم يصلوا إلى LDL target باستخدام Statins وEzetimibe.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "الاستخدام: خفض LDL Cholesterol بشكل كبير، خصوصاً في:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 167,
+      "kind": "paragraph",
+      "text": "بعض المرضى ذوي الخطورة القلبية الوعائية العالية.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "الاستخدام: خفض LDL Cholesterol بشكل كبير، خصوصاً في:"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 168,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 162,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 169,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nRepatha | Evolocumab\nPraluent | Alirocumab\nLeqvio | Inclisiran",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 162,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Repatha",
+          "Evolocumab"
+        ],
+        [
+          "Praluent",
+          "Alirocumab"
+        ],
+        [
+          "Leqvio",
+          "Inclisiran"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 170,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "Side Effects"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        170
+      ]
+    },
+    {
+      "position": 171,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nInjection site reactions | ألم أو احمرار مكان الحقن\nNasopharyngitis | التهاب الأنف والبلعوم\nFlu-like symptoms | أعراض شبيهة بالإنفلونزا\nHeadache | صداع\nBack pain | ألم الظهر\nArthralgia | ألم المفاصل\nHypersensitivity reactions | تفاعلات الحساسية\nFatigue | إرهاق",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "Side Effects"
+      ],
+      "section_start": 162,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Injection site reactions",
+          "ألم أو احمرار مكان الحقن"
+        ],
+        [
+          "Nasopharyngitis",
+          "التهاب الأنف والبلعوم"
+        ],
+        [
+          "Flu-like symptoms",
+          "أعراض شبيهة بالإنفلونزا"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ],
+        [
+          "Back pain",
+          "ألم الظهر"
+        ],
+        [
+          "Arthralgia",
+          "ألم المفاصل"
+        ],
+        [
+          "Hypersensitivity reactions",
+          "تفاعلات الحساسية"
+        ],
+        [
+          "Fatigue",
+          "إرهاق"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        170
+      ]
+    },
+    {
+      "position": 172,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 162,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        170
+      ]
+    },
+    {
+      "position": 173,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية شديدة للمادة الفعالة أو مكونات المستحضر.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        170
+      ]
+    },
+    {
+      "position": 174,
+      "kind": "paragraph",
+      "text": "Previous serious allergic reaction: تاريخ تفاعل تحسسي شديد مع الدواء.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        170
+      ]
+    },
+    {
+      "position": 175,
+      "kind": "paragraph",
+      "text": "Pregnancy: يحتاج تقييم الفائدة والمخاطر قبل الاستخدام.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        170
+      ]
+    },
+    {
+      "position": 176,
+      "kind": "paragraph",
+      "text": "Breastfeeding: يحتاج تقييم طبي.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "3. PCSK9 Inhibitors",
+        "Contraindications"
+      ],
+      "section_start": 162,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        170
+      ]
+    },
+    {
+      "position": 177,
+      "kind": "heading",
+      "text": "4. Fibrates",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates"
+      ],
+      "section_start": 177,
+      "source_heading_level": 3,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 178,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 179,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "الاستخدام:"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 180,
+      "kind": "paragraph",
+      "text": "تقليل Triglycerides.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "الاستخدام:"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 181,
+      "kind": "paragraph",
+      "text": "علاج Hypertriglyceridemia.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "الاستخدام:"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 182,
+      "kind": "paragraph",
+      "text": "تحسين HDL في بعض المرضى.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "الاستخدام:"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 183,
+      "kind": "paragraph",
+      "text": "بعض الحالات تحتاج Fibrates بالإضافة إلى Statins تحت إشراف طبي.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "الاستخدام:"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 184,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 177,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 185,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nLipanthyl | Fenofibrate\nLipanthyl Supra | Fenofibrate\nFinolip | Fenofibrate\nFinofib | Fenofibrate\nFinorate | Fenofibrate\nFinorate Retard | Fenofibrate\nKemifib | Fenofibrate\nLipolex | Fenofibrate\nLipomedizen | Fenofibrate\nLipifibrate | Fenofibrate\nNofibra | Fenofibrate\nLipanthyl 300 | Fenofibrate\nLopid | Gemfibrozil\nBezalip | Bezafibrate",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 177,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Lipanthyl",
+          "Fenofibrate"
+        ],
+        [
+          "Lipanthyl Supra",
+          "Fenofibrate"
+        ],
+        [
+          "Finolip",
+          "Fenofibrate"
+        ],
+        [
+          "Finofib",
+          "Fenofibrate"
+        ],
+        [
+          "Finorate",
+          "Fenofibrate"
+        ],
+        [
+          "Finorate Retard",
+          "Fenofibrate"
+        ],
+        [
+          "Kemifib",
+          "Fenofibrate"
+        ],
+        [
+          "Lipolex",
+          "Fenofibrate"
+        ],
+        [
+          "Lipomedizen",
+          "Fenofibrate"
+        ],
+        [
+          "Lipifibrate",
+          "Fenofibrate"
+        ],
+        [
+          "Nofibra",
+          "Fenofibrate"
+        ],
+        [
+          "Lipanthyl 300",
+          "Fenofibrate"
+        ],
+        [
+          "Lopid",
+          "Gemfibrozil"
+        ],
+        [
+          "Bezalip",
+          "Bezafibrate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 186,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Side Effects"
+      ],
+      "section_start": 177,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 187,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nAbdominal pain | ألم بالبطن\nNausea | غثيان\nDiarrhea | إسهال\nElevated liver enzymes | ارتفاع إنزيمات الكبد\nMyalgia | ألم العضلات\nMyopathy | اعتلال العضلات\nRhabdomyolysis | تكسير العضلات، نادر لكنه خطير\nIncreased creatinine | ارتفاع الكرياتينين\nGallstones | حصوات المرارة\nHeadache | صداع",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Side Effects"
+      ],
+      "section_start": 177,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Abdominal pain",
+          "ألم بالبطن"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Elevated liver enzymes",
+          "ارتفاع إنزيمات الكبد"
+        ],
+        [
+          "Myalgia",
+          "ألم العضلات"
+        ],
+        [
+          "Myopathy",
+          "اعتلال العضلات"
+        ],
+        [
+          "Rhabdomyolysis",
+          "تكسير العضلات، نادر لكنه خطير"
+        ],
+        [
+          "Increased creatinine",
+          "ارتفاع الكرياتينين"
+        ],
+        [
+          "Gallstones",
+          "حصوات المرارة"
+        ],
+        [
+          "Headache",
+          "صداع"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 188,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Contraindications"
+      ],
+      "section_start": 177,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 189,
+      "kind": "paragraph",
+      "text": "Severe renal impairment: قصور كلوي شديد.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Contraindications"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 190,
+      "kind": "paragraph",
+      "text": "Active liver disease: مرض كبدي نشط.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Contraindications"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 191,
+      "kind": "paragraph",
+      "text": "Pre-existing gallbladder disease: أمراض المرارة الموجودة مسبقاً.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Contraindications"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 192,
+      "kind": "paragraph",
+      "text": "Pregnancy: ممنوعة أو يُتجنب استخدامها حسب المنتج.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Contraindications"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 193,
+      "kind": "paragraph",
+      "text": "Breastfeeding: يُتجنب استخدامها.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Contraindications"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 194,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Fibrates",
+        "Contraindications"
+      ],
+      "section_start": 177,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        177
+      ]
+    },
+    {
+      "position": 195,
+      "kind": "heading",
+      "text": "4. Omega-3 Fatty Acids",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids"
+      ],
+      "section_start": 195,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 196,
+      "kind": "paragraph",
+      "text": "Depends on formulation",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 197,
+      "kind": "label",
+      "text": "الاستخدام:",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "الاستخدام:"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 198,
+      "kind": "paragraph",
+      "text": "تقليل Triglycerides.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "الاستخدام:"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 199,
+      "kind": "paragraph",
+      "text": "علاج بعض حالات Hypertriglyceridemia.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "الاستخدام:"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 200,
+      "kind": "paragraph",
+      "text": "بعض التركيبات الدوائية تُستخدم لتقليل Cardiovascular risk في مرضى محددين.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "الاستخدام:"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 201,
+      "kind": "heading",
+      "text": "الأدوية والمستحضرات الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "الأدوية والمستحضرات الموجودة في السوق المصري"
+      ],
+      "section_start": 195,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 202,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nOmegatonex | Omega-3 EPA + DHA\nSuper Omega | Omega-3 Fish Oil\nOmega-300 | Omega-3 Fish Oil\nOmega 3 Serio | Omega-3 Fish Oil\nOmegafit | Omega-3 Fatty Acids\nOmegafit 1000 | Omega-3 Fatty Acids\nOmega 3 Safe | Omega-3 Fish Oil\nOmega-Saja | Omega-3 Fish Oil\nRenew-Life Omega-3 | Omega-3 Fish Oil\nUltra Omega-3 | Omega-3 Fish Oil\nSeven Seas | Fish Oil / Omega-3\nOmacor | Omega-3-acid ethyl esters",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "الأدوية والمستحضرات الموجودة في السوق المصري"
+      ],
+      "section_start": 195,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Omegatonex",
+          "Omega-3 EPA + DHA"
+        ],
+        [
+          "Super Omega",
+          "Omega-3 Fish Oil"
+        ],
+        [
+          "Omega-300",
+          "Omega-3 Fish Oil"
+        ],
+        [
+          "Omega 3 Serio",
+          "Omega-3 Fish Oil"
+        ],
+        [
+          "Omegafit",
+          "Omega-3 Fatty Acids"
+        ],
+        [
+          "Omegafit 1000",
+          "Omega-3 Fatty Acids"
+        ],
+        [
+          "Omega 3 Safe",
+          "Omega-3 Fish Oil"
+        ],
+        [
+          "Omega-Saja",
+          "Omega-3 Fish Oil"
+        ],
+        [
+          "Renew-Life Omega-3",
+          "Omega-3 Fish Oil"
+        ],
+        [
+          "Ultra Omega-3",
+          "Omega-3 Fish Oil"
+        ],
+        [
+          "Seven Seas",
+          "Fish Oil / Omega-3"
+        ],
+        [
+          "Omacor",
+          "Omega-3-acid ethyl esters"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 203,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Side Effects"
+      ],
+      "section_start": 195,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 204,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nFishy aftertaste | طعم أو رائحة السمك بعد الاستخدام\nNausea | غثيان\nDiarrhea | إسهال\nAbdominal discomfort | عدم ارتياح بالبطن\nDyspepsia | عسر الهضم\nBelching | تجشؤ\nIncreased bleeding tendency | احتمال زيادة النزيف، خصوصاً مع جرعات مرتفعة أو أدوية سيولة\nAtrial fibrillation | زيادة احتمال Atrial fibrillation مع بعض الجرعات الدوائية المرتفعة",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Side Effects"
+      ],
+      "section_start": 195,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Fishy aftertaste",
+          "طعم أو رائحة السمك بعد الاستخدام"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Diarrhea",
+          "إسهال"
+        ],
+        [
+          "Abdominal discomfort",
+          "عدم ارتياح بالبطن"
+        ],
+        [
+          "Dyspepsia",
+          "عسر الهضم"
+        ],
+        [
+          "Belching",
+          "تجشؤ"
+        ],
+        [
+          "Increased bleeding tendency",
+          "احتمال زيادة النزيف، خصوصاً مع جرعات مرتفعة أو أدوية سيولة"
+        ],
+        [
+          "Atrial fibrillation",
+          "زيادة احتمال Atrial fibrillation مع بعض الجرعات الدوائية المرتفعة"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 205,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Contraindications"
+      ],
+      "section_start": 195,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 206,
+      "kind": "paragraph",
+      "text": "Fish or seafood allergy: الحذر مع الحساسية من الأسماك أو مكونات المستحضر.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Contraindications"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 207,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية للمادة الفعالة أو مكونات المستحضر.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Contraindications"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 208,
+      "kind": "paragraph",
+      "text": "Bleeding disorders: الحذر في حالات اضطرابات النزيف.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Contraindications"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 209,
+      "kind": "paragraph",
+      "text": "Concomitant anticoagulants: الحذر مع Warfarin أو Apixaban أو غيرها من أدوية السيولة.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Contraindications"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 210,
+      "kind": "paragraph",
+      "text": "History of atrial fibrillation: يحتاج تقييم ومتابعة طبية، خصوصاً مع الجرعات الدوائية العالية.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "Contraindications"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 211,
+      "kind": "heading",
+      "text": "OTC ولا Prescription؟",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 195,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 212,
+      "kind": "paragraph",
+      "text": "Fish oil supplements: غالباً OTC كـ Dietary Supplements.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 213,
+      "kind": "paragraph",
+      "text": "High-dose pharmaceutical Omega-3 preparations: Prescription حسب المستحضر والتصنيف المحلي.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "4. Omega-3 Fatty Acids",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 195,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        195
+      ]
+    },
+    {
+      "position": 214,
+      "kind": "heading",
+      "text": "5. Bile Acid Sequestrants",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants"
+      ],
+      "section_start": 214,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 215,
+      "kind": "paragraph",
+      "text": "Prescription Only",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 216,
+      "kind": "heading",
+      "text": "الأدوية الموجودة في السوق المصري",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "الأدوية الموجودة في السوق المصري"
+      ],
+      "section_start": 214,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129
+      ]
+    },
+    {
+      "position": 217,
+      "kind": "heading",
+      "text": "A. Cholestyramine",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "الأدوية الموجودة في السوق المصري",
+        "A. Cholestyramine"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217
+      ]
+    },
+    {
+      "position": 218,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nCholestran | Cholestyramine\nQuantamash | Cholestyramine\nQuestran | Cholestyramine",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "الأدوية الموجودة في السوق المصري",
+        "A. Cholestyramine"
+      ],
+      "section_start": 214,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Cholestran",
+          "Cholestyramine"
+        ],
+        [
+          "Quantamash",
+          "Cholestyramine"
+        ],
+        [
+          "Questran",
+          "Cholestyramine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217
+      ]
+    },
+    {
+      "position": 219,
+      "kind": "heading",
+      "text": "B. Colesevelam",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "الأدوية الموجودة في السوق المصري",
+        "B. Colesevelam"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 220,
+      "kind": "table",
+      "text": "Brand name | Active ingredient\nAndocholest | Colesevelam\nCholwell | Colesevelam\nColesevedmia | Colesevelam\nStorvelam | Colesevelam\nPromostatin | Colesevelam",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "الأدوية الموجودة في السوق المصري",
+        "B. Colesevelam"
+      ],
+      "section_start": 214,
+      "headers": [
+        [
+          "Brand name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Andocholest",
+          "Colesevelam"
+        ],
+        [
+          "Cholwell",
+          "Colesevelam"
+        ],
+        [
+          "Colesevedmia",
+          "Colesevelam"
+        ],
+        [
+          "Storvelam",
+          "Colesevelam"
+        ],
+        [
+          "Promostatin",
+          "Colesevelam"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 221,
+      "kind": "heading",
+      "text": "Side Effects",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Side Effects"
+      ],
+      "section_start": 214,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 222,
+      "kind": "table",
+      "text": "Side effect | التوضيح\nConstipation | إمساك، من أشهر الأعراض\nBloating | انتفاخ\nFlatulence | غازات\nNausea | غثيان\nAbdominal pain | ألم بالبطن\nDyspepsia | عسر الهضم\nIncreased triglycerides | ارتفاع Triglycerides\nFat-soluble vitamin deficiency | نقص Vitamins A, D, E, K مع الاستخدام الطويل\nReduced absorption of other drugs | تقليل امتصاص أدوية أخرى",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Side Effects"
+      ],
+      "section_start": 214,
+      "headers": [
+        [
+          "Side effect",
+          "التوضيح"
+        ]
+      ],
+      "rows": [
+        [
+          "Constipation",
+          "إمساك، من أشهر الأعراض"
+        ],
+        [
+          "Bloating",
+          "انتفاخ"
+        ],
+        [
+          "Flatulence",
+          "غازات"
+        ],
+        [
+          "Nausea",
+          "غثيان"
+        ],
+        [
+          "Abdominal pain",
+          "ألم بالبطن"
+        ],
+        [
+          "Dyspepsia",
+          "عسر الهضم"
+        ],
+        [
+          "Increased triglycerides",
+          "ارتفاع Triglycerides"
+        ],
+        [
+          "Fat-soluble vitamin deficiency",
+          "نقص Vitamins A, D, E, K مع الاستخدام الطويل"
+        ],
+        [
+          "Reduced absorption of other drugs",
+          "تقليل امتصاص أدوية أخرى"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 223,
+      "kind": "heading",
+      "text": "Contraindications",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Contraindications"
+      ],
+      "section_start": 214,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 224,
+      "kind": "paragraph",
+      "text": "Complete biliary obstruction: انسداد كامل بالقنوات المرارية.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Contraindications"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 225,
+      "kind": "paragraph",
+      "text": "Severe hypertriglyceridemia: ارتفاع شديد في Triglycerides، خصوصاً مع Colesevelam.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Contraindications"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 226,
+      "kind": "paragraph",
+      "text": "Hypersensitivity: حساسية للمادة الفعالة.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Contraindications"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 227,
+      "kind": "paragraph",
+      "text": "Bowel obstruction: الحذر أو تجنب الاستخدام حسب الحالة.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Contraindications"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 228,
+      "kind": "paragraph",
+      "text": "Severe constipation: الحذر في المرضى الذين يعانون من إمساك شديد.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Contraindications"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219
+      ]
+    },
+    {
+      "position": 229,
+      "kind": "heading",
+      "text": "Important drug interactions:",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Important drug interactions:"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219,
+        229
+      ]
+    },
+    {
+      "position": 230,
+      "kind": "heading",
+      "text": "ممكن تقلل امتصاص أدوية كتير، مثل:",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Important drug interactions:",
+        "ممكن تقلل امتصاص أدوية كتير، مثل:"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "heading_level": 4,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219,
+        229,
+        230
+      ]
+    },
+    {
+      "position": 231,
+      "kind": "paragraph",
+      "text": "Levothyroxine.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Important drug interactions:",
+        "ممكن تقلل امتصاص أدوية كتير، مثل:"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219,
+        229,
+        230
+      ]
+    },
+    {
+      "position": 232,
+      "kind": "paragraph",
+      "text": "Warfarin.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Important drug interactions:",
+        "ممكن تقلل امتصاص أدوية كتير، مثل:"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219,
+        229,
+        230
+      ]
+    },
+    {
+      "position": 233,
+      "kind": "paragraph",
+      "text": "Digoxin.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Important drug interactions:",
+        "ممكن تقلل امتصاص أدوية كتير، مثل:"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219,
+        229,
+        230
+      ]
+    },
+    {
+      "position": 234,
+      "kind": "paragraph",
+      "text": "بعض Diuretics.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Important drug interactions:",
+        "ممكن تقلل امتصاص أدوية كتير، مثل:"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219,
+        229,
+        230
+      ]
+    },
+    {
+      "position": 235,
+      "kind": "paragraph",
+      "text": "لذلك لازم مراعاة الفصل بين مواعيد تناول الأدوية والـ Bile Acid Sequestrants.",
+      "section_path": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia",
+        "5. Bile Acid Sequestrants",
+        "Important drug interactions:",
+        "ممكن تقلل امتصاص أدوية كتير، مثل:"
+      ],
+      "section_start": 214,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية الكوليسترول والدهون – Dyslipidemia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        129,
+        217,
+        219,
+        229,
+        230
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the source Antihypertensive Drugs topic.",
+    "Block 69: This source label introduces the Thiazide medication table, not a new drug class.",
+    "Block 129: Retain the source Dyslipidemia topic.",
+    "Block 143: The original Important interactions label is a sibling of Contraindications.",
+    "Block 152: The original Combination products label is a subsection of the medication list.",
+    "Block 170: The plain source Side Effects paragraph labels the following side-effect table.",
+    "Block 177: Fibrates is a sibling drug class; the source styles it at level 3.",
+    "Block 195: Retain Omega-3 as a sibling class; duplicate source number 4 is preserved, not corrected in text.",
+    "Block 217: Retain the original Cholestyramine subsection beneath the medication list.",
+    "Block 219: Retain the original Colesevelam subsection beneath the medication list.",
+    "Block 229: The original Important drug interactions label is a class-level subsection.",
+    "Block 230: Retain the original introductory interaction-list label beneath Important drug interactions."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        6
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        8
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        19
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        21
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        38
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        40
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        55
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        57
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        70
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        72
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        87
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        89
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        104
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        106
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        120
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        122
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        134
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        136
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        151
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        153
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        155
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        169
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        171
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        185
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        187
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        202
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        204
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        218
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        220
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        222
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Antihypertensive Drugs topic.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "This source label introduces the Thiazide medication table, not a new drug class.",
+      "block_positions": [
+        69
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Dyslipidemia topic.",
+      "block_positions": [
+        129
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The original Important interactions label is a sibling of Contraindications.",
+      "block_positions": [
+        143
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The original Combination products label is a subsection of the medication list.",
+      "block_positions": [
+        152
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The plain source Side Effects paragraph labels the following side-effect table.",
+      "block_positions": [
+        170
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Fibrates is a sibling drug class; the source styles it at level 3.",
+      "block_positions": [
+        177
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain Omega-3 as a sibling class; duplicate source number 4 is preserved, not corrected in text.",
+      "block_positions": [
+        195
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original Cholestyramine subsection beneath the medication list.",
+      "block_positions": [
+        217
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original Colesevelam subsection beneath the medication list.",
+      "block_positions": [
+        219
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The original Important drug interactions label is a class-level subsection.",
+      "block_positions": [
+        229
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original introductory interaction-list label beneath Important drug interactions.",
+      "block_positions": [
+        230
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the source Antihypertensive Drugs topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 69,
+      "reason": "This source label introduces the Thiazide medication table, not a new drug class.",
+      "parent_position": 68
+    },
+    {
+      "position": 129,
+      "reason": "Retain the source Dyslipidemia topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 143,
+      "reason": "The original Important interactions label is a sibling of Contraindications.",
+      "heading_level": 3
+    },
+    {
+      "position": 152,
+      "reason": "The original Combination products label is a subsection of the medication list.",
+      "heading_level": 4
+    },
+    {
+      "position": 170,
+      "reason": "The plain source Side Effects paragraph labels the following side-effect table.",
+      "heading_level": 3
+    },
+    {
+      "position": 177,
+      "reason": "Fibrates is a sibling drug class; the source styles it at level 3.",
+      "heading_level": 2
+    },
+    {
+      "position": 195,
+      "reason": "Retain Omega-3 as a sibling class; duplicate source number 4 is preserved, not corrected in text.",
+      "heading_level": 2
+    },
+    {
+      "position": 217,
+      "reason": "Retain the original Cholestyramine subsection beneath the medication list.",
+      "heading_level": 4
+    },
+    {
+      "position": 219,
+      "reason": "Retain the original Colesevelam subsection beneath the medication list.",
+      "heading_level": 4
+    },
+    {
+      "position": 229,
+      "reason": "The original Important drug interactions label is a class-level subsection.",
+      "heading_level": 3
+    },
+    {
+      "position": 230,
+      "reason": "Retain the original introductory interaction-list label beneath Important drug interactions.",
+      "heading_level": 4
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "f2aee38480bb73ad3e534c6cd6e63759b8276e88172cfe7a4a96e06ba3fd7530"
+}

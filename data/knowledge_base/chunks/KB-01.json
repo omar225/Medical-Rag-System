@@ -1,0 +1,1416 @@
+[
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0001",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma",
+    "section_path": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "section_start": 1,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\nملاحظات مهمة قبل القائمة:\nأدوية الـ LABA لا تُستخدم وحدها في علاج الربو؛ لازم تكون مع ICS.\nالـ SABA بيوسّع الشعب بسرعة، لكنه مش بديل عن العلاج المضاد للالتهاب.\nالـ Biologics مخصصة لأنواع معينة من الربو الشديد، وتحت إشراف متخصص.\nأدوية الـ Systemic corticosteroids مش للاستخدام الذاتي أو لفترات طويلة من غير متابعة طبية.",
+    "source_spans": [
+      {
+        "block_position": 1
+      },
+      {
+        "block_position": 2
+      },
+      {
+        "block_position": 3
+      },
+      {
+        "block_position": 4
+      },
+      {
+        "block_position": 5
+      },
+      {
+        "block_position": 6
+      }
+    ],
+    "char_count": 343,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0002",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > 1. SABA – Short-Acting Beta-2 Agonists",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "1. SABA – Short-Acting Beta-2 Agonists"
+    ],
+    "section_start": 7,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\n1. SABA – Short-Acting Beta-2 Agonists\nالاستخدام: توسعة الشعب بسرعة عند اللزوم، مثل Salbutamol. مش علاجًا مضادًا للالتهاب.\n\nTrade name | Active ingredient\nVentolin Evohaler | Salbutamol\nVentolin Diskus | Salbutamol\nVentolin Rotacaps | Salbutamol\nAerolin | Salbutamol\nButalin | Salbutamol\nVental Inhaler | Salbutamol\nViasalmol | Salbutamol\nBroncholin S Aerosol | Salbutamol\nSalbovent Respirator Solution | Salbutamol\nFarcolin Respirator Solution | Salbutamol\nAsthmarelief Nebulizer | Salbutamol\nAlveotrack Inhalation Solution | Salbutamol\n\nCommon side effects:\nTremors / رعشة.\nPalpitations وTachycardia.\nHeadache.\nNervousness.\nHypokalemia، خصوصًا مع الجرعات العالية أو المتكررة.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to salbutamol.\nالحذر مع مرضى Arrhythmias وIschemic heart disease.\nالحذر مع Hyperthyroidism وUncontrolled hypertension.\nالجرعات العالية قد تسبب Hypokalemia.",
+    "source_spans": [
+      {
+        "block_position": 7
+      },
+      {
+        "block_position": 8
+      },
+      {
+        "block_position": 9,
+        "row_start": 2,
+        "row_end": 13
+      },
+      {
+        "block_position": 10
+      },
+      {
+        "block_position": 11
+      },
+      {
+        "block_position": 12
+      },
+      {
+        "block_position": 13
+      },
+      {
+        "block_position": 14
+      },
+      {
+        "block_position": 15
+      },
+      {
+        "block_position": 16
+      },
+      {
+        "block_position": 17
+      },
+      {
+        "block_position": 18
+      },
+      {
+        "block_position": 19
+      },
+      {
+        "block_position": 20
+      }
+    ],
+    "char_count": 911,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0003",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > 2. LABA – Long-Acting Beta-2 Agonists",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "2. LABA – Long-Acting Beta-2 Agonists"
+    ],
+    "section_start": 21,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\n2. LABA – Long-Acting Beta-2 Agonists\nالاستخدام: التحكم طويل المدى في الربو، لكن لازم مع ICS، ولا يُستخدم LABA منفردًا في Asthma.\n\nTrade name | Active ingredient\nSerevent | Salmeterol\nSerevent Rotadisks | Salmeterol\nMetrovent | Salmeterol\nForadil | Formoterol\nForadil Aerolizer | Formoterol\n\nCommon side effects:\nTremors.\nPalpitations وTachycardia.\nHeadache.\nMuscle cramps.\nHypokalemia.\n\nContraindications / أهم التحذيرات:\nممنوع استخدام LABA وحده في Asthma.\nHypersensitivity to the drug.\nالحذر مع Arrhythmias وCardiovascular diseases.\nالحذر مع Hyperthyroidism وHypokalemia.",
+    "source_spans": [
+      {
+        "block_position": 21
+      },
+      {
+        "block_position": 22
+      },
+      {
+        "block_position": 23,
+        "row_start": 2,
+        "row_end": 6
+      },
+      {
+        "block_position": 24
+      },
+      {
+        "block_position": 25
+      },
+      {
+        "block_position": 26
+      },
+      {
+        "block_position": 27
+      },
+      {
+        "block_position": 28
+      },
+      {
+        "block_position": 29
+      },
+      {
+        "block_position": 30
+      },
+      {
+        "block_position": 31
+      },
+      {
+        "block_position": 32
+      },
+      {
+        "block_position": 33
+      },
+      {
+        "block_position": 34
+      }
+    ],
+    "char_count": 598,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0004",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > 3. Inhaled Corticosteroids – ICS",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "3. Inhaled Corticosteroids – ICS"
+    ],
+    "section_start": 35,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\n3. Inhaled Corticosteroids – ICS\nالاستخدام: تقليل التهاب الشعب الهوائية والوقاية من أعراض ونوبات الربو، وتُستخدم بانتظام حسب الخطة العلاجية.\n\nTrade name | Active ingredient\nClenil | Beclometasone\nBeclate | Beclometasone\nBecotide | Beclometasone\nPulmicort | Budesonide\nPulmicort Turbuhaler | Budesonide\nBudecort | Budesonide\nFlixotide | Fluticasone propionate\nFlixotide Evohaler | Fluticasone propionate\nFlixotide Diskus | Fluticasone propionate\n\nCommon side effects:\nOral candidiasis (فطريات الفم).\nDysphonia / بحة الصوت.\nThroat irritation.\nCough.\nمع الجرعات العالية لفترات طويلة: Adrenal suppression، وتأثيرات على العظام والعين.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to the drug.\nلا تُستخدم لعلاج Acute asthma attack بمفردها.\nالحذر في مرضى Active pulmonary tuberculosis أو بعض عدوى الجهاز التنفسي.\nالمضمضة بالماء والبصق بعد كل استخدام لتقليل Oral candidiasis.\nلا يتم إيقاف الجرعات العالية أو العلاج طويل المدى فجأة دون مراجعة الطبيب.",
+    "source_spans": [
+      {
+        "block_position": 35
+      },
+      {
+        "block_position": 36
+      },
+      {
+        "block_position": 37,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 38
+      },
+      {
+        "block_position": 39
+      },
+      {
+        "block_position": 40
+      },
+      {
+        "block_position": 41
+      },
+      {
+        "block_position": 42
+      },
+      {
+        "block_position": 43
+      },
+      {
+        "block_position": 44
+      },
+      {
+        "block_position": 45
+      },
+      {
+        "block_position": 46
+      },
+      {
+        "block_position": 47
+      },
+      {
+        "block_position": 48
+      },
+      {
+        "block_position": 49
+      }
+    ],
+    "char_count": 974,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0005",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > 4. ICS/LABA Combinations",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "4. ICS/LABA Combinations"
+    ],
+    "section_start": 50,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\n4. ICS/LABA Combinations\nالاستخدام: التحكم في الربو عن طريق الجمع بين مضاد الالتهاب وموسع الشعب طويل المفعول.\n\nTrade name | Active ingredients\nSeretide | Fluticasone + Salmeterol\nSeretide Diskus | Fluticasone + Salmeterol\nSeretide Evohaler | Fluticasone + Salmeterol\nSeroflo | Fluticasone + Salmeterol\nSeroflo Inhaler | Fluticasone + Salmeterol\nSalmetocort | Fluticasone + Salmeterol\nMetricason | Fluticasone + Salmeterol\nSymbicort | Budesonide + Formoterol\nForacort | Budesonide + Formoterol\nFostair | Beclometasone + Formoterol\nFoster | Beclometasone + Formoterol\nViasalmol Plus | Beclometasone + Salbutamol\n\nCommon side effects:\nOral candidiasis.\nHoarseness / Dysphonia.\nTremors.\nPalpitations.\nHeadache.\nMuscle cramps.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to any component.\nلا تُستخدم لعلاج نوبة ربو حادة إلا إذا كانت ضمن خطة علاجية محددة تسمح باستخدام تركيبة ICS/Formoterol كـ reliever.\nلا يتم الجمع عشوائيًا مع LABA آخر.\nالمضمضة بعد الاستخدام مهمة جدًا.\nلا يتم إيقاف العلاج فجأة دون مراجعة الطبيب.",
+    "source_spans": [
+      {
+        "block_position": 50
+      },
+      {
+        "block_position": 51
+      },
+      {
+        "block_position": 52,
+        "row_start": 2,
+        "row_end": 13
+      },
+      {
+        "block_position": 53
+      },
+      {
+        "block_position": 54
+      },
+      {
+        "block_position": 55
+      },
+      {
+        "block_position": 56
+      },
+      {
+        "block_position": 57
+      },
+      {
+        "block_position": 58
+      },
+      {
+        "block_position": 59
+      },
+      {
+        "block_position": 60
+      },
+      {
+        "block_position": 61
+      },
+      {
+        "block_position": 62
+      },
+      {
+        "block_position": 63
+      },
+      {
+        "block_position": 64
+      },
+      {
+        "block_position": 65
+      }
+    ],
+    "char_count": 1043,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0006",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > 5. Leukotriene Receptor Antagonists – LTRA",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "5. Leukotriene Receptor Antagonists – LTRA"
+    ],
+    "section_start": 66,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\n5. Leukotriene Receptor Antagonists – LTRA\nالاستخدام: التحكم في الربو، خصوصًا المصاحب للحساسية أو Exercise-induced bronchoconstriction، وقد يُستخدم في Allergic rhinitis. مش لعلاج النوبة الحادة.\n\nTrade name | Active ingredient\nSingulair | Montelukast\nMontekal | Montelukast\nKokast | Montelukast\nKast | Montelukast\nSedokast | Montelukast\nInletair | Montelukast\nVentasthma | Montelukast\nMontelurama | Montelukast\nClear Air | Montelukast\nLelipel | Montelukast\nAsmakast | Montelukast\n\nCommon side effects:\nHeadache.\nAbdominal pain.\nDiarrhea.\nNausea.\nSleep disturbances.\nMood and behavioral changes.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to montelukast.\nأهم تحذير: Neuropsychiatric events مثل depression، nightmares، aggression، وتغيرات السلوك، وقد تصل إلى suicidal thoughts.\nالحذر في المرضى الذين لديهم تاريخ نفسي.\nلا يُستخدم لعلاج Acute asthma attack.\nلا يتم استبدال ICS به أو إيقاف ICS فجأة.",
+    "source_spans": [
+      {
+        "block_position": 66
+      },
+      {
+        "block_position": 67
+      },
+      {
+        "block_position": 68,
+        "row_start": 2,
+        "row_end": 12
+      },
+      {
+        "block_position": 69
+      },
+      {
+        "block_position": 70
+      },
+      {
+        "block_position": 71
+      },
+      {
+        "block_position": 72
+      },
+      {
+        "block_position": 73
+      },
+      {
+        "block_position": 74
+      },
+      {
+        "block_position": 75
+      },
+      {
+        "block_position": 76
+      },
+      {
+        "block_position": 77
+      },
+      {
+        "block_position": 78
+      },
+      {
+        "block_position": 79
+      },
+      {
+        "block_position": 80
+      },
+      {
+        "block_position": 81
+      }
+    ],
+    "char_count": 928,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0007",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > 6. LAMA – Long-Acting Muscarinic Antagonists",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "6. LAMA – Long-Acting Muscarinic Antagonists"
+    ],
+    "section_start": 82,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\n6. LAMA – Long-Acting Muscarinic Antagonists\nالاستخدام: علاج إضافي لبعض مرضى الربو غير المتحكم فيه رغم استخدام ICS/LABA، مثل Tiotropium.\n\nTrade name | Active ingredient\nSpiriva HandiHaler | Tiotropium\nSpiriva Respimat | Tiotropium\n\nCommon side effects:\nDry mouth.\nConstipation.\nCough.\nUrinary retention.\nBlurred vision إذا وصل الرذاذ للعين.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to tiotropium أو atropine derivatives.\nNarrow-angle glaucoma.\nBenign prostatic hyperplasia (BPH) أو urinary retention.\nالحذر في Renal impairment.\nلا يُستخدم كـ Rescue inhaler لعلاج النوبة الحادة.",
+    "source_spans": [
+      {
+        "block_position": 82
+      },
+      {
+        "block_position": 83
+      },
+      {
+        "block_position": 84,
+        "row_start": 2,
+        "row_end": 3
+      },
+      {
+        "block_position": 85
+      },
+      {
+        "block_position": 86
+      },
+      {
+        "block_position": 87
+      },
+      {
+        "block_position": 88
+      },
+      {
+        "block_position": 89
+      },
+      {
+        "block_position": 90
+      },
+      {
+        "block_position": 91
+      },
+      {
+        "block_position": 92
+      },
+      {
+        "block_position": 93
+      },
+      {
+        "block_position": 94
+      },
+      {
+        "block_position": 95
+      },
+      {
+        "block_position": 96
+      }
+    ],
+    "char_count": 614,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0008",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > 7. Systemic Corticosteroids",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "7. Systemic Corticosteroids"
+    ],
+    "section_start": 97,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\n7. Systemic Corticosteroids\nالاستخدام: نوبات الربو الشديدة أو الحالات المختارة لفترات قصيرة، وأحيانًا في الحالات الشديدة التي تحتاج علاجًا متخصصًا.\n\nTrade name | Active ingredient\nSolupred | Prednisolone\nSolupred Oro | Prednisolone\nPredsol | Prednisolone\nPredilone | Prednisolone\nFastsolone | Prednisolone\nDisprelone | Prednisolone\nXilone | Prednisolone\nEpicopred | Prednisolone\nPrednisolone-Eva | Prednisolone\nPredsol Forte | Prednisolone\nSolu-Medrol | Methylprednisolone\nDepo-Medrol | Methylprednisolone\nXilopred | Methylprednisolone\nDexazone | Dexamethasone\nDexamethasone-Eipico | Dexamethasone\n\nCommon side effects:\nIncreased appetite and weight gain.\nInsomnia.\nMood changes.\nGastric irritation.\nIncreased blood glucose.\nFluid retention and increased blood pressure.\nمع الاستخدام الطويل: Osteoporosis، Adrenal suppression، increased infection risk، وCushingoid features.\n\nContraindications / أهم التحذيرات:\nSystemic fungal infection.\nHypersensitivity to the drug.\nالحذر في مرضى Diabetes، Hypertension، Peptic ulcer، Osteoporosis، وGlaucoma.\nالحذر مع وجود عدوى غير مسيطر عليها.\nالاستخدام الطويل لا يتم إيقافه فجأة بسبب خطر Adrenal insufficiency.\nاستخدامه في نوبات الربو يكون بتقييم طبي، وليس كعلاج ذاتي.",
+    "source_spans": [
+      {
+        "block_position": 97
+      },
+      {
+        "block_position": 98
+      },
+      {
+        "block_position": 99,
+        "row_start": 2,
+        "row_end": 16
+      },
+      {
+        "block_position": 100
+      },
+      {
+        "block_position": 101
+      },
+      {
+        "block_position": 102
+      },
+      {
+        "block_position": 103
+      },
+      {
+        "block_position": 104
+      },
+      {
+        "block_position": 105
+      },
+      {
+        "block_position": 106
+      },
+      {
+        "block_position": 107
+      },
+      {
+        "block_position": 108
+      },
+      {
+        "block_position": 109
+      },
+      {
+        "block_position": 110
+      },
+      {
+        "block_position": 111
+      },
+      {
+        "block_position": 112
+      },
+      {
+        "block_position": 113
+      },
+      {
+        "block_position": 114
+      }
+    ],
+    "char_count": 1231,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0009",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "1. أدوية الربو – Asthma > OTC ولا Prescription؟",
+    "section_path": [
+      "1. أدوية الربو – Asthma",
+      "OTC ولا Prescription؟"
+    ],
+    "section_start": 115,
+    "filename": "asthma w copd.docx",
+    "text": "1. أدوية الربو – Asthma\n\nOTC ولا Prescription؟\n\nDrug Class | Classification\nSABA | Prescription\nLABA | Prescription\nICS | Prescription\nICS/LABA | Prescription\nLTRA (Montelukast) | Prescription\nLAMA | Prescription\nBiologics | Prescription – Specialist use\nSystemic Corticosteroids | Prescription\n\nOTC: None",
+    "source_spans": [
+      {
+        "block_position": 115
+      },
+      {
+        "block_position": 116,
+        "row_start": 2,
+        "row_end": 9
+      },
+      {
+        "block_position": 117
+      }
+    ],
+    "char_count": 305,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية الربو – Asthma"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0010",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 1. SABA – Short-Acting Beta-2 Agonists",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "1. SABA – Short-Acting Beta-2 Agonists"
+    ],
+    "section_start": 119,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n1. SABA – Short-Acting Beta-2 Agonists\nالاستخدام: توسيع الشعب سريعًا عند اللزوم، وتُستخدم أيضًا أثناء تفاقم COPD حسب تقييم الحالة.\n\nTrade name | Active ingredient\nVentolin | Salbutamol\nAerolin | Salbutamol\nButalin | Salbutamol\nVental | Salbutamol\nViasalmol | Salbutamol\nBroncholin S | Salbutamol\nSalbovent | Salbutamol\nFarcolin | Salbutamol\nAlveotrack | Salbutamol\nAsthmarelief | Salbutamol\nSalamol | Salbutamol\n\nCommon side effects:\nTremors.\nPalpitations وTachycardia.\nHeadache.\nNervousness.\nHypokalemia مع الجرعات العالية.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to Salbutamol.\nالحذر في Arrhythmias وIschemic heart disease.\nالحذر في Hyperthyroidism وUncontrolled hypertension.\nالجرعات المتكررة قد تسبب Hypokalemia.",
+    "source_spans": [
+      {
+        "block_position": 118
+      },
+      {
+        "block_position": 119
+      },
+      {
+        "block_position": 120
+      },
+      {
+        "block_position": 121,
+        "row_start": 2,
+        "row_end": 12
+      },
+      {
+        "block_position": 122
+      },
+      {
+        "block_position": 123
+      },
+      {
+        "block_position": 124
+      },
+      {
+        "block_position": 125
+      },
+      {
+        "block_position": 126
+      },
+      {
+        "block_position": 127
+      },
+      {
+        "block_position": 128
+      },
+      {
+        "block_position": 129
+      },
+      {
+        "block_position": 130
+      },
+      {
+        "block_position": 131
+      },
+      {
+        "block_position": 132
+      }
+    ],
+    "char_count": 769,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0011",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 2. LABA – Long-Acting Beta-2 Agonists",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "2. LABA – Long-Acting Beta-2 Agonists"
+    ],
+    "section_start": 133,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n2. LABA – Long-Acting Beta-2 Agonists\nالاستخدام: توسيع الشعب طويل المدى وتقليل أعراض COPD.\n\nTrade name | Active ingredient\nSerevent | Salmeterol\nForadil | Formoterol\nOxis | Formoterol\nOnbrez Breezhaler | Indacaterol\nStriverdi Respimat | Olodaterol\n\nCommon side effects:\nTremors.\nPalpitations.\nHeadache.\nMuscle cramps.\nHypokalemia.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to the drug.\nالحذر مع Arrhythmias وCardiovascular diseases.\nالحذر مع Hyperthyroidism وHypokalemia.\nفي COPD يمكن استخدام LABA كعلاج صيانة منفردًا أو مع LAMA حسب الحالة، بعكس Asthma الذي لا يُستخدم فيه LABA منفردًا.",
+    "source_spans": [
+      {
+        "block_position": 133
+      },
+      {
+        "block_position": 134
+      },
+      {
+        "block_position": 135,
+        "row_start": 2,
+        "row_end": 6
+      },
+      {
+        "block_position": 136
+      },
+      {
+        "block_position": 137
+      },
+      {
+        "block_position": 138
+      },
+      {
+        "block_position": 139
+      },
+      {
+        "block_position": 140
+      },
+      {
+        "block_position": 141
+      },
+      {
+        "block_position": 142
+      },
+      {
+        "block_position": 143
+      },
+      {
+        "block_position": 144
+      },
+      {
+        "block_position": 145
+      },
+      {
+        "block_position": 146
+      }
+    ],
+    "char_count": 637,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0012",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 3. LAMA – Long-Acting Muscarinic Antagonists",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "3. LAMA – Long-Acting Muscarinic Antagonists"
+    ],
+    "section_start": 147,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n3. LAMA – Long-Acting Muscarinic Antagonists\nالاستخدام: تحسين التنفس وتقليل الأعراض والتفاقم، وتُستخدم كعلاج صيانة طويل المدى.\n\nTrade name | Active ingredient\nSpiriva HandiHaler | Tiotropium\nSpiriva Respimat | Tiotropium\nInhalex | Tiotropium\nCipla-Tropium | Tiotropium\n\nCommon side effects:\nDry mouth.\nConstipation.\nUrinary retention.\nBlurred vision.\nCough.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to Tiotropium أو atropine derivatives.\nNarrow-angle glaucoma.\nالحذر في BPH وUrinary retention.\nالحذر في Renal impairment.\nلا يُستخدم لعلاج Acute bronchospasm.",
+    "source_spans": [
+      {
+        "block_position": 147
+      },
+      {
+        "block_position": 148
+      },
+      {
+        "block_position": 149,
+        "row_start": 2,
+        "row_end": 5
+      },
+      {
+        "block_position": 150
+      },
+      {
+        "block_position": 151
+      },
+      {
+        "block_position": 152
+      },
+      {
+        "block_position": 153
+      },
+      {
+        "block_position": 154
+      },
+      {
+        "block_position": 155
+      },
+      {
+        "block_position": 156
+      },
+      {
+        "block_position": 157
+      },
+      {
+        "block_position": 158
+      },
+      {
+        "block_position": 159
+      },
+      {
+        "block_position": 160
+      },
+      {
+        "block_position": 161
+      }
+    ],
+    "char_count": 609,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0013",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 4. LABA/LAMA Combinations",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "4. LABA/LAMA Combinations"
+    ],
+    "section_start": 162,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n4. LABA/LAMA Combinations\nالاستخدام: التحكم طويل المدى في COPD، وتحسين ضيق التنفس وتقليل التفاقم.\n\nTrade name | Active ingredients\nUltibro Breezhaler | Indacaterol + Glycopyrronium\nTretabreva Comb | Indacaterol + Glycopyrronium\nBronchopyonair Plus | Indacaterol + Glycopyrronium\nIndactoven | Indacaterol + Glycopyrronium\nSpiolto Respimat | Tiotropium + Olodaterol\nAnoro Ellipta | Umeclidinium + Vilanterol\nDuaklir Genuair | Aclidinium + Formoterol\n\nCommon side effects:\nDry mouth.\nTremors.\nPalpitations.\nHeadache.\nConstipation.\nUrinary retention.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to any component.\nالحذر في Glaucoma وBPH.\nالحذر في Cardiovascular diseases.\nلا يتم الجمع بينها وبين LABA أو LAMA آخر بشكل عشوائي.\nليست Rescue inhalers لعلاج النوبة الحادة.",
+    "source_spans": [
+      {
+        "block_position": 162
+      },
+      {
+        "block_position": 163
+      },
+      {
+        "block_position": 164,
+        "row_start": 2,
+        "row_end": 8
+      },
+      {
+        "block_position": 165
+      },
+      {
+        "block_position": 166
+      },
+      {
+        "block_position": 167
+      },
+      {
+        "block_position": 168
+      },
+      {
+        "block_position": 169
+      },
+      {
+        "block_position": 170
+      },
+      {
+        "block_position": 171
+      },
+      {
+        "block_position": 172
+      },
+      {
+        "block_position": 173
+      },
+      {
+        "block_position": 174
+      },
+      {
+        "block_position": 175
+      },
+      {
+        "block_position": 176
+      },
+      {
+        "block_position": 177
+      }
+    ],
+    "char_count": 811,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0014",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 5. ICS/LABA Combinations",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "5. ICS/LABA Combinations"
+    ],
+    "section_start": 178,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n5. ICS/LABA Combinations\nالاستخدام: حالات مختارة من COPD، خصوصًا المرضى الذين لديهم تاريخ Exacerbations أو مؤشرات تستدعي إضافة ICS.\n\nTrade name | Active ingredients\nSeretide | Fluticasone + Salmeterol\nSeretide Diskus | Fluticasone + Salmeterol\nSeretide Evohaler | Fluticasone + Salmeterol\nSeroflo | Fluticasone + Salmeterol\nSymbicort | Budesonide + Formoterol\nForacort | Budesonide + Formoterol\nFostair | Beclometasone + Formoterol\nFoster | Beclometasone + Formoterol\nRelvar Ellipta | Fluticasone furoate + Vilanterol\n\nCommon side effects:\nOral candidiasis.\nHoarseness.\nThroat irritation.\nPneumonia risk، خصوصًا مع ICS في مرضى COPD.\nTremors وPalpitations.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to any component.\nلا تُستخدم لعلاج Acute exacerbation بمفردها.\nزيادة خطر Pneumonia في بعض مرضى COPD.\nالمضمضة بعد الاستخدام.\nلا تُضاف ICS لكل مريض COPD؛ القرار يعتمد على تاريخ التفاقم وBlood eosinophils وعوامل أخرى.",
+    "source_spans": [
+      {
+        "block_position": 178
+      },
+      {
+        "block_position": 179
+      },
+      {
+        "block_position": 180,
+        "row_start": 2,
+        "row_end": 10
+      },
+      {
+        "block_position": 181
+      },
+      {
+        "block_position": 182
+      },
+      {
+        "block_position": 183
+      },
+      {
+        "block_position": 184
+      },
+      {
+        "block_position": 185
+      },
+      {
+        "block_position": 186
+      },
+      {
+        "block_position": 187
+      },
+      {
+        "block_position": 188
+      },
+      {
+        "block_position": 189
+      },
+      {
+        "block_position": 190
+      },
+      {
+        "block_position": 191
+      },
+      {
+        "block_position": 192
+      }
+    ],
+    "char_count": 963,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0015",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 6. Triple Therapy – ICS/LABA/LAMA",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "6. Triple Therapy – ICS/LABA/LAMA"
+    ],
+    "section_start": 193,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n6. Triple Therapy – ICS/LABA/LAMA\nالاستخدام: بعض حالات COPD التي لا تتحسن بشكل كافٍ على LABA/LAMA، خصوصًا مع تكرار Exacerbations ووجود مؤشرات لإضافة ICS.\n\nTrade name | Active ingredients\nTrelegy Ellipta | Fluticasone furoate + Umeclidinium + Vilanterol\nTrimbow | Beclometasone + Formoterol + Glycopyrronium\n\nCommon side effects:\nOral candidiasis.\nHoarseness.\nDry mouth.\nTremors.\nPalpitations.\nIncreased risk of Pneumonia.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to any component.\nالحذر في Glaucoma وBPH.\nالحذر في Cardiovascular diseases.\nزيادة احتمالية Pneumonia بسبب ICS.\nلا تُستخدم لعلاج النوبة الحادة.",
+    "source_spans": [
+      {
+        "block_position": 193
+      },
+      {
+        "block_position": 194
+      },
+      {
+        "block_position": 195,
+        "row_start": 2,
+        "row_end": 3
+      },
+      {
+        "block_position": 196
+      },
+      {
+        "block_position": 197
+      },
+      {
+        "block_position": 198
+      },
+      {
+        "block_position": 199
+      },
+      {
+        "block_position": 200
+      },
+      {
+        "block_position": 201
+      },
+      {
+        "block_position": 202
+      },
+      {
+        "block_position": 203
+      },
+      {
+        "block_position": 204
+      },
+      {
+        "block_position": 205
+      },
+      {
+        "block_position": 206
+      },
+      {
+        "block_position": 207
+      },
+      {
+        "block_position": 208
+      }
+    ],
+    "char_count": 657,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0016",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 7. PDE-4 Inhibitors",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "7. PDE-4 Inhibitors"
+    ],
+    "section_start": 209,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n7. PDE-4 Inhibitors\nالاستخدام: تقليل Exacerbations في مرضى COPD المختارين، خصوصًا Severe COPD المصحوب بـ Chronic bronchitis وتاريخ متكرر للتفاقم.\n\nTrade name | Active ingredient\nDaxas | Roflumilast\nDalivent | Roflumilast\nEndomilast | Roflumilast\nWestabreath | Roflumilast\n\nCommon side effects:\nDiarrhea.\nNausea.\nWeight loss.\nDecreased appetite.\nAbdominal pain.\nInsomnia.\nHeadache.\n\nContraindications / أهم التحذيرات:\nModerate to severe hepatic impairment (Child-Pugh B or C).\nHypersensitivity to Roflumilast.\nالحذر في مرضى Depression أو Suicidal thoughts.\nالحذر في المرضى الذين يعانون من نقص الوزن؛ لأنه قد يسبب Weight loss.\nلا يُستخدم لعلاج Acute bronchospasm.",
+    "source_spans": [
+      {
+        "block_position": 209
+      },
+      {
+        "block_position": 210
+      },
+      {
+        "block_position": 211,
+        "row_start": 2,
+        "row_end": 5
+      },
+      {
+        "block_position": 212
+      },
+      {
+        "block_position": 213
+      },
+      {
+        "block_position": 214
+      },
+      {
+        "block_position": 215
+      },
+      {
+        "block_position": 216
+      },
+      {
+        "block_position": 217
+      },
+      {
+        "block_position": 218
+      },
+      {
+        "block_position": 219
+      },
+      {
+        "block_position": 220
+      },
+      {
+        "block_position": 221
+      },
+      {
+        "block_position": 222
+      },
+      {
+        "block_position": 223
+      },
+      {
+        "block_position": 224
+      },
+      {
+        "block_position": 225
+      }
+    ],
+    "char_count": 701,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0017",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 8. Mucolytics",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "8. Mucolytics"
+    ],
+    "section_start": 226,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n8. Mucolytics\nالاستخدام: تقليل لزوجة البلغم وتسهيل إخراجه في بعض مرضى COPD، وقد تقلل التفاقم لدى مرضى مختارين.\n\nTrade name | Active ingredient\nFluimucil | Acetylcysteine\nMucoprov | Acetylcysteine\nAcetylcysteine | Acetylcysteine\nMucosol | Carbocisteine\nUltrasolv | Carbocisteine\nMucosol Adult Syrup | Carbocisteine\nErdomed | Erdosteine\nMucotec | Erdosteine\nBisolvon | Bromhexine\nMucosolvan | Ambroxol\nAmbroxol | Ambroxol\n\nCommon side effects:\nNausea.\nVomiting.\nDiarrhea.\nAbdominal discomfort.\nUnpleasant taste.\nHypersensitivity reactions (نادرًا).\n\nContraindications / أهم التحذيرات:\nHypersensitivity to the active ingredient.\nالحذر في Peptic ulcer disease.\nالحذر في المرضى الذين لديهم صعوبة في إخراج الإفرازات.\nبعض المستحضرات تحتوي على Sodium؛ مهم الانتباه لمرضى Hypertension أو Heart failure حسب التركيبة.\nلا يُعتبر كل Mucolytic علاجًا أساسيًا لكل مرضى COPD.",
+    "source_spans": [
+      {
+        "block_position": 226
+      },
+      {
+        "block_position": 227
+      },
+      {
+        "block_position": 228,
+        "row_start": 2,
+        "row_end": 12
+      },
+      {
+        "block_position": 229
+      },
+      {
+        "block_position": 230
+      },
+      {
+        "block_position": 231
+      },
+      {
+        "block_position": 232
+      },
+      {
+        "block_position": 233
+      },
+      {
+        "block_position": 234
+      },
+      {
+        "block_position": 235
+      },
+      {
+        "block_position": 236
+      },
+      {
+        "block_position": 237
+      },
+      {
+        "block_position": 238
+      },
+      {
+        "block_position": 239
+      },
+      {
+        "block_position": 240
+      },
+      {
+        "block_position": 241
+      }
+    ],
+    "char_count": 899,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0018",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 9. Systemic Corticosteroids",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "9. Systemic Corticosteroids"
+    ],
+    "section_start": 242,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n9. Systemic Corticosteroids\nالاستخدام: علاج تفاقم COPD لفترة قصيرة في الحالات المناسبة، وليس علاج صيانة يوميًا بشكل روتيني.\n\nTrade name | Active ingredient\nSolupred | Prednisolone\nSolupred Oro | Prednisolone\nPredsol | Prednisolone\nPredilone | Prednisolone\nFastsolone | Prednisolone\nDisprelone | Prednisolone\nXilone | Prednisolone\nEpicopred | Prednisolone\nSolu-Medrol | Methylprednisolone\nDepo-Medrol | Methylprednisolone\nDexazone | Dexamethasone\nDexamethasone-Eipico | Dexamethasone\n\nCommon side effects:\nIncreased blood glucose.\nIncreased appetite.\nInsomnia.\nMood changes.\nGastric irritation.\nFluid retention.\nIncreased blood pressure.\nIncreased infection risk.\n\nContraindications / أهم التحذيرات:\nSystemic fungal infections.\nHypersensitivity.\nالحذر في Diabetes وHypertension وPeptic ulcer.\nالحذر في Osteoporosis وGlaucoma.\nالاستخدام المتكرر أو الطويل قد يسبب Adrenal suppression وOsteoporosis.",
+    "source_spans": [
+      {
+        "block_position": 242
+      },
+      {
+        "block_position": 243
+      },
+      {
+        "block_position": 244,
+        "row_start": 2,
+        "row_end": 13
+      },
+      {
+        "block_position": 245
+      },
+      {
+        "block_position": 246
+      },
+      {
+        "block_position": 247
+      },
+      {
+        "block_position": 248
+      },
+      {
+        "block_position": 249
+      },
+      {
+        "block_position": 250
+      },
+      {
+        "block_position": 251
+      },
+      {
+        "block_position": 252
+      },
+      {
+        "block_position": 253
+      },
+      {
+        "block_position": 254
+      },
+      {
+        "block_position": 255
+      },
+      {
+        "block_position": 256
+      },
+      {
+        "block_position": 257
+      },
+      {
+        "block_position": 258
+      },
+      {
+        "block_position": 259
+      }
+    ],
+    "char_count": 935,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0019",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > 10. Antibiotics",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "10. Antibiotics"
+    ],
+    "section_start": 260,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\n10. Antibiotics\nالاستخدام: علاج Exacerbation المصحوب باحتمالية عدوى بكتيرية، مثل زيادة كمية البلغم وتحوله إلى Purulent sputum، مع زيادة ضيق التنفس أو الأعراض الأخرى حسب التقييم الطبي.\n\nTrade name | Active ingredient\nAmoxil | Amoxicillin\nAugmentin | Amoxicillin + Clavulanic acid\nHibiotic | Amoxicillin + Clavulanic acid\nCuram | Amoxicillin + Clavulanic acid\nZithromax | Azithromycin\nZimax | Azithromycin\nKlacid | Clarithromycin\nFromilid | Clarithromycin\nVibramycin | Doxycycline\nDoxycycline-Eva | Doxycycline\nZinnat | Cefuroxime\nTavanic | Levofloxacin\nAvelox | Moxifloxacin\n\nCommon side effects:\nNausea and vomiting.\nDiarrhea.\nAbdominal pain.\nSkin rash.\nCandidiasis.\nAntibiotic-associated colitis.\nQT prolongation مع بعض المضادات مثل Macrolides وFluoroquinolones.\n\nContraindications / أهم التحذيرات:\nHypersensitivity to the antibiotic.\nPenicillin allergy مع Amoxicillin وAugmentin.\nالحذر في Renal impairment، مع تعديل الجرعة لبعض المضادات.\nالحذر مع QT prolongation وArrhythmias عند استخدام Macrolides أو Fluoroquinolones.\nFluoroquinolones مثل Levofloxacin وMoxifloxacin لها تحذيرات مهمة تشمل Tendon injury وPeripheral neuropathy.\nلا تُستخدم Antibiotics لكل حالات COPD exacerbation؛ الاختيار يعتمد على الأعراض وشدة الحالة وعوامل مقاومة البكتيريا.",
+    "source_spans": [
+      {
+        "block_position": 260
+      },
+      {
+        "block_position": 261
+      },
+      {
+        "block_position": 262,
+        "row_start": 2,
+        "row_end": 14
+      },
+      {
+        "block_position": 263
+      },
+      {
+        "block_position": 264
+      },
+      {
+        "block_position": 265
+      },
+      {
+        "block_position": 266
+      },
+      {
+        "block_position": 267
+      },
+      {
+        "block_position": 268
+      },
+      {
+        "block_position": 269
+      },
+      {
+        "block_position": 270
+      },
+      {
+        "block_position": 271
+      },
+      {
+        "block_position": 272
+      },
+      {
+        "block_position": 273
+      },
+      {
+        "block_position": 274
+      },
+      {
+        "block_position": 275
+      },
+      {
+        "block_position": 276
+      },
+      {
+        "block_position": 277
+      }
+    ],
+    "char_count": 1285,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  },
+  {
+    "chunk_id": "KB-01-c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0-0020",
+    "doc_id": "KB-01",
+    "title": "asthma w copd",
+    "section": "2. أدوية الانسداد الرئوي المزمن – COPD > OTC ولا Prescription؟",
+    "section_path": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD",
+      "OTC ولا Prescription؟"
+    ],
+    "section_start": 278,
+    "filename": "asthma w copd.docx",
+    "text": "2. أدوية الانسداد الرئوي المزمن – COPD\n\nOTC ولا Prescription؟\n\nDrug Class | Classification\nSABA | Prescription\nLABA | Prescription\nLAMA | Prescription\nLABA/LAMA | Prescription\nICS/LABA | Prescription\nTriple Therapy | Prescription\nPDE-4 inhibitors | Prescription\nMucolytics | بعض المستحضرات OTC حسب المنتج\nSystemic Corticosteroids | Prescription\nAntibiotics | Prescription",
+    "source_spans": [
+      {
+        "block_position": 278
+      },
+      {
+        "block_position": 279,
+        "row_start": 2,
+        "row_end": 11
+      }
+    ],
+    "char_count": 371,
+    "oversized": false,
+    "context_topics": [
+      "2. أدوية الانسداد الرئوي المزمن – COPD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      118
+    ],
+    "source_sha256": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "c12394488aa70ae1a4e11b3608cd892c4c0a3a9e37c2e137525e08d8069848e0"
+  }
+]

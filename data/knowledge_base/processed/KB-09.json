@@ -1,0 +1,4629 @@
+{
+  "doc_id": "KB-09",
+  "title": "ادويه القولون و التهابات المفاصل",
+  "title_source": "filename_stem",
+  "filename": "ادويه القولون و التهابات المفاصل.docx",
+  "source_sha256": "ad3234862fed2baae733f79081b3f2366e577fe8a2d4cae447fdfa8985e33c95",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "section_start": 1,
+      "source_heading_level": 1,
+      "heading_level": 1,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "1. Antispasmodics",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics"
+      ],
+      "section_start": 2,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف abdominal cramps وintestinal spasms المصاحبة للـIBS، خصوصًا الألم والانتفاخ.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 4,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 5,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nDuspatalin | Mebeverine\nColoverin | Mebeverine\nColospasmin Forte | Mebeverine\nColorelax | Mebeverine\nMepacolon | Mebeverine\nColospatoraz | Mebeverine\nSpasmotalin Forte | Mebeverine\nTritone | Trimebutine\nTribudat | Trimebutine\nGast-Reg | Trimebutine\nProntomutim | Trimebutine\nSpascolon | Pinaverium\nRoyaverium | Pinaverium\nBuscopan | Hyoscine butylbromide\nSpasmopyralgin-M | Camylofin + Metamizole",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Duspatalin",
+          "Mebeverine"
+        ],
+        [
+          "Coloverin",
+          "Mebeverine"
+        ],
+        [
+          "Colospasmin Forte",
+          "Mebeverine"
+        ],
+        [
+          "Colorelax",
+          "Mebeverine"
+        ],
+        [
+          "Mepacolon",
+          "Mebeverine"
+        ],
+        [
+          "Colospatoraz",
+          "Mebeverine"
+        ],
+        [
+          "Spasmotalin Forte",
+          "Mebeverine"
+        ],
+        [
+          "Tritone",
+          "Trimebutine"
+        ],
+        [
+          "Tribudat",
+          "Trimebutine"
+        ],
+        [
+          "Gast-Reg",
+          "Trimebutine"
+        ],
+        [
+          "Prontomutim",
+          "Trimebutine"
+        ],
+        [
+          "Spascolon",
+          "Pinaverium"
+        ],
+        [
+          "Royaverium",
+          "Pinaverium"
+        ],
+        [
+          "Buscopan",
+          "Hyoscine butylbromide"
+        ],
+        [
+          "Spasmopyralgin-M",
+          "Camylofin + Metamizole"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 6,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 7,
+      "kind": "paragraph",
+      "text": "Mebeverine: غالبًا well tolerated؛ نادرًا dizziness أو allergic reactions.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 8,
+      "kind": "paragraph",
+      "text": "Trimebutine: dry mouth، nausea، constipation أو diarrhea، dizziness.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 9,
+      "kind": "paragraph",
+      "text": "Pinaverium: nausea، abdominal discomfort، constipation.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 10,
+      "kind": "paragraph",
+      "text": "Hyoscine butylbromide: dry mouth، blurred vision، tachycardia، urinary retention.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 11,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the active ingredient.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 13,
+      "kind": "paragraph",
+      "text": "الحذر مع anticholinergic drugs في مرضى glaucoma وurinary retention.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "Pinaverium لازم يتاخد مع كمية مياه كافية، ويتجنب الاستلقاء مباشرة بعده؛ لتقليل خطر esophageal irritation.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 15,
+      "kind": "paragraph",
+      "text": "المستحضرات التي تحتوي على Chlordiazepoxide قد تسبب sedation وdependence، ومش مناسبة للاستخدام العشوائي أو الطويل.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "1. Antispasmodics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 16,
+      "kind": "heading",
+      "text": "2. Bulk-forming Laxatives",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives"
+      ],
+      "section_start": 16,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 17,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج الإمساك، وزيادة stool bulk، وتنظيم bowel movements. ممكن تكون مفيدة لبعض مرضى IBS-C، مع البدء تدريجيًا.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 18,
+      "kind": "label",
+      "text": "Common Active Ingredients:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 19,
+      "kind": "paragraph",
+      "text": "Psyllium / Ispaghula husk",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 20,
+      "kind": "paragraph",
+      "text": "Plantago ovata",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 21,
+      "kind": "paragraph",
+      "text": "Methylcellulose",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 22,
+      "kind": "label",
+      "text": "Trade Names وأمثلة:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Trade Names وأمثلة:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 23,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nAgiolax | Ispaghula husk + Senna\nFybogel | Ispaghula husk\nMetamucil | Psyllium husk\nSiblin | Psyllium husk\nBrandilium | Psyllium husk\nRosag Psyllium | Psyllium husk + Chromium\nLaxotopia | Psyllium-containing formulation",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Trade Names وأمثلة:"
+      ],
+      "section_start": 16,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Agiolax",
+          "Ispaghula husk + Senna"
+        ],
+        [
+          "Fybogel",
+          "Ispaghula husk"
+        ],
+        [
+          "Metamucil",
+          "Psyllium husk"
+        ],
+        [
+          "Siblin",
+          "Psyllium husk"
+        ],
+        [
+          "Brandilium",
+          "Psyllium husk"
+        ],
+        [
+          "Rosag Psyllium",
+          "Psyllium husk + Chromium"
+        ],
+        [
+          "Laxotopia",
+          "Psyllium-containing formulation"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "ملاحظة: Agiolax combination product؛ لأنه يحتوي على Senna بجانب Ispaghula، وRosag Psyllium يحتوي على Chromium أيضًا. مش كل الأسماء دي مؤكدة التوافر المستمر حاليًا.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Trade Names وأمثلة:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 25,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "Bloating.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "Flatulence.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 28,
+      "kind": "paragraph",
+      "text": "Abdominal discomfort.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "ممكن يزيد الانتفاخ في بداية الاستخدام.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 30,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 31,
+      "kind": "paragraph",
+      "text": "Intestinal obstruction أو suspected bowel obstruction.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "Difficulty swallowing.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 33,
+      "kind": "paragraph",
+      "text": "لازم يتاخد مع كمية مياه كافية.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 34,
+      "kind": "paragraph",
+      "text": "يُفضّل البدء بجرعة قليلة وزيادتها تدريجيًا لتقليل bloating.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 35,
+      "kind": "paragraph",
+      "text": "افصلي الجرعة عن الأدوية الأخرى حسب النشرة؛ لأن الألياف قد تؤثر على امتصاصها.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. Bulk-forming Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 36,
+      "kind": "heading",
+      "text": "3. Osmotic Laxatives",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives"
+      ],
+      "section_start": 36,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 37,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج constipation، خصوصًا chronic constipation، عن طريق زيادة الماء داخل الأمعاء وتليين stool.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 38,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 39,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nDuphalac | Lactulose\nLactulose HEK | Lactulose\nLactulose | Lactulose\nMovicol | Macrogol 3350 + electrolytes\nForlax | Macrogol\nLaxolac | Lactulose\nNormolax | Lactulose\nEzilax | Lactulose\nMagnesium hydroxide preparations | Magnesium hydroxide",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 36,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Duphalac",
+          "Lactulose"
+        ],
+        [
+          "Lactulose HEK",
+          "Lactulose"
+        ],
+        [
+          "Lactulose",
+          "Lactulose"
+        ],
+        [
+          "Movicol",
+          "Macrogol 3350 + electrolytes"
+        ],
+        [
+          "Forlax",
+          "Macrogol"
+        ],
+        [
+          "Laxolac",
+          "Lactulose"
+        ],
+        [
+          "Normolax",
+          "Lactulose"
+        ],
+        [
+          "Ezilax",
+          "Lactulose"
+        ],
+        [
+          "Magnesium hydroxide preparations",
+          "Magnesium hydroxide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 40,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 41,
+      "kind": "paragraph",
+      "text": "Bloating and flatulence.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "Abdominal cramps.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 44,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "Electrolyte disturbances مع الإفراط أو الاستخدام غير المناسب.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Common Side Effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 46,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 47,
+      "kind": "paragraph",
+      "text": "Intestinal obstruction.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 48,
+      "kind": "paragraph",
+      "text": "Severe unexplained abdominal pain.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "Lactulose قد يسبب زيادة الغازات، وده ممكن يضايق IBS patients.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 50,
+      "kind": "paragraph",
+      "text": "Magnesium-containing laxatives تحتاج حذرًا شديدًا في renal impairment.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "Macrogol preparations المحتوية على electrolytes تحتاج مراجعة في مرضى fluid/electrolyte imbalance.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "3. Osmotic Laxatives",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 52,
+      "kind": "heading",
+      "text": "4. Antidiarrheals",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals"
+      ],
+      "section_start": 52,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 53,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل diarrhea episodes، خصوصًا في IBS-D، لكن الأدوية دي بتعالج الإسهال كعرض ومش بالضرورة تعالج abdominal pain أو باقي أعراض القولون العصبي.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 54,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 55,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nImodium | Loperamide\nImodium Instant | Loperamide\nLopodium | Loperamide\nLoperasin | Loperamide\nStoprrhea | Loperamide\nLopranest | Loperamide\nMotijust | Loperamide\nHidrasec | Racecadotril\nRasecasec | Racecadotril\nSmecta | Diosmectite\nDiarrest | Diosmectite",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 52,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Imodium",
+          "Loperamide"
+        ],
+        [
+          "Imodium Instant",
+          "Loperamide"
+        ],
+        [
+          "Lopodium",
+          "Loperamide"
+        ],
+        [
+          "Loperasin",
+          "Loperamide"
+        ],
+        [
+          "Stoprrhea",
+          "Loperamide"
+        ],
+        [
+          "Lopranest",
+          "Loperamide"
+        ],
+        [
+          "Motijust",
+          "Loperamide"
+        ],
+        [
+          "Hidrasec",
+          "Racecadotril"
+        ],
+        [
+          "Rasecasec",
+          "Racecadotril"
+        ],
+        [
+          "Smecta",
+          "Diosmectite"
+        ],
+        [
+          "Diarrest",
+          "Diosmectite"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 56,
+      "kind": "paragraph",
+      "text": "مهم: Loperamide هو الأشهر للتحكم في diarrhea في IBS-D. أما Racecadotril وDiosmectite فهما مستحضرات للإسهال في حالات معينة، ومش علاجات أساسية للـIBS نفسه.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 57,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Common Side Effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 58,
+      "kind": "paragraph",
+      "text": "Loperamide: constipation، abdominal cramps، nausea، وفي الجرعات الزائدة ممكن يسبب serious cardiac arrhythmias.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Common Side Effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 59,
+      "kind": "paragraph",
+      "text": "Racecadotril: headache، nausea، وأحيانًا skin rash.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Common Side Effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 60,
+      "kind": "paragraph",
+      "text": "Diosmectite: constipation.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Common Side Effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 61,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 62,
+      "kind": "paragraph",
+      "text": "تجنب Loperamide في bloody diarrhea أو diarrhea المصحوب بحمى عالية أو suspected invasive bacterial infection.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 63,
+      "kind": "paragraph",
+      "text": "يُمنع عند suspected intestinal obstruction أو ileus.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 64,
+      "kind": "paragraph",
+      "text": "يوقف لو ظهر abdominal distension أو constipation شديد.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 65,
+      "kind": "paragraph",
+      "text": "لا يُستخدم بجرعات أعلى من الموصى بها؛ لأن overdose ممكن يسبب QT prolongation وserious arrhythmias.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 66,
+      "kind": "paragraph",
+      "text": "استمرار الإسهال أو وجود dehydration يستدعي تقييمًا طبيًا.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "4. Antidiarrheals",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 67,
+      "kind": "heading",
+      "text": "5. Secretagogues",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues"
+      ],
+      "section_start": 67,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 68,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج IBS-C، خصوصًا في المرضى الذين يعانون من chronic constipation مع abdominal pain أو bloating.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 69,
+      "kind": "label",
+      "text": "Common Active Ingredients:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 70,
+      "kind": "table",
+      "text": "Generic Name | Examples of International Trade Names\nLinaclotide | Constella / Linzess\nLubiprostone | Amitiza\nPlecanatide | Trulance\nTenapanor | Ibsrela",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "headers": [
+        [
+          "Generic Name",
+          "Examples of International Trade Names"
+        ]
+      ],
+      "rows": [
+        [
+          "Linaclotide",
+          "Constella / Linzess"
+        ],
+        [
+          "Lubiprostone",
+          "Amitiza"
+        ],
+        [
+          "Plecanatide",
+          "Trulance"
+        ],
+        [
+          "Tenapanor",
+          "Ibsrela"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 71,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 72,
+      "kind": "paragraph",
+      "text": "Diarrhea، وأحيانًا severe diarrhea.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 73,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Flatulence.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 75,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 76,
+      "kind": "paragraph",
+      "text": "Dehydration في حالة الإسهال الشديد.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 77,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "Intestinal obstruction.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 79,
+      "kind": "paragraph",
+      "text": "الحذر من dehydration أو severe diarrhea.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 80,
+      "kind": "paragraph",
+      "text": "بعض الأدوية لها قيود عمرية مهمة؛ مثل Linaclotide، ويُمنع استخدامه في الأطفال أقل من سنتين بسبب خطر severe dehydration.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 81,
+      "kind": "paragraph",
+      "text": "استخدامها يكون بوصفة وتقييم طبي.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "5. Secretagogues",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 82,
+      "kind": "heading",
+      "text": "6. Low-dose TCAs – Tricyclic Antidepressants",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants"
+      ],
+      "section_start": 82,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 83,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل chronic abdominal pain وvisceral hypersensitivity في بعض مرضى IBS، خصوصًا لو الألم مستمر رغم التعامل مع bowel habits.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 84,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 85,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nTryptizol | Amitriptyline\nAmitriptyline | Amitriptyline\nSaroten | Amitriptyline\nAnafranil | Clomipramine",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 82,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Tryptizol",
+          "Amitriptyline"
+        ],
+        [
+          "Amitriptyline",
+          "Amitriptyline"
+        ],
+        [
+          "Saroten",
+          "Amitriptyline"
+        ],
+        [
+          "Anafranil",
+          "Clomipramine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 86,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 87,
+      "kind": "paragraph",
+      "text": "Drowsiness.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 88,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 89,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 90,
+      "kind": "paragraph",
+      "text": "Blurred vision.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 91,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 92,
+      "kind": "paragraph",
+      "text": "Postural hypotension.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 93,
+      "kind": "paragraph",
+      "text": "Cardiac conduction abnormalities في بعض المرضى.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Common Side Effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 94,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 95,
+      "kind": "paragraph",
+      "text": "Recent myocardial infarction أو significant cardiac arrhythmias.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 96,
+      "kind": "paragraph",
+      "text": "Narrow-angle glaucoma.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 97,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 98,
+      "kind": "paragraph",
+      "text": "الحذر في elderly patients.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 99,
+      "kind": "paragraph",
+      "text": "الحذر مع alcohol وsedatives وأدوية serotonergic الأخرى.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 100,
+      "kind": "paragraph",
+      "text": "لا يتم إيقاف العلاج فجأة دون مراجعة الطبيب.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "6. Low-dose TCAs – Tricyclic Antidepressants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 101,
+      "kind": "heading",
+      "text": "7. Probiotics",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics"
+      ],
+      "section_start": 101,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 102,
+      "kind": "paragraph",
+      "text": "الاستخدام: بعض أنواع Probiotics ممكن تساعد بعض مرضى IBS في تخفيف bloating أو abdominal discomfort، لكن الاستجابة بتختلف حسب strain والمريض، والأدلة مش متساوية لكل المنتجات.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 103,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 104,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredients\nEnterogermina | Bacillus clausii\nBifilac | Probiotic bacterial strains\nProtexin | Combination of probiotic strains\nLacteol Fort | Lactobacillus LB\nUltra-Levure | Saccharomyces boulardii\nFloratil | Saccharomyces boulardii\nBioGaia | Lactobacillus reuteri\nLinex | Lactobacillus + Bifidobacterium strains\nDicoflor | Lactobacillus rhamnosus GG",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 101,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Enterogermina",
+          "Bacillus clausii"
+        ],
+        [
+          "Bifilac",
+          "Probiotic bacterial strains"
+        ],
+        [
+          "Protexin",
+          "Combination of probiotic strains"
+        ],
+        [
+          "Lacteol Fort",
+          "Lactobacillus LB"
+        ],
+        [
+          "Ultra-Levure",
+          "Saccharomyces boulardii"
+        ],
+        [
+          "Floratil",
+          "Saccharomyces boulardii"
+        ],
+        [
+          "BioGaia",
+          "Lactobacillus reuteri"
+        ],
+        [
+          "Linex",
+          "Lactobacillus + Bifidobacterium strains"
+        ],
+        [
+          "Dicoflor",
+          "Lactobacillus rhamnosus GG"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 105,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Common Side Effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 106,
+      "kind": "paragraph",
+      "text": "Mild bloating.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Common Side Effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 107,
+      "kind": "paragraph",
+      "text": "Flatulence.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Common Side Effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 108,
+      "kind": "paragraph",
+      "text": "Temporary abdominal discomfort.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Common Side Effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 109,
+      "kind": "paragraph",
+      "text": "Rare infections في المرضى شديدي نقص المناعة أو critically ill patients.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Common Side Effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 110,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 111,
+      "kind": "paragraph",
+      "text": "الحذر في severe immunocompromised patients.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 112,
+      "kind": "paragraph",
+      "text": "الحذر في critically ill patients أو مرضى central venous catheters.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "مش كل Probiotic يصلح لكل حالة؛ اختاري strain محدد بناءً على الدليل المتاح.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 114,
+      "kind": "paragraph",
+      "text": "لو مفيش تحسن بعد تجربة مناسبة، مفيش داعي للاستمرار تلقائيًا.",
+      "section_path": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "7. Probiotics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 115,
+      "kind": "heading",
+      "text": "2. أدوية التهاب المفاصل – Arthritis",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "section_start": 115,
+      "source_heading_level": 1,
+      "heading_level": 1,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 116,
+      "kind": "heading",
+      "text": "1. NSAIDs",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs"
+      ],
+      "section_start": 116,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 117,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف joint pain وinflammation في أنواع مختلفة من arthritis، ومنها Osteoarthritis وRheumatoid Arthritis.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 118,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 119,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nBrufen | Ibuprofen\nNurofen | Ibuprofen\nCataflam | Diclofenac potassium\nVoltaren | Diclofenac sodium\nOlfen | Diclofenac\nMobic | Meloxicam\nCelebrex | Celecoxib\nArcoxia | Etoricoxib\nNaprosyn | Naproxen\nXefo | Lornoxicam\nFeldene | Piroxicam\nProfinal | Ibuprofen",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 116,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Brufen",
+          "Ibuprofen"
+        ],
+        [
+          "Nurofen",
+          "Ibuprofen"
+        ],
+        [
+          "Cataflam",
+          "Diclofenac potassium"
+        ],
+        [
+          "Voltaren",
+          "Diclofenac sodium"
+        ],
+        [
+          "Olfen",
+          "Diclofenac"
+        ],
+        [
+          "Mobic",
+          "Meloxicam"
+        ],
+        [
+          "Celebrex",
+          "Celecoxib"
+        ],
+        [
+          "Arcoxia",
+          "Etoricoxib"
+        ],
+        [
+          "Naprosyn",
+          "Naproxen"
+        ],
+        [
+          "Xefo",
+          "Lornoxicam"
+        ],
+        [
+          "Feldene",
+          "Piroxicam"
+        ],
+        [
+          "Profinal",
+          "Ibuprofen"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 120,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 121,
+      "kind": "paragraph",
+      "text": "Gastric irritation and dyspepsia.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 122,
+      "kind": "paragraph",
+      "text": "Peptic ulcer and GI bleeding.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 123,
+      "kind": "paragraph",
+      "text": "Fluid retention and edema.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 124,
+      "kind": "paragraph",
+      "text": "Increased blood pressure.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 125,
+      "kind": "paragraph",
+      "text": "Renal impairment.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 126,
+      "kind": "paragraph",
+      "text": "Cardiovascular thrombotic events مع بعض الأدوية والمرضى.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 127,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 128,
+      "kind": "paragraph",
+      "text": "Active peptic ulcer أو GI bleeding.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 129,
+      "kind": "paragraph",
+      "text": "Severe renal impairment.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 130,
+      "kind": "paragraph",
+      "text": "Severe heart failure.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 131,
+      "kind": "paragraph",
+      "text": "NSAID allergy أو aspirin-induced asthma.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 132,
+      "kind": "paragraph",
+      "text": "الحذر في hypertension وcardiovascular disease.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 133,
+      "kind": "paragraph",
+      "text": "تجنب الجمع بين أكثر من NSAID.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 134,
+      "kind": "paragraph",
+      "text": "تُتجنب عادةً من الأسبوع 30 من الحمل، وتحتاج تقييمًا طبيًا من الأسبوع 20.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "1. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 116,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 135,
+      "kind": "heading",
+      "text": "2. Corticosteroids",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids"
+      ],
+      "section_start": 135,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 136,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل inflammation في حالات arthritis، خصوصًا أثناء flare-ups أو كـshort-term bridge therapy أثناء بدء DMARDs.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 137,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 138,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nDeltacortril | Prednisolone\nPredsol | Prednisolone\nSolupred | Prednisolone\nEpicopred | Prednisolone\nFastsolone | Prednisolone\nMedrol | Methylprednisolone\nXilopred | Methylprednisolone\nUrbason | Methylprednisolone\nDepo-Medrol | Methylprednisolone acetate\nSolu-Medrol | Methylprednisolone sodium succinate\nDecadron | Dexamethasone\nDexamethasone MUP | Dexamethasone",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 135,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Deltacortril",
+          "Prednisolone"
+        ],
+        [
+          "Predsol",
+          "Prednisolone"
+        ],
+        [
+          "Solupred",
+          "Prednisolone"
+        ],
+        [
+          "Epicopred",
+          "Prednisolone"
+        ],
+        [
+          "Fastsolone",
+          "Prednisolone"
+        ],
+        [
+          "Medrol",
+          "Methylprednisolone"
+        ],
+        [
+          "Xilopred",
+          "Methylprednisolone"
+        ],
+        [
+          "Urbason",
+          "Methylprednisolone"
+        ],
+        [
+          "Depo-Medrol",
+          "Methylprednisolone acetate"
+        ],
+        [
+          "Solu-Medrol",
+          "Methylprednisolone sodium succinate"
+        ],
+        [
+          "Decadron",
+          "Dexamethasone"
+        ],
+        [
+          "Dexamethasone MUP",
+          "Dexamethasone"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 139,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 140,
+      "kind": "paragraph",
+      "text": "Increased blood glucose.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 141,
+      "kind": "paragraph",
+      "text": "Increased appetite and weight gain.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 142,
+      "kind": "paragraph",
+      "text": "Insomnia and mood changes.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 143,
+      "kind": "paragraph",
+      "text": "Hypertension and fluid retention.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 144,
+      "kind": "paragraph",
+      "text": "Increased infection risk.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 145,
+      "kind": "paragraph",
+      "text": "Osteoporosis and muscle weakness مع الاستخدام الطويل.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 146,
+      "kind": "paragraph",
+      "text": "Adrenal suppression مع الاستخدام المطول.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Common Side Effects:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 147,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 148,
+      "kind": "paragraph",
+      "text": "Untreated systemic fungal infection.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 149,
+      "kind": "paragraph",
+      "text": "Active infection؛ الحذر الشديد مع immunosuppression.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 150,
+      "kind": "paragraph",
+      "text": "Diabetes mellitus وhypertension.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 151,
+      "kind": "paragraph",
+      "text": "Osteoporosis.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 152,
+      "kind": "paragraph",
+      "text": "Peptic ulcer disease.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 153,
+      "kind": "paragraph",
+      "text": "لا يتم إيقاف systemic corticosteroids فجأة بعد الاستخدام الطويل؛ لازم tapering تحت إشراف الطبيب.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "2. Corticosteroids",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 135,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 154,
+      "kind": "heading",
+      "text": "3. Conventional DMARDs (csDMARDs)",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)"
+      ],
+      "section_start": 154,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 155,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج Rheumatoid Arthritis وبعض الأمراض المناعية، وتقليل disease activity ومنع أو تقليل joint damage على المدى الطويل.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 156,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 157,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nMethotrexate Ebewe | Methotrexate\nMethotrexate | Methotrexate\nTrexall | Methotrexate\nRheumatrex | Methotrexate\nArava | Leflunomide\nPlaquenil | Hydroxychloroquine\nSalazopyrin | Sulfasalazine\nAzulfidine | Sulfasalazine\nImuran | Azathioprine\nCellCept | Mycophenolate mofetil",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 154,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Methotrexate Ebewe",
+          "Methotrexate"
+        ],
+        [
+          "Methotrexate",
+          "Methotrexate"
+        ],
+        [
+          "Trexall",
+          "Methotrexate"
+        ],
+        [
+          "Rheumatrex",
+          "Methotrexate"
+        ],
+        [
+          "Arava",
+          "Leflunomide"
+        ],
+        [
+          "Plaquenil",
+          "Hydroxychloroquine"
+        ],
+        [
+          "Salazopyrin",
+          "Sulfasalazine"
+        ],
+        [
+          "Azulfidine",
+          "Sulfasalazine"
+        ],
+        [
+          "Imuran",
+          "Azathioprine"
+        ],
+        [
+          "CellCept",
+          "Mycophenolate mofetil"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 158,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 159,
+      "kind": "table",
+      "text": "Drug | Common / Important Side Effects\nMethotrexate | Nausea, mouth ulcers, hepatotoxicity, bone marrow suppression, pneumonitis\nLeflunomide | Diarrhea, hepatotoxicity, hypertension, hair loss\nHydroxychloroquine | GI upset, skin pigmentation, retinal toxicity\nSulfasalazine | Nausea, rash, headache, leukopenia, hepatotoxicity\nAzathioprine | Bone marrow suppression, hepatotoxicity, infections\nMycophenolate | Diarrhea, leukopenia, infections, teratogenicity",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 154,
+      "headers": [
+        [
+          "Drug",
+          "Common / Important Side Effects"
+        ]
+      ],
+      "rows": [
+        [
+          "Methotrexate",
+          "Nausea, mouth ulcers, hepatotoxicity, bone marrow suppression, pneumonitis"
+        ],
+        [
+          "Leflunomide",
+          "Diarrhea, hepatotoxicity, hypertension, hair loss"
+        ],
+        [
+          "Hydroxychloroquine",
+          "GI upset, skin pigmentation, retinal toxicity"
+        ],
+        [
+          "Sulfasalazine",
+          "Nausea, rash, headache, leukopenia, hepatotoxicity"
+        ],
+        [
+          "Azathioprine",
+          "Bone marrow suppression, hepatotoxicity, infections"
+        ],
+        [
+          "Mycophenolate",
+          "Diarrhea, leukopenia, infections, teratogenicity"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 160,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 161,
+      "kind": "paragraph",
+      "text": "Methotrexate: pregnancy، significant liver disease، severe renal impairment، bone marrow suppression، active serious infection.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 162,
+      "kind": "paragraph",
+      "text": "Leflunomide: pregnancy، severe liver disease، bone marrow suppression.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 163,
+      "kind": "paragraph",
+      "text": "Hydroxychloroquine: pre-existing retinal disease؛ يحتاج baseline وperiodic ophthalmic examination.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 164,
+      "kind": "paragraph",
+      "text": "Sulfasalazine: sulfonamide أو salicylate hypersensitivity، severe hepatic/renal disease.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 165,
+      "kind": "paragraph",
+      "text": "Azathioprine: bone marrow suppression، serious infection، وتداخل مهم مع Allopurinol.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 166,
+      "kind": "paragraph",
+      "text": "Mycophenolate: pregnancy؛ يسبب severe fetal harm.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "3. Conventional DMARDs (csDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 154,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 167,
+      "kind": "heading",
+      "text": "4. Biologic DMARDs (bDMARDs)",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)"
+      ],
+      "section_start": 167,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 168,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج moderate to severe Rheumatoid Arthritis وبعض الأمراض المناعية، خصوصًا عند عدم الاستجابة الكافية للـconventional DMARDs.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 169,
+      "kind": "label",
+      "text": "Common Groups & Trade Names:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Groups & Trade Names:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 170,
+      "kind": "table",
+      "text": "Drug Class / Generic | Trade Names\nAdalimumab | Humira, Amgevita, Hyrimoz\nEtanercept | Enbrel, Benepali\nInfliximab | Remicade, Remsima, Inflectra\nRituximab | MabThera, Rixathon\nTocilizumab | Actemra, Tyenne\nAbatacept | Orencia\nCertolizumab pegol | Cimzia\nGolimumab | Simponi\nSarilumab | Kevzara",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Groups & Trade Names:"
+      ],
+      "section_start": 167,
+      "headers": [
+        [
+          "Drug Class / Generic",
+          "Trade Names"
+        ]
+      ],
+      "rows": [
+        [
+          "Adalimumab",
+          "Humira, Amgevita, Hyrimoz"
+        ],
+        [
+          "Etanercept",
+          "Enbrel, Benepali"
+        ],
+        [
+          "Infliximab",
+          "Remicade, Remsima, Inflectra"
+        ],
+        [
+          "Rituximab",
+          "MabThera, Rixathon"
+        ],
+        [
+          "Tocilizumab",
+          "Actemra, Tyenne"
+        ],
+        [
+          "Abatacept",
+          "Orencia"
+        ],
+        [
+          "Certolizumab pegol",
+          "Cimzia"
+        ],
+        [
+          "Golimumab",
+          "Simponi"
+        ],
+        [
+          "Sarilumab",
+          "Kevzara"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 171,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 172,
+      "kind": "paragraph",
+      "text": "Injection-site reactions.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 173,
+      "kind": "paragraph",
+      "text": "Infusion reactions.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 174,
+      "kind": "paragraph",
+      "text": "Increased risk of infections.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 175,
+      "kind": "paragraph",
+      "text": "Reactivation of latent tuberculosis.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 176,
+      "kind": "paragraph",
+      "text": "بعض الأدوية قد ترتبط بزيادة opportunistic infections.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 177,
+      "kind": "paragraph",
+      "text": "Rare hypersensitivity reactions.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 178,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 179,
+      "kind": "paragraph",
+      "text": "Active serious infection.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 180,
+      "kind": "paragraph",
+      "text": "لازم تقييم latent TB قبل بدء العلاج.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 181,
+      "kind": "paragraph",
+      "text": "Screening for hepatitis B قبل بعض العلاجات البيولوجية، خصوصًا Rituximab.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 182,
+      "kind": "paragraph",
+      "text": "تجنب live vaccines أثناء العلاج.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 183,
+      "kind": "paragraph",
+      "text": "الحذر في patients with recurrent infections أو history of malignancy حسب نوع العلاج.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 184,
+      "kind": "paragraph",
+      "text": "متابعة CBC وLFTs وغيرها حسب الـbiologic المستخدم.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "4. Biologic DMARDs (bDMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 167,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 185,
+      "kind": "heading",
+      "text": "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)"
+      ],
+      "section_start": 185,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 186,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض حالات Rheumatoid Arthritis وأمراض مناعية أخرى، خاصةً عندما لا تكون الاستجابة كافية للعلاجات السابقة.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 187,
+      "kind": "label",
+      "text": "Trade Names:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Trade Names:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 188,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nXeljanz | Tofacitinib\nOlumiant | Baricitinib\nRinvoq | Upadacitinib\nJyseleca | Filgotinib",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Trade Names:"
+      ],
+      "section_start": 185,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Xeljanz",
+          "Tofacitinib"
+        ],
+        [
+          "Olumiant",
+          "Baricitinib"
+        ],
+        [
+          "Rinvoq",
+          "Upadacitinib"
+        ],
+        [
+          "Jyseleca",
+          "Filgotinib"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 189,
+      "kind": "paragraph",
+      "text": "ملاحظة: دي أسماء تجارية معروفة عالميًا، لكن لازم التحقق من التسجيل والتوافر المصري لكل مستحضر على حدة.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Trade Names:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 190,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 191,
+      "kind": "paragraph",
+      "text": "Upper respiratory tract infections.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 192,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 193,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 194,
+      "kind": "paragraph",
+      "text": "Increased cholesterol levels.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 195,
+      "kind": "paragraph",
+      "text": "Increased liver enzymes.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 196,
+      "kind": "paragraph",
+      "text": "Herpes zoster.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 197,
+      "kind": "paragraph",
+      "text": "Cytopenias.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Common Side Effects:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 198,
+      "kind": "label",
+      "text": "Serious Risks:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Serious Risks:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 199,
+      "kind": "paragraph",
+      "text": "Serious infections.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Serious Risks:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 200,
+      "kind": "paragraph",
+      "text": "Venous thromboembolism (VTE).",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Serious Risks:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 201,
+      "kind": "paragraph",
+      "text": "Major adverse cardiovascular events (MACE).",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Serious Risks:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 202,
+      "kind": "paragraph",
+      "text": "Malignancy risk في بعض الفئات المعرضة للخطر.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Serious Risks:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 203,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 204,
+      "kind": "paragraph",
+      "text": "Active serious infection.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 205,
+      "kind": "paragraph",
+      "text": "الحذر في patients with history of DVT/PE.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 206,
+      "kind": "paragraph",
+      "text": "الحذر في كبار السن، والمدخنين الحاليين أو السابقين، ومرضى cardiovascular risk.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 207,
+      "kind": "paragraph",
+      "text": "Screening for TB وhepatitis قبل العلاج.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 208,
+      "kind": "paragraph",
+      "text": "متابعة CBC وLFTs وlipid profile.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 209,
+      "kind": "paragraph",
+      "text": "تجنب live vaccines أثناء العلاج.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "5. JAK Inhibitors (Targeted Synthetic DMARDs)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 185,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 210,
+      "kind": "heading",
+      "text": "6. Analgesics",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics"
+      ],
+      "section_start": 210,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 211,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف joint pain في Osteoarthritis وRheumatoid Arthritis وأنواع أخرى من arthritis. لا تعالج الالتهاب المناعي أو تمنع joint damage.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 212,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 213,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nPanadol | Paracetamol\nCetal | Paracetamol\nAdol | Paracetamol\nParamol | Paracetamol\nFevadol | Paracetamol\nAbimol | Paracetamol\nTramadol | Tramadol\nTramal | Tramadol\nContramal | Tramadol\nZaldiar | Tramadol + Paracetamol",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 210,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol",
+          "Paracetamol"
+        ],
+        [
+          "Cetal",
+          "Paracetamol"
+        ],
+        [
+          "Adol",
+          "Paracetamol"
+        ],
+        [
+          "Paramol",
+          "Paracetamol"
+        ],
+        [
+          "Fevadol",
+          "Paracetamol"
+        ],
+        [
+          "Abimol",
+          "Paracetamol"
+        ],
+        [
+          "Tramadol",
+          "Tramadol"
+        ],
+        [
+          "Tramal",
+          "Tramadol"
+        ],
+        [
+          "Contramal",
+          "Tramadol"
+        ],
+        [
+          "Zaldiar",
+          "Tramadol + Paracetamol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 214,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 215,
+      "kind": "paragraph",
+      "text": "Paracetamol: liver toxicity in overdose.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 216,
+      "kind": "paragraph",
+      "text": "Tramadol: nausea، vomiting، dizziness، drowsiness، constipation.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 217,
+      "kind": "paragraph",
+      "text": "Tramadol ممكن يسبب dependence وrespiratory depression، خصوصًا مع الجرعات العالية أو الجمع مع sedatives.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 218,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 219,
+      "kind": "paragraph",
+      "text": "Paracetamol: severe liver disease والحذر مع overdose.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 220,
+      "kind": "paragraph",
+      "text": "Tramadol: respiratory depression، acute intoxication with alcohol أو sedatives، uncontrolled epilepsy، وبعض حالات serotonergic drug interactions.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 221,
+      "kind": "paragraph",
+      "text": "تجنب القيادة مع Tramadol لو سبب drowsiness.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 222,
+      "kind": "paragraph",
+      "text": "Opioids مش first-line لعلاج chronic arthritis pain، ولا يُنصح باستخدامها بشكل روتيني.",
+      "section_path": [
+        "2. أدوية التهاب المفاصل – Arthritis",
+        "6. Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 210,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 223,
+      "kind": "heading",
+      "text": "ملخص OTC vs Prescription",
+      "section_path": [
+        "ملخص OTC vs Prescription"
+      ],
+      "section_start": 223,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        223
+      ]
+    },
+    {
+      "position": 224,
+      "kind": "table",
+      "text": "Drug Class | التصنيف العملي\nIBS – Antispasmodics | بعض المستحضرات OTC، والبعض Prescription\nBulk-forming Laxatives | كثير منها OTC\nOsmotic Laxatives | كثير منها OTC\nAntidiarrheals | بعض المستحضرات OTC، حسب المادة والتركيز\nSecretagogues | Prescription\nLow-dose TCAs | Prescription\nProbiotics | كثير منها OTC\nArthritis – NSAIDs | بعض المستحضرات OTC والباقي Prescription\nCorticosteroids | Prescription\nConventional DMARDs | Prescription\nBiologic DMARDs | Prescription / specialist use\nJAK Inhibitors | Prescription / specialist use\nAnalgesics | Paracetamol وبعض المسكنات OTC؛ Tramadol Prescription",
+      "section_path": [
+        "ملخص OTC vs Prescription"
+      ],
+      "section_start": 223,
+      "headers": [
+        [
+          "Drug Class",
+          "التصنيف العملي"
+        ]
+      ],
+      "rows": [
+        [
+          "IBS – Antispasmodics",
+          "بعض المستحضرات OTC، والبعض Prescription"
+        ],
+        [
+          "Bulk-forming Laxatives",
+          "كثير منها OTC"
+        ],
+        [
+          "Osmotic Laxatives",
+          "كثير منها OTC"
+        ],
+        [
+          "Antidiarrheals",
+          "بعض المستحضرات OTC، حسب المادة والتركيز"
+        ],
+        [
+          "Secretagogues",
+          "Prescription"
+        ],
+        [
+          "Low-dose TCAs",
+          "Prescription"
+        ],
+        [
+          "Probiotics",
+          "كثير منها OTC"
+        ],
+        [
+          "Arthritis – NSAIDs",
+          "بعض المستحضرات OTC والباقي Prescription"
+        ],
+        [
+          "Corticosteroids",
+          "Prescription"
+        ],
+        [
+          "Conventional DMARDs",
+          "Prescription"
+        ],
+        [
+          "Biologic DMARDs",
+          "Prescription / specialist use"
+        ],
+        [
+          "JAK Inhibitors",
+          "Prescription / specialist use"
+        ],
+        [
+          "Analgesics",
+          "Paracetamol وبعض المسكنات OTC؛ Tramadol Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية القولون العصبي – Irritable Bowel Syndrome (IBS)",
+        "2. أدوية التهاب المفاصل – Arthritis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        223
+      ]
+    }
+  ],
+  "notes": [
+    "Block 223: The existing summary covers IBS and Arthritis; retain both source topics without assigning the table to Arthritis alone."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        5
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        23
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        39
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        55
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        70
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        85
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        104
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        119
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        138
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        157
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        159
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        170
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        188
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        213
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        224
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The existing summary covers IBS and Arthritis; retain both source topics without assigning the table to Arthritis alone.",
+      "block_positions": [
+        223
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 223,
+      "reason": "The existing summary covers IBS and Arthritis; retain both source topics without assigning the table to Arthritis alone.",
+      "heading_level": 1,
+      "parent_position": null,
+      "topic_positions": [
+        1,
+        115
+      ]
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "e74292732f82cd6e345023c07e62b883a9a3148b75a455469709a90f7fab4862"
+}

@@ -1,0 +1,2033 @@
+{
+  "doc_id": "KB-04",
+  "title": "pharyngitis",
+  "title_source": "filename_stem",
+  "filename": "pharyngitis.docx",
+  "source_sha256": "f96a6761b5b48dc87330187a977e9771b249a49c042f3d77773ab32a9582f686",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "1. Analgesics – مسكنات الألم",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم"
+      ],
+      "section_start": 2,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف ألم الحلق والألم المصاحب للبلع.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "table",
+      "text": "الاسم التجاري في مصر | Active ingredient\nPanadol | Paracetamol\nCetal | Paracetamol\nAdol | Paracetamol\nParamol | Paracetamol\nFevadol | Paracetamol\nAbimol | Paracetamol\nCalpol | Paracetamol\nBrufen | Ibuprofen\nNurofen | Ibuprofen\nIbuflam | Ibuprofen",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "الاسم التجاري في مصر",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol",
+          "Paracetamol"
+        ],
+        [
+          "Cetal",
+          "Paracetamol"
+        ],
+        [
+          "Adol",
+          "Paracetamol"
+        ],
+        [
+          "Paramol",
+          "Paracetamol"
+        ],
+        [
+          "Fevadol",
+          "Paracetamol"
+        ],
+        [
+          "Abimol",
+          "Paracetamol"
+        ],
+        [
+          "Calpol",
+          "Paracetamol"
+        ],
+        [
+          "Brufen",
+          "Ibuprofen"
+        ],
+        [
+          "Nurofen",
+          "Ibuprofen"
+        ],
+        [
+          "Ibuflam",
+          "Ibuprofen"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "paragraph",
+      "text": "Paracetamol: غالبًا well tolerated، لكن الجرعات الزائدة ممكن تسبب severe hepatotoxicity.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "paragraph",
+      "text": "Ibuprofen: nausea، dyspepsia، abdominal pain، وقد يسبب gastric ulcer أو GI bleeding.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "paragraph",
+      "text": "Paracetamol: الحذر في مرضى liver disease، وتجنب الجمع بين أكتر من دواء يحتوي عليه لتجنب overdose.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "paragraph",
+      "text": "Ibuprofen: يُتجنب في active peptic ulcer أو GI bleeding، severe renal impairment، وحالات NSAID allergy.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى asthma المرتبط بحساسية NSAIDs، ومرضى القلب والضغط.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "يُتجنب استخدام NSAIDs من الأسبوع 30 من الحمل، ويحتاج تقييمًا طبيًا من الأسبوع 20.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "1. Analgesics – مسكنات الألم",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "heading",
+      "text": "2. Antipyretics – خافضات الحرارة",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة"
+      ],
+      "section_start": 13,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "الاستخدام: خفض الحرارة المصاحبة لالتهاب الحلق واللوز.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "label",
+      "text": "أهم دواء هنا هو Paracetamol، ونفس الأسماء التجارية المذكورة في Analgesics:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "أهم دواء هنا هو Paracetamol، ونفس الأسماء التجارية المذكورة في Analgesics:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nPanadol | Paracetamol\nCetal | Paracetamol\nAdol | Paracetamol\nParamol | Paracetamol\nFevadol | Paracetamol\nAbimol | Paracetamol\nCalpol | Paracetamol",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "أهم دواء هنا هو Paracetamol، ونفس الأسماء التجارية المذكورة في Analgesics:"
+      ],
+      "section_start": 13,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol",
+          "Paracetamol"
+        ],
+        [
+          "Cetal",
+          "Paracetamol"
+        ],
+        [
+          "Adol",
+          "Paracetamol"
+        ],
+        [
+          "Paramol",
+          "Paracetamol"
+        ],
+        [
+          "Fevadol",
+          "Paracetamol"
+        ],
+        [
+          "Abimol",
+          "Paracetamol"
+        ],
+        [
+          "Calpol",
+          "Paracetamol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Common side effects:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "paragraph",
+      "text": "Usually well tolerated عند الاستخدام بالجرعات الصحيحة.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Common side effects:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "paragraph",
+      "text": "Nausea أو skin rash نادرًا.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Common side effects:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "paragraph",
+      "text": "Hepatotoxicity في حالة overdose.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Common side effects:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "paragraph",
+      "text": "Severe hepatic impairment.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "paragraph",
+      "text": "الحذر في chronic liver disease أو مع تناول الكحول.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "مراجعة كل الأدوية المستخدمة لتجنب تكرار Paracetamol في أكثر من combination product.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "2. Antipyretics – خافضات الحرارة",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 13,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "heading",
+      "text": "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs"
+      ],
+      "section_start": 25,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف الألم والالتهاب، وقد تساعد في تقليل ألم البلع.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nBrufen | Ibuprofen\nNurofen | Ibuprofen\nIbuflam | Ibuprofen\nProfinal | Ibuprofen\nCataflam | Diclofenac potassium\nVoltaren | Diclofenac sodium\nDicloflam | Diclofenac\nCelebrex | Celecoxib\nMobic | Meloxicam",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs"
+      ],
+      "section_start": 25,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Brufen",
+          "Ibuprofen"
+        ],
+        [
+          "Nurofen",
+          "Ibuprofen"
+        ],
+        [
+          "Ibuflam",
+          "Ibuprofen"
+        ],
+        [
+          "Profinal",
+          "Ibuprofen"
+        ],
+        [
+          "Cataflam",
+          "Diclofenac potassium"
+        ],
+        [
+          "Voltaren",
+          "Diclofenac sodium"
+        ],
+        [
+          "Dicloflam",
+          "Diclofenac"
+        ],
+        [
+          "Celebrex",
+          "Celecoxib"
+        ],
+        [
+          "Mobic",
+          "Meloxicam"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common side effects:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "Gastric irritation.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common side effects:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "paragraph",
+      "text": "Nausea and dyspepsia.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common side effects:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "paragraph",
+      "text": "Peptic ulcer and GI bleeding.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common side effects:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "Fluid retention and increased blood pressure.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common side effects:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "paragraph",
+      "text": "Renal impairment.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common side effects:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "paragraph",
+      "text": "Hypersensitivity reactions.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common side effects:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "paragraph",
+      "text": "Active peptic ulcer أو history of NSAID-related GI bleeding.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "paragraph",
+      "text": "Severe renal impairment.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "paragraph",
+      "text": "Severe heart failure.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "paragraph",
+      "text": "NSAID hypersensitivity.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "paragraph",
+      "text": "الحذر في hypertension، cardiovascular disease، asthma، والحمل.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "paragraph",
+      "text": "ممنوع الجمع بين NSAIDs مختلفة مع بعض، مثل Ibuprofen + Diclofenac.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "3. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 25,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "heading",
+      "text": "4. Local Anesthetics – مخدرات موضعية للحلق",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق"
+      ],
+      "section_start": 42,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف ألم الحلق مؤقتًا عن طريق إحداث numbness موضعي، غالبًا في صورة sprays أو lozenges.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nB.B.C Spray | Benzocaine + Benzydamine HCl + Cetalkonium chloride\nStrepsils Plus | Lidocaine HCl + Amylmetacresol + 2,4-Dichlorobenzyl alcohol\nOrofar | Lidocaine HCl + Benzoxonium chloride",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق"
+      ],
+      "section_start": 42,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "B.B.C Spray",
+          "Benzocaine + Benzydamine HCl + Cetalkonium chloride"
+        ],
+        [
+          "Strepsils Plus",
+          "Lidocaine HCl + Amylmetacresol + 2,4-Dichlorobenzyl alcohol"
+        ],
+        [
+          "Orofar",
+          "Lidocaine HCl + Benzoxonium chloride"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Common side effects:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "paragraph",
+      "text": "Temporary numbness of mouth and throat.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Common side effects:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "paragraph",
+      "text": "Burning أو irritation.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Common side effects:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "paragraph",
+      "text": "Altered taste.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Common side effects:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "Allergic reactions.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Common side effects:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "paragraph",
+      "text": "Lidocaine: toxicity ممكن تحصل مع الاستخدام المفرط أو ابتلاع كميات كبيرة.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Common side effects:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "Benzocaine: نادرًا قد يسبب Methemoglobinemia، وهي حالة خطيرة تؤثر على قدرة الدم على حمل الأكسجين.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Common side effects:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to local anesthetics أو أي مكون من التركيبة.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "paragraph",
+      "text": "Benzocaine: الحذر الشديد، والالتزام بالسن المحدد في النشرة؛ قائمة EDA تذكر تحذير Methemoglobinemia، وأن lozenges مخصصة لعمر 12 سنة فأكثر.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "paragraph",
+      "text": "Lidocaine: تجنب الاستخدام المفرط، خصوصًا في الأطفال.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "paragraph",
+      "text": "بعد استخدام المخدر الموضعي، يُفضّل تجنب الأكل أو المشروبات الساخنة لحد ما الإحساس يرجع؛ لتجنب صعوبة البلع أو الحروق.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "4. Local Anesthetics – مخدرات موضعية للحلق",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 42,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "heading",
+      "text": "5. Antibiotics – المضادات الحيوية",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية"
+      ],
+      "section_start": 57,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج bacterial pharyngitis/tonsillitis، خصوصًا Group A Streptococcus (GAS)، عند تأكيد أو ترجيح السبب البكتيري.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "heading",
+      "text": "A. Penicillins",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "A. Penicillins"
+      ],
+      "section_start": 57,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nAmoxil | Amoxicillin\nHibiotic | Amoxicillin + Clavulanic acid\nAugmentin | Amoxicillin + Clavulanic acid\nCuram | Amoxicillin + Clavulanic acid\nMegamox | Amoxicillin + Clavulanic acid\nAmoclan | Amoxicillin + Clavulanic acid\nClavimox | Amoxicillin + Clavulanic acid\nOspamox | Amoxicillin",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "A. Penicillins"
+      ],
+      "section_start": 57,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Amoxil",
+          "Amoxicillin"
+        ],
+        [
+          "Hibiotic",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Augmentin",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Curam",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Megamox",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Amoclan",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Clavimox",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Ospamox",
+          "Amoxicillin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "heading",
+      "text": "B. Cephalosporins",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "B. Cephalosporins"
+      ],
+      "section_start": 57,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nZinnat | Cefuroxime axetil\nCefzil | Cefprozil\nKeflex | Cephalexin\nDuricef | Cefadroxil",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "B. Cephalosporins"
+      ],
+      "section_start": 57,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Zinnat",
+          "Cefuroxime axetil"
+        ],
+        [
+          "Cefzil",
+          "Cefprozil"
+        ],
+        [
+          "Keflex",
+          "Cephalexin"
+        ],
+        [
+          "Duricef",
+          "Cefadroxil"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "heading",
+      "text": "C. Macrolides",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "C. Macrolides"
+      ],
+      "section_start": 57,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nZithromax | Azithromycin\nZmax | Azithromycin\nKlacid | Clarithromycin\nFromilid | Clarithromycin\nErythrocin | Erythromycin",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "C. Macrolides"
+      ],
+      "section_start": 57,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Zithromax",
+          "Azithromycin"
+        ],
+        [
+          "Zmax",
+          "Azithromycin"
+        ],
+        [
+          "Klacid",
+          "Clarithromycin"
+        ],
+        [
+          "Fromilid",
+          "Clarithromycin"
+        ],
+        [
+          "Erythrocin",
+          "Erythromycin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "heading",
+      "text": "D. Lincosamides",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "D. Lincosamides"
+      ],
+      "section_start": 57,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nDalacin C | Clindamycin\nClinacin | Clindamycin",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "D. Lincosamides"
+      ],
+      "section_start": 57,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Dalacin C",
+          "Clindamycin"
+        ],
+        [
+          "Clinacin",
+          "Clindamycin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "paragraph",
+      "text": "Nausea, vomiting, diarrhea.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "paragraph",
+      "text": "Skin rash.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "paragraph",
+      "text": "Candidiasis.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "paragraph",
+      "text": "Allergic reactions، وقد تصل إلى anaphylaxis.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "paragraph",
+      "text": "Clindamycin: increased risk of antibiotic-associated diarrhea و C. difficile colitis.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Macrolides: GI upset، وبعضها ممكن يسبب QT prolongation.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Common side effects:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67,
+        75
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "paragraph",
+      "text": "Penicillins: ممنوعة في حالات severe penicillin allergy.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67,
+        75
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "paragraph",
+      "text": "Cephalosporins: الحذر في المرضى الذين لديهم history of severe immediate beta-lactam allergy.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67,
+        75
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "Macrolides: الحذر في QT prolongation، وبعض cardiac arrhythmias، والتداخلات الدوائية.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67,
+        75
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "paragraph",
+      "text": "Clindamycin: الحذر في history of antibiotic-associated colitis.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67,
+        75
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "paragraph",
+      "text": "تعديل الجرعة قد يكون مطلوبًا في renal impairment حسب نوع المضاد الحيوي.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "5. Antibiotics – المضادات الحيوية",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 57,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        67,
+        75
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "heading",
+      "text": "OTC vs Prescription في مصر",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "OTC vs Prescription في مصر"
+      ],
+      "section_start": 81,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "paragraph",
+      "text": "التصنيف التالي للمذاكرة، مع ملاحظة إن الـ OTC status بيتحدد حسب الـ active ingredient والـ dosage form والـ strength والمنتج المسجل، مش حسب اسم الـ drug class كله.",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "OTC vs Prescription في مصر"
+      ],
+      "section_start": 81,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "table",
+      "text": "Drug class / Product | التصنيف\nParacetamol oral products | OTC لبعض المستحضرات والتركيزات\nIbuprofen oral products | راجعي قائمة OTC وشروط صرف المستحضر المحدد\nDiclofenac / Celecoxib / Meloxicam | غالبًا Prescription\nB.B.C Spray | OTC\nBenzocaine preparations | OTC وفقًا للشكل الدوائي والسن والاشتراطات\nStrepsils Plus / Orofar | \nAntibiotics بجميع المجموعات المذكورة | Prescription",
+      "section_path": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis",
+        "OTC vs Prescription في مصر"
+      ],
+      "section_start": 81,
+      "headers": [
+        [
+          "Drug class / Product",
+          "التصنيف"
+        ]
+      ],
+      "rows": [
+        [
+          "Paracetamol oral products",
+          "OTC لبعض المستحضرات والتركيزات"
+        ],
+        [
+          "Ibuprofen oral products",
+          "راجعي قائمة OTC وشروط صرف المستحضر المحدد"
+        ],
+        [
+          "Diclofenac / Celecoxib / Meloxicam",
+          "غالبًا Prescription"
+        ],
+        [
+          "B.B.C Spray",
+          "OTC"
+        ],
+        [
+          "Benzocaine preparations",
+          "OTC وفقًا للشكل الدوائي والسن والاشتراطات"
+        ],
+        [
+          "Strepsils Plus / Orofar",
+          ""
+        ],
+        [
+          "Antibiotics بجميع المجموعات المذكورة",
+          "Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية التهاب الحلق واللوز – Pharyngitis & Tonsillitis"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the source Pharyngitis and Tonsillitis topic.",
+    "Block 67: Shared effects cover multiple antibiotic classes, not only Lincosamides.",
+    "Block 75: Shared precautions explicitly cover Penicillins, Cephalosporins, Macrolides, and Clindamycin."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        4
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        16
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        27
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        44
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        60
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        62
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        64
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        66
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        83
+      ]
+    },
+    {
+      "code": "blank_table_value",
+      "severity": "review",
+      "message": "A nonempty source data row contains a blank value; no missing value was inferred",
+      "block_positions": [
+        83
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Pharyngitis and Tonsillitis topic.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Shared effects cover multiple antibiotic classes, not only Lincosamides.",
+      "block_positions": [
+        67
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Shared precautions explicitly cover Penicillins, Cephalosporins, Macrolides, and Clindamycin.",
+      "block_positions": [
+        75
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the source Pharyngitis and Tonsillitis topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 67,
+      "reason": "Shared effects cover multiple antibiotic classes, not only Lincosamides.",
+      "parent_position": 57
+    },
+    {
+      "position": 75,
+      "reason": "Shared precautions explicitly cover Penicillins, Cephalosporins, Macrolides, and Clindamycin.",
+      "parent_position": 57
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "699e4d8f75e5ef29e12fe6850f2f8dbc4625d658cdac31be8a05e70520693240"
+}

@@ -1,5 +1,12 @@
 # Private GitHub handoff: approval review
 
+Historical preparation record: the review below predates publication. The project
+is now in the private `omar225/Medical-Rag-System` repository on `master`.
+The 19 Stage 2.1 ingestion JSON files are now directly tracked; the original
+recovery archive remains unchanged. Use [NEW_MACHINE_SETUP.md](NEW_MACHINE_SETUP.md)
+for current clone/setup instructions. The original preparation findings below are
+retained as a record, not current publication status.
+
 ## Publication state
 
 **Prepared locally; not staged, committed, created on GitHub, or pushed.**

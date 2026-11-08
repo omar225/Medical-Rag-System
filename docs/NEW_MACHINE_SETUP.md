@@ -38,12 +38,10 @@ the separately installed Ollama runtime. Docker files remain placeholders.
 
 ## Clone the approved private repository
 
-The remote URL is intentionally not invented; publication awaits approval.
-After publication, substitute the confirmed private URL when prompted.
+The existing repository is private. Use the account granted access to it.
 
 ```powershell
-$RepoUrl = Read-Host 'Confirmed private GitHub repository HTTPS URL'
-git clone --branch master $RepoUrl medical-rag
+git clone --branch master https://github.com/omar225/Medical-Rag-System.git medical-rag
 Set-Location -LiteralPath .\medical-rag
 git status --short --branch
 git log -1 --oneline
@@ -98,31 +96,59 @@ There are no required application secrets. Maintenance scripts do not load `.env
 the session variables above work for them. Uvicorn can explicitly load `.env`.
 None of these session variables configures an already running Ollama server.
 
-## Restore the exact stopped state
+## Ingestion artifacts are included after cloning
 
-The nine DOCX originals must be present at their approved KB paths. If upload
-permission is denied, obtain them through an authorized secure transfer; a
-history-preserving GitHub push is currently blocked because they already exist
-in the two local commits. Do not substitute modified source files.
+The nine DOCX originals, `chunks/KB-01.json` through `KB-09.json`,
+`processed/KB-01.json` through `KB-09.json`, and
+`metadata/generated/ingestion_manifest.json` are directly tracked under
+`data/knowledge_base/`. **Do not rebuild ingestion after a normal clone.**
+They preserve the current Stage 2.1 build: nine documents, 153 tables, and
+113 chunks, with source checksums, build IDs, and reviewed corrections intact.
+`structure_corrections.json`, `retrieval_aliases.json`, and ingestion code are
+also tracked. Leave temporary/candidate JSON and unrelated generated files ignored.
 
-The reviewed recovery snapshot restores generated JSON, the last valid dense
-index, and original experimental reports, without any inference:
+The immutable recovery snapshot also contains these exact ingestion files for
+historical recovery. Their compressed copies occupy about 151 KB; it is retained
+unchanged to preserve its original checksum and experimental evidence. The live
+vector-store and reports directories remain ignored. If you want to resume
+retrieval using the last valid dense index without rebuilding embeddings, restore
+only the missing index/report files below. Existing files are checked, not overwritten:
 
 ```powershell
 $Snapshot = Get-Content .\reproducibility\snapshot_manifest.json -Raw | ConvertFrom-Json
 $ActualHash = (Get-FileHash .\reproducibility\stage31_recovery.zip -Algorithm SHA256).Hash.ToLowerInvariant()
 if ($ActualHash -ne $Snapshot.archive_sha256) { throw 'Snapshot checksum mismatch' }
-# Use in a fresh clone; no -Force, so later experiment files are not overwritten.
-Expand-Archive -LiteralPath .\reproducibility\stage31_recovery.zip -DestinationPath .
-foreach ($Entry in $Snapshot.entries) {
-    $Hash = (Get-FileHash -LiteralPath $Entry.path -Algorithm SHA256).Hash.ToLowerInvariant()
-    if ($Hash -ne $Entry.sha256) { throw "Snapshot entry mismatch: $($Entry.path)" }
-}
+@'
+import hashlib, json, zipfile
+from pathlib import Path
+root = Path.cwd().resolve()
+manifest = json.loads(Path('reproducibility/snapshot_manifest.json').read_text(encoding='utf-8'))
+with zipfile.ZipFile(manifest['archive']) as archive:
+    pending = []
+    for entry in manifest['entries']:
+        target = root / entry['path']
+        if not target.resolve().is_relative_to(root):
+            raise SystemExit('Unsafe archive destination')
+        data = archive.read(entry['path'])
+        if hashlib.sha256(data).hexdigest() != entry['sha256']:
+            raise SystemExit('Archive entry checksum mismatch: ' + entry['path'])
+        if target.exists():
+            if hashlib.sha256(target.read_bytes()).hexdigest() != entry['sha256']:
+                raise SystemExit('Existing file differs; review before restoring: ' + entry['path'])
+        else:
+            pending.append((target, data))
+    for target, data in pending:
+        target.parent.mkdir(parents=True, exist_ok=True)
+        with target.open('xb') as output:
+            output.write(data)
+print('Verified existing files; restored', len(pending), 'missing snapshot files.')
+'@ | .\.venv\Scripts\python.exe -
+if ($LASTEXITCODE -ne 0) { throw 'Snapshot recovery failed' }
 ```
 
-This is the quickest way to resume the recorded corpus/index, and enables lexical
-retrieval even if the new runtime also has the zero-vector problem. It contains
-medical excerpts and requires the same explicit private-upload approval.
+No ingestion regeneration is needed. Optional snapshot restoration enables lexical
+retrieval even if the new runtime also has the zero-vector problem. Dense/hybrid
+still require valid query embeddings from a compatible model/runtime.
 
 ## Download and verify BGE-M3, then test it before rebuilding
 
@@ -155,8 +181,9 @@ fail rather than truncate. See [zero-vector troubleshooting](OLLAMA_ZERO_VECTOR_
 
 ## Run offline and optional live tests
 
-Restore or rebuild ingestion outputs before the full suite: bootstrap tests read
-the generated corpus, so source files alone are insufficient for those tests.
+The directly tracked ingestion outputs are available immediately after cloning;
+no restoration, ingestion rebuild, model download, or model server is needed for
+the offline suite. The optional live test separately requires healthy Ollama.
 
 ```powershell
 Remove-Item Env:RUN_OLLAMA_TESTS -ErrorAction SilentlyContinue
@@ -172,8 +199,10 @@ experiments. Do not accept zero vectors to make it pass.
 
 ## Regenerate artifacts when needed
 
-Skip regeneration if resuming the restored snapshot. If deliberately rebuilding,
-preserve old reports, validate the model first, then run:
+Skip ingestion regeneration after cloning: the required JSON is already tracked.
+Only deliberately rebuild if approved sources or ingestion configuration change,
+then review the resulting tracked JSON diff. If you need a new vector index,
+validate embeddings first. These commands are optional maintenance, not setup:
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/ingestion/rebuild.py

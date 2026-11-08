@@ -1,0 +1,4463 @@
+{
+  "doc_id": "KB-03",
+  "title": "pain headache ibs arthritis",
+  "title_source": "filename_stem",
+  "filename": "pain headache ibs arthritis.docx",
+  "source_sha256": "43471ade85a430db5a8d5072bb4f4de5fc582f0145150221f2790b4ba3107e7f",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. Pain & Fever – الألم والحرارة",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "1. Paracetamol",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol"
+      ],
+      "section_start": 2,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "الاستخدام: الألم الخفيف إلى المتوسط وخفض الحرارة، مثل headache وtoothache وmuscle pain.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nPanadol | Paracetamol\nCetal | Paracetamol\nAdol | Paracetamol\nParamol | Paracetamol\nFevadol | Paracetamol\nAbimol | Paracetamol\nCalpol | Paracetamol\nEfferalgan | Paracetamol\nPerfalgan | Paracetamol – IV\nPyral | Paracetamol",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol",
+          "Paracetamol"
+        ],
+        [
+          "Cetal",
+          "Paracetamol"
+        ],
+        [
+          "Adol",
+          "Paracetamol"
+        ],
+        [
+          "Paramol",
+          "Paracetamol"
+        ],
+        [
+          "Fevadol",
+          "Paracetamol"
+        ],
+        [
+          "Abimol",
+          "Paracetamol"
+        ],
+        [
+          "Calpol",
+          "Paracetamol"
+        ],
+        [
+          "Efferalgan",
+          "Paracetamol"
+        ],
+        [
+          "Perfalgan",
+          "Paracetamol – IV"
+        ],
+        [
+          "Pyral",
+          "Paracetamol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "paragraph",
+      "text": "غالبًا well tolerated بالجرعات الصحيحة.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "paragraph",
+      "text": "Nausea أو mild skin rash.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "paragraph",
+      "text": "أهم خطر هو hepatotoxicity في حالة overdose أو الجمع بين أكثر من دواء يحتوي على Paracetamol.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Common Side Effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "Severe liver disease.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "الحذر مع مرضى الكبد أو chronic alcohol use.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "paragraph",
+      "text": "لازم تحسبي إجمالي Paracetamol من كل الأدوية المستخدمة، خصوصًا أدوية البرد والإنفلونزا.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "الجرعة الزائدة حالة طوارئ حتى لو المريض حاسس إنه كويس.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "paragraph",
+      "text": "OTC ولا Prescription؟\nغالبًا OTC في المستحضرات والجرعات المخصصة للـself-care، لكن ده لا يعني إن كل التركيزات أو الأشكال الصيدلانية لها نفس التصنيف.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "1. Paracetamol",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "heading",
+      "text": "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs"
+      ],
+      "section_start": 16,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "paragraph",
+      "text": "الاستخدام: الألم المصحوب بالالتهاب، مثل arthritis، dysmenorrhea، dental pain، musculoskeletal pain.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nBrufen | Ibuprofen\nNurofen | Ibuprofen\nIbuflam | Ibuprofen\nProfinal | Ibuprofen\nCataflam | Diclofenac potassium\nVoltaren | Diclofenac sodium\nOlfen | Diclofenac\nDeclophen | Diclofenac\nMobic | Meloxicam\nCelebrex | Celecoxib\nArcoxia | Etoricoxib\nXefo | Lornoxicam\nFeldene | Piroxicam\nNaprosyn | Naproxen",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 16,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Brufen",
+          "Ibuprofen"
+        ],
+        [
+          "Nurofen",
+          "Ibuprofen"
+        ],
+        [
+          "Ibuflam",
+          "Ibuprofen"
+        ],
+        [
+          "Profinal",
+          "Ibuprofen"
+        ],
+        [
+          "Cataflam",
+          "Diclofenac potassium"
+        ],
+        [
+          "Voltaren",
+          "Diclofenac sodium"
+        ],
+        [
+          "Olfen",
+          "Diclofenac"
+        ],
+        [
+          "Declophen",
+          "Diclofenac"
+        ],
+        [
+          "Mobic",
+          "Meloxicam"
+        ],
+        [
+          "Celebrex",
+          "Celecoxib"
+        ],
+        [
+          "Arcoxia",
+          "Etoricoxib"
+        ],
+        [
+          "Xefo",
+          "Lornoxicam"
+        ],
+        [
+          "Feldene",
+          "Piroxicam"
+        ],
+        [
+          "Naprosyn",
+          "Naproxen"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "paragraph",
+      "text": "Gastric irritation, dyspepsia.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "paragraph",
+      "text": "Nausea and abdominal pain.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "paragraph",
+      "text": "Peptic ulcer and GI bleeding.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "Fluid retention and edema.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "paragraph",
+      "text": "Increased blood pressure.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "Renal impairment.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "بعض الأدوية ممكن تزود cardiovascular risk.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Common Side Effects:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "Active peptic ulcer أو history of GI bleeding.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "paragraph",
+      "text": "Severe renal impairment.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "paragraph",
+      "text": "Severe heart failure.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "NSAID-induced asthma أو previous allergic reaction.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى hypertension وcardiovascular disease.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "paragraph",
+      "text": "تجنب استخدامها في الحمل، خصوصًا من الأسبوع 20 وما بعده إلا بتوجيه طبي، وتُمنع عادةً من الأسبوع 30.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "paragraph",
+      "text": "لا تجمعي أكثر من NSAID مع بعض، مثل Ibuprofen + Diclofenac.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "paragraph",
+      "text": "OTC ولا Prescription؟\nبعض الـNSAIDs والجرعات المحددة OTC، خصوصًا بعض مستحضرات Ibuprofen، لكن باقي الأدوية والجرعات تختلف حسب المستحضر والتصنيف المعتمد.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "2. NSAIDs – Non-Steroidal Anti-Inflammatory Drugs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 16,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "heading",
+      "text": "3. Topical NSAIDs",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs"
+      ],
+      "section_start": 37,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "paragraph",
+      "text": "الاستخدام: موضعيًا لتخفيف آلام والتهابات العضلات والمفاصل، مثل sprains، strains، back pain وosteoarthritis.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nVoltaren Emulgel | Diclofenac diethylamine\nOlfen Gel | Diclofenac\nFastum Gel | Ketoprofen\nKetofan Gel | Ketoprofen\nKetolgin Gel | Ketoprofen\nAdwiflam Emulgel | Diclofenac + Methyl salicylate + Menthol\nIndomethacin-AIT Spray | Indomethacin\nبعض مستحضرات Ibuprofen topical | Ibuprofen",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 37,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Voltaren Emulgel",
+          "Diclofenac diethylamine"
+        ],
+        [
+          "Olfen Gel",
+          "Diclofenac"
+        ],
+        [
+          "Fastum Gel",
+          "Ketoprofen"
+        ],
+        [
+          "Ketofan Gel",
+          "Ketoprofen"
+        ],
+        [
+          "Ketolgin Gel",
+          "Ketoprofen"
+        ],
+        [
+          "Adwiflam Emulgel",
+          "Diclofenac + Methyl salicylate + Menthol"
+        ],
+        [
+          "Indomethacin-AIT Spray",
+          "Indomethacin"
+        ],
+        [
+          "بعض مستحضرات Ibuprofen topical",
+          "Ibuprofen"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "Skin irritation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "Redness and itching.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "paragraph",
+      "text": "Burning sensation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "Contact dermatitis.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "paragraph",
+      "text": "Photosensitivity، خصوصًا مع Ketoprofen gel.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "paragraph",
+      "text": "Allergy to NSAIDs أو aspirin.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "تجنب وضعه على wounds أو infected skin.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "paragraph",
+      "text": "تجنب ملامسة العين والأغشية المخاطية.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "Ketoprofen gel يحتاج احتياطات مهمة من الشمس وUV أثناء الاستخدام وبعده حسب النشرة.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "paragraph",
+      "text": "لا يُستخدم على مساحات كبيرة أو لفترات طويلة دون استشارة.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "3. Topical NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 37,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "heading",
+      "text": "4. Topical Analgesics",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics"
+      ],
+      "section_start": 53,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "paragraph",
+      "text": "الاستخدام: تسكين الألم موضعيًا، مثل muscle pain، joint pain، backache وبعض أنواع neuropathic pain.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "label",
+      "text": "Trade Names وأمثلة:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Trade Names وأمثلة:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nVoltaren Emulgel | Diclofenac diethylamine\nFastum Gel | Ketoprofen\nRadian Massage Cream | Combination of counterirritants\nAlgason Massage Cream | Diethylamine salicylate + Camphor\nAdwiflam Emulgel | Diclofenac + Methyl salicylate + Menthol\nCapsisal Gel | Capsaicin + Methyl salicylate\nArthritis Free Spray | Menthol + Methyl salicylate\nRestage Spray | Lidocaine + Menthol + Methyl salicylate",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Trade Names وأمثلة:"
+      ],
+      "section_start": 53,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Voltaren Emulgel",
+          "Diclofenac diethylamine"
+        ],
+        [
+          "Fastum Gel",
+          "Ketoprofen"
+        ],
+        [
+          "Radian Massage Cream",
+          "Combination of counterirritants"
+        ],
+        [
+          "Algason Massage Cream",
+          "Diethylamine salicylate + Camphor"
+        ],
+        [
+          "Adwiflam Emulgel",
+          "Diclofenac + Methyl salicylate + Menthol"
+        ],
+        [
+          "Capsisal Gel",
+          "Capsaicin + Methyl salicylate"
+        ],
+        [
+          "Arthritis Free Spray",
+          "Menthol + Methyl salicylate"
+        ],
+        [
+          "Restage Spray",
+          "Lidocaine + Menthol + Methyl salicylate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "paragraph",
+      "text": "Burning أو cooling sensation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "paragraph",
+      "text": "Redness and irritation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "paragraph",
+      "text": "Skin rash أو contact dermatitis.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "paragraph",
+      "text": "Allergic reactions.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "paragraph",
+      "text": "عدم الاستخدام على broken أو irritated skin.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "paragraph",
+      "text": "تجنب تغطية المنطقة بضمادة محكمة أو تعريضها لحرارة شديدة إلا لو النشرة تسمح.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "paragraph",
+      "text": "غسل اليدين بعد الاستخدام.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "paragraph",
+      "text": "الحذر من استخدام أكثر من مستحضر موضعي على نفس المنطقة.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "4. Topical Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 53,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "heading",
+      "text": "5. Counterirritants",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants"
+      ],
+      "section_start": 67,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "paragraph",
+      "text": "الاستخدام: تخفيف مؤقت لآلام العضلات والمفاصل عن طريق الإحساس بالبرودة أو السخونة في المنطقة.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "label",
+      "text": "Common Active Ingredients:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "paragraph",
+      "text": "Menthol",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "paragraph",
+      "text": "Camphor",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "paragraph",
+      "text": "Methyl salicylate",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "paragraph",
+      "text": "Capsaicin",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Diethylamine salicylate",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Active Ingredients:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nRadian Massage Cream | Camphor + Menthol + other counterirritants\nAlgason Massage Cream | Diethylamine salicylate + Camphor\nCapsisal Gel | Capsaicin + Methyl salicylate\nArthritis Free Spray | Menthol + Methyl salicylate\nAdwiflam Emulgel | Diclofenac + Methyl salicylate + Menthol\nRestage Spray | Lidocaine + Menthol + Methyl salicylate",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 67,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Radian Massage Cream",
+          "Camphor + Menthol + other counterirritants"
+        ],
+        [
+          "Algason Massage Cream",
+          "Diethylamine salicylate + Camphor"
+        ],
+        [
+          "Capsisal Gel",
+          "Capsaicin + Methyl salicylate"
+        ],
+        [
+          "Arthritis Free Spray",
+          "Menthol + Methyl salicylate"
+        ],
+        [
+          "Adwiflam Emulgel",
+          "Diclofenac + Methyl salicylate + Menthol"
+        ],
+        [
+          "Restage Spray",
+          "Lidocaine + Menthol + Methyl salicylate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "Local burning or stinging.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "paragraph",
+      "text": "Redness.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "paragraph",
+      "text": "Irritation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "paragraph",
+      "text": "Allergic contact dermatitis.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "paragraph",
+      "text": "Capsaicin ممكن يسبب burning sensation واضح في البداية.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Common Side Effects:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 84,
+      "kind": "paragraph",
+      "text": "لا يُستخدم على الجروح أو الجلد المتشقق.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 85,
+      "kind": "paragraph",
+      "text": "تجنب ملامسة العين والأغشية المخاطية.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 86,
+      "kind": "paragraph",
+      "text": "لا تستخدمي heating pads مع هذه المستحضرات.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 87,
+      "kind": "paragraph",
+      "text": "Camphor خطر جدًا لو تم ابتلاعه، خصوصًا للأطفال.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 88,
+      "kind": "paragraph",
+      "text": "Methyl salicylate يحتاج الحذر في الأطفال ومع مرضى aspirin allergy، ولا يُستخدم بكمية كبيرة أو على مساحات واسعة.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "5. Counterirritants",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 67,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 89,
+      "kind": "heading",
+      "text": "6. Salicylates",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates"
+      ],
+      "section_start": 89,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 90,
+      "kind": "paragraph",
+      "text": "الاستخدام: مجموعة تشمل مستحضرات للألم والالتهاب، وبعضها يُستخدم بجرعات منخفضة للوقاية من الجلطات في حالات معينة.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 91,
+      "kind": "heading",
+      "text": "أولًا: Aspirin – Acetylsalicylic Acid",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91
+      ]
+    },
+    {
+      "position": 92,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nAspirin | Acetylsalicylic acid\nAspocid | Acetylsalicylic acid\nAspegic | Lysine acetylsalicylate",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid"
+      ],
+      "section_start": 89,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Aspirin",
+          "Acetylsalicylic acid"
+        ],
+        [
+          "Aspocid",
+          "Acetylsalicylic acid"
+        ],
+        [
+          "Aspegic",
+          "Lysine acetylsalicylate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91
+      ]
+    },
+    {
+      "position": 93,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93
+      ]
+    },
+    {
+      "position": 94,
+      "kind": "paragraph",
+      "text": "Gastric irritation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93
+      ]
+    },
+    {
+      "position": 95,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93
+      ]
+    },
+    {
+      "position": 96,
+      "kind": "paragraph",
+      "text": "GI bleeding.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93
+      ]
+    },
+    {
+      "position": 97,
+      "kind": "paragraph",
+      "text": "Easy bruising.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93
+      ]
+    },
+    {
+      "position": 98,
+      "kind": "paragraph",
+      "text": "Bronchospasm في الأشخاص الحساسين للأسبرين.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93
+      ]
+    },
+    {
+      "position": 99,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99
+      ]
+    },
+    {
+      "position": 100,
+      "kind": "paragraph",
+      "text": "Active peptic ulcer أو bleeding disorders.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99
+      ]
+    },
+    {
+      "position": 101,
+      "kind": "paragraph",
+      "text": "Aspirin allergy أو aspirin-induced asthma.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99
+      ]
+    },
+    {
+      "position": 102,
+      "kind": "paragraph",
+      "text": "الأطفال والمراهقون المصابون بعدوى فيروسية: تجنب Aspirin بسبب خطر Reye's syndrome.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99
+      ]
+    },
+    {
+      "position": 103,
+      "kind": "paragraph",
+      "text": "الحذر مع anticoagulants وNSAIDs.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99
+      ]
+    },
+    {
+      "position": 104,
+      "kind": "paragraph",
+      "text": "Low-dose Aspirin لا يبدأ أو يتوقف من غير مراجعة الطبيب، خصوصًا لو موصوف للوقاية من cardiovascular events.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "أولًا: Aspirin – Acetylsalicylic Acid",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99
+      ]
+    },
+    {
+      "position": 105,
+      "kind": "heading",
+      "text": "ثانيًا: Topical Salicylates",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "heading_level": 3,
+      "heading_source": "reviewed_correction",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105
+      ]
+    },
+    {
+      "position": 106,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nAlgason | Diethylamine salicylate + Camphor\nCapsisal | Capsaicin + Methyl salicylate\nArthritis Free Spray | Menthol + Methyl salicylate\nAdwiflam | Diclofenac + Methyl salicylate + Menthol",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates"
+      ],
+      "section_start": 89,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Algason",
+          "Diethylamine salicylate + Camphor"
+        ],
+        [
+          "Capsisal",
+          "Capsaicin + Methyl salicylate"
+        ],
+        [
+          "Arthritis Free Spray",
+          "Menthol + Methyl salicylate"
+        ],
+        [
+          "Adwiflam",
+          "Diclofenac + Methyl salicylate + Menthol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105
+      ]
+    },
+    {
+      "position": 107,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107
+      ]
+    },
+    {
+      "position": 108,
+      "kind": "paragraph",
+      "text": "Skin irritation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107
+      ]
+    },
+    {
+      "position": 109,
+      "kind": "paragraph",
+      "text": "Redness.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107
+      ]
+    },
+    {
+      "position": 110,
+      "kind": "paragraph",
+      "text": "Burning sensation.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107
+      ]
+    },
+    {
+      "position": 111,
+      "kind": "paragraph",
+      "text": "Rarely, systemic salicylate toxicity with excessive application or absorption.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Common Side Effects:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107
+      ]
+    },
+    {
+      "position": 112,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107,
+        112
+      ]
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "Aspirin/salicylate allergy.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107,
+        112
+      ]
+    },
+    {
+      "position": 114,
+      "kind": "paragraph",
+      "text": "تجنب الاستخدام على مساحات كبيرة أو الجلد المجروح.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107,
+        112
+      ]
+    },
+    {
+      "position": 115,
+      "kind": "paragraph",
+      "text": "الحذر في الأطفال.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107,
+        112
+      ]
+    },
+    {
+      "position": 116,
+      "kind": "paragraph",
+      "text": "تجنب الجمع بين مستحضرات كثيرة تحتوي على Methyl salicylate.",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "6. Salicylates",
+        "ثانيًا: Topical Salicylates",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 89,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        91,
+        93,
+        99,
+        105,
+        107,
+        112
+      ]
+    },
+    {
+      "position": 117,
+      "kind": "heading",
+      "text": "OTC vs Prescription",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "OTC vs Prescription"
+      ],
+      "section_start": 117,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "paragraph_outline",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 118,
+      "kind": "table",
+      "text": "Drug Class | التصنيف العملي\nParacetamol | OTC في مستحضرات وجرعات محددة\nNSAIDs | بعض المستحضرات OTC، والباقي Prescription حسب المادة والتركيز\nTopical NSAIDs | بعض المستحضرات OTC، مثل مستحضرات Ketoprofen الموضعية\nTopical Analgesics | كثير من المستحضرات OTC\nCounterirritants | كثير من المستحضرات OTC\nTopical Local Anesthetics | بعض المستحضرات OTC بشروط\nSalicylates | Aspirin بتركيزات محددة OTC؛ التركيزات الأعلى Prescription",
+      "section_path": [
+        "1. Pain & Fever – الألم والحرارة",
+        "OTC vs Prescription"
+      ],
+      "section_start": 117,
+      "headers": [
+        [
+          "Drug Class",
+          "التصنيف العملي"
+        ]
+      ],
+      "rows": [
+        [
+          "Paracetamol",
+          "OTC في مستحضرات وجرعات محددة"
+        ],
+        [
+          "NSAIDs",
+          "بعض المستحضرات OTC، والباقي Prescription حسب المادة والتركيز"
+        ],
+        [
+          "Topical NSAIDs",
+          "بعض المستحضرات OTC، مثل مستحضرات Ketoprofen الموضعية"
+        ],
+        [
+          "Topical Analgesics",
+          "كثير من المستحضرات OTC"
+        ],
+        [
+          "Counterirritants",
+          "كثير من المستحضرات OTC"
+        ],
+        [
+          "Topical Local Anesthetics",
+          "بعض المستحضرات OTC بشروط"
+        ],
+        [
+          "Salicylates",
+          "Aspirin بتركيزات محددة OTC؛ التركيزات الأعلى Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. Pain & Fever – الألم والحرارة"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 120,
+      "kind": "heading",
+      "text": "2. Headache & Migraine – الصداع",
+      "section_path": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "section_start": 120,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 121,
+      "kind": "heading",
+      "text": "1. Simple Analgesics",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics"
+      ],
+      "section_start": 121,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 122,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج mild to moderate headache، خصوصًا tension-type headache، والصداع المصاحب لنزلات البرد أو ارتفاع الحرارة.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 123,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 124,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nPanadol | Paracetamol\nCetal | Paracetamol\nAdol | Paracetamol\nParamol | Paracetamol\nFevadol | Paracetamol\nAbimol | Paracetamol\nEfferalgan | Paracetamol\nBrufen | Ibuprofen\nNurofen | Ibuprofen",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 121,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol",
+          "Paracetamol"
+        ],
+        [
+          "Cetal",
+          "Paracetamol"
+        ],
+        [
+          "Adol",
+          "Paracetamol"
+        ],
+        [
+          "Paramol",
+          "Paracetamol"
+        ],
+        [
+          "Fevadol",
+          "Paracetamol"
+        ],
+        [
+          "Abimol",
+          "Paracetamol"
+        ],
+        [
+          "Efferalgan",
+          "Paracetamol"
+        ],
+        [
+          "Brufen",
+          "Ibuprofen"
+        ],
+        [
+          "Nurofen",
+          "Ibuprofen"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 125,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 126,
+      "kind": "paragraph",
+      "text": "Paracetamol: غالبًا well tolerated، لكن overdose ممكن يسبب severe hepatotoxicity.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 127,
+      "kind": "paragraph",
+      "text": "Ibuprofen: gastric irritation، nausea، وأحيانًا GI bleeding أو renal impairment.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 128,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 129,
+      "kind": "paragraph",
+      "text": "Paracetamol: الحذر في severe liver disease، وعدم الجمع بين أكثر من مستحضر يحتوي عليه.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 130,
+      "kind": "paragraph",
+      "text": "Ibuprofen: يُتجنب مع active peptic ulcer، severe renal impairment، NSAID allergy، وبعض حالات cardiovascular disease.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 131,
+      "kind": "paragraph",
+      "text": "Aspirin-containing products لا تُستخدم للأطفال أقل من 16 سنة لعلاج الصداع بسبب خطر Reye's syndrome. ",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "1. Simple Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 121,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 132,
+      "kind": "heading",
+      "text": "2. NSAIDs",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs"
+      ],
+      "section_start": 132,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 133,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج acute headache وmigraine، خصوصًا لو الألم متوسط أو مصحوب بأعراض migraine.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 134,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 135,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nBrufen | Ibuprofen\nNurofen | Ibuprofen\nIbuflam | Ibuprofen\nProfinal | Ibuprofen\nFlabu | Ibuprofen\nSpididol | Ibuprofen (as ibuprofen arginine)\nCataflam | Diclofenac potassium\nVoltaren | Diclofenac sodium\nMobic | Meloxicam\nNaprosyn | Naproxen\nXefo | Lornoxicam\nFeldene | Piroxicam\nCelebrex | Celecoxib\nArcoxia | Etoricoxib",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 132,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Brufen",
+          "Ibuprofen"
+        ],
+        [
+          "Nurofen",
+          "Ibuprofen"
+        ],
+        [
+          "Ibuflam",
+          "Ibuprofen"
+        ],
+        [
+          "Profinal",
+          "Ibuprofen"
+        ],
+        [
+          "Flabu",
+          "Ibuprofen"
+        ],
+        [
+          "Spididol",
+          "Ibuprofen (as ibuprofen arginine)"
+        ],
+        [
+          "Cataflam",
+          "Diclofenac potassium"
+        ],
+        [
+          "Voltaren",
+          "Diclofenac sodium"
+        ],
+        [
+          "Mobic",
+          "Meloxicam"
+        ],
+        [
+          "Naprosyn",
+          "Naproxen"
+        ],
+        [
+          "Xefo",
+          "Lornoxicam"
+        ],
+        [
+          "Feldene",
+          "Piroxicam"
+        ],
+        [
+          "Celebrex",
+          "Celecoxib"
+        ],
+        [
+          "Arcoxia",
+          "Etoricoxib"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 136,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 137,
+      "kind": "paragraph",
+      "text": "Dyspepsia and abdominal pain.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 138,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 139,
+      "kind": "paragraph",
+      "text": "Gastritis and peptic ulcer.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 140,
+      "kind": "paragraph",
+      "text": "GI bleeding.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 141,
+      "kind": "paragraph",
+      "text": "Fluid retention and increased blood pressure.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 142,
+      "kind": "paragraph",
+      "text": "Renal impairment.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Common Side Effects:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 143,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 144,
+      "kind": "paragraph",
+      "text": "Active peptic ulcer أو history of GI bleeding.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 145,
+      "kind": "paragraph",
+      "text": "Severe renal impairment.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 146,
+      "kind": "paragraph",
+      "text": "NSAID hypersensitivity أو aspirin-induced asthma.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 147,
+      "kind": "paragraph",
+      "text": "الحذر في hypertension وheart failure وcardiovascular disease.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 148,
+      "kind": "paragraph",
+      "text": "تجنب الجمع بين أكثر من NSAID.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 149,
+      "kind": "paragraph",
+      "text": "الحذر في الحمل، خصوصًا من الأسبوع 20، وتجنبها عادةً من الأسبوع 30.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "2. NSAIDs",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 132,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 150,
+      "kind": "heading",
+      "text": "3. Combination Analgesics",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics"
+      ],
+      "section_start": 150,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 151,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض أنواع headache وmigraine، خصوصًا المستحضرات التي تجمع أكثر من analgesic ingredient، وأحيانًا معها Caffeine.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 152,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 153,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredients\nPanadol Migraine | Paracetamol + Aspirin + Caffeine\nExcedrin | Paracetamol + Aspirin + Caffeine\nAspicure-Combi | Paracetamol + Aspirin + Caffeine\nMarkadel | Paracetamol + Aspirin + Caffeine\nCefacet Plus | Paracetamol + Aspirin + Caffeine\nStopadol | Paracetamol + Caffeine\nPanadol Extra | Paracetamol + Caffeine",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 150,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol Migraine",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Excedrin",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Aspicure-Combi",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Markadel",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Cefacet Plus",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Stopadol",
+          "Paracetamol + Caffeine"
+        ],
+        [
+          "Panadol Extra",
+          "Paracetamol + Caffeine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 154,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 155,
+      "kind": "paragraph",
+      "text": "Nausea and gastric irritation.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 156,
+      "kind": "paragraph",
+      "text": "Palpitations أو nervousness بسبب Caffeine.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 157,
+      "kind": "paragraph",
+      "text": "Insomnia.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 158,
+      "kind": "paragraph",
+      "text": "GI bleeding بسبب Aspirin.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 159,
+      "kind": "paragraph",
+      "text": "Liver toxicity في حالة Paracetamol overdose.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 160,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 161,
+      "kind": "paragraph",
+      "text": "Peptic ulcer أو bleeding disorders بسبب Aspirin.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 162,
+      "kind": "paragraph",
+      "text": "Liver disease أو excessive alcohol use بسبب Paracetamol.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 163,
+      "kind": "paragraph",
+      "text": "Hypertension، arrhythmia، أو caffeine sensitivity.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 164,
+      "kind": "paragraph",
+      "text": "تجنب استخدامها مع أدوية أخرى تحتوي على Paracetamol أو Aspirin.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 165,
+      "kind": "paragraph",
+      "text": "تجنب الاستخدام المتكرر؛ لأن Combination Analgesics ممكن تسبب medication-overuse headache.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "3. Combination Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 150,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 166,
+      "kind": "heading",
+      "text": "4. Caffeine-containing Analgesics",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics"
+      ],
+      "section_start": 166,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 167,
+      "kind": "paragraph",
+      "text": "الاستخدام: بعض أنواع headache وmigraine، وغالبًا بتكون ضمن Combination Analgesics؛ الـCaffeine ممكن يحسن تأثير المسكن في بعض حالات الصداع.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 168,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 169,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredients\nPanadol Extra | Paracetamol + Caffeine\nStopadol | Paracetamol + Caffeine\nPanadol Migraine | Paracetamol + Aspirin + Caffeine\nExcedrin | Paracetamol + Aspirin + Caffeine\nAspicure-Combi | Paracetamol + Aspirin + Caffeine\nMarkadel | Paracetamol + Aspirin + Caffeine\nCefacet Plus | Paracetamol + Aspirin + Caffeine",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 166,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol Extra",
+          "Paracetamol + Caffeine"
+        ],
+        [
+          "Stopadol",
+          "Paracetamol + Caffeine"
+        ],
+        [
+          "Panadol Migraine",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Excedrin",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Aspicure-Combi",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Markadel",
+          "Paracetamol + Aspirin + Caffeine"
+        ],
+        [
+          "Cefacet Plus",
+          "Paracetamol + Aspirin + Caffeine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 170,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 171,
+      "kind": "paragraph",
+      "text": "Insomnia.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 172,
+      "kind": "paragraph",
+      "text": "Nervousness and restlessness.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 173,
+      "kind": "paragraph",
+      "text": "Palpitations.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 174,
+      "kind": "paragraph",
+      "text": "Gastric irritation حسب باقي مكونات التركيبة.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 175,
+      "kind": "paragraph",
+      "text": "Headache ممكن يزيد مع الإفراط أو التوقف المفاجئ عن استهلاك Caffeine بشكل منتظم.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Common Side Effects:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 176,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 177,
+      "kind": "paragraph",
+      "text": "الحذر في patients with hypertension أو arrhythmias.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 178,
+      "kind": "paragraph",
+      "text": "الحذر في insomnia وanxiety وcaffeine sensitivity.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 179,
+      "kind": "paragraph",
+      "text": "تجنب الجمع مع كميات كبيرة من القهوة ومشروبات الطاقة.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 180,
+      "kind": "paragraph",
+      "text": "لو التركيبة تحتوي على Aspirin، تُراعى موانع استخدام Aspirin.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 181,
+      "kind": "paragraph",
+      "text": "لو تحتوي على Paracetamol، تُراعى الجرعة الإجمالية اليومية.",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 182,
+      "kind": "label",
+      "text": "أمثلة إضافية موثقة للـCaffeine combinations في مصر:",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "أمثلة إضافية موثقة للـCaffeine combinations في مصر:"
+      ],
+      "section_start": 166,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 183,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredients\nPanadol Extra | Paracetamol 500 mg + Caffeine 65 mg\nStopadol Extra | Paracetamol 500 mg + Caffeine 65 mg\nAdol Extra | Paracetamol 500 mg + Caffeine 65 mg\nAbimol Extra | Paracetamol 500 mg + Caffeine 65 mg\nArkadolow Extra | Paracetamol 500 mg + Caffeine 65 mg\nPara-Xenos Plus | Paracetamol 500 mg + Caffeine 65 mg\nCetafen Plus N | Paracetamol 500 mg + Ibuprofen 200 mg + Caffeine 65 mg",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "أمثلة إضافية موثقة للـCaffeine combinations في مصر:"
+      ],
+      "section_start": 166,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Panadol Extra",
+          "Paracetamol 500 mg + Caffeine 65 mg"
+        ],
+        [
+          "Stopadol Extra",
+          "Paracetamol 500 mg + Caffeine 65 mg"
+        ],
+        [
+          "Adol Extra",
+          "Paracetamol 500 mg + Caffeine 65 mg"
+        ],
+        [
+          "Abimol Extra",
+          "Paracetamol 500 mg + Caffeine 65 mg"
+        ],
+        [
+          "Arkadolow Extra",
+          "Paracetamol 500 mg + Caffeine 65 mg"
+        ],
+        [
+          "Para-Xenos Plus",
+          "Paracetamol 500 mg + Caffeine 65 mg"
+        ],
+        [
+          "Cetafen Plus N",
+          "Paracetamol 500 mg + Ibuprofen 200 mg + Caffeine 65 mg"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 185,
+      "kind": "heading",
+      "text": "مستحضر خاص بالـMigraine",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "مستحضر خاص بالـMigraine"
+      ],
+      "section_start": 166,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 186,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredients\nStopadol Migraine | Paracetamol + Ergotamine tartrate + Caffeine + Metoclopramide",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "4. Caffeine-containing Analgesics",
+        "مستحضر خاص بالـMigraine"
+      ],
+      "section_start": 166,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Stopadol Migraine",
+          "Paracetamol + Ergotamine tartrate + Caffeine + Metoclopramide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 187,
+      "kind": "heading",
+      "text": "OTC vs Prescription",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "OTC vs Prescription"
+      ],
+      "section_start": 187,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    },
+    {
+      "position": 188,
+      "kind": "table",
+      "text": "Drug Class | التصنيف\nSimple Analgesics | Paracetamol وبعض مستحضرات Ibuprofen OTC\nNSAIDs | بعض المستحضرات والجرعات OTC، والباقي Prescription\nCombination Analgesics | بعض التركيبات OTC مثل Paracetamol + Caffeine\nCaffeine-containing Analgesics | بعض التركيبات OTC، لكن مش كل combination",
+      "section_path": [
+        "2. Headache & Migraine – الصداع",
+        "OTC vs Prescription"
+      ],
+      "section_start": 187,
+      "headers": [
+        [
+          "Drug Class",
+          "التصنيف"
+        ]
+      ],
+      "rows": [
+        [
+          "Simple Analgesics",
+          "Paracetamol وبعض مستحضرات Ibuprofen OTC"
+        ],
+        [
+          "NSAIDs",
+          "بعض المستحضرات والجرعات OTC، والباقي Prescription"
+        ],
+        [
+          "Combination Analgesics",
+          "بعض التركيبات OTC مثل Paracetamol + Caffeine"
+        ],
+        [
+          "Caffeine-containing Analgesics",
+          "بعض التركيبات OTC، لكن مش كل combination"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Headache & Migraine – الصداع"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        120
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the source Pain and Fever topic.",
+    "Block 91: The original Aspirin label scopes the following table and warnings.",
+    "Block 93: These effects belong to the source Aspirin subsection.",
+    "Block 99: These cautions belong to the source Aspirin subsection.",
+    "Block 105: The original Topical Salicylates label begins a sibling subsection.",
+    "Block 107: These effects belong to the source Topical Salicylates subsection.",
+    "Block 112: These cautions belong to the source Topical Salicylates subsection.",
+    "Block 120: Retain the source Headache and Migraine topic."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        5
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        19
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        40
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        56
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        76
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        92
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        106
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        118
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        124
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        135
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        153
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        169
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        183
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        186
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        188
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Pain and Fever topic.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The original Aspirin label scopes the following table and warnings.",
+      "block_positions": [
+        91
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These effects belong to the source Aspirin subsection.",
+      "block_positions": [
+        93
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These cautions belong to the source Aspirin subsection.",
+      "block_positions": [
+        99
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The original Topical Salicylates label begins a sibling subsection.",
+      "block_positions": [
+        105
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These effects belong to the source Topical Salicylates subsection.",
+      "block_positions": [
+        107
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These cautions belong to the source Topical Salicylates subsection.",
+      "block_positions": [
+        112
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Headache and Migraine topic.",
+      "block_positions": [
+        120
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the source Pain and Fever topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 91,
+      "reason": "The original Aspirin label scopes the following table and warnings.",
+      "heading_level": 3
+    },
+    {
+      "position": 93,
+      "reason": "These effects belong to the source Aspirin subsection.",
+      "parent_position": 91
+    },
+    {
+      "position": 99,
+      "reason": "These cautions belong to the source Aspirin subsection.",
+      "parent_position": 91
+    },
+    {
+      "position": 105,
+      "reason": "The original Topical Salicylates label begins a sibling subsection.",
+      "heading_level": 3
+    },
+    {
+      "position": 107,
+      "reason": "These effects belong to the source Topical Salicylates subsection.",
+      "parent_position": 105
+    },
+    {
+      "position": 112,
+      "reason": "These cautions belong to the source Topical Salicylates subsection.",
+      "parent_position": 105
+    },
+    {
+      "position": 120,
+      "reason": "Retain the source Headache and Migraine topic.",
+      "heading_level": 1
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "460112a8ac48257e89fc1ae6c353d6cb07407f6860d264190f327ef356d64caf"
+}

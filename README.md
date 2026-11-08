@@ -4,7 +4,10 @@ Moving computers: follow [fresh Windows setup](docs/NEW_MACHINE_SETUP.md),
 [the private GitHub handoff review](docs/GITHUB_HANDOFF_REVIEW.md), and
 [the unresolved Ollama issue](docs/OLLAMA_ZERO_VECTOR_ISSUE.md). The reviewed
 [recovery snapshot](reproducibility/README.md) preserves the exact stopped state.
-Publication is pending explicit approval; no GitHub URL is confirmed yet.
+The project is backed up in the private
+[GitHub repository](https://github.com/omar225/Medical-Rag-System).
+The nine-document Stage 2.1 chunks, processed JSON, and ingestion manifest are
+directly tracked; cloning does not require an ingestion rebuild.
 
 ## Overview
 
@@ -76,8 +79,9 @@ Rebuild the nine approved sources and their chunks:
 
 See the [ingestion walkthrough](docs/ingestion.md) for output formats, chunking
 choices, source examples, and limitations. Rebuilds replace fixed JSON outputs
-and never save changes to the original DOCX files. Generated data stays ignored
-by Git under the existing rules.
+and never save changes to the original DOCX files. The nine approved processed
+and chunk JSON files and ingestion manifest are tracked for fresh-clone use;
+other generated outputs remain ignored. Rebuilding is optional maintenance.
 
 Future upload code can call
 `medical_rag.ingestion.processing.pipeline.ingest_document()` to obtain parsed

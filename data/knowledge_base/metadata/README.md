@@ -26,7 +26,9 @@ informational. A blank source classification value at KB-04 block 83 remains
 flagged for review. `requires_review: false` is not medical approval; no approval
 state is created by ingestion.
 
-Generated metadata is ignored by Git under the existing rules. Source identity
+`generated/ingestion_manifest.json` is directly tracked together with the nine
+approved chunk and processed JSON files. They need no regeneration after cloning;
+other generated metadata remains ignored. Source identity
 is defined by `APPROVED_SOURCES` in the DOCX reader; extra documents are ignored,
 and a missing or renamed approved file is an error. See the
 [ingestion documentation](../../../docs/ingestion.md) for formats and limitations.

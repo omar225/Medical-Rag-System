@@ -1,0 +1,965 @@
+[
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0001",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD > 1. Proton Pump Inhibitors (PPIs)",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "1. Proton Pump Inhibitors (PPIs)"
+    ],
+    "section_start": 2,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n1. Proton Pump Inhibitors (PPIs)\nالاستخدام: تقليل إفراز حمض المعدة، وعلاج GERD وPeptic Ulcers، وتدخل ضمن أنظمة علاج H. pylori.\n\nالاسم التجاري في مصر | Active ingredient\nLosec | Omeprazole\nOmez | Omeprazole\nPeptazol | Omeprazole\nOmiz | Omeprazole\nNexium | Esomeprazole\nEmazole | Esomeprazole\nEzogast | Esomeprazole\nControloc | Pantoprazole\nPantoloc | Pantoprazole\nPantover | Pantoprazole\nPariet | Rabeprazole\nLanzor | Lansoprazole\nDexilant | Dexlansoprazole\n\nCommon side effects:\nHeadache.\nNausea.\nAbdominal pain.\nDiarrhea أو constipation.\nFlatulence.\nمع الاستخدام الطويل: احتمال Vitamin B12 deficiency، hypomagnesemia، وزيادة قابلية بعض intestinal infections.\n\nContraindications & precautions:\nHypersensitivity to PPIs.\nمراجعة drug interactions، خصوصًا مع Clopidogrel في حالة Omeprazole وEsomeprazole.\nالحذر في الاستخدام الطويل بدون indication واضح.\nظهور alarm symptoms مثل unexplained weight loss أو dysphagia أو GI bleeding يستلزم تقييمًا طبيًا، مش مجرد الاستمرار على PPI.",
+    "source_spans": [
+      {
+        "block_position": 1
+      },
+      {
+        "block_position": 2
+      },
+      {
+        "block_position": 3
+      },
+      {
+        "block_position": 4,
+        "row_start": 2,
+        "row_end": 14
+      },
+      {
+        "block_position": 5
+      },
+      {
+        "block_position": 6
+      },
+      {
+        "block_position": 7
+      },
+      {
+        "block_position": 8
+      },
+      {
+        "block_position": 9
+      },
+      {
+        "block_position": 10
+      },
+      {
+        "block_position": 11
+      },
+      {
+        "block_position": 12
+      },
+      {
+        "block_position": 13
+      },
+      {
+        "block_position": 14
+      },
+      {
+        "block_position": 15
+      },
+      {
+        "block_position": 16
+      }
+    ],
+    "char_count": 1027,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0002",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD > 2. H2 Receptor Blockers",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "2. H2 Receptor Blockers"
+    ],
+    "section_start": 17,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n2. H2 Receptor Blockers\nالاستخدام: تقليل إفراز حمض المعدة، وتخفيف heartburn وacid reflux.\n\nالاسم التجاري | Active ingredient\nPepcid | Famotidine\nRani-F | Famotidine\nNerhafluks | Famotidine\n\nCommon side effects:\nHeadache.\nDizziness.\nDiarrhea أو constipation.\nFatigue.\nنادرًا confusion، خصوصًا في كبار السن أو مرضى الكلى.\n\nContraindications & precautions:\nHypersensitivity to Famotidine.\nRenal impairment: قد يحتاج dose adjustment.\nالحذر في كبار السن بسبب احتمالية CNS adverse effects.\nاستمرار أعراض القرحة رغم العلاج يستلزم استبعاد gastric malignancy.",
+    "source_spans": [
+      {
+        "block_position": 17
+      },
+      {
+        "block_position": 18
+      },
+      {
+        "block_position": 19,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 20
+      },
+      {
+        "block_position": 21
+      },
+      {
+        "block_position": 22
+      },
+      {
+        "block_position": 23
+      },
+      {
+        "block_position": 24
+      },
+      {
+        "block_position": 25
+      },
+      {
+        "block_position": 26
+      },
+      {
+        "block_position": 27
+      },
+      {
+        "block_position": 28
+      },
+      {
+        "block_position": 29
+      },
+      {
+        "block_position": 30
+      }
+    ],
+    "char_count": 603,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0003",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD > 3. Antacids",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "3. Antacids"
+    ],
+    "section_start": 31,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n3. Antacids\nالاستخدام: معادلة حمض المعدة وتخفيف heartburn وindigestion بسرعة، لكن تأثيرها symptomatic ومش علاج أساسي لقرحة المعدة.\n\nالاسم التجاري | Active ingredient\nMaalox | Aluminium hydroxide + Magnesium hydroxide\nMaalox Plus | Aluminium hydroxide + Magnesium hydroxide + Simethicone\nRennie | Calcium carbonate + Magnesium carbonate\nAcidipan | Aluminium hydroxide + Magnesium hydroxide + Simethicone\nAlumatrend | Aluminium hydroxide + Magnesium hydroxide + Simethicone\nLoburna | Aluminium hydroxide + Magnesium hydroxide + Simethicone\n\nCommon side effects:\nAluminium salts: constipation.\nMagnesium salts: diarrhea.\nCalcium carbonate: constipation، وقد يسبب hypercalcemia مع الإفراط.\nSimethicone: غالبًا well tolerated.\n\nContraindications & precautions:\nSevere renal impairment، خصوصًا مع Magnesium أو Aluminium-containing products.\nالحذر في hypercalcemia مع Calcium-containing products.\nممكن تقلل امتصاص أدوية أخرى، مثل Tetracyclines وFluoroquinolones وIron وLevothyroxine؛ يُفضّل الفصل بينها وبين الأدوية الأخرى حسب النشرة، وغالبًا ساعتين إلى أربع ساعات.\nتجنب الاستخدام المستمر لفترات طويلة بدون تشخيص.",
+    "source_spans": [
+      {
+        "block_position": 31
+      },
+      {
+        "block_position": 32
+      },
+      {
+        "block_position": 33,
+        "row_start": 2,
+        "row_end": 7
+      },
+      {
+        "block_position": 34
+      },
+      {
+        "block_position": 35
+      },
+      {
+        "block_position": 36
+      },
+      {
+        "block_position": 37
+      },
+      {
+        "block_position": 38
+      },
+      {
+        "block_position": 39
+      },
+      {
+        "block_position": 40
+      },
+      {
+        "block_position": 41
+      },
+      {
+        "block_position": 42
+      },
+      {
+        "block_position": 43
+      }
+    ],
+    "char_count": 1159,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0004",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD > 4. Alginates",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "4. Alginates"
+    ],
+    "section_start": 44,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n4. Alginates\nالاستخدام: تقليل ارتجاع محتويات المعدة إلى المريء، وتخفيف heartburn، خصوصًا بعد الأكل وعند الاستلقاء.\n\nالاسم التجاري | Active ingredient\nGaviscon Original | Sodium alginate + Sodium bicarbonate + Calcium carbonate\nGaviscon Double Action | Sodium alginate + Sodium bicarbonate + Calcium carbonate\nGaviscon Double Action Sachets | Sodium alginate + Sodium bicarbonate + Calcium carbonate\n\nCommon side effects:\nNausea.\nBloating.\nBelching.\nRare allergic reactions.\n\nContraindications & precautions:\nHypersensitivity to any ingredient.\nالحذر في مرضى renal impairment أو من يحتاجون تقليل Sodium intake، خصوصًا مع بعض التركيبات.\nمراعاة الفصل عن الأدوية الأخرى عند الحاجة، طبقًا للنشرة.",
+    "source_spans": [
+      {
+        "block_position": 44
+      },
+      {
+        "block_position": 45
+      },
+      {
+        "block_position": 46,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 47
+      },
+      {
+        "block_position": 48
+      },
+      {
+        "block_position": 49
+      },
+      {
+        "block_position": 50
+      },
+      {
+        "block_position": 51
+      },
+      {
+        "block_position": 52
+      },
+      {
+        "block_position": 53
+      },
+      {
+        "block_position": 54
+      },
+      {
+        "block_position": 55
+      }
+    ],
+    "char_count": 744,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0005",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD > 5. Mucosal Protective Agents",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "5. Mucosal Protective Agents"
+    ],
+    "section_start": 56,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n5. Mucosal Protective Agents\nالاستخدام: حماية الغشاء المخاطي للمعدة والمساعدة في علاج قرحة المعدة والاثني عشر.\n\nA. Sucralfate\n\nالاسم التجاري | Active ingredient\nGastrovit | Sucralfate\nSucrofilm | Sucralfate\nSucralfate | Sucralfate\n\nCommon side effects:\nConstipation.\nNausea.\nDry mouth.\nAbdominal discomfort.\n\nContraindications & precautions:\nHypersensitivity to Sucralfate.\nالحذر في severe renal impairment بسبب محتوى Aluminium.\nممكن يقلل امتصاص أدوية أخرى؛ يُراعى الفصل في التوقيت حسب النشرة.\nغالبًا يُؤخذ على معدة فارغة.\n\nB. Bismuth compounds\n\nالاسم التجاري | Active ingredient\nPepto-Bismol | Bismuth subsalicylate\n\nCommon side effects:\nBlack stool.\nBlack tongue.\nConstipation.\nNausea.\n\nContraindications & precautions:\nSalicylate allergy.\nالحذر في الأطفال والمراهقين المصابين بأعراض viral illness بسبب Reye's syndrome risk.\nالحذر في bleeding disorders ومع anticoagulants.\nتوافر Bismuth products في السوق المصري يحتاج تحقق منفصل؛ لا تفترضي إن Pepto-Bismol متوفر لمجرد إنه معروف عالميًا.",
+    "source_spans": [
+      {
+        "block_position": 56
+      },
+      {
+        "block_position": 57
+      },
+      {
+        "block_position": 58
+      },
+      {
+        "block_position": 59,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 60
+      },
+      {
+        "block_position": 61
+      },
+      {
+        "block_position": 62
+      },
+      {
+        "block_position": 63
+      },
+      {
+        "block_position": 64
+      },
+      {
+        "block_position": 65
+      },
+      {
+        "block_position": 66
+      },
+      {
+        "block_position": 67
+      },
+      {
+        "block_position": 68
+      },
+      {
+        "block_position": 69
+      },
+      {
+        "block_position": 70
+      },
+      {
+        "block_position": 71,
+        "row_start": 2,
+        "row_end": 2
+      },
+      {
+        "block_position": 72
+      },
+      {
+        "block_position": 73
+      },
+      {
+        "block_position": 74
+      },
+      {
+        "block_position": 75
+      },
+      {
+        "block_position": 76
+      },
+      {
+        "block_position": 77
+      },
+      {
+        "block_position": 78
+      },
+      {
+        "block_position": 79
+      },
+      {
+        "block_position": 80
+      },
+      {
+        "block_position": 81
+      }
+    ],
+    "char_count": 1041,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1,
+      60,
+      65,
+      72,
+      77
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0006",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD > 6. Prostaglandin Analogues",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "6. Prostaglandin Analogues"
+    ],
+    "section_start": 82,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n6. Prostaglandin Analogues\nالاستخدام: الوقاية من NSAID-induced gastric ulcers في مرضى مختارين، خصوصًا أصحاب الخطورة المرتفعة.\n\nالاسم التجاري | Active ingredient\nCytotec | Misoprostol\n\nCommon side effects:\nDiarrhea.\nAbdominal cramps.\nNausea.\nUterine contractions.\nVaginal bleeding.\n\nContraindications & precautions:\nContraindicated for ulcer prevention during pregnancy؛ لأنه ممكن يسبب uterine contractions وmiscarriage.\nممنوع استخدامه لهذا الغرض في سيدة ممكن تكون حامل بدون التأكد من عدم وجود حمل والالتزام بالاحتياطات المطلوبة.\nالحذر في السيدات في سن الإنجاب.\nلا يُستخدم إلا بوصفة وتحت إشراف طبي.",
+    "source_spans": [
+      {
+        "block_position": 82
+      },
+      {
+        "block_position": 83
+      },
+      {
+        "block_position": 84,
+        "row_start": 2,
+        "row_end": 2
+      },
+      {
+        "block_position": 85
+      },
+      {
+        "block_position": 86
+      },
+      {
+        "block_position": 87
+      },
+      {
+        "block_position": 88
+      },
+      {
+        "block_position": 89
+      },
+      {
+        "block_position": 90
+      },
+      {
+        "block_position": 91
+      },
+      {
+        "block_position": 92
+      },
+      {
+        "block_position": 93
+      },
+      {
+        "block_position": 94
+      },
+      {
+        "block_position": 95
+      }
+    ],
+    "char_count": 650,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0007",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD > 7. Antibiotics – H. pylori Eradication",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "7. Antibiotics – H. pylori Eradication"
+    ],
+    "section_start": 96,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n7. Antibiotics – H. pylori Eradication\nالاستخدام: علاج عدوى Helicobacter pylori ضمن combination regimen، وليس استخدام Antibiotic واحد بمفرده.\n\nA. Penicillins\n\nالاسم التجاري | Active ingredient\nAmoxil | Amoxicillin\nHibiotic | Amoxicillin + Clavulanic acid\nAugmentin | Amoxicillin + Clavulanic acid\nCuram | Amoxicillin + Clavulanic acid\n\nB. Macrolides\n\nالاسم التجاري | Active ingredient\nKlacid | Clarithromycin\nFromilid | Clarithromycin\nClarithro | Clarithromycin\n\nC. Nitroimidazoles\n\nالاسم التجاري | Active ingredient\nFlagyl | Metronidazole\nAmrizole | Metronidazole\nMetronidazole | Metronidazole\nTinidazole | Tinidazole\n\nD. Other antibiotics used in selected regimens\n\nالاسم التجاري | Active ingredient\nVibramycin | Doxycycline\nTavanic | Levofloxacin\nCipro | Ciprofloxacin\n\nCommon side effects:\nNausea, vomiting, diarrhea.\nAbdominal pain.\nMetallic taste مع Metronidazole.\nSkin rash.\nCandidiasis.\nClarithromycin: GI upset وQT prolongation.\nLevofloxacin: tendon injury، peripheral neuropathy، وQT prolongation.\n\nContraindications & precautions:\nAmoxicillin: يُمنع في severe penicillin allergy.\nClarithromycin: الحذر في QT prolongation وdrug interactions.\nMetronidazole: تجنب الكحول أثناء العلاج ولمدة 48 ساعة بعد آخر جرعة كإجراء احتياطي.\nTetracyclines: تُتجنب في الحمل، ويُراعى التداخل مع Calcium وIron وAntacids.\nFluoroquinolones: مش اختيار روتيني أول في H. pylori، ولها تحذيرات مهمة تتعلق بالأوتار والأعصاب والقلب.",
+    "source_spans": [
+      {
+        "block_position": 96
+      },
+      {
+        "block_position": 97
+      },
+      {
+        "block_position": 98
+      },
+      {
+        "block_position": 99,
+        "row_start": 2,
+        "row_end": 5
+      },
+      {
+        "block_position": 100
+      },
+      {
+        "block_position": 101,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 102
+      },
+      {
+        "block_position": 103,
+        "row_start": 2,
+        "row_end": 5
+      },
+      {
+        "block_position": 104
+      },
+      {
+        "block_position": 105,
+        "row_start": 2,
+        "row_end": 4
+      },
+      {
+        "block_position": 106
+      },
+      {
+        "block_position": 107
+      },
+      {
+        "block_position": 108
+      },
+      {
+        "block_position": 109
+      },
+      {
+        "block_position": 110
+      },
+      {
+        "block_position": 111
+      },
+      {
+        "block_position": 112
+      },
+      {
+        "block_position": 113
+      },
+      {
+        "block_position": 114
+      },
+      {
+        "block_position": 115
+      },
+      {
+        "block_position": 116
+      },
+      {
+        "block_position": 117
+      },
+      {
+        "block_position": 118
+      },
+      {
+        "block_position": 119
+      }
+    ],
+    "char_count": 1466,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1,
+      106,
+      114
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0008",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+    "section_path": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "section_start": 121,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\nDrug class | التصنيف\nPPIs | بعض المنتجات OTC وفقًا لقائمة EDA، والبعض Prescription\nH2 blockers | بعض منتجات Famotidine OTC، مثل Rani-F وNerhafluks\nAntacids | منتجات متعددة OTC\nAlginates | بعض منتجات Gaviscon OTC\nSucralfate | غالبًا Prescription\nMisoprostol | Prescription\nAntibiotics | Prescription",
+    "source_spans": [
+      {
+        "block_position": 121,
+        "row_start": 2,
+        "row_end": 8
+      }
+    ],
+    "char_count": 351,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      1,
+      121
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0009",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "2. Nausea & Vomiting – الغثيان والقيء > 1. Antiemetics",
+    "section_path": [
+      "2. Nausea & Vomiting – الغثيان والقيء",
+      "1. Antiemetics"
+    ],
+    "section_start": 124,
+    "filename": "gerd& vomiting.docx",
+    "text": "2. Nausea & Vomiting – الغثيان والقيء\n\n1. Antiemetics\nالاستخدام: علاج الغثيان والقيء الناتج عن أسباب مختلفة، مثل gastroenteritis، postoperative nausea، chemotherapy، وبعض الحالات المرتبطة بالأدوية.\n\nA. Dopamine D2 Antagonists\n\nTrade Name | Active Ingredient\nMotilium | Domperidone\nMotinorm | Domperidone\nGastromotil | Domperidone\nDompidone | Domperidone\nDomi-gest | Domperidone\nGastronorm | Domperidone\nPrimperan | Metoclopramide\nMeclopram | Metoclopramide\nPlemazol | Metoclopramide\nVomaway | Metoclopramide\n\nB. 5-HT3 Receptor Antagonists\n\nTrade Name | Active Ingredient\nZofran | Ondansetron\nDanset | Ondansetron\nDanofran | Ondansetron\nEmerest | Ondansetron\nOndalenz | Ondansetron\nZofatrone | Ondansetron\nOndametic | Ondansetron\nRagitovak | Ondansetron\nOndeltatron | Ondansetron\nSetronomet | Ondansetron\n\nCommon Side Effects:\nDomperidone: dry mouth، headache، وأهم تحذير QT prolongation وcardiac arrhythmias.\nMetoclopramide: drowsiness، diarrhea، restlessness، extrapyramidal symptoms، وقد يسبب tardive dyskinesia مع الاستخدام المطول.\nOndansetron: headache، constipation، diarrhea، وأحيانًا QT prolongation.\n\nContraindications / Cautions:\nDomperidone: يُتجنب في patients with prolonged QT، significant cardiac disease، أو مع أدوية معينة تطوّل QT أو تثبط CYP3A4. لا يُستخدم لفترات طويلة دون مراجعة.\nMetoclopramide: يُتجنب في GI obstruction/perforation، Parkinson's disease، epilepsy وبعض حالات النزيف الهضمي. يُفضّل أن يكون الاستخدام قصير المدة بسبب خطر الحركة اللاإرادية.\nOndansetron: الحذر مع prolonged QT، electrolyte disturbances مثل hypokalemia وhypomagnesemia، وبعض الأدوية التي تطوّل QT.",
+    "source_spans": [
+      {
+        "block_position": 123
+      },
+      {
+        "block_position": 124
+      },
+      {
+        "block_position": 125
+      },
+      {
+        "block_position": 126
+      },
+      {
+        "block_position": 127,
+        "row_start": 2,
+        "row_end": 11
+      },
+      {
+        "block_position": 128
+      },
+      {
+        "block_position": 129,
+        "row_start": 2,
+        "row_end": 11
+      },
+      {
+        "block_position": 130
+      },
+      {
+        "block_position": 131
+      },
+      {
+        "block_position": 132
+      },
+      {
+        "block_position": 133
+      },
+      {
+        "block_position": 134
+      },
+      {
+        "block_position": 135
+      },
+      {
+        "block_position": 136
+      },
+      {
+        "block_position": 137
+      }
+    ],
+    "char_count": 1593,
+    "oversized": false,
+    "context_topics": [
+      "2. Nausea & Vomiting – الغثيان والقيء"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      130,
+      134
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0010",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "2. Nausea & Vomiting – الغثيان والقيء > 2. Antihistamines",
+    "section_path": [
+      "2. Nausea & Vomiting – الغثيان والقيء",
+      "2. Antihistamines"
+    ],
+    "section_start": 138,
+    "filename": "gerd& vomiting.docx",
+    "text": "2. Nausea & Vomiting – الغثيان والقيء\n\n2. Antihistamines\nالاستخدام: علاج nausea وvomiting المرتبطين بـmotion sickness وvestibular disorders، وبعض حالات الدوار.\n\nTrade Names في مصر:\n\nTrade Name | Active Ingredient\nDramenex | Dimenhydrinate\nStugeron | Cinnarizine\nPhenergan | Promethazine\nAvomine | Promethazine\n\nCommon Side Effects:\nDrowsiness.\nDry mouth.\nBlurred vision.\nDizziness.\nConstipation.\nUrinary retention.\n\nContraindications / Cautions:\nالحذر في elderly patients بسبب anticholinergic effects.\nالحذر في glaucoma وprostatic hypertrophy.\nتجنب القيادة أو تشغيل الآلات بسبب drowsiness.\nتجنب الجمع مع alcohol أو sedatives.\nبعض المستحضرات غير مناسبة للأطفال الصغيرين إلا بتوجيه طبي.",
+    "source_spans": [
+      {
+        "block_position": 138
+      },
+      {
+        "block_position": 139
+      },
+      {
+        "block_position": 140
+      },
+      {
+        "block_position": 141,
+        "row_start": 2,
+        "row_end": 5
+      },
+      {
+        "block_position": 142
+      },
+      {
+        "block_position": 143
+      },
+      {
+        "block_position": 144
+      },
+      {
+        "block_position": 145
+      },
+      {
+        "block_position": 146
+      },
+      {
+        "block_position": 147
+      },
+      {
+        "block_position": 148
+      },
+      {
+        "block_position": 149
+      },
+      {
+        "block_position": 150
+      },
+      {
+        "block_position": 151
+      },
+      {
+        "block_position": 152
+      },
+      {
+        "block_position": 153
+      },
+      {
+        "block_position": 154
+      }
+    ],
+    "char_count": 684,
+    "oversized": false,
+    "context_topics": [
+      "2. Nausea & Vomiting – الغثيان والقيء"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0011",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "2. Nausea & Vomiting – الغثيان والقيء > 3. Anticholinergics",
+    "section_path": [
+      "2. Nausea & Vomiting – الغثيان والقيء",
+      "3. Anticholinergics"
+    ],
+    "section_start": 155,
+    "filename": "gerd& vomiting.docx",
+    "text": "2. Nausea & Vomiting – الغثيان والقيء\n\n3. Anticholinergics\nالاستخدام: الوقاية من motion sickness، خصوصًا في السفر البحري أو الرحلات الطويلة. أشهر مادة في المجموعة هي Scopolamine (Hyoscine hydrobromide).\n\nActive Ingredient:\n\nDrug | Active Ingredient\nScopolamine | Hyoscine hydrobromide\n\nTrade Name | Active Ingredient | الاستخدام\nBuscopan | Hyoscine butylbromide | Abdominal cramps\nScopinal | Hyoscine butylbromide | Abdominal cramps\n\nCommon Side Effects:\nDry mouth.\nBlurred vision.\nDrowsiness.\nConstipation.\nUrinary retention.\nConfusion، خصوصًا في كبار السن.\n\nContraindications / Cautions:\nNarrow-angle glaucoma.\nUrinary retention.\nIntestinal obstruction.\nMyasthenia gravis.\nالحذر في elderly patients.",
+    "source_spans": [
+      {
+        "block_position": 155
+      },
+      {
+        "block_position": 156
+      },
+      {
+        "block_position": 157
+      },
+      {
+        "block_position": 158,
+        "row_start": 2,
+        "row_end": 2
+      },
+      {
+        "block_position": 160,
+        "row_start": 2,
+        "row_end": 3
+      },
+      {
+        "block_position": 161
+      },
+      {
+        "block_position": 162
+      },
+      {
+        "block_position": 163
+      },
+      {
+        "block_position": 164
+      },
+      {
+        "block_position": 165
+      },
+      {
+        "block_position": 166
+      },
+      {
+        "block_position": 167
+      },
+      {
+        "block_position": 168
+      },
+      {
+        "block_position": 169
+      },
+      {
+        "block_position": 170
+      },
+      {
+        "block_position": 171
+      },
+      {
+        "block_position": 172
+      },
+      {
+        "block_position": 173
+      }
+    ],
+    "char_count": 701,
+    "oversized": false,
+    "context_topics": [
+      "2. Nausea & Vomiting – الغثيان والقيء"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0012",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "2. Nausea & Vomiting – الغثيان والقيء > 4. Oral Rehydration Salts (ORS)",
+    "section_path": [
+      "2. Nausea & Vomiting – الغثيان والقيء",
+      "4. Oral Rehydration Salts (ORS)"
+    ],
+    "section_start": 174,
+    "filename": "gerd& vomiting.docx",
+    "text": "2. Nausea & Vomiting – الغثيان والقيء\n\n4. Oral Rehydration Salts (ORS)\nالاستخدام: تعويض الماء والأملاح المفقودة بسبب diarrhea أو vomiting، والوقاية من dehydration وعلاج الجفاف البسيط إلى المتوسط.\n\nCommon Ingredients:\nSodium chloride.\nPotassium chloride.\nGlucose (Dextrose).\nTrisodium citrate.\n\nTrade Names في مصر:\n\nTrade Name | Active Ingredients\nRehydran-N | Sodium chloride + Potassium chloride + Glucose + Sodium citrate\nORS – Pharopharma | Sodium chloride + Potassium chloride + Glucose + Sodium citrate\nHydro-Safe | Oral rehydration salts\nGlucohydran | Oral rehydration salts\nLohydran | Oral rehydration salts\nHydraback | Oral rehydration salts\n\nCommon Side Effects:\nNausea أو vomiting لو اتشرب بسرعة.\nMild bloating.\nElectrolyte imbalance لو تم تحضيره بتركيز خاطئ أو استخدامه بشكل غير مناسب.\n\nContraindications / Cautions:\nSevere dehydration يحتاج medical assessment وقد يحتاج IV fluids.\nالحذر في severe renal impairment أو حالات تحتاج fluid/electrolyte restriction.\nلازم تحضير الكيس في كمية المياه المكتوبة على العبوة بالضبط.\nلا تضيفي سكر أو ملح إضافي.\nلا تقسمي محتوى الكيس عشوائيًا لو مش متوفر قياس دقيق.",
+    "source_spans": [
+      {
+        "block_position": 174
+      },
+      {
+        "block_position": 175
+      },
+      {
+        "block_position": 176
+      },
+      {
+        "block_position": 177
+      },
+      {
+        "block_position": 178
+      },
+      {
+        "block_position": 179
+      },
+      {
+        "block_position": 180
+      },
+      {
+        "block_position": 181
+      },
+      {
+        "block_position": 182,
+        "row_start": 2,
+        "row_end": 7
+      },
+      {
+        "block_position": 183
+      },
+      {
+        "block_position": 184
+      },
+      {
+        "block_position": 185
+      },
+      {
+        "block_position": 186
+      },
+      {
+        "block_position": 187
+      },
+      {
+        "block_position": 188
+      },
+      {
+        "block_position": 189
+      },
+      {
+        "block_position": 190
+      },
+      {
+        "block_position": 191
+      },
+      {
+        "block_position": 192
+      }
+    ],
+    "char_count": 1111,
+    "oversized": false,
+    "context_topics": [
+      "2. Nausea & Vomiting – الغثيان والقيء"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  },
+  {
+    "chunk_id": "KB-02-4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a-0013",
+    "doc_id": "KB-02",
+    "title": "gerd& vomiting",
+    "section": "OTC vs Prescription",
+    "section_path": [
+      "OTC vs Prescription"
+    ],
+    "section_start": 193,
+    "filename": "gerd& vomiting.docx",
+    "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD\n\n2. Nausea & Vomiting – الغثيان والقيء\n\nOTC vs Prescription\n\nDrug Class | التصنيف العملي في مصر\nAntacids | كثير من المستحضرات OTC\nAlginates | بعض المستحضرات OTC حسب المنتج\nH2 Receptor Blockers | بعض المستحضرات OTC، مثل Rani-F وNerhafluks\nPPIs | بعض التركيزات والعبوات OTC، مثل Pantoprazole 20 mg وOmeprazole 20 mg المدرجة بالقائمة\nSimethicone | مستحضرات كثيرة OTC\nAntiemetics | أغلب الأدوية مثل Ondansetron وMetoclopramide وDomperidone تحتاج وصفة أو تقييمًا طبيًا\nAntihistamines for motion sickness | يعتمد على المستحضر والتركيز؛ بعضها يحتاج وصفة\nAnticholinergics | حسب المستحضر؛ Scopolamine لا يُعامل كدواء OTC تلقائيًا\nORS | OTC",
+    "source_spans": [
+      {
+        "block_position": 193
+      },
+      {
+        "block_position": 194,
+        "row_start": 2,
+        "row_end": 10
+      }
+    ],
+    "char_count": 682,
+    "oversized": false,
+    "context_topics": [
+      "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "2. Nausea & Vomiting – الغثيان والقيء"
+    ],
+    "scope_uncertain": false,
+    "correction_positions": [
+      193
+    ],
+    "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+    "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+  }
+]

@@ -1,0 +1,4475 @@
+{
+  "doc_id": "KB-02",
+  "title": "gerd& vomiting",
+  "title_source": "filename_stem",
+  "filename": "gerd& vomiting.docx",
+  "source_sha256": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "1. Proton Pump Inhibitors (PPIs)",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)"
+      ],
+      "section_start": 2,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل إفراز حمض المعدة، وعلاج GERD وPeptic Ulcers، وتدخل ضمن أنظمة علاج H. pylori.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "table",
+      "text": "الاسم التجاري في مصر | Active ingredient\nLosec | Omeprazole\nOmez | Omeprazole\nPeptazol | Omeprazole\nOmiz | Omeprazole\nNexium | Esomeprazole\nEmazole | Esomeprazole\nEzogast | Esomeprazole\nControloc | Pantoprazole\nPantoloc | Pantoprazole\nPantover | Pantoprazole\nPariet | Rabeprazole\nLanzor | Lansoprazole\nDexilant | Dexlansoprazole",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)"
+      ],
+      "section_start": 2,
+      "headers": [
+        [
+          "الاسم التجاري في مصر",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Losec",
+          "Omeprazole"
+        ],
+        [
+          "Omez",
+          "Omeprazole"
+        ],
+        [
+          "Peptazol",
+          "Omeprazole"
+        ],
+        [
+          "Omiz",
+          "Omeprazole"
+        ],
+        [
+          "Nexium",
+          "Esomeprazole"
+        ],
+        [
+          "Emazole",
+          "Esomeprazole"
+        ],
+        [
+          "Ezogast",
+          "Esomeprazole"
+        ],
+        [
+          "Controloc",
+          "Pantoprazole"
+        ],
+        [
+          "Pantoloc",
+          "Pantoprazole"
+        ],
+        [
+          "Pantover",
+          "Pantoprazole"
+        ],
+        [
+          "Pariet",
+          "Rabeprazole"
+        ],
+        [
+          "Lanzor",
+          "Lansoprazole"
+        ],
+        [
+          "Dexilant",
+          "Dexlansoprazole"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "paragraph",
+      "text": "Diarrhea أو constipation.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "paragraph",
+      "text": "Flatulence.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "مع الاستخدام الطويل: احتمال Vitamin B12 deficiency، hypomagnesemia، وزيادة قابلية بعض intestinal infections.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Common side effects:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to PPIs.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "مراجعة drug interactions، خصوصًا مع Clopidogrel في حالة Omeprazole وEsomeprazole.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "paragraph",
+      "text": "الحذر في الاستخدام الطويل بدون indication واضح.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "paragraph",
+      "text": "ظهور alarm symptoms مثل unexplained weight loss أو dysphagia أو GI bleeding يستلزم تقييمًا طبيًا، مش مجرد الاستمرار على PPI.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "1. Proton Pump Inhibitors (PPIs)",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "heading",
+      "text": "2. H2 Receptor Blockers",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers"
+      ],
+      "section_start": 17,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل إفراز حمض المعدة، وتخفيف heartburn وacid reflux.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nPepcid | Famotidine\nRani-F | Famotidine\nNerhafluks | Famotidine",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers"
+      ],
+      "section_start": 17,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Pepcid",
+          "Famotidine"
+        ],
+        [
+          "Rani-F",
+          "Famotidine"
+        ],
+        [
+          "Nerhafluks",
+          "Famotidine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Common side effects:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Common side effects:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "paragraph",
+      "text": "Dizziness.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Common side effects:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "paragraph",
+      "text": "Diarrhea أو constipation.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Common side effects:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "Fatigue.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Common side effects:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "paragraph",
+      "text": "نادرًا confusion، خصوصًا في كبار السن أو مرضى الكلى.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Common side effects:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Famotidine.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "paragraph",
+      "text": "Renal impairment: قد يحتاج dose adjustment.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "الحذر في كبار السن بسبب احتمالية CNS adverse effects.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "paragraph",
+      "text": "استمرار أعراض القرحة رغم العلاج يستلزم استبعاد gastric malignancy.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. H2 Receptor Blockers",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 17,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "heading",
+      "text": "3. Antacids",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids"
+      ],
+      "section_start": 31,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "الاستخدام: معادلة حمض المعدة وتخفيف heartburn وindigestion بسرعة، لكن تأثيرها symptomatic ومش علاج أساسي لقرحة المعدة.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nMaalox | Aluminium hydroxide + Magnesium hydroxide\nMaalox Plus | Aluminium hydroxide + Magnesium hydroxide + Simethicone\nRennie | Calcium carbonate + Magnesium carbonate\nAcidipan | Aluminium hydroxide + Magnesium hydroxide + Simethicone\nAlumatrend | Aluminium hydroxide + Magnesium hydroxide + Simethicone\nLoburna | Aluminium hydroxide + Magnesium hydroxide + Simethicone",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids"
+      ],
+      "section_start": 31,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Maalox",
+          "Aluminium hydroxide + Magnesium hydroxide"
+        ],
+        [
+          "Maalox Plus",
+          "Aluminium hydroxide + Magnesium hydroxide + Simethicone"
+        ],
+        [
+          "Rennie",
+          "Calcium carbonate + Magnesium carbonate"
+        ],
+        [
+          "Acidipan",
+          "Aluminium hydroxide + Magnesium hydroxide + Simethicone"
+        ],
+        [
+          "Alumatrend",
+          "Aluminium hydroxide + Magnesium hydroxide + Simethicone"
+        ],
+        [
+          "Loburna",
+          "Aluminium hydroxide + Magnesium hydroxide + Simethicone"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Common side effects:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "paragraph",
+      "text": "Aluminium salts: constipation.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Common side effects:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "paragraph",
+      "text": "Magnesium salts: diarrhea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Common side effects:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "paragraph",
+      "text": "Calcium carbonate: constipation، وقد يسبب hypercalcemia مع الإفراط.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Common side effects:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "paragraph",
+      "text": "Simethicone: غالبًا well tolerated.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Common side effects:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "paragraph",
+      "text": "Severe renal impairment، خصوصًا مع Magnesium أو Aluminium-containing products.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "paragraph",
+      "text": "الحذر في hypercalcemia مع Calcium-containing products.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "ممكن تقلل امتصاص أدوية أخرى، مثل Tetracyclines وFluoroquinolones وIron وLevothyroxine؛ يُفضّل الفصل بينها وبين الأدوية الأخرى حسب النشرة، وغالبًا ساعتين إلى أربع ساعات.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "تجنب الاستخدام المستمر لفترات طويلة بدون تشخيص.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "3. Antacids",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 31,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "heading",
+      "text": "4. Alginates",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates"
+      ],
+      "section_start": 44,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "الاستخدام: تقليل ارتجاع محتويات المعدة إلى المريء، وتخفيف heartburn، خصوصًا بعد الأكل وعند الاستلقاء.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nGaviscon Original | Sodium alginate + Sodium bicarbonate + Calcium carbonate\nGaviscon Double Action | Sodium alginate + Sodium bicarbonate + Calcium carbonate\nGaviscon Double Action Sachets | Sodium alginate + Sodium bicarbonate + Calcium carbonate",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates"
+      ],
+      "section_start": 44,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Gaviscon Original",
+          "Sodium alginate + Sodium bicarbonate + Calcium carbonate"
+        ],
+        [
+          "Gaviscon Double Action",
+          "Sodium alginate + Sodium bicarbonate + Calcium carbonate"
+        ],
+        [
+          "Gaviscon Double Action Sachets",
+          "Sodium alginate + Sodium bicarbonate + Calcium carbonate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Common side effects:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Common side effects:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "Bloating.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Common side effects:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "paragraph",
+      "text": "Belching.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Common side effects:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "Rare allergic reactions.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Common side effects:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to any ingredient.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى renal impairment أو من يحتاجون تقليل Sodium intake، خصوصًا مع بعض التركيبات.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "paragraph",
+      "text": "مراعاة الفصل عن الأدوية الأخرى عند الحاجة، طبقًا للنشرة.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "4. Alginates",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 44,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "heading",
+      "text": "5. Mucosal Protective Agents",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents"
+      ],
+      "section_start": 56,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "paragraph",
+      "text": "الاستخدام: حماية الغشاء المخاطي للمعدة والمساعدة في علاج قرحة المعدة والاثني عشر.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "heading",
+      "text": "A. Sucralfate",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate"
+      ],
+      "section_start": 56,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nGastrovit | Sucralfate\nSucrofilm | Sucralfate\nSucralfate | Sucralfate",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate"
+      ],
+      "section_start": 56,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Gastrovit",
+          "Sucralfate"
+        ],
+        [
+          "Sucrofilm",
+          "Sucralfate"
+        ],
+        [
+          "Sucralfate",
+          "Sucralfate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "paragraph",
+      "text": "Abdominal discomfort.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Sucralfate.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "paragraph",
+      "text": "الحذر في severe renal impairment بسبب محتوى Aluminium.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "paragraph",
+      "text": "ممكن يقلل امتصاص أدوية أخرى؛ يُراعى الفصل في التوقيت حسب النشرة.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "paragraph",
+      "text": "غالبًا يُؤخذ على معدة فارغة.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "A. Sucralfate",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "heading",
+      "text": "B. Bismuth compounds",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds"
+      ],
+      "section_start": 56,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nPepto-Bismol | Bismuth subsalicylate",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds"
+      ],
+      "section_start": 56,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Pepto-Bismol",
+          "Bismuth subsalicylate"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "paragraph",
+      "text": "Black stool.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "paragraph",
+      "text": "Black tongue.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Common side effects:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72,
+        77
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "Salicylate allergy.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72,
+        77
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "paragraph",
+      "text": "الحذر في الأطفال والمراهقين المصابين بأعراض viral illness بسبب Reye's syndrome risk.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72,
+        77
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "paragraph",
+      "text": "الحذر في bleeding disorders ومع anticoagulants.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72,
+        77
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "paragraph",
+      "text": "توافر Bismuth products في السوق المصري يحتاج تحقق منفصل؛ لا تفترضي إن Pepto-Bismol متوفر لمجرد إنه معروف عالميًا.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "5. Mucosal Protective Agents",
+        "B. Bismuth compounds",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 56,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        60,
+        65,
+        72,
+        77
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "heading",
+      "text": "6. Prostaglandin Analogues",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues"
+      ],
+      "section_start": 82,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "paragraph",
+      "text": "الاستخدام: الوقاية من NSAID-induced gastric ulcers في مرضى مختارين، خصوصًا أصحاب الخطورة المرتفعة.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 84,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nCytotec | Misoprostol",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues"
+      ],
+      "section_start": 82,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Cytotec",
+          "Misoprostol"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 85,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 86,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 87,
+      "kind": "paragraph",
+      "text": "Abdominal cramps.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 88,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 89,
+      "kind": "paragraph",
+      "text": "Uterine contractions.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 90,
+      "kind": "paragraph",
+      "text": "Vaginal bleeding.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Common side effects:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 91,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 92,
+      "kind": "paragraph",
+      "text": "Contraindicated for ulcer prevention during pregnancy؛ لأنه ممكن يسبب uterine contractions وmiscarriage.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 93,
+      "kind": "paragraph",
+      "text": "ممنوع استخدامه لهذا الغرض في سيدة ممكن تكون حامل بدون التأكد من عدم وجود حمل والالتزام بالاحتياطات المطلوبة.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 94,
+      "kind": "paragraph",
+      "text": "الحذر في السيدات في سن الإنجاب.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 95,
+      "kind": "paragraph",
+      "text": "لا يُستخدم إلا بوصفة وتحت إشراف طبي.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "6. Prostaglandin Analogues",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 82,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 96,
+      "kind": "heading",
+      "text": "7. Antibiotics – H. pylori Eradication",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication"
+      ],
+      "section_start": 96,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 97,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج عدوى Helicobacter pylori ضمن combination regimen، وليس استخدام Antibiotic واحد بمفرده.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 98,
+      "kind": "heading",
+      "text": "A. Penicillins",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "A. Penicillins"
+      ],
+      "section_start": 96,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 99,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nAmoxil | Amoxicillin\nHibiotic | Amoxicillin + Clavulanic acid\nAugmentin | Amoxicillin + Clavulanic acid\nCuram | Amoxicillin + Clavulanic acid",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "A. Penicillins"
+      ],
+      "section_start": 96,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Amoxil",
+          "Amoxicillin"
+        ],
+        [
+          "Hibiotic",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Augmentin",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Curam",
+          "Amoxicillin + Clavulanic acid"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 100,
+      "kind": "heading",
+      "text": "B. Macrolides",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "B. Macrolides"
+      ],
+      "section_start": 96,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 101,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nKlacid | Clarithromycin\nFromilid | Clarithromycin\nClarithro | Clarithromycin",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "B. Macrolides"
+      ],
+      "section_start": 96,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Klacid",
+          "Clarithromycin"
+        ],
+        [
+          "Fromilid",
+          "Clarithromycin"
+        ],
+        [
+          "Clarithro",
+          "Clarithromycin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 102,
+      "kind": "heading",
+      "text": "C. Nitroimidazoles",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "C. Nitroimidazoles"
+      ],
+      "section_start": 96,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 103,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nFlagyl | Metronidazole\nAmrizole | Metronidazole\nMetronidazole | Metronidazole\nTinidazole | Tinidazole",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "C. Nitroimidazoles"
+      ],
+      "section_start": 96,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Flagyl",
+          "Metronidazole"
+        ],
+        [
+          "Amrizole",
+          "Metronidazole"
+        ],
+        [
+          "Metronidazole",
+          "Metronidazole"
+        ],
+        [
+          "Tinidazole",
+          "Tinidazole"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 104,
+      "kind": "heading",
+      "text": "D. Other antibiotics used in selected regimens",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "D. Other antibiotics used in selected regimens"
+      ],
+      "section_start": 96,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 105,
+      "kind": "table",
+      "text": "الاسم التجاري | Active ingredient\nVibramycin | Doxycycline\nTavanic | Levofloxacin\nCipro | Ciprofloxacin",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "D. Other antibiotics used in selected regimens"
+      ],
+      "section_start": 96,
+      "headers": [
+        [
+          "الاسم التجاري",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Vibramycin",
+          "Doxycycline"
+        ],
+        [
+          "Tavanic",
+          "Levofloxacin"
+        ],
+        [
+          "Cipro",
+          "Ciprofloxacin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 106,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 107,
+      "kind": "paragraph",
+      "text": "Nausea, vomiting, diarrhea.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 108,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 109,
+      "kind": "paragraph",
+      "text": "Metallic taste مع Metronidazole.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 110,
+      "kind": "paragraph",
+      "text": "Skin rash.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 111,
+      "kind": "paragraph",
+      "text": "Candidiasis.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 112,
+      "kind": "paragraph",
+      "text": "Clarithromycin: GI upset وQT prolongation.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "Levofloxacin: tendon injury، peripheral neuropathy، وQT prolongation.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Common side effects:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106
+      ]
+    },
+    {
+      "position": 114,
+      "kind": "label",
+      "text": "Contraindications & precautions:",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106,
+        114
+      ]
+    },
+    {
+      "position": 115,
+      "kind": "paragraph",
+      "text": "Amoxicillin: يُمنع في severe penicillin allergy.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106,
+        114
+      ]
+    },
+    {
+      "position": 116,
+      "kind": "paragraph",
+      "text": "Clarithromycin: الحذر في QT prolongation وdrug interactions.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106,
+        114
+      ]
+    },
+    {
+      "position": 117,
+      "kind": "paragraph",
+      "text": "Metronidazole: تجنب الكحول أثناء العلاج ولمدة 48 ساعة بعد آخر جرعة كإجراء احتياطي.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106,
+        114
+      ]
+    },
+    {
+      "position": 118,
+      "kind": "paragraph",
+      "text": "Tetracyclines: تُتجنب في الحمل، ويُراعى التداخل مع Calcium وIron وAntacids.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106,
+        114
+      ]
+    },
+    {
+      "position": 119,
+      "kind": "paragraph",
+      "text": "Fluoroquinolones: مش اختيار روتيني أول في H. pylori، ولها تحذيرات مهمة تتعلق بالأوتار والأعصاب والقلب.",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "7. Antibiotics – H. pylori Eradication",
+        "Contraindications & precautions:"
+      ],
+      "section_start": 96,
+      "source_heading_level": null,
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        106,
+        114
+      ]
+    },
+    {
+      "position": 121,
+      "kind": "table",
+      "text": "Drug class | التصنيف\nPPIs | بعض المنتجات OTC وفقًا لقائمة EDA، والبعض Prescription\nH2 blockers | بعض منتجات Famotidine OTC، مثل Rani-F وNerhafluks\nAntacids | منتجات متعددة OTC\nAlginates | بعض منتجات Gaviscon OTC\nSucralfate | غالبًا Prescription\nMisoprostol | Prescription\nAntibiotics | Prescription",
+      "section_path": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "section_start": 121,
+      "headers": [
+        [
+          "Drug class",
+          "التصنيف"
+        ]
+      ],
+      "rows": [
+        [
+          "PPIs",
+          "بعض المنتجات OTC وفقًا لقائمة EDA، والبعض Prescription"
+        ],
+        [
+          "H2 blockers",
+          "بعض منتجات Famotidine OTC، مثل Rani-F وNerhafluks"
+        ],
+        [
+          "Antacids",
+          "منتجات متعددة OTC"
+        ],
+        [
+          "Alginates",
+          "بعض منتجات Gaviscon OTC"
+        ],
+        [
+          "Sucralfate",
+          "غالبًا Prescription"
+        ],
+        [
+          "Misoprostol",
+          "Prescription"
+        ],
+        [
+          "Antibiotics",
+          "Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1,
+        121
+      ]
+    },
+    {
+      "position": 123,
+      "kind": "heading",
+      "text": "2. Nausea & Vomiting – الغثيان والقيء",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "section_start": 123,
+      "source_heading_level": 1,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 124,
+      "kind": "heading",
+      "text": "1. Antiemetics",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics"
+      ],
+      "section_start": 124,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 125,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج الغثيان والقيء الناتج عن أسباب مختلفة، مثل gastroenteritis، postoperative nausea، chemotherapy، وبعض الحالات المرتبطة بالأدوية.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 126,
+      "kind": "heading",
+      "text": "A. Dopamine D2 Antagonists",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "A. Dopamine D2 Antagonists"
+      ],
+      "section_start": 124,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 127,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nMotilium | Domperidone\nMotinorm | Domperidone\nGastromotil | Domperidone\nDompidone | Domperidone\nDomi-gest | Domperidone\nGastronorm | Domperidone\nPrimperan | Metoclopramide\nMeclopram | Metoclopramide\nPlemazol | Metoclopramide\nVomaway | Metoclopramide",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "A. Dopamine D2 Antagonists"
+      ],
+      "section_start": 124,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Motilium",
+          "Domperidone"
+        ],
+        [
+          "Motinorm",
+          "Domperidone"
+        ],
+        [
+          "Gastromotil",
+          "Domperidone"
+        ],
+        [
+          "Dompidone",
+          "Domperidone"
+        ],
+        [
+          "Domi-gest",
+          "Domperidone"
+        ],
+        [
+          "Gastronorm",
+          "Domperidone"
+        ],
+        [
+          "Primperan",
+          "Metoclopramide"
+        ],
+        [
+          "Meclopram",
+          "Metoclopramide"
+        ],
+        [
+          "Plemazol",
+          "Metoclopramide"
+        ],
+        [
+          "Vomaway",
+          "Metoclopramide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 128,
+      "kind": "heading",
+      "text": "B. 5-HT3 Receptor Antagonists",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "B. 5-HT3 Receptor Antagonists"
+      ],
+      "section_start": 124,
+      "source_heading_level": 3,
+      "heading_level": 3,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 129,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nZofran | Ondansetron\nDanset | Ondansetron\nDanofran | Ondansetron\nEmerest | Ondansetron\nOndalenz | Ondansetron\nZofatrone | Ondansetron\nOndametic | Ondansetron\nRagitovak | Ondansetron\nOndeltatron | Ondansetron\nSetronomet | Ondansetron",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "B. 5-HT3 Receptor Antagonists"
+      ],
+      "section_start": 124,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Zofran",
+          "Ondansetron"
+        ],
+        [
+          "Danset",
+          "Ondansetron"
+        ],
+        [
+          "Danofran",
+          "Ondansetron"
+        ],
+        [
+          "Emerest",
+          "Ondansetron"
+        ],
+        [
+          "Ondalenz",
+          "Ondansetron"
+        ],
+        [
+          "Zofatrone",
+          "Ondansetron"
+        ],
+        [
+          "Ondametic",
+          "Ondansetron"
+        ],
+        [
+          "Ragitovak",
+          "Ondansetron"
+        ],
+        [
+          "Ondeltatron",
+          "Ondansetron"
+        ],
+        [
+          "Setronomet",
+          "Ondansetron"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 130,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Common Side Effects:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130
+      ]
+    },
+    {
+      "position": 131,
+      "kind": "paragraph",
+      "text": "Domperidone: dry mouth، headache، وأهم تحذير QT prolongation وcardiac arrhythmias.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Common Side Effects:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130
+      ]
+    },
+    {
+      "position": 132,
+      "kind": "paragraph",
+      "text": "Metoclopramide: drowsiness، diarrhea، restlessness، extrapyramidal symptoms، وقد يسبب tardive dyskinesia مع الاستخدام المطول.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Common Side Effects:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130
+      ]
+    },
+    {
+      "position": 133,
+      "kind": "paragraph",
+      "text": "Ondansetron: headache، constipation، diarrhea، وأحيانًا QT prolongation.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Common Side Effects:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130
+      ]
+    },
+    {
+      "position": 134,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130,
+        134
+      ]
+    },
+    {
+      "position": 135,
+      "kind": "paragraph",
+      "text": "Domperidone: يُتجنب في patients with prolonged QT، significant cardiac disease، أو مع أدوية معينة تطوّل QT أو تثبط CYP3A4. لا يُستخدم لفترات طويلة دون مراجعة.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130,
+        134
+      ]
+    },
+    {
+      "position": 136,
+      "kind": "paragraph",
+      "text": "Metoclopramide: يُتجنب في GI obstruction/perforation، Parkinson's disease، epilepsy وبعض حالات النزيف الهضمي. يُفضّل أن يكون الاستخدام قصير المدة بسبب خطر الحركة اللاإرادية.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130,
+        134
+      ]
+    },
+    {
+      "position": 137,
+      "kind": "paragraph",
+      "text": "Ondansetron: الحذر مع prolonged QT، electrolyte disturbances مثل hypokalemia وhypomagnesemia، وبعض الأدوية التي تطوّل QT.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "1. Antiemetics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 124,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        130,
+        134
+      ]
+    },
+    {
+      "position": 138,
+      "kind": "heading",
+      "text": "2. Antihistamines",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines"
+      ],
+      "section_start": 138,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 139,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج nausea وvomiting المرتبطين بـmotion sickness وvestibular disorders، وبعض حالات الدوار.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 140,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 141,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient\nDramenex | Dimenhydrinate\nStugeron | Cinnarizine\nPhenergan | Promethazine\nAvomine | Promethazine",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 138,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Dramenex",
+          "Dimenhydrinate"
+        ],
+        [
+          "Stugeron",
+          "Cinnarizine"
+        ],
+        [
+          "Phenergan",
+          "Promethazine"
+        ],
+        [
+          "Avomine",
+          "Promethazine"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 142,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Common Side Effects:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 143,
+      "kind": "paragraph",
+      "text": "Drowsiness.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Common Side Effects:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 144,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Common Side Effects:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 145,
+      "kind": "paragraph",
+      "text": "Blurred vision.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Common Side Effects:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 146,
+      "kind": "paragraph",
+      "text": "Dizziness.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Common Side Effects:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 147,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Common Side Effects:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 148,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Common Side Effects:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 149,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 150,
+      "kind": "paragraph",
+      "text": "الحذر في elderly patients بسبب anticholinergic effects.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 151,
+      "kind": "paragraph",
+      "text": "الحذر في glaucoma وprostatic hypertrophy.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 152,
+      "kind": "paragraph",
+      "text": "تجنب القيادة أو تشغيل الآلات بسبب drowsiness.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 153,
+      "kind": "paragraph",
+      "text": "تجنب الجمع مع alcohol أو sedatives.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 154,
+      "kind": "paragraph",
+      "text": "بعض المستحضرات غير مناسبة للأطفال الصغيرين إلا بتوجيه طبي.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "2. Antihistamines",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 138,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 155,
+      "kind": "heading",
+      "text": "3. Anticholinergics",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics"
+      ],
+      "section_start": 155,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 156,
+      "kind": "paragraph",
+      "text": "الاستخدام: الوقاية من motion sickness، خصوصًا في السفر البحري أو الرحلات الطويلة. أشهر مادة في المجموعة هي Scopolamine (Hyoscine hydrobromide).",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 157,
+      "kind": "label",
+      "text": "Active Ingredient:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Active Ingredient:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 158,
+      "kind": "table",
+      "text": "Drug | Active Ingredient\nScopolamine | Hyoscine hydrobromide",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Active Ingredient:"
+      ],
+      "section_start": 155,
+      "headers": [
+        [
+          "Drug",
+          "Active Ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Scopolamine",
+          "Hyoscine hydrobromide"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 160,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredient | الاستخدام\nBuscopan | Hyoscine butylbromide | Abdominal cramps\nScopinal | Hyoscine butylbromide | Abdominal cramps",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Active Ingredient:"
+      ],
+      "section_start": 155,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredient",
+          "الاستخدام"
+        ]
+      ],
+      "rows": [
+        [
+          "Buscopan",
+          "Hyoscine butylbromide",
+          "Abdominal cramps"
+        ],
+        [
+          "Scopinal",
+          "Hyoscine butylbromide",
+          "Abdominal cramps"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 161,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Common Side Effects:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 162,
+      "kind": "paragraph",
+      "text": "Dry mouth.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Common Side Effects:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 163,
+      "kind": "paragraph",
+      "text": "Blurred vision.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Common Side Effects:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 164,
+      "kind": "paragraph",
+      "text": "Drowsiness.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Common Side Effects:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 165,
+      "kind": "paragraph",
+      "text": "Constipation.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Common Side Effects:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 166,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Common Side Effects:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 167,
+      "kind": "paragraph",
+      "text": "Confusion، خصوصًا في كبار السن.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Common Side Effects:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 168,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 169,
+      "kind": "paragraph",
+      "text": "Narrow-angle glaucoma.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 170,
+      "kind": "paragraph",
+      "text": "Urinary retention.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 171,
+      "kind": "paragraph",
+      "text": "Intestinal obstruction.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 172,
+      "kind": "paragraph",
+      "text": "Myasthenia gravis.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 173,
+      "kind": "paragraph",
+      "text": "الحذر في elderly patients.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "3. Anticholinergics",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 155,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 174,
+      "kind": "heading",
+      "text": "4. Oral Rehydration Salts (ORS)",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)"
+      ],
+      "section_start": 174,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 175,
+      "kind": "paragraph",
+      "text": "الاستخدام: تعويض الماء والأملاح المفقودة بسبب diarrhea أو vomiting، والوقاية من dehydration وعلاج الجفاف البسيط إلى المتوسط.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 176,
+      "kind": "label",
+      "text": "Common Ingredients:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Ingredients:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 177,
+      "kind": "paragraph",
+      "text": "Sodium chloride.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Ingredients:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 178,
+      "kind": "paragraph",
+      "text": "Potassium chloride.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Ingredients:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 179,
+      "kind": "paragraph",
+      "text": "Glucose (Dextrose).",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Ingredients:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 180,
+      "kind": "paragraph",
+      "text": "Trisodium citrate.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Ingredients:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 181,
+      "kind": "label",
+      "text": "Trade Names في مصر:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 182,
+      "kind": "table",
+      "text": "Trade Name | Active Ingredients\nRehydran-N | Sodium chloride + Potassium chloride + Glucose + Sodium citrate\nORS – Pharopharma | Sodium chloride + Potassium chloride + Glucose + Sodium citrate\nHydro-Safe | Oral rehydration salts\nGlucohydran | Oral rehydration salts\nLohydran | Oral rehydration salts\nHydraback | Oral rehydration salts",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Trade Names في مصر:"
+      ],
+      "section_start": 174,
+      "headers": [
+        [
+          "Trade Name",
+          "Active Ingredients"
+        ]
+      ],
+      "rows": [
+        [
+          "Rehydran-N",
+          "Sodium chloride + Potassium chloride + Glucose + Sodium citrate"
+        ],
+        [
+          "ORS – Pharopharma",
+          "Sodium chloride + Potassium chloride + Glucose + Sodium citrate"
+        ],
+        [
+          "Hydro-Safe",
+          "Oral rehydration salts"
+        ],
+        [
+          "Glucohydran",
+          "Oral rehydration salts"
+        ],
+        [
+          "Lohydran",
+          "Oral rehydration salts"
+        ],
+        [
+          "Hydraback",
+          "Oral rehydration salts"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 183,
+      "kind": "label",
+      "text": "Common Side Effects:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Side Effects:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 184,
+      "kind": "paragraph",
+      "text": "Nausea أو vomiting لو اتشرب بسرعة.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Side Effects:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 185,
+      "kind": "paragraph",
+      "text": "Mild bloating.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Side Effects:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 186,
+      "kind": "paragraph",
+      "text": "Electrolyte imbalance لو تم تحضيره بتركيز خاطئ أو استخدامه بشكل غير مناسب.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Common Side Effects:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 187,
+      "kind": "label",
+      "text": "Contraindications / Cautions:",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 188,
+      "kind": "paragraph",
+      "text": "Severe dehydration يحتاج medical assessment وقد يحتاج IV fluids.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 189,
+      "kind": "paragraph",
+      "text": "الحذر في severe renal impairment أو حالات تحتاج fluid/electrolyte restriction.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 190,
+      "kind": "paragraph",
+      "text": "لازم تحضير الكيس في كمية المياه المكتوبة على العبوة بالضبط.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 191,
+      "kind": "paragraph",
+      "text": "لا تضيفي سكر أو ملح إضافي.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 192,
+      "kind": "paragraph",
+      "text": "لا تقسمي محتوى الكيس عشوائيًا لو مش متوفر قياس دقيق.",
+      "section_path": [
+        "2. Nausea & Vomiting – الغثيان والقيء",
+        "4. Oral Rehydration Salts (ORS)",
+        "Contraindications / Cautions:"
+      ],
+      "section_start": 174,
+      "source_heading_level": null,
+      "context_topics": [
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": []
+    },
+    {
+      "position": 193,
+      "kind": "heading",
+      "text": "OTC vs Prescription",
+      "section_path": [
+        "OTC vs Prescription"
+      ],
+      "section_start": 193,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        193
+      ]
+    },
+    {
+      "position": 194,
+      "kind": "table",
+      "text": "Drug Class | التصنيف العملي في مصر\nAntacids | كثير من المستحضرات OTC\nAlginates | بعض المستحضرات OTC حسب المنتج\nH2 Receptor Blockers | بعض المستحضرات OTC، مثل Rani-F وNerhafluks\nPPIs | بعض التركيزات والعبوات OTC، مثل Pantoprazole 20 mg وOmeprazole 20 mg المدرجة بالقائمة\nSimethicone | مستحضرات كثيرة OTC\nAntiemetics | أغلب الأدوية مثل Ondansetron وMetoclopramide وDomperidone تحتاج وصفة أو تقييمًا طبيًا\nAntihistamines for motion sickness | يعتمد على المستحضر والتركيز؛ بعضها يحتاج وصفة\nAnticholinergics | حسب المستحضر؛ Scopolamine لا يُعامل كدواء OTC تلقائيًا\nORS | OTC",
+      "section_path": [
+        "OTC vs Prescription"
+      ],
+      "section_start": 193,
+      "headers": [
+        [
+          "Drug Class",
+          "التصنيف العملي في مصر"
+        ]
+      ],
+      "rows": [
+        [
+          "Antacids",
+          "كثير من المستحضرات OTC"
+        ],
+        [
+          "Alginates",
+          "بعض المستحضرات OTC حسب المنتج"
+        ],
+        [
+          "H2 Receptor Blockers",
+          "بعض المستحضرات OTC، مثل Rani-F وNerhafluks"
+        ],
+        [
+          "PPIs",
+          "بعض التركيزات والعبوات OTC، مثل Pantoprazole 20 mg وOmeprazole 20 mg المدرجة بالقائمة"
+        ],
+        [
+          "Simethicone",
+          "مستحضرات كثيرة OTC"
+        ],
+        [
+          "Antiemetics",
+          "أغلب الأدوية مثل Ondansetron وMetoclopramide وDomperidone تحتاج وصفة أو تقييمًا طبيًا"
+        ],
+        [
+          "Antihistamines for motion sickness",
+          "يعتمد على المستحضر والتركيز؛ بعضها يحتاج وصفة"
+        ],
+        [
+          "Anticholinergics",
+          "حسب المستحضر؛ Scopolamine لا يُعامل كدواء OTC تلقائيًا"
+        ],
+        [
+          "ORS",
+          "OTC"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "1. أدوية قرحة المعدة والحموضة – Peptic Ulcer & GERD",
+        "2. Nausea & Vomiting – الغثيان والقيء"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        193
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the source Peptic Ulcer and GERD topic.",
+    "Block 60: These effects belong to the source Sucralfate subsection.",
+    "Block 65: These precautions belong to the source Sucralfate subsection.",
+    "Block 72: These effects belong to the source Bismuth subsection.",
+    "Block 77: These precautions belong to the source Bismuth subsection.",
+    "Block 106: Shared effects cover multiple antibiotic subclasses, not only the last subclass.",
+    "Block 114: Shared precautions cover the antibiotic section, including named Amoxicillin and Clarithromycin.",
+    "Block 121: This classification table covers the GERD drug classes; separate it from H. pylori precautions without inventing a heading.",
+    "Block 130: Shared antiemetic effects are not limited to the last 5-HT3 subclass.",
+    "Block 134: Shared antiemetic precautions are not limited to the last 5-HT3 subclass.",
+    "Block 193: The existing summary heading covers both source topics; do not nest the mixed table under vomiting alone."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        4
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        19
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        33
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        46
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        59
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        71
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        84
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        99
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        101
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        103
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        105
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        121
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        127
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        129
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        141
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        158
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        160
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        182
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        194
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the source Peptic Ulcer and GERD topic.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These effects belong to the source Sucralfate subsection.",
+      "block_positions": [
+        60
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These precautions belong to the source Sucralfate subsection.",
+      "block_positions": [
+        65
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These effects belong to the source Bismuth subsection.",
+      "block_positions": [
+        72
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "These precautions belong to the source Bismuth subsection.",
+      "block_positions": [
+        77
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Shared effects cover multiple antibiotic subclasses, not only the last subclass.",
+      "block_positions": [
+        106
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Shared precautions cover the antibiotic section, including named Amoxicillin and Clarithromycin.",
+      "block_positions": [
+        114
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "This classification table covers the GERD drug classes; separate it from H. pylori precautions without inventing a heading.",
+      "block_positions": [
+        121
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Shared antiemetic effects are not limited to the last 5-HT3 subclass.",
+      "block_positions": [
+        130
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Shared antiemetic precautions are not limited to the last 5-HT3 subclass.",
+      "block_positions": [
+        134
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The existing summary heading covers both source topics; do not nest the mixed table under vomiting alone.",
+      "block_positions": [
+        193
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the source Peptic Ulcer and GERD topic.",
+      "heading_level": 1
+    },
+    {
+      "position": 60,
+      "reason": "These effects belong to the source Sucralfate subsection.",
+      "parent_position": 58
+    },
+    {
+      "position": 65,
+      "reason": "These precautions belong to the source Sucralfate subsection.",
+      "parent_position": 58
+    },
+    {
+      "position": 72,
+      "reason": "These effects belong to the source Bismuth subsection.",
+      "parent_position": 70
+    },
+    {
+      "position": 77,
+      "reason": "These precautions belong to the source Bismuth subsection.",
+      "parent_position": 70
+    },
+    {
+      "position": 106,
+      "reason": "Shared effects cover multiple antibiotic subclasses, not only the last subclass.",
+      "parent_position": 96
+    },
+    {
+      "position": 114,
+      "reason": "Shared precautions cover the antibiotic section, including named Amoxicillin and Clarithromycin.",
+      "parent_position": 96
+    },
+    {
+      "position": 121,
+      "reason": "This classification table covers the GERD drug classes; separate it from H. pylori precautions without inventing a heading.",
+      "parent_position": 1,
+      "new_section": true,
+      "topic_positions": [
+        1
+      ]
+    },
+    {
+      "position": 130,
+      "reason": "Shared antiemetic effects are not limited to the last 5-HT3 subclass.",
+      "parent_position": 124
+    },
+    {
+      "position": 134,
+      "reason": "Shared antiemetic precautions are not limited to the last 5-HT3 subclass.",
+      "parent_position": 124
+    },
+    {
+      "position": 193,
+      "reason": "The existing summary heading covers both source topics; do not nest the mixed table under vomiting alone.",
+      "heading_level": 1,
+      "parent_position": null,
+      "topic_positions": [
+        1,
+        123
+      ]
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "4097825171799a8781eef32803bc1a1c394a311d4cc4ffa7635a37f80fea3b9a"
+}

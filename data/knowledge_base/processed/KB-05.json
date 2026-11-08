@@ -1,0 +1,2774 @@
+{
+  "doc_id": "KB-05",
+  "title": "أدوية الالتهاب الرئوي",
+  "title_source": "filename_stem",
+  "filename": "أدوية الالتهاب الرئوي.docx",
+  "source_sha256": "e7586dd8655433959b092182de1376fbaf9535d209d468c8df09d7291b71db90",
+  "blocks": [
+    {
+      "position": 1,
+      "kind": "heading",
+      "text": "1. أدوية الالتهاب الرئوي – Pneumonia",
+      "section_path": [
+        "1. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "section_start": 1,
+      "source_heading_level": 2,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "1. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        1
+      ]
+    },
+    {
+      "position": 2,
+      "kind": "heading",
+      "text": "10. أدوية الالتهاب الرئوي – Pneumonia",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "section_start": 2,
+      "source_heading_level": 1,
+      "heading_level": 1,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 3,
+      "kind": "paragraph",
+      "text": "هنا هنقسم الأدوية حسب الـ Drug Class، مع الـ Trade Names والـ Active Ingredients والـ Common Side Effects والـ Contraindications، وهل OTC ولا Prescription.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 4,
+      "kind": "paragraph",
+      "text": "مهم قبل القائمة: مش كل Pneumonia محتاجة Antibiotics؛ العلاج بيتحدد حسب السبب: Bacterial أو Viral أو Fungal، وكمان حسب شدة الحالة ومكان اكتساب العدوى. وبعض الأدوية المذكورة بتُستخدم في أنواع محددة فقط، مش في كل حالات الالتهاب الرئوي.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "section_start": 2,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 5,
+      "kind": "heading",
+      "text": "1. Penicillins",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins"
+      ],
+      "section_start": 5,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 6,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج أنواع من الالتهاب الرئوي البكتيري، مثل بعض حالات Community-acquired pneumonia، حسب البكتيريا المتوقعة ونتيجة المزرعة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 7,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nAmoxil | Amoxicillin\nAmoxicid | Amoxicillin\nAlemox | Amoxicillin\nHibiotic | Amoxicillin + Clavulanic acid\nAugmentin | Amoxicillin + Clavulanic acid\nCuram | Amoxicillin + Clavulanic acid\nMegamox | Amoxicillin + Clavulanic acid\nUnasyn | Ampicillin + Sulbactam\nSulperazone | Sulbactam + Cefoperazone (مش Penicillin؛ Combination من فئة مختلفة)\nTazocin | Piperacillin + Tazobactam\nPiprataz | Piperacillin + Tazobactam",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins"
+      ],
+      "section_start": 5,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Amoxil",
+          "Amoxicillin"
+        ],
+        [
+          "Amoxicid",
+          "Amoxicillin"
+        ],
+        [
+          "Alemox",
+          "Amoxicillin"
+        ],
+        [
+          "Hibiotic",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Augmentin",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Curam",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Megamox",
+          "Amoxicillin + Clavulanic acid"
+        ],
+        [
+          "Unasyn",
+          "Ampicillin + Sulbactam"
+        ],
+        [
+          "Sulperazone",
+          "Sulbactam + Cefoperazone (مش Penicillin؛ Combination من فئة مختلفة)"
+        ],
+        [
+          "Tazocin",
+          "Piperacillin + Tazobactam"
+        ],
+        [
+          "Piprataz",
+          "Piperacillin + Tazobactam"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 8,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Common side effects:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 9,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Common side effects:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 10,
+      "kind": "paragraph",
+      "text": "Nausea and vomiting.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Common side effects:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 11,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Common side effects:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 12,
+      "kind": "paragraph",
+      "text": "Skin rash.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Common side effects:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 13,
+      "kind": "paragraph",
+      "text": "Candidiasis.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Common side effects:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 14,
+      "kind": "paragraph",
+      "text": "Anaphylaxis في حالات الحساسية الشديدة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Common side effects:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 15,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 16,
+      "kind": "paragraph",
+      "text": "History of severe immediate hypersensitivity to Penicillins.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 17,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى Renal impairment؛ بعض الأدوية تحتاج تعديل الجرعة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 18,
+      "kind": "paragraph",
+      "text": "Amoxicillin/Clavulanate: الحذر مع تاريخ Cholestatic jaundice أو hepatic dysfunction المرتبط باستخدامه سابقًا.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 19,
+      "kind": "paragraph",
+      "text": "الحذر من Antibiotic-associated colitis.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "1. Penicillins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 5,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 20,
+      "kind": "heading",
+      "text": "2. Cephalosporins",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins"
+      ],
+      "section_start": 20,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 21,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج أنواع من الالتهاب الرئوي البكتيري، خصوصًا بعض الحالات التي تحتاج علاجًا بالمستشفى، حسب الجيل ونوع البكتيريا.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 22,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nZinnat | Cefuroxime\nZinacef | Cefuroxime\nXoraxon | Ceftriaxone\nCefaxone | Ceftriaxone\nCeftriaxone-SIDICO | Ceftriaxone\nRocephin | Ceftriaxone\nCeforan | Cefotaxime\nRametax | Cefotaxime\nSuprax | Cefixime\nFlavicef | Cefixime\nOmnicef | Cefdinir\nCefobid | Cefoperazone\nMaxipime | Cefepime\nTargocid | Teicoplanin (مش Cephalosporin؛ للتنبيه)",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins"
+      ],
+      "section_start": 20,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Zinnat",
+          "Cefuroxime"
+        ],
+        [
+          "Zinacef",
+          "Cefuroxime"
+        ],
+        [
+          "Xoraxon",
+          "Ceftriaxone"
+        ],
+        [
+          "Cefaxone",
+          "Ceftriaxone"
+        ],
+        [
+          "Ceftriaxone-SIDICO",
+          "Ceftriaxone"
+        ],
+        [
+          "Rocephin",
+          "Ceftriaxone"
+        ],
+        [
+          "Ceforan",
+          "Cefotaxime"
+        ],
+        [
+          "Rametax",
+          "Cefotaxime"
+        ],
+        [
+          "Suprax",
+          "Cefixime"
+        ],
+        [
+          "Flavicef",
+          "Cefixime"
+        ],
+        [
+          "Omnicef",
+          "Cefdinir"
+        ],
+        [
+          "Cefobid",
+          "Cefoperazone"
+        ],
+        [
+          "Maxipime",
+          "Cefepime"
+        ],
+        [
+          "Targocid",
+          "Teicoplanin (مش Cephalosporin؛ للتنبيه)"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 23,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 24,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 25,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 26,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 27,
+      "kind": "paragraph",
+      "text": "Skin rash.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 28,
+      "kind": "paragraph",
+      "text": "Injection-site pain.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 29,
+      "kind": "paragraph",
+      "text": "Hypersensitivity reactions.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Common side effects:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 30,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 31,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Cephalosporins.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 32,
+      "kind": "paragraph",
+      "text": "الحذر في المرضى الذين لديهم تاريخ Anaphylaxis بسبب Beta-lactams.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 33,
+      "kind": "paragraph",
+      "text": "Renal impairment قد يتطلب تعديل الجرعة لبعض الأنواع.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 34,
+      "kind": "paragraph",
+      "text": "Ceftriaxone: يُراعى خطر Biliary sludging، وله قيود خاصة في حديثي الولادة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 35,
+      "kind": "paragraph",
+      "text": "بعض الأنواع قد تسبب Antibiotic-associated colitis.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "2. Cephalosporins",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 20,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 36,
+      "kind": "heading",
+      "text": "3. Macrolides",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides"
+      ],
+      "section_start": 36,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 37,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض أنواع الالتهاب الرئوي، خصوصًا العدوى الناتجة عن Atypical bacteria مثل Mycoplasma pneumoniae وChlamydophila pneumoniae، وقد تُستخدم مع Antibiotics أخرى.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 38,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nZithromax | Azithromycin\nZisrocin | Azithromycin\nAzalide | Azithromycin\nAzimacron | Azithromycin\nAzithromin | Azithromycin\nAziwok | Azithromycin\nKlacid | Clarithromycin\nFromilid | Clarithromycin\nClarimac | Clarithromycin\nErythrocin | Erythromycin\nErythromil | Erythromycin\nRovamycin | Spiramycin",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides"
+      ],
+      "section_start": 36,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Zithromax",
+          "Azithromycin"
+        ],
+        [
+          "Zisrocin",
+          "Azithromycin"
+        ],
+        [
+          "Azalide",
+          "Azithromycin"
+        ],
+        [
+          "Azimacron",
+          "Azithromycin"
+        ],
+        [
+          "Azithromin",
+          "Azithromycin"
+        ],
+        [
+          "Aziwok",
+          "Azithromycin"
+        ],
+        [
+          "Klacid",
+          "Clarithromycin"
+        ],
+        [
+          "Fromilid",
+          "Clarithromycin"
+        ],
+        [
+          "Clarimac",
+          "Clarithromycin"
+        ],
+        [
+          "Erythrocin",
+          "Erythromycin"
+        ],
+        [
+          "Erythromil",
+          "Erythromycin"
+        ],
+        [
+          "Rovamycin",
+          "Spiramycin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 39,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Common side effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 40,
+      "kind": "paragraph",
+      "text": "Nausea and vomiting.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Common side effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 41,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Common side effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 42,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Common side effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 43,
+      "kind": "paragraph",
+      "text": "Metallic taste، خصوصًا مع Clarithromycin.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Common side effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 44,
+      "kind": "paragraph",
+      "text": "QT prolongation.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Common side effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 45,
+      "kind": "paragraph",
+      "text": "Cholestatic hepatitis (نادر).",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Common side effects:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 46,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 47,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Macrolides.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 48,
+      "kind": "paragraph",
+      "text": "History of significant QT prolongation أو بعض أنواع Arrhythmias.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 49,
+      "kind": "paragraph",
+      "text": "الحذر مع أدوية أخرى بتطوّل QT.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 50,
+      "kind": "paragraph",
+      "text": "Clarithromycin له Drug interactions مهمة بسبب تأثيره على CYP3A4.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 51,
+      "kind": "paragraph",
+      "text": "الحذر في Hepatic impairment.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "3. Macrolides",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 36,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 52,
+      "kind": "heading",
+      "text": "4. Respiratory Fluoroquinolones",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones"
+      ],
+      "section_start": 52,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 53,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض حالات Bacterial pneumonia، مثل الحالات المختارة من Community-acquired pneumonia، وخصوصًا عند وجود أسباب تمنع استخدام بدائل أخرى. مش اختيار أول لكل مريض.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 54,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nTavanic | Levofloxacin\nLevoflox | Levofloxacin\nLevoxin | Levofloxacin\nLevanic | Levofloxacin\nFloxabact | Levofloxacin\nLee-Flox | Levofloxacin\nTavoniflox | Levofloxacin\nAlfacef | Levofloxacin\nAlfaspect | Levofloxacin\nAvalox | Moxifloxacin\nActimoxiflox | Moxifloxacin\nDelmoxa | Moxifloxacin\nFluroflox | Moxifloxacin\nMoxacin | Moxifloxacin",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones"
+      ],
+      "section_start": 52,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Tavanic",
+          "Levofloxacin"
+        ],
+        [
+          "Levoflox",
+          "Levofloxacin"
+        ],
+        [
+          "Levoxin",
+          "Levofloxacin"
+        ],
+        [
+          "Levanic",
+          "Levofloxacin"
+        ],
+        [
+          "Floxabact",
+          "Levofloxacin"
+        ],
+        [
+          "Lee-Flox",
+          "Levofloxacin"
+        ],
+        [
+          "Tavoniflox",
+          "Levofloxacin"
+        ],
+        [
+          "Alfacef",
+          "Levofloxacin"
+        ],
+        [
+          "Alfaspect",
+          "Levofloxacin"
+        ],
+        [
+          "Avalox",
+          "Moxifloxacin"
+        ],
+        [
+          "Actimoxiflox",
+          "Moxifloxacin"
+        ],
+        [
+          "Delmoxa",
+          "Moxifloxacin"
+        ],
+        [
+          "Fluroflox",
+          "Moxifloxacin"
+        ],
+        [
+          "Moxacin",
+          "Moxifloxacin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 55,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 56,
+      "kind": "paragraph",
+      "text": "Nausea and diarrhea.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 57,
+      "kind": "paragraph",
+      "text": "Headache and dizziness.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 58,
+      "kind": "paragraph",
+      "text": "Insomnia.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 59,
+      "kind": "paragraph",
+      "text": "QT prolongation.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 60,
+      "kind": "paragraph",
+      "text": "Tendinitis and tendon rupture.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 61,
+      "kind": "paragraph",
+      "text": "Peripheral neuropathy.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 62,
+      "kind": "paragraph",
+      "text": "Blood glucose disturbances.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Common side effects:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 63,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 64,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Quinolones.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 65,
+      "kind": "paragraph",
+      "text": "History of serious Fluoroquinolone-associated tendon disorders.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 66,
+      "kind": "paragraph",
+      "text": "الحذر في QT prolongation وArrhythmias.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 67,
+      "kind": "paragraph",
+      "text": "الحذر في Epilepsy أو Seizure disorders.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 68,
+      "kind": "paragraph",
+      "text": "الحذر في مرضى Myasthenia gravis.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 69,
+      "kind": "paragraph",
+      "text": "Levofloxacin يحتاج تعديل الجرعة في Renal impairment.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 70,
+      "kind": "paragraph",
+      "text": "يُتجنب عادةً في Pregnancy وChildren إلا في حالات خاصة يحددها الطبيب.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "4. Respiratory Fluoroquinolones",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 52,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 71,
+      "kind": "heading",
+      "text": "5. Tetracyclines",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines"
+      ],
+      "section_start": 71,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 72,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض حالات الالتهاب الرئوي البكتيري، خصوصًا بعض حالات Atypical pneumonia، ويُستخدم Doxycycline في حالات مختارة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 73,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nVibramycin | Doxycycline\nFarcodoxin | Doxycycline\nDoxy M.R. | Doxycycline\nGranudoxy | Doxycycline\nDoxydox | Doxycycline\nDoxymycin | Doxycycline\nTabocine | Doxycycline\nDoxycycline-Eva | Doxycycline",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines"
+      ],
+      "section_start": 71,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Vibramycin",
+          "Doxycycline"
+        ],
+        [
+          "Farcodoxin",
+          "Doxycycline"
+        ],
+        [
+          "Doxy M.R.",
+          "Doxycycline"
+        ],
+        [
+          "Granudoxy",
+          "Doxycycline"
+        ],
+        [
+          "Doxydox",
+          "Doxycycline"
+        ],
+        [
+          "Doxymycin",
+          "Doxycycline"
+        ],
+        [
+          "Tabocine",
+          "Doxycycline"
+        ],
+        [
+          "Doxycycline-Eva",
+          "Doxycycline"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 74,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Common side effects:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 75,
+      "kind": "paragraph",
+      "text": "Nausea and vomiting.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Common side effects:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 76,
+      "kind": "paragraph",
+      "text": "Diarrhea.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Common side effects:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 77,
+      "kind": "paragraph",
+      "text": "Photosensitivity.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Common side effects:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 78,
+      "kind": "paragraph",
+      "text": "Esophagitis.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Common side effects:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 79,
+      "kind": "paragraph",
+      "text": "Abdominal discomfort.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Common side effects:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 80,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 81,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Tetracyclines.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 82,
+      "kind": "paragraph",
+      "text": "Pregnancy: يُتجنب عادةً، إلا لو الطبيب قرر غير ذلك.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 83,
+      "kind": "paragraph",
+      "text": "الحذر في الأطفال أقل من 8 سنوات، حسب الاستطباب.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 84,
+      "kind": "paragraph",
+      "text": "يُؤخذ مع كمية مياه كافية، وعدم الاستلقاء مباشرة بعده لتقليل Esophagitis.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 85,
+      "kind": "paragraph",
+      "text": "تجنب تناوله في نفس الوقت مع Iron، Calcium، Magnesium أو Antacids؛ لأنها تقلل الامتصاص.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "5. Tetracyclines",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 71,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 86,
+      "kind": "heading",
+      "text": "6. Antivirals",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals"
+      ],
+      "section_start": 86,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 87,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج بعض حالات Viral pneumonia عندما يكون السبب فيروسًا يستجيب لعلاج مضاد للفيروسات، مثل Influenza pneumonia. مش كل Viral pneumonia ليها Antiviral محدد.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 88,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nTamiflu | Oseltamivir\nTaminil-N | Oseltamivir\nEpimiraflu | Oseltamivir\nTamilavir | Oseltamivir\nOseltamivir (generic) | Oseltamivir",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals"
+      ],
+      "section_start": 86,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Tamiflu",
+          "Oseltamivir"
+        ],
+        [
+          "Taminil-N",
+          "Oseltamivir"
+        ],
+        [
+          "Epimiraflu",
+          "Oseltamivir"
+        ],
+        [
+          "Tamilavir",
+          "Oseltamivir"
+        ],
+        [
+          "Oseltamivir (generic)",
+          "Oseltamivir"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 89,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Common side effects:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 90,
+      "kind": "paragraph",
+      "text": "Nausea.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Common side effects:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 91,
+      "kind": "paragraph",
+      "text": "Vomiting.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Common side effects:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 92,
+      "kind": "paragraph",
+      "text": "Headache.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Common side effects:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 93,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Common side effects:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 94,
+      "kind": "paragraph",
+      "text": "Rare neuropsychiatric events.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Common side effects:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 95,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 96,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to Oseltamivir.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 97,
+      "kind": "paragraph",
+      "text": "Renal impairment: يحتاج تعديل الجرعة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 98,
+      "kind": "paragraph",
+      "text": "لا يُستخدم لعلاج Bacterial pneumonia.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 99,
+      "kind": "paragraph",
+      "text": "يبدأ مبكرًا قدر الإمكان في حالات Influenza، لكن المرضى المنومين أو المصابين بحالة شديدة قد يستفيدون منه حتى لو مر أكثر من 48 ساعة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 100,
+      "kind": "paragraph",
+      "text": "الأدوية المضادة للفيروسات تختلف حسب الفيروس؛ Oseltamivir مخصص للإنفلونزا وليس لكل الفيروسات.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "6. Antivirals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 86,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 101,
+      "kind": "heading",
+      "text": "7. Antifungals",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals"
+      ],
+      "section_start": 101,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 102,
+      "kind": "paragraph",
+      "text": "الاستخدام: علاج أنواع محددة من Fungal pneumonia، مثل Aspergillosis أو بعض حالات Cryptococcosis وHistoplasmosis، حسب نوع الفطر وحالة المريض. مش كل مضاد فطريات ينفع لكل نوع.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 103,
+      "kind": "table",
+      "text": "Trade name | Active ingredient\nVfend | Voriconazole\nVorigrand | Voriconazole\nConazoglob | Voriconazole\nErgoconazol | Voriconazole\nFungilimit | Voriconazole\nVorifend | Voriconazole\nVoricalz | Voriconazole\nVoricofungal | Voriconazole\nDiflucan | Fluconazole\nAmBisome | Liposomal Amphotericin B\nFungizone | Amphotericin B\nCancidas | Caspofungin",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals"
+      ],
+      "section_start": 101,
+      "headers": [
+        [
+          "Trade name",
+          "Active ingredient"
+        ]
+      ],
+      "rows": [
+        [
+          "Vfend",
+          "Voriconazole"
+        ],
+        [
+          "Vorigrand",
+          "Voriconazole"
+        ],
+        [
+          "Conazoglob",
+          "Voriconazole"
+        ],
+        [
+          "Ergoconazol",
+          "Voriconazole"
+        ],
+        [
+          "Fungilimit",
+          "Voriconazole"
+        ],
+        [
+          "Vorifend",
+          "Voriconazole"
+        ],
+        [
+          "Voricalz",
+          "Voriconazole"
+        ],
+        [
+          "Voricofungal",
+          "Voriconazole"
+        ],
+        [
+          "Diflucan",
+          "Fluconazole"
+        ],
+        [
+          "AmBisome",
+          "Liposomal Amphotericin B"
+        ],
+        [
+          "Fungizone",
+          "Amphotericin B"
+        ],
+        [
+          "Cancidas",
+          "Caspofungin"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 104,
+      "kind": "label",
+      "text": "Common side effects:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 105,
+      "kind": "paragraph",
+      "text": "Nausea and vomiting.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 106,
+      "kind": "paragraph",
+      "text": "Abdominal pain.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 107,
+      "kind": "paragraph",
+      "text": "Elevated liver enzymes.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 108,
+      "kind": "paragraph",
+      "text": "Skin rash.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 109,
+      "kind": "paragraph",
+      "text": "Visual disturbances مع Voriconazole.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 110,
+      "kind": "paragraph",
+      "text": "Nephrotoxicity وElectrolyte disturbances مع Amphotericin B.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 111,
+      "kind": "paragraph",
+      "text": "Infusion-related reactions مع بعض المستحضرات الوريدية.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Common side effects:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 112,
+      "kind": "label",
+      "text": "Contraindications / أهم التحذيرات:",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 113,
+      "kind": "paragraph",
+      "text": "Hypersensitivity to the antifungal.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 114,
+      "kind": "paragraph",
+      "text": "Voriconazole: الحذر في QT prolongation وHepatic impairment، وله Drug interactions كثيرة.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 115,
+      "kind": "paragraph",
+      "text": "Amphotericin B: الحذر في Renal impairment، مع متابعة Renal function وPotassium وMagnesium.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 116,
+      "kind": "paragraph",
+      "text": "Azoles عمومًا لها Drug interactions مهمة، وبعضها يُتجنب في Pregnancy.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 117,
+      "kind": "paragraph",
+      "text": "اختيار العلاج يعتمد على تحديد الفطر؛ Voriconazole مثلًا مهم في Invasive Aspergillosis، لكنه مش علاجًا عامًا لكل Fungal pneumonia.",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "7. Antifungals",
+        "Contraindications / أهم التحذيرات:"
+      ],
+      "section_start": 101,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 118,
+      "kind": "heading",
+      "text": "OTC ولا Prescription؟",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 118,
+      "source_heading_level": 2,
+      "heading_level": 2,
+      "heading_source": "heading_style",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 119,
+      "kind": "table",
+      "text": "Drug Class | Classification\nPenicillins | Prescription\nCephalosporins | Prescription\nMacrolides | Prescription\nRespiratory Fluoroquinolones | Prescription\nTetracyclines | Prescription\nAntivirals | Prescription\nSystemic Antifungals | Prescription",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 118,
+      "headers": [
+        [
+          "Drug Class",
+          "Classification"
+        ]
+      ],
+      "rows": [
+        [
+          "Penicillins",
+          "Prescription"
+        ],
+        [
+          "Cephalosporins",
+          "Prescription"
+        ],
+        [
+          "Macrolides",
+          "Prescription"
+        ],
+        [
+          "Respiratory Fluoroquinolones",
+          "Prescription"
+        ],
+        [
+          "Tetracyclines",
+          "Prescription"
+        ],
+        [
+          "Antivirals",
+          "Prescription"
+        ],
+        [
+          "Systemic Antifungals",
+          "Prescription"
+        ]
+      ],
+      "header_source": "first_row_inferred",
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    },
+    {
+      "position": 120,
+      "kind": "paragraph",
+      "text": "OTC: None",
+      "section_path": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia",
+        "OTC ولا Prescription؟"
+      ],
+      "section_start": 118,
+      "source_heading_level": null,
+      "context_topics": [
+        "10. أدوية الالتهاب الرئوي – Pneumonia"
+      ],
+      "scope_uncertain": false,
+      "correction_positions": [
+        2
+      ]
+    }
+  ],
+  "notes": [
+    "Block 1: Retain the original opening topic as a root; preserve its text and duplicate numbering.",
+    "Block 2: The second original Pneumonia heading is the root of the following material; keep both source headings verbatim."
+  ],
+  "issues": [
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        7
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        22
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        38
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        54
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        73
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        88
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        103
+      ]
+    },
+    {
+      "code": "inferred_table_header",
+      "severity": "info",
+      "message": "First row retained as a tentative header; Word provides no repeated-header flag",
+      "block_positions": [
+        119
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "Retain the original opening topic as a root; preserve its text and duplicate numbering.",
+      "block_positions": [
+        1
+      ]
+    },
+    {
+      "code": "reviewed_structure_correction",
+      "severity": "info",
+      "message": "The second original Pneumonia heading is the root of the following material; keep both source headings verbatim.",
+      "block_positions": [
+        2
+      ]
+    }
+  ],
+  "source_metadata": {},
+  "applied_corrections": [
+    {
+      "position": 1,
+      "reason": "Retain the original opening topic as a root; preserve its text and duplicate numbering.",
+      "heading_level": 1
+    },
+    {
+      "position": 2,
+      "reason": "The second original Pneumonia heading is the root of the following material; keep both source headings verbatim.",
+      "heading_level": 1
+    }
+  ],
+  "config_id": "ccf8e1295c59188d662fbcd776715e37ab9ba3358ad89e4b8f7645047b4afb5f",
+  "build_id": "246454328a3dcf03559bb2cfcb37cc651e78a44948ef98c86435c3069ac469c0"
+}
