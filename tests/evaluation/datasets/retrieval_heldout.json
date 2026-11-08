@@ -1,0 +1,473 @@
+{
+  "schema_version": 1,
+  "description": "Separate Stage 3.1 paraphrases written before mode evaluation, with new medicine names, orthographic variants, and negative controls. Shared topics reuse audited source evidence, not published question wording. This is an engineering-held-out set, not an externally blinded clinical validation set.",
+  "corpus_sha256": "3e4bb5da73e9b335e1e1bd15ed1bbfe971e262870d23336e0fd74aba8fa68888",
+  "topics": {
+    "cataflam_ingredient": {
+      "rationale": "Five source tables explicitly pair Cataflam with its active ingredient.",
+      "evidence": [
+        {
+          "doc_id": "KB-03",
+          "section_start": 16,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 132,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-04",
+          "section_start": 25,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-06",
+          "section_start": 204,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-09",
+          "section_start": 116,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        }
+      ]
+    },
+    "brufen_same_ingredient": {
+      "rationale": "Seven tables explicitly show Brufen and Nurofen with the same ingredient. These labels establish ingredient matching, not suitability or interchangeable doses/formulations.",
+      "evidence": [
+        {
+          "doc_id": "KB-03",
+          "section_start": 16,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 121,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 132,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-04",
+          "section_start": 2,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-04",
+          "section_start": 25,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-06",
+          "section_start": 204,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-09",
+          "section_start": 116,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        }
+      ]
+    },
+    "arb_contraindications": {
+      "rationale": "The ARB class's own contraindication subsection, not ACE inhibitor warnings or unrelated uses of the acronym.",
+      "evidence": [
+        {
+          "doc_id": "KB-08",
+          "section_start": 15,
+          "snippets": [
+            "Cozaar | Losartan",
+            "Contraindications",
+            "Pregnancy: ممنوعة أثناء الحمل.",
+            "Concomitant ACE inhibitors:"
+          ]
+        }
+      ]
+    },
+    "salbutamol_effects": {
+      "rationale": "Two standalone SABA sections contain Salbutamol rows and their adverse effects. Combination-inhaler effects are not treated as equivalent standalone-agent labels.",
+      "evidence": [
+        {
+          "doc_id": "KB-01",
+          "section_start": 7,
+          "snippets": [
+            "Ventolin Evohaler | Salbutamol",
+            "Common side effects:",
+            "Hypokalemia"
+          ]
+        },
+        {
+          "doc_id": "KB-01",
+          "section_start": 119,
+          "snippets": [
+            "Ventolin | Salbutamol",
+            "Common side effects:",
+            "Hypokalemia"
+          ]
+        }
+      ]
+    },
+    "metformin_contraindications": {
+      "rationale": "The Biguanides section links Metformin brands with its own contraindications. Merely mentioning Metformin in a combination product does not make another class's contraindications relevant.",
+      "evidence": [
+        {
+          "doc_id": "KB-07",
+          "section_start": 2,
+          "snippets": [
+            "Glucophage | Metformin",
+            "Contraindications",
+            "eGFR أقل من 30",
+            "Metabolic acidosis:"
+          ]
+        }
+      ]
+    },
+    "metronidazole_alcohol": {
+      "rationale": "The H. pylori source section explicitly names Metronidazole and its alcohol precaution. No new clinical rule is inferred by the benchmark.",
+      "evidence": [
+        {
+          "doc_id": "KB-02",
+          "section_start": 96,
+          "snippets": [
+            "Flagyl | Metronidazole",
+            "Metronidazole: تجنب الكحول أثناء العلاج ولمدة 48 ساعة بعد آخر جرعة كإجراء احتياطي."
+          ]
+        }
+      ]
+    },
+    "losec_ingredient": {
+      "rationale": "The source PPI table explicitly names Losec and its ingredient.",
+      "evidence": [
+        {
+          "doc_id": "KB-02",
+          "section_start": 2,
+          "snippets": [
+            "Losec | Omeprazole"
+          ]
+        }
+      ]
+    },
+    "augmentin_components": {
+      "rationale": "Five source tables explicitly list the named combination. Retrieval labels do not imply suitability for a condition or interchangeable strengths.",
+      "evidence": [
+        {
+          "doc_id": "KB-01",
+          "section_start": 260,
+          "snippets": [
+            "Augmentin | Amoxicillin + Clavulanic acid"
+          ]
+        },
+        {
+          "doc_id": "KB-02",
+          "section_start": 96,
+          "snippets": [
+            "Augmentin | Amoxicillin + Clavulanic acid"
+          ]
+        },
+        {
+          "doc_id": "KB-04",
+          "section_start": 57,
+          "snippets": [
+            "Augmentin | Amoxicillin + Clavulanic acid"
+          ]
+        },
+        {
+          "doc_id": "KB-05",
+          "section_start": 5,
+          "snippets": [
+            "Augmentin | Amoxicillin + Clavulanic acid"
+          ]
+        },
+        {
+          "doc_id": "KB-06",
+          "section_start": 242,
+          "snippets": [
+            "Augmentin | Amoxicillin + Clavulanic acid"
+          ]
+        }
+      ]
+    },
+    "montelukast_effects": {
+      "rationale": "Two source Leukotriene Antagonist sections pair Montelukast rows with their adverse-effect subsection.",
+      "evidence": [
+        {
+          "doc_id": "KB-01",
+          "section_start": 66,
+          "snippets": [
+            "Singulair | Montelukast",
+            "Common side effects:"
+          ]
+        },
+        {
+          "doc_id": "KB-06",
+          "section_start": 65,
+          "snippets": [
+            "Singulair | Montelukast",
+            "Common side effects:"
+          ]
+        }
+      ]
+    },
+    "cozaar_ingredient": {
+      "rationale": "The ARB table explicitly contains the brand row; aliases must not supply the ingredient as an answer.",
+      "evidence": [
+        {
+          "doc_id": "KB-08",
+          "section_start": 15,
+          "snippets": [
+            "Cozaar | Losartan"
+          ]
+        }
+      ]
+    },
+    "panadol_extra_components": {
+      "rationale": "Two headache sections contain the qualified Panadol Extra product. Plain Panadol is not an equivalent label.",
+      "evidence": [
+        {
+          "doc_id": "KB-03",
+          "section_start": 150,
+          "snippets": [
+            "Panadol Extra | Paracetamol + Caffeine"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 166,
+          "snippets": [
+            "Panadol Extra | Paracetamol + Caffeine"
+          ]
+        }
+      ]
+    },
+    "fastum_ingredient": {
+      "rationale": "Two topical source tables identify Fastum Gel. Its Arabic brand spelling is not added to the fixed alias registry, exposing vocabulary coverage limits.",
+      "evidence": [
+        {
+          "doc_id": "KB-03",
+          "section_start": 37,
+          "snippets": [
+            "Fastum Gel | Ketoprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 53,
+          "snippets": [
+            "Fastum Gel | Ketoprofen"
+          ]
+        }
+      ]
+    }
+  },
+  "queries": [
+    {
+      "id": "h_cata_en",
+      "language": "en",
+      "topic_id": "cataflam_ingredient",
+      "question": "Identify the compound named beside the brand Cataflam in the source tables."
+    },
+    {
+      "id": "h_brufen_en",
+      "language": "en",
+      "topic_id": "brufen_same_ingredient",
+      "question": "I am looking for another label with Brufen's identical ingredient, not merely another pain medicine."
+    },
+    {
+      "id": "h_losec_en",
+      "language": "en",
+      "topic_id": "losec_ingredient",
+      "question": "Which ingredient is listed for Losec?"
+    },
+    {
+      "id": "h_augmentin_en",
+      "language": "en",
+      "topic_id": "augmentin_components",
+      "question": "Which components does the Augmentin row contain?"
+    },
+    {
+      "id": "h_montelukast_en",
+      "language": "en",
+      "topic_id": "montelukast_effects",
+      "question": "Show the adverse-effect evidence accompanying Montelukast."
+    },
+    {
+      "id": "h_fastum_en",
+      "language": "en",
+      "topic_id": "fastum_ingredient",
+      "question": "What is listed inside Fastum Gel?"
+    },
+    {
+      "id": "h_cata_ar",
+      "language": "ar",
+      "topic_id": "cataflam_ingredient",
+      "question": "عاوز أعرف المَادّة الفعّالة المكتوبة جنب كــتافلام."
+    },
+    {
+      "id": "h_brufen_ar",
+      "language": "ar",
+      "topic_id": "brufen_same_ingredient",
+      "question": "بروفن مش موجود؛ إيه الأسماء اللي معاها نفس المكوّن في الجدول؟"
+    },
+    {
+      "id": "h_arb_ar",
+      "language": "ar",
+      "topic_id": "arb_contraindications",
+      "question": "ما موانعُ استعمال حاصرات مستقبلات الأنجيوتنسين ٢؟"
+    },
+    {
+      "id": "h_metformin_ar",
+      "language": "ar",
+      "topic_id": "metformin_contraindications",
+      "question": "اذكر الموانع المرتبطة بالميتفورمين كما هي في المستند."
+    },
+    {
+      "id": "h_losec_ar",
+      "language": "ar",
+      "topic_id": "losec_ingredient",
+      "question": "لُوسيك فيه مادّة دوائيّة اسمها إيه؟"
+    },
+    {
+      "id": "h_fastum_ar",
+      "language": "ar",
+      "topic_id": "fastum_ingredient",
+      "question": "الفاستم جل مكوّنه الفعّال إيه؟"
+    },
+    {
+      "id": "h_cata_mixed",
+      "language": "mixed",
+      "topic_id": "cataflam_ingredient",
+      "question": "اسم المركب في ＣＡＴＡＦＬＡＭ مكتوب إزاي في الـ table؟"
+    },
+    {
+      "id": "h_cozaar_mixed",
+      "language": "mixed",
+      "topic_id": "cozaar_ingredient",
+      "question": "Cozaar، اسم الـ ingredient بتاعه إيه؟"
+    },
+    {
+      "id": "h_panadol_mixed",
+      "language": "mixed",
+      "topic_id": "panadol_extra_components",
+      "question": "بانادول إكسترا: عايز الـ composition من الجدول، مش بنادول العادي."
+    },
+    {
+      "id": "h_augmentin_mixed",
+      "language": "mixed",
+      "topic_id": "augmentin_components",
+      "question": "أوجمنتين فيه active ingredients إيه حسب المستندات؟"
+    },
+    {
+      "id": "h_metronidazole_mixed",
+      "language": "mixed",
+      "topic_id": "metronidazole_alcohol",
+      "question": "وريني النص الخاص بـ alcohol مع دواء ميترونيدازول."
+    },
+    {
+      "id": "h_montelukast_mixed",
+      "language": "mixed",
+      "topic_id": "montelukast_effects",
+      "question": "مونتلوكاست والـ side effects المذكورة معاه في المصادر."
+    },
+    {
+      "id": "h_cata_franco",
+      "language": "franco",
+      "topic_id": "cataflam_ingredient",
+      "question": "Cataflam byetkawen men eh?"
+    },
+    {
+      "id": "h_brufen_franco",
+      "language": "franco",
+      "topic_id": "brufen_same_ingredient",
+      "question": "ana badawwar 3ala nafs el mokawen bta3 Brufen"
+    },
+    {
+      "id": "h_metronidazole_franco",
+      "language": "franco",
+      "topic_id": "metronidazole_alcohol",
+      "question": "metronidazole w alcohol: eh ta7zeer el wara2?"
+    },
+    {
+      "id": "h_metformin_franco",
+      "language": "franco",
+      "topic_id": "metformin_contraindications",
+      "question": "fe eih metformin mayenfa3sh?"
+    },
+    {
+      "id": "h_montelukast_franco",
+      "language": "franco",
+      "topic_id": "montelukast_effects",
+      "question": "3awz a3raf el a3rad el ganbeya bta3et Montelukast"
+    },
+    {
+      "id": "h_panadol_franco",
+      "language": "franco",
+      "topic_id": "panadol_extra_components",
+      "question": "eh tarkeeb Panadol Extra mesh el 3ady?"
+    },
+    {
+      "id": "h_negative_router",
+      "language": "en",
+      "topic_id": null,
+      "question": "How do I reset a Wi-Fi router?"
+    },
+    {
+      "id": "h_negative_football",
+      "language": "ar",
+      "topic_id": null,
+      "question": "نتيجة ماتش الزمالك كام امبارح؟"
+    },
+    {
+      "id": "h_negative_recipe",
+      "language": "mixed",
+      "topic_id": null,
+      "question": "عايز recipe للبيتزا."
+    },
+    {
+      "id": "h_negative_laptop",
+      "language": "franco",
+      "topic_id": null,
+      "question": "3ayez asla7 el laptop battery"
+    },
+    {
+      "id": "h_negative_vaccine",
+      "language": "en",
+      "topic_id": null,
+      "question": "Which vaccination schedule prevents Japanese encephalitis?"
+    }
+  ]
+}

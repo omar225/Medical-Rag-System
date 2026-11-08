@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "verification_kind": "isolated proposed-file export, not a GitHub clone or different machine",
+  "python": "3.12.10",
+  "fresh_virtual_environment": true,
+  "requirements_installed": true,
+  "used_cached_wheels": true,
+  "pip_check": "passed",
+  "ingestion": {
+    "document_count": 9,
+    "table_count": 153,
+    "chunk_count": 113,
+    "info_issues": 213,
+    "review_issues": 1,
+    "error_issues": 0
+  },
+  "offline_suite": {
+    "passed": 213,
+    "skipped": 1,
+    "warnings": 1,
+    "seconds": 10.43
+  },
+  "snapshot_entries_byte_verified": 25,
+  "lexical_restored_index": "passed",
+  "live_embedding_diagnostic": "failed as expected: 1024 dimensions, 0 nonzero values, norm 0.0 for single and English/Arabic batch",
+  "new_index_built": false,
+  "publication": "pending user approval; no stage/commit/remote/push",
+  "original_source_sha256": {
+    "data/knowledge_base/source/KB-01/asthma w copd.docx": "384877c0f1cd0b5b3157b5bc54349772d549dd9b2bfb09daf92a63bacdc2c60d",
+    "data/knowledge_base/source/KB-02/gerd& vomiting.docx": "70bd3ab82b34b990f5c8c95a1726288b8e1df78c5c5cb704fc7cba13894d0c12",
+    "data/knowledge_base/source/KB-03/pain headache ibs arthritis.docx": "43471ade85a430db5a8d5072bb4f4de5fc582f0145150221f2790b4ba3107e7f",
+    "data/knowledge_base/source/KB-04/pharyngitis.docx": "f96a6761b5b48dc87330187a977e9771b249a49c042f3d77773ab32a9582f686",
+    "data/knowledge_base/source/KB-05/أدوية الالتهاب الرئوي.docx": "e7586dd8655433959b092182de1376fbaf9535d209d468c8df09d7291b71db90",
+    "data/knowledge_base/source/KB-06/ادويه الحساسيه و الجيوب الانفيه.docx": "c0895dd47a61654c20b7080c7bb055010f439d84aa5c286ceab0c9db5d5505b3",
+    "data/knowledge_base/source/KB-07/ادويه السكر.docx": "b6df238ab76bec5806b21784dfee45ed344f7b880ca44123868f43620daddd62",
+    "data/knowledge_base/source/KB-08/ادويه الضغط و الكوليسترول.docx": "66ba32afd2958e6d177ffdb9556142b21830d205579fb5f3aea1c1306aff7b32",
+    "data/knowledge_base/source/KB-09/ادويه القولون و التهابات المفاصل.docx": "ad3234862fed2baae733f79081b3f2366e577fe8a2d4cae447fdfa8985e33c95"
+  },
+  "security_scan_scope": "Pattern scan of proposed files, archive contents, DOCX XML, and reachable Git history; not a proof of absence of every possible secret.",
+  "security_pattern_matches": [],
+  "limitations": [
+    "same OS and GPU",
+    "cached-wheel installation; not uncached download test",
+    "not a final committed-state/remote clone",
+    "no model or system software installation",
+    "Ollama zero-vector issue unresolved",
+    "new GPU and CPU comparison not tested"
+  ]
+}

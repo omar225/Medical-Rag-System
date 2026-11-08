@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "description": "Manual evidence labels for the approved Stage 2.1 snapshot. Retrieval only; no generated answers. Multiple valid source chunks are counted separately. Franco-Arabic is an explicit challenge set.",
+  "corpus_sha256": "3e4bb5da73e9b335e1e1bd15ed1bbfe971e262870d23336e0fd74aba8fa68888",
+  "topics": {
+    "cataflam_ingredient": {
+      "rationale": "Five source tables explicitly pair Cataflam with its active ingredient.",
+      "evidence": [
+        {
+          "doc_id": "KB-03",
+          "section_start": 16,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 132,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-04",
+          "section_start": 25,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-06",
+          "section_start": 204,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        },
+        {
+          "doc_id": "KB-09",
+          "section_start": 116,
+          "snippets": [
+            "Cataflam | Diclofenac potassium"
+          ]
+        }
+      ]
+    },
+    "brufen_same_ingredient": {
+      "rationale": "Seven tables explicitly show Brufen and Nurofen with the same ingredient. These labels establish ingredient matching, not suitability or interchangeable doses/formulations.",
+      "evidence": [
+        {
+          "doc_id": "KB-03",
+          "section_start": 16,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 121,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-03",
+          "section_start": 132,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-04",
+          "section_start": 2,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-04",
+          "section_start": 25,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-06",
+          "section_start": 204,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        },
+        {
+          "doc_id": "KB-09",
+          "section_start": 116,
+          "snippets": [
+            "Brufen | Ibuprofen",
+            "Nurofen | Ibuprofen"
+          ]
+        }
+      ]
+    },
+    "arb_contraindications": {
+      "rationale": "The ARB class's own contraindication subsection, not ACE inhibitor warnings or unrelated uses of the acronym.",
+      "evidence": [
+        {
+          "doc_id": "KB-08",
+          "section_start": 15,
+          "snippets": [
+            "Cozaar | Losartan",
+            "Contraindications",
+            "Pregnancy: ممنوعة أثناء الحمل.",
+            "Concomitant ACE inhibitors:"
+          ]
+        }
+      ]
+    },
+    "salbutamol_effects": {
+      "rationale": "Two standalone SABA sections contain Salbutamol rows and their adverse effects. Combination-inhaler effects are not treated as equivalent standalone-agent labels.",
+      "evidence": [
+        {
+          "doc_id": "KB-01",
+          "section_start": 7,
+          "snippets": [
+            "Ventolin Evohaler | Salbutamol",
+            "Common side effects:",
+            "Hypokalemia"
+          ]
+        },
+        {
+          "doc_id": "KB-01",
+          "section_start": 119,
+          "snippets": [
+            "Ventolin | Salbutamol",
+            "Common side effects:",
+            "Hypokalemia"
+          ]
+        }
+      ]
+    },
+    "metformin_contraindications": {
+      "rationale": "The Biguanides section links Metformin brands with its own contraindications. Merely mentioning Metformin in a combination product does not make another class's contraindications relevant.",
+      "evidence": [
+        {
+          "doc_id": "KB-07",
+          "section_start": 2,
+          "snippets": [
+            "Glucophage | Metformin",
+            "Contraindications",
+            "eGFR أقل من 30",
+            "Metabolic acidosis:"
+          ]
+        }
+      ]
+    },
+    "metronidazole_alcohol": {
+      "rationale": "The H. pylori source section explicitly names Metronidazole and its alcohol precaution. No new clinical rule is inferred by the benchmark.",
+      "evidence": [
+        {
+          "doc_id": "KB-02",
+          "section_start": 96,
+          "snippets": [
+            "Flagyl | Metronidazole",
+            "Metronidazole: تجنب الكحول أثناء العلاج ولمدة 48 ساعة بعد آخر جرعة كإجراء احتياطي."
+          ]
+        }
+      ]
+    }
+  },
+  "queries": [
+    {
+      "id": "cataflam_en",
+      "language": "en",
+      "topic_id": "cataflam_ingredient",
+      "question": "What is the active ingredient in Cataflam?"
+    },
+    {
+      "id": "cataflam_ar",
+      "language": "ar",
+      "topic_id": "cataflam_ingredient",
+      "question": "المادة الفعالة في كتافلام إيه؟"
+    },
+    {
+      "id": "cataflam_mixed",
+      "language": "mixed",
+      "topic_id": "cataflam_ingredient",
+      "question": "Cataflam مادته الفعالة إيه بالإنجليزي؟"
+    },
+    {
+      "id": "brufen_en",
+      "language": "en",
+      "topic_id": "brufen_same_ingredient",
+      "question": "Which other brands contain the same active ingredient as Brufen?"
+    },
+    {
+      "id": "brufen_ar",
+      "language": "ar",
+      "topic_id": "brufen_same_ingredient",
+      "question": "إيه بدائل بروفين اللي فيها نفس المادة الفعالة؟"
+    },
+    {
+      "id": "brufen_mixed",
+      "language": "mixed",
+      "topic_id": "brufen_same_ingredient",
+      "question": "Brufen بديله إيه بنفس الـ active ingredient؟"
+    },
+    {
+      "id": "arb_en",
+      "language": "en",
+      "topic_id": "arb_contraindications",
+      "question": "What are the contraindications of angiotensin II receptor blockers (ARBs)?"
+    },
+    {
+      "id": "arb_ar",
+      "language": "ar",
+      "topic_id": "arb_contraindications",
+      "question": "إيه موانع استعمال حاصرات مستقبلات الأنجيوتنسين اتنين؟"
+    },
+    {
+      "id": "arb_mixed",
+      "language": "mixed",
+      "topic_id": "arb_contraindications",
+      "question": "إيه الـ contraindications بتاعة ARBs؟"
+    },
+    {
+      "id": "salbutamol_en",
+      "language": "en",
+      "topic_id": "salbutamol_effects",
+      "question": "What side effects can Salbutamol cause?"
+    },
+    {
+      "id": "salbutamol_ar",
+      "language": "ar",
+      "topic_id": "salbutamol_effects",
+      "question": "إيه الأعراض الجانبية للسالبوتامول؟"
+    },
+    {
+      "id": "salbutamol_mixed",
+      "language": "mixed",
+      "topic_id": "salbutamol_effects",
+      "question": "Salbutamol ممكن يعمل side effects إيه؟"
+    },
+    {
+      "id": "metformin_en",
+      "language": "en",
+      "topic_id": "metformin_contraindications",
+      "question": "What are the contraindications for Metformin?"
+    },
+    {
+      "id": "metformin_ar",
+      "language": "ar",
+      "topic_id": "metformin_contraindications",
+      "question": "الميتفورمين ممنوع في أنهي حالات؟"
+    },
+    {
+      "id": "metformin_mixed",
+      "language": "mixed",
+      "topic_id": "metformin_contraindications",
+      "question": "إيه موانع استعمال Metformin؟"
+    },
+    {
+      "id": "metronidazole_en",
+      "language": "en",
+      "topic_id": "metronidazole_alcohol",
+      "question": "What does the knowledge base say about Metronidazole and alcohol?"
+    },
+    {
+      "id": "metronidazole_ar",
+      "language": "ar",
+      "topic_id": "metronidazole_alcohol",
+      "question": "ينفع أشرب كحول وأنا باخد ميترونيدازول؟"
+    },
+    {
+      "id": "metronidazole_mixed",
+      "language": "mixed",
+      "topic_id": "metronidazole_alcohol",
+      "question": "Metronidazole مع الكحول، إيه التحذير المذكور؟"
+    },
+    {
+      "id": "cataflam_franco",
+      "language": "franco",
+      "topic_id": "cataflam_ingredient",
+      "question": "eh el mada el fa3ala fe Cataflam?"
+    },
+    {
+      "id": "metformin_franco",
+      "language": "franco",
+      "topic_id": "metformin_contraindications",
+      "question": "metformin mamno3 fe anhy 7alat?"
+    },
+    {
+      "id": "metronidazole_franco",
+      "language": "franco",
+      "topic_id": "metronidazole_alcohol",
+      "question": "yenfa3 ashrab ko7ol ma3 metronidazole?"
+    },
+    {
+      "id": "unrelated_weather",
+      "language": "en",
+      "topic_id": null,
+      "question": "Will it rain in Cairo tomorrow?"
+    },
+    {
+      "id": "unrelated_car",
+      "language": "ar",
+      "topic_id": null,
+      "question": "أصلح موتور العربية إزاي؟"
+    },
+    {
+      "id": "out_of_kb_medical",
+      "language": "mixed",
+      "topic_id": null,
+      "question": "إيه جرعة chemotherapy لعلاج glioblastoma؟"
+    }
+  ]
+}

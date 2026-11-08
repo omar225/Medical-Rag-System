@@ -36,3 +36,16 @@ reports/evaluation/
 reports/performance/
 tmp/
 temp/
+
+# Local handoff verification environments and credentials
+.handoff-verification/
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+*.gguf
+*.npy
+*.npz
+# The reviewed recovery archive is explicitly selected, not a runtime cache.

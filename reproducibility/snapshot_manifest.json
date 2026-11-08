@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "archive": "reproducibility/stage31_recovery.zip",
+  "archive_sha256": "2d3eb3e75f111fd36ce6eb0ab6b28b4f890d8b3e7123d5b68fd6d4890ae4970f",
+  "archive_bytes": 1672948,
+  "corpus_sha256": "3e4bb5da73e9b335e1e1bd15ed1bbfe971e262870d23336e0fd74aba8fa68888",
+  "entries": [
+    {
+      "path": "data/knowledge_base/processed/KB-01.json",
+      "bytes": 178649,
+      "sha256": "e21ffebd5e9e4bd48a3a8c90bf606aa58afdba02fb3f994b4c3b6ded21ee767b"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-02.json",
+      "bytes": 134961,
+      "sha256": "f11768b656d3be6a194ff72a526096fcc16c520e0e5de2430e151b5343d3b3c0"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-03.json",
+      "bytes": 123742,
+      "sha256": "8a99e5e002a29ebe80c0231e5c7be4ff66b332dc066bff6a9bbf97b506f4964c"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-04.json",
+      "bytes": 64715,
+      "sha256": "359fd6b228dff543307f029cd93421968684d9b39d337567bb286cc36290a96c"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-05.json",
+      "bytes": 79562,
+      "sha256": "44c39aef4dd7d21b595ef1fd47060198868949dc76945fa43bc358a362191e1e"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-06.json",
+      "bytes": 180490,
+      "sha256": "6fc0361b84e52fcc2f89911645f58b2a23b2731fed14e016612780aa90eeac70"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-07.json",
+      "bytes": 109898,
+      "sha256": "aacd55b8864f955ee9e8b52ade5a5ea35c61c00326b7cf32e136c6f1cecfbd8f"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-08.json",
+      "bytes": 185643,
+      "sha256": "63badb1800a0576ffe165ae6eb495e77b3484d8b398fe262b9d324dd3b6cf886"
+    },
+    {
+      "path": "data/knowledge_base/processed/KB-09.json",
+      "bytes": 146232,
+      "sha256": "2f4afc328161c63891b8051dc0dad35ce1544447705bd10f988a9ae6df72ebdc"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-01.json",
+      "bytes": 53085,
+      "sha256": "3272b116e390fad1d33ad05869d1523fd22b4ebc1098f363740c07bc20103206"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-02.json",
+      "bytes": 37976,
+      "sha256": "557f51dadec7c217e6e5acb689f486a358f308e9c25a620f0361f51a0eefbfb2"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-03.json",
+      "bytes": 36233,
+      "sha256": "c02347519e8edd9fa3e16939cadd050e24d9ad1bbe2be505daa5da0b8770fa8d"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-04.json",
+      "bytes": 18528,
+      "sha256": "2e4fb1da2de5056a4a41c7af957daeda378486f1227599b9a2c96c43a0a69360"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-05.json",
+      "bytes": 25192,
+      "sha256": "02354f34d9f0715b424599ea5b525e5a76e5eead4b463b6cf15413d0bfc5c819"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-06.json",
+      "bytes": 50103,
+      "sha256": "9dc1ad4ff18e8134823d48a8e9c42ccbbc01019f4fe09f71c6c9c413eb2bfc2c"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-07.json",
+      "bytes": 30433,
+      "sha256": "83f3c2f63186238bddcf5b9d71bf1b38a5ff9074fa5ef55fea62830cce1a9127"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-08.json",
+      "bytes": 51121,
+      "sha256": "9ac94e42613a7aa5f4483b25f6552eff9ceb8182daf3942071f5e01b0badefb5"
+    },
+    {
+      "path": "data/knowledge_base/chunks/KB-09.json",
+      "bytes": 44600,
+      "sha256": "a68b0a278b44d866e4a105c83a98bb73627db7b527361dba7301cc3407029fc0"
+    },
+    {
+      "path": "data/knowledge_base/metadata/generated/ingestion_manifest.json",
+      "bytes": 78697,
+      "sha256": "d434c9cc02ef21fd1b10ea105e30939160da1c1f8eccfa7ef73629273def7e85"
+    },
+    {
+      "path": "storage/vector_store/dense/index.json",
+      "bytes": 452949,
+      "sha256": "96589377e8f3f45b8e47941f7d36fec06a2817292078ef9e37156cd6de903ec5"
+    },
+    {
+      "path": "storage/vector_store/dense/vectors-21a24727f5ee863d4c6f9e144f0b4f1bbb847d1312818500dbb7fb5eba367f26.npy",
+      "bytes": 462976,
+      "sha256": "21a24727f5ee863d4c6f9e144f0b4f1bbb847d1312818500dbb7fb5eba367f26"
+    },
+    {
+      "path": "reports/evaluation/stage31_cold.json",
+      "bytes": 1186,
+      "sha256": "30894e2b07fe7979f886d39a8421c835a1e8973dbebf1a400a7c353108ccd8d9"
+    },
+    {
+      "path": "reports/evaluation/stage31_comparison.json",
+      "bytes": 12585189,
+      "sha256": "36b9f8aa94eb3a2cf4fb35ee33a857fbb69bad3b97577a4bb364abb0339e8638"
+    },
+    {
+      "path": "reports/evaluation/stage31_runtime_probe.json",
+      "bytes": 1658,
+      "sha256": "5464e4d291e8cdf74d21174f77b0c5f29e9a0e3f3ba85c377dd89b357c914b3f"
+    },
+    {
+      "path": "reports/evaluation/stage3_retrieval.json",
+      "bytes": 1795773,
+      "sha256": "c122aab6ce469f7c468d866c39624375d1e76cdea87cf151e0d3398843a454ee"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "review_scope": "Engineering review of source-vocabulary spellings and structural terms. Confirmed entries identify the same name or heading; none maps a brand to an ingredient or another treatment. Canonical vocabulary must exist in the selected approved corpus. Production clinical terminology still requires domain review.",
+  "entries": [
+    {"id": "brand-cataflam", "canonical": "Cataflam", "status": "confirmed", "variants": ["كتافلام", "كاتافلام"], "review_note": "Arabic renderings of the exact source brand name; no ingredient expansion."},
+    {"id": "brand-brufen", "canonical": "Brufen", "status": "confirmed", "variants": ["بروفين", "بروفن"], "review_note": "Arabic renderings of the source brand; not an alternatives list."},
+    {"id": "drug-metformin", "canonical": "Metformin", "status": "confirmed", "variants": ["ميتفورمين", "متفورمين"], "review_note": "Script variants of the same generic name in source tables."},
+    {"id": "drug-salbutamol", "canonical": "Salbutamol", "status": "confirmed", "variants": ["سالبوتامول"], "review_note": "Arabic rendering of the exact generic name; no mapping to a brand or combination."},
+    {"id": "drug-metronidazole", "canonical": "Metronidazole", "status": "confirmed", "variants": ["ميترونيدازول", "مترونيدازول", "metronidazol"], "review_note": "Orthographic/transliteration variants of the same source generic name."},
+    {"id": "drug-paracetamol", "canonical": "Paracetamol", "status": "confirmed", "variants": ["باراسيتامول", "براسيتامول"], "review_note": "Same generic-name transliterations; not brand equivalence."},
+    {"id": "drug-ibuprofen", "canonical": "Ibuprofen", "status": "confirmed", "variants": ["ايبوبروفين", "إيبوبروفين", "ibuprofene"], "review_note": "Reviewed spelling variants of the source generic name only."},
+    {"id": "drug-diclofenac", "canonical": "Diclofenac", "status": "confirmed", "variants": ["ديكلوفيناك", "ديكلوفناك"], "review_note": "Same generic root name; sodium/potassium qualifiers remain separate words."},
+    {"id": "drug-omeprazole", "canonical": "Omeprazole", "status": "confirmed", "variants": ["اوميبرازول", "أوميبرازول", "اومبرازول"], "review_note": "Reviewed Arabic spellings of the exact source generic name."},
+    {"id": "drug-losartan", "canonical": "Losartan", "status": "confirmed", "variants": ["لوسارتان", "لوزارتان"], "review_note": "Same generic-name transliterations; no clinical substitution implied."},
+    {"id": "drug-amoxicillin", "canonical": "Amoxicillin", "status": "confirmed", "variants": ["اموكسيسيلين", "أموكسيسيلين", "اموكسيسلين"], "review_note": "Same generic name; combination qualifiers are retained, not inferred."},
+    {"id": "drug-montelukast", "canonical": "Montelukast", "status": "confirmed", "variants": ["مونتيلوكاست", "مونتلوكاست"], "review_note": "Same generic-name transliterations supported by source vocabulary."},
+    {"id": "drug-cetirizine", "canonical": "Cetirizine", "status": "confirmed", "variants": ["سيتريزين", "سيتيريزين"], "review_note": "Arabic renderings of the existing source generic name."},
+    {"id": "brand-glucophage", "canonical": "Glucophage", "status": "confirmed", "variants": ["جلوكوفاج", "غلوكوفاج"], "review_note": "Same source brand; XR and dose qualifiers are not removed."},
+    {"id": "brand-ventolin", "canonical": "Ventolin", "status": "confirmed", "variants": ["فنتولين", "فينتولين"], "review_note": "Same brand spelling; formulation qualifiers remain in the query."},
+    {"id": "brand-augmentin", "canonical": "Augmentin", "status": "confirmed", "variants": ["اوجمنتين", "أوجمنتين", "اوجمانتين"], "review_note": "Same source brand; the application does not expand it to ingredients."},
+    {"id": "brand-losec", "canonical": "Losec", "status": "confirmed", "variants": ["لوسيك", "لوزيك"], "review_note": "Arabic spellings of the source brand, not its ingredient."},
+    {"id": "brand-cozaar", "canonical": "Cozaar", "status": "confirmed", "variants": ["كوزار"], "review_note": "Arabic rendering of the exact source brand; no ingredient rewrite."},
+    {"id": "brand-nurofen", "canonical": "Nurofen", "status": "confirmed", "variants": ["نوروفين", "نيوروفين"], "review_note": "Same source brand across scripts."},
+    {"id": "brand-panadol-extra", "canonical": "Panadol Extra", "status": "confirmed", "variants": ["بانادول اكسترا", "بانادول إكسترا", "بنادول اكسترا"], "review_note": "Specific product qualification is retained; distinct from plain Panadol."},
+    {"id": "brand-panadol", "canonical": "Panadol", "status": "confirmed", "variants": ["بانادول", "بنادول"], "review_note": "Plain source brand; longest phrase matching preserves Extra where specified."},
+    {"id": "class-arbs", "canonical": "ARBs", "status": "confirmed", "variants": ["ARB", "Angiotensin II Receptor Blockers", "Angiotensin 2 Receptor Blockers", "حاصرات مستقبلات الأنجيوتنسين 2", "حاصرات مستقبلات الأنجيوتنسين ii", "حاصرات مستقبلات الأنجيوتنسين الثاني", "حاصرات مستقبلات الأنجيوتنسين اتنين"], "review_note": "Reviewed bilingual/acronym rendering of the explicitly named source class. Broad blood-pressure terms are excluded."},
+    {"id": "heading-active-ingredient", "canonical": "Active ingredient", "status": "confirmed", "variants": ["Active ingredients", "المادة الفعالة", "الماده الفعاله", "المواد الفعالة", "المكونات الفعالة", "el mada el fa3ala", "mada fa3ala"], "review_note": "Structural table-header terminology only; never supplies an ingredient value."},
+    {"id": "heading-side-effects", "canonical": "Side Effects", "status": "confirmed", "variants": ["الأعراض الجانبية", "اعراض جانبية", "الآثار الجانبية", "اثار جانبية", "a3rad ganbeya", "el a3rad el ganbeya", "a3rad ganbia"], "review_note": "Reviewed source subsection terminology, including the source's bilingual side-effect heading."},
+    {"id": "heading-contraindications", "canonical": "Contraindications", "status": "confirmed", "variants": ["موانع الاستعمال", "موانع استعمال", "موانع الاستخدام", "موانع استخدام", "contra-indications"], "review_note": "Reviewed rendering of the source's explicit bilingual contraindication heading."},
+    {"id": "ambiguous-pressure-medicine", "canonical": "ARBs", "status": "ambiguous", "variants": ["دواء الضغط", "حبوب الضغط", "7obob el daght"], "review_note": "Many drug classes treat blood pressure; these broad descriptions must not be expanded to ARBs."},
+    {"id": "ambiguous-mamno3", "canonical": "Contraindications", "status": "ambiguous", "variants": ["mamno3", "mamnou3", "ممنوع"], "review_note": "A broad prohibition word is not reliably a clinical contraindication heading, especially with negation; leave unchanged."}
+  ]
+}
