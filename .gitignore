@@ -38,6 +38,7 @@ models/
 # Reports and temporary files
 reports/evaluation/
 reports/performance/
+reports/frontend/
 tmp/
 temp/
 

@@ -17,10 +17,12 @@ preserved under `data/knowledge_base/source/` and are organized by KB ID.
 
 ## Project status
 
-Stage 1 provides a working FastAPI foundation with validated MTI API schemas and
-automated tests. `GET /health` reports liveness and configured model identities.
-`POST /chat` validates input and returns HTTP 500 with
-`{"error": "Chat pipeline is not implemented yet"}`. It does not generate answers.
+Stage 4A implements `POST /chat`: conservative safety checks, the existing hybrid
+retriever, explicit subject/field evidence checks, one structured local Qwen call,
+and Python citation/grounding validation. Unsupported questions abstain; unsafe
+requests escalate; operational failures return HTTP 500. `GET /health` remains a
+liveness/configuration endpoint. See the [Stage 4A walkthrough](docs/stage4a.md)
+for the exact architecture, limitations, measurements, and function explanations.
 
 Stage 2.1 provides reusable single-document ingestion, structural issue reporting,
 checksum-bound context corrections, and deterministic build/chunk identities.
@@ -37,8 +39,20 @@ local BM25, and reciprocal rank fusion. Dense remains the unchanged default;
 `search --mode lexical` and `search --mode hybrid` select the new paths. No new
 dependencies, models, ingestion rebuild, or vector rebuild are needed.
 
-Generation, session persistence, frontend, and Docker implementation remain
-future work. The API contract and unfinished `/chat` behavior are unchanged.
+Stage 5 adds a bilingual React/Vite/TypeScript chat interface in `frontend/`,
+connected to this FastAPI app through a local development proxy. It includes
+expandable real-source citations, Arabic/English layout, distinct safety/scope
+states, and technical error handling. See [the frontend guide](frontend/README.md)
+and [Stage 5 verification](docs/stage5.md) for setup, screenshots, and results.
+
+Stage 5.1 adds friendly conversation and clarification, conservative spelling
+handling, generic-versus-brand ingredient recognition, a bounded lexical retry,
+and readable verified-source answers. See the [diagnosis and evaluation report](docs/stage51.md)
+for before/after examples, remaining Arabic limitations, and the two held-out false abstentions.
+
+The API response shape is unchanged. Session persistence, admin, and Docker
+implementation remain future milestones. Retrieval code, aliases, source artifacts,
+safety rules, original evaluation fixtures, and vector files remain preserved.
 
 ## Structure
 
@@ -65,8 +79,8 @@ From the repository root in PowerShell, using the existing Python environment:
 Open `http://127.0.0.1:8000/docs` for the generated API documentation.
 
 `LLM_MODEL` and `EMBEDDING_MODEL` configure the model identities at application
-startup. The defaults, `qwen2.5:7b` and `bge-m3`, are assessment examples, not a
-completed model-selection decision. Set environment variables before starting, or
+startup. Stage 4A defaults to `qwen3.5:4b` and `bge-m3`; both must already be
+installed in local Ollama. Nothing downloads models automatically. Set environment variables before starting, or
 copy `.env.example` to `.env` and add `--env-file .env` to the command. A `.env`
 file is not loaded automatically. Health does not verify model connectivity or
 readiness. Blank model names fail configuration validation at startup.
@@ -118,6 +132,18 @@ Run all tests without starting a model server:
 ```
 
 `pytest.ini` makes the existing `src/` package importable during tests.
+For a restricted Windows account, create a writable temporary parent and pass
+a new, disposable `--basetemp` directory beneath it; pytest clears that directory.
+Live chat tests require `RUN_CHAT_TESTS=1`. The separate end-to-end evaluation is:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/evaluation/chat.py --cold
+```
+
+This reads the ten user-supplied MTI questions plus additional development cases
+and writes `reports/evaluation/stage4a_chat.json`. `--cold` unloads only the two
+configured Ollama runners before an extra cold request; it does not clear OS or
+driver caches. The application never reads evaluation fixtures.
 `requirements.txt` uses UTF-8 for tool compatibility; the original Stage 1 pins
 are preserved. Stage 2 adds only `python-docx==1.2.0` and its required XML parser,
 `lxml==6.1.3`. Stage 3 adds only `numpy==2.5.4`; HTTP calls reuse HTTPX.

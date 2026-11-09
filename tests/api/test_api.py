@@ -3,14 +3,22 @@
 import pytest
 from fastapi.testclient import TestClient
 
-from medical_rag.api.main import create_app
+from medical_rag.api.main import create_app, get_chat_service
+from medical_rag.generation.ollama import GenerationError
 
 
 @pytest.fixture
 def client(monkeypatch):
     monkeypatch.setenv("LLM_MODEL", "test-llm")
     monkeypatch.setenv("EMBEDDING_MODEL", "test-embedding")
-    with TestClient(create_app()) as test_client:
+    application = create_app()
+
+    class UnavailableService:
+        def run(self, request):
+            raise GenerationError("Synthetic unavailable model")
+
+    application.dependency_overrides[get_chat_service] = lambda: UnavailableService()
+    with TestClient(application) as test_client:
         yield test_client
 
 
@@ -32,7 +40,7 @@ def test_health_default_configuration(monkeypatch):
     with TestClient(create_app()) as client:
         assert client.get("/health").json() == {
             "status": "ok",
-            "llm": "qwen2.5:7b",
+            "llm": "qwen3.5:4b",
             "embedding": "bge-m3",
         }
 
@@ -46,7 +54,7 @@ def test_valid_chat_returns_operational_error(client, session):
 
     assert response.status_code == 500
     assert response.headers["content-type"] == "application/json"
-    assert response.json() == {"error": "Chat pipeline is not implemented yet"}
+    assert response.json() == {"error": "Chat service failed or timed out; please retry later."}
 
 
 @pytest.mark.parametrize(

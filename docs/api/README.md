@@ -1,4 +1,4 @@
-# MTI API contract - Stage 1
+# MTI API contract - Stage 4A
 
 ## POST /chat
 
@@ -12,19 +12,22 @@ Request JSON:
 whitespace-only input is rejected. Numbers, arrays, objects, booleans, and null
 are rejected rather than converted to text. `session_id` is an optional string
 and may be omitted or null. Omission represents a new logical session in the
-future contract; Stage 1 does not create, store, or resume sessions. Unexpected
+contract; Stage 4A does not create, store, or resume sessions. Unexpected
 request fields are rejected.
 
-Stage 1 accepts valid requests and always returns HTTP 500:
+Stage 4A runs safety checks, hybrid retrieval, evidence assessment, one structured
+local Ollama generation call, and Python source/citation/grounding verification.
+Operational failures, including dependency construction and timeouts, return HTTP 500:
 
 ```json
-{"error": "Chat pipeline is not implemented yet"}
+{"error": "Chat service failed or timed out; please retry later."}
 ```
 
 Invalid requests return FastAPI's HTTP 422 `{"detail": [...]}` validation errors.
-No medical answer or scope/safety classification is generated in Stage 1.
+Normal classification responses use HTTP 200. Source/LLM unavailability is never
+reported as a medical scope decision.
 
-The future successful response uses HTTP 200 and exactly these fields:
+The successful response uses HTTP 200 and exactly these fields:
 
 | Field | Type / rule |
 | --- | --- |
@@ -36,31 +39,33 @@ The future successful response uses HTTP 200 and exactly these fields:
 Each citation has exactly `doc_id`, `title`, `section`, and `snippet`, all required
 nonblank strings. `answered` requires at least one valid citation. `out_of_scope`
 and `escalated` require an empty citation list. Extra response/citation fields are
-rejected. Pydantic enforces these structural rules; future retrieval and evidence
-checks must verify that citations contain actual approved KB excerpts and that
-the answer is supported. Language accuracy and classification semantics also
-require future pipeline logic.
+rejected. Python verifies the active corpus, complete chunk/document identities,
+retrieval membership, source subsection/subject association, and exact supporting
+excerpts. Unverified generated paraphrases are discarded; a source-only extractive
+fallback is available only after references and evidence scope pass validation.
+The language field describes the actual answer's script, including any fallback.
 
 Processing failures use HTTP 500 with exactly `{"error": "..."}`. The complete
-RAG pipeline must meet a 30-second response deadline; end-to-end timeout handling
-and performance verification are pending the pipeline implementation.
+RAG pipeline has a configurable 30-second HTTP deadline. Recorded serial local
+measurements are in the [Stage 4A results](../evaluation/stage4a_results.md), with
+limitations; they do not guarantee universal cold-start or concurrent compliance.
 
 ## GET /health
 
 HTTP 200, with exactly the keys below (values shown are configurable defaults):
 
 ```json
-{"status": "ok", "llm": "qwen2.5:7b", "embedding": "bge-m3"}
+{"status": "ok", "llm": "qwen3.5:4b", "embedding": "bge-m3"}
 ```
 
 `LLM_MODEL` and `EMBEDDING_MODEL` are read from the environment when the app is
-created. These defaults are examples; the project's model decision is pending.
-Stage 1 health reports API liveness and configured model identities only. Model
-connectivity/readiness checks will be implemented in a later stage.
+created. Health reports API liveness and configured model identities only; it
+does not verify readiness. No models are downloaded automatically.
 
 ## Running and testing
 
 See the repository [README](../../README.md) for PowerShell commands. Interactive
 OpenAPI documentation is available at `/docs`, and its JSON schema at
 `/openapi.json`. Tests use an in-process TestClient and synthetic citation data;
-they do not read the approved DOCX files or require Ollama, a GPU, or embeddings.
+they do not require Ollama or a GPU. Opt-in live tests separately exercise the
+installed Qwen model, actual BGE-M3 embeddings, and approved source corpus.

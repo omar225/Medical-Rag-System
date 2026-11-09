@@ -62,3 +62,25 @@ runner reload. The existing validator rejected them. Resolve this runtime failur
 and pass the live check before proceeding to Stage 4. Stage 4 is not implemented.
 See [the full comparison](docs/retrieval_comparison.md) and
 [engineering explanation](docs/retrieval_multilingual.md).
+
+## Stage 4A decision (2026-11-09)
+
+The new-machine embedding integration is healthy and was checked live again for
+Stage 4A. Corpus/model/alias/label identities remain unchanged; the measured
+new-machine frozen hybrid Hit@5 baseline is 95.24%, held-out 95.83%. The verified
+salbutamol candidate-cutoff sensitivity was retained without ranking changes.
+Earlier zero-vector observations above are historical, not the current live result.
+
+Use the already-installed `qwen3.5:4b` for this first grounded chat service via
+Ollama `/api/chat`. It is Q4_K_M, 4.2B parameters, digest
+`d8b0f5e9760cd1682034f292d7ef72ec46f432149be0df7574bf2d6e92e38c04`.
+The runtime advertises completion and thinking; this implementation explicitly
+disables thinking for Qwen and keeps the internal schema separate from the API.
+Defaults: temperature 0, 768 output tokens, 8192 context, 25-second generation
+budget, 30-second HTTP deadline. Other model-native options remain at their defaults.
+
+`LLM_MODEL` permits later comparison with `qwen2.5:7b`; it was neither downloaded
+nor benchmarked. No automatic model installation exists. This is a prototype
+selection, not a finding of clinical superiority or production readiness.
+See [the Stage 4A design](docs/stage4a.md) and
+[actual development results](docs/evaluation/stage4a_results.md).
