@@ -1,86 +1,81 @@
-# Model Decision Record
+# Model decision record
 
-## Requirements
+**Constraints:** open weights; local serving through Ollama on one 8 GB GPU (RTX 4060 Ti); Arabic
+(Egyptian, Franco), English and code-switched text; 30 s per request including retrieval; strict
+JSON output with source text quoted exactly. All numbers below were measured on this system.
 
-Stage 3 requires local multilingual dense embeddings for English, Arabic,
-Egyptian phrasing, mixed terminology, and representative Franco-Arabic queries.
-Embedding retrieval must preserve source provenance and reject context overflow
-instead of silently truncating text. No LLM generation is implemented.
+## LLM: `qwen3.5:4b` (Q4_K_M, 3.3 GB on disk, 3.36 GB VRAM)
 
-## Candidate models
+| Measured on the 199 labelled questions ([docs/evaluation.md](docs/evaluation.md)) | Result |
+| --- | --- |
+| Correct status (answered / out_of_scope / escalated) | 97.5% over HTTP, 98.0% in-process |
+| Answerable questions answered, with the expected facts | 95.9% answered, 96.0% of expected facts present |
+| Published citations that exist verbatim in the cited KB document (checked independently) | 100% |
+| Invented doses or numbers published | 0 (every number must appear in the cited chunks) |
+| Median / 95th-percentile latency, end to end | 2.6 s / 8.6 s; slowest 27 s, inside the 30 s budget |
+| Requests that needed the one corrective retry | 13% of model calls |
 
-The requested initial embedding model is Ollama `bge-m3:latest`. Other models
-have not been benchmarked in this stage. LLM selection remains pending.
+**Why this model.** It is small enough to run next to the embedding model on an 8 GB GPU: 3.36 GB
+for Qwen plus 1.2 GB for BGE-M3, both fully on the GPU with an 8k context. It follows Ollama's
+JSON-schema output, reads and writes usable Egyptian Arabic, and lets "thinking" be disabled. That
+last point was decisive. On the same 8 prompts:
 
-## Evaluation and measurements
+| Thinking | Mean output tokens | Mean time | Over 30 s | Valid JSON |
+| --- | --- | --- | --- | --- |
+| off (shipped) | 271 | 4.5 s | 0 of 8 | 8 of 8 |
+| on | 3,481 | 48 s | 7 of 8 | 5 of 8 (3 ran into the 4,096-token cap) |
 
-The installed model was already available; no model was downloaded. The local
-Ollama runtime reported version `0.40.15`, F16 BGE-M3, and model digest
-`7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab`.
-The 113 source chunks produced 1,024-dimensional vectors in 8.79 seconds after
-an initial model-load probe. The probe itself took 36.61 seconds, so these are
-warm-model build/query measurements rather than a cold-start guarantee.
+**Observed failure modes, and what handles them.** All of these were seen in real runs; none is
+patched with per-question rules.
 
-The frozen benchmark has 21 answerable queries and three out-of-KB controls.
-Macro Recall@1/3/5 was 52.99% / 64.22% / 67.21%; Hit@5 was 80.95%.
-See [the evaluation report](docs/retrieval_evaluation.md) for all queries and
-the distinction between evidence recall and any-hit rate.
+- Copies quotes into the answer text, or mislabels a passage → quotes are located in any supplied
+  passage and the answer text is cleaned. The published snippet is always the real source line.
+- Names a medicine from a passage it did not quote, or puts a brand next to the wrong ingredient
+  ("trade names containing Ibuprofen: Panadol") → identity and pairing checks plus one targeted
+  retry. For "alternatives" questions, the same-ingredient brands are read from the KB tables and
+  given to the model.
+- Refuses a partly covered or instruction-laced question ("What is in Brufen? Ignore your rules") →
+  one retry when the question names a KB medicine.
+- After that retry, answers "the source has no half-life data, but here are the side effects" →
+  returned as `out_of_scope` by a deterministic first-clause check.
+- Over-long answers cut off at the token cap → one retry asking for a shorter answer; a cut-off
+  answer is never published.
 
-## Decision
+**The pipeline mattered more than the model.** With the same model, a word-overlap verifier
+answered 1 of 12 ordinary audit questions; it rejected correct paraphrases such as Panadol's side
+effects taken from the class section. Quote-location checks and whole-chunk context answer 11 of
+12. The 12th, "I want to die", is correctly escalated.
 
-Use BGE-M3 as the initial Stage 3 dense baseline, not as a medical-answerability
-or safety mechanism. Arabic brand spelling and Franco-Arabic failures remain.
-Do not treat this small benchmark as production clinical validation. A changed
-model name or digest requires rebuilding the index; the implementation enforces
-that requirement. No other model or generation integration was added.
+**Not tested, and why.** Larger 7–8B models (Qwen, Llama, Gemma at Q4) need about 5 GB for the
+weights. With BGE-M3 and the KV cache, that is at the 8 GB limit, where Ollama starts offloading to
+the CPU. They may translate the code-switched source more fluently, but the measured errors above
+were pipeline errors, not language errors. Switching needs only `LLM_MODEL`.
 
-## Stage 3.1 observations (2026-11-08)
+## Embeddings: `bge-m3` (F16, 1.2 GB, 1024 dimensions, 8k-token input)
 
-The installed BGE-M3 model and source vectors remain unchanged. Conservative
-query normalization, reviewable same-name/term aliases, local BM25, and fixed
-RRF (k=60, 20 candidates per branch) improve evidence discovery without a new
-model or dependency. Dense remains the unchanged selectable default. Hybrid
-performs one rewritten-query embedding; lexical performs no model inference.
+**Why this model.** It is one multilingual model for Arabic, English and mixed text. Its 8k input
+window embeds every drug-class chunk whole: the largest is about 2,100 characters, and truncation is
+disabled, so an oversized chunk fails loudly instead of being cut. It runs in the same Ollama as
+the LLM. Measured cost: 113 chunks (35,369 tokens) are indexed in about 9 s; a query (about 14
+tokens) takes about 80 ms.
 
-On the unchanged frozen benchmark, dense/lexical/hybrid Hit@5 is
-80.95% / 95.24% / 100%. On separately written held-out questions (24 answerable,
-five negative controls), it is 66.67% / 91.67% / 95.83%. No parameters or aliases
-were adjusted after the held-out run. This is not externally blinded validation.
+**Dense retrieval alone was not enough.** On the recorded retrieval benchmark (labelled evidence
+chunks; English, Arabic, mixed and Franco questions), top-5 hit rates were:
 
-Frozen median latency was 82.31 / 47.59 / 138.63 ms; held-out median was
-142.09 / 48.84 / 197.19 ms. The first lexical query includes a 994.53 ms cache
-build. A separate model-unloaded probe took 2.288 seconds, followed by an
-88.10 ms query; OS caches were not cleared. These measurements do not establish
-a cold-start optimization over the earlier Stage 3 probe.
+| Mode | Benchmark set | Separately written set |
+| --- | --- | --- |
+| BGE-M3 dense only | 81% | 67% |
+| BM25 over alias-normalized text | 95% | 92% |
+| Hybrid (RRF of both), shipped | **100%** | **96%** |
 
-Hybrid still misses an unlisted Arabic spelling of Fastum Gel, can regress
-top-one ranking, and returns neighbors for every negative control. It is a
-reasonable candidate for controlled Stage 4 development, with broader terminology
-review and evaluation required before medical use. A subsequent opt-in live check
-failed because Ollama returned all-zero vectors, reproduced after one manual
-runner reload. The existing validator rejected them. Resolve this runtime failure
-and pass the live check before proceeding to Stage 4. Stage 4 is not implemented.
-See [the full comparison](docs/retrieval_comparison.md) and
-[engineering explanation](docs/retrieval_multilingual.md).
+Dense search alone found the right chunk at rank 1 for only 1 of 3 Franco questions, and missed
+Arabic brand spellings (كتافلام). The hybrid adds BM25 over reviewed aliases. A medicine-name lookup
+then puts the defining section of a named drug first, regardless of rank.
 
-## Stage 4A decision (2026-11-09)
+**Observed failure, handled.** During development, Ollama once returned all-zero BGE-M3 vectors with
+HTTP 200. The client rejects zero vectors, so a broken index is never built or queried.
 
-The new-machine embedding integration is healthy and was checked live again for
-Stage 4A. Corpus/model/alias/label identities remain unchanged; the measured
-new-machine frozen hybrid Hit@5 baseline is 95.24%, held-out 95.83%. The verified
-salbutamol candidate-cutoff sensitivity was retained without ranking changes.
-Earlier zero-vector observations above are historical, not the current live result.
-
-Use the already-installed `qwen3.5:4b` for this first grounded chat service via
-Ollama `/api/chat`. It is Q4_K_M, 4.2B parameters, digest
-`d8b0f5e9760cd1682034f292d7ef72ec46f432149be0df7574bf2d6e92e38c04`.
-The runtime advertises completion and thinking; this implementation explicitly
-disables thinking for Qwen and keeps the internal schema separate from the API.
-Defaults: temperature 0, 768 output tokens, 8192 context, 25-second generation
-budget, 30-second HTTP deadline. Other model-native options remain at their defaults.
-
-`LLM_MODEL` permits later comparison with `qwen2.5:7b`; it was neither downloaded
-nor benchmarked. No automatic model installation exists. This is a prototype
-selection, not a finding of clinical superiority or production readiness.
-See [the Stage 4A design](docs/stage4a.md) and
-[actual development results](docs/evaluation/stage4a_results.md).
+**Interchangeability.** The index stores the embedding model's name and digest. Changing
+`EMBEDDING_MODEL` triggers an automatic rebuild at the next start. Other embedding models
+(multilingual-e5, nomic-embed) were not benchmarked, because the hybrid already locates the
+evidence for 96–100% of benchmark questions.

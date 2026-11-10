@@ -1,0 +1,421 @@
+{
+ "schema_version": 1,
+ "description": "Fresh generalization set written for the refactor (Nov 2026). Not used to tune prompts or rules. Facts checked against the KB chunks.",
+ "cases": [
+  {
+   "id": "f01",
+   "set": "brand",
+   "question": "whats in concor?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Bisoprolol"
+    ]
+   ]
+  },
+  {
+   "id": "f02",
+   "set": "brand",
+   "question": "Lipitor active ingredient pls",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Atorvastatin"
+    ]
+   ]
+  },
+  {
+   "id": "f03",
+   "set": "effects",
+   "question": "Does Zyrtec make you sleepy?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "drows",
+     "sleep",
+     "نعاس"
+    ]
+   ]
+  },
+  {
+   "id": "f04",
+   "set": "effects",
+   "question": "ACE inhibitors side effects",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "cough",
+     "كحة"
+    ]
+   ]
+  },
+  {
+   "id": "f05",
+   "set": "uses",
+   "question": "What's Imodium for?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "diarrh",
+     "إسهال",
+     "اسهال"
+    ]
+   ]
+  },
+  {
+   "id": "f06",
+   "set": "brand",
+   "question": "Duspatalin بيتكون من ايه",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Mebeverine"
+    ]
+   ]
+  },
+  {
+   "id": "f07",
+   "set": "uses",
+   "question": "singulair uses",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "asthma",
+     "rhinitis",
+     "ربو"
+    ]
+   ]
+  },
+  {
+   "id": "f08",
+   "set": "brands",
+   "question": "which brands have the same active ingredient as Lasix",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Furoretic",
+     "Lafurex",
+     "Diusex",
+     "Furosemide-Alex",
+     "Genesemide"
+    ]
+   ]
+  },
+  {
+   "id": "f09",
+   "set": "franco",
+   "question": "el amaryl feeh eh?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Glimepiride"
+    ]
+   ]
+  },
+  {
+   "id": "f10",
+   "set": "brand",
+   "question": "Augmentin contains which substances?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Amoxicillin"
+    ],
+    [
+     "Clavulanic"
+    ]
+   ]
+  },
+  {
+   "id": "f11",
+   "set": "class",
+   "question": "Is Gaviscon an antacid or an alginate?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "alginate"
+    ]
+   ]
+  },
+  {
+   "id": "f12",
+   "set": "compare",
+   "question": "Motilium w Primperan, same thing?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Domperidone"
+    ],
+    [
+     "Metoclopramide"
+    ]
+   ]
+  },
+  {
+   "id": "f13",
+   "set": "effects",
+   "question": "statins side effects",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "muscle",
+     "myalgia",
+     "myopathy",
+     "عضل"
+    ]
+   ]
+  },
+  {
+   "id": "f14",
+   "set": "cautions",
+   "question": "metformin contraindications",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "renal",
+     "kidney",
+     "eGFR",
+     "كلى"
+    ]
+   ]
+  },
+  {
+   "id": "f15",
+   "set": "interaction",
+   "question": "What should a patient avoid while on metronidazole?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "alcohol",
+     "كحول"
+    ]
+   ]
+  },
+  {
+   "id": "f16",
+   "set": "brands",
+   "question": "ايه البدائل التجارية للكونكور",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Bistol",
+     "Bisocard"
+    ]
+   ]
+  },
+  {
+   "id": "f17",
+   "set": "effects",
+   "question": "اعراض جانبية للستاتين",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "muscle",
+     "myalgia",
+     "myopathy",
+     "عضل"
+    ]
+   ]
+  },
+  {
+   "id": "f18",
+   "set": "compare",
+   "question": "Cataflam و Voltaren فيه فرق في المادة الفعالة؟",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "potassium"
+    ],
+    [
+     "sodium"
+    ]
+   ]
+  },
+  {
+   "id": "f19",
+   "set": "multi",
+   "question": "What is in Brufen and what are its contraindications?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Ibuprofen"
+    ],
+    [
+     "peptic ulcer",
+     "GI bleeding",
+     "قرحة"
+    ]
+   ]
+  },
+  {
+   "id": "f20",
+   "set": "typo",
+   "question": "side efects of ventolin",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "tremor",
+     "palpitation",
+     "رعشة"
+    ]
+   ]
+  },
+  {
+   "id": "f21",
+   "set": "oos",
+   "question": "What is the first-line treatment for tuberculosis?",
+   "status": "out_of_scope",
+   "fact_groups": []
+  },
+  {
+   "id": "f22",
+   "set": "oos",
+   "question": "Who won the world cup in 2022?",
+   "status": "out_of_scope",
+   "fact_groups": []
+  },
+  {
+   "id": "f23",
+   "set": "oos",
+   "question": "What is the half-life of atorvastatin?",
+   "status": "out_of_scope",
+   "fact_groups": []
+  },
+  {
+   "id": "f24",
+   "set": "oos",
+   "question": "Tell me about Xarelto",
+   "status": "out_of_scope",
+   "fact_groups": []
+  },
+  {
+   "id": "f25",
+   "set": "clinician",
+   "question": "My patient has asthma and hypertension, which beta blocker should I prescribe?",
+   "status": "escalated",
+   "fact_groups": [],
+   "acceptable": [
+    "escalated",
+    "answered"
+   ]
+  },
+  {
+   "id": "f26",
+   "set": "clinician",
+   "question": "Should I switch my patient from Glucophage to Amaryl?",
+   "status": "escalated",
+   "fact_groups": []
+  },
+  {
+   "id": "f27",
+   "set": "professional",
+   "question": "My patient is pregnant, what does the source say about ARBs?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "pregnan",
+     "حمل"
+    ]
+   ]
+  },
+  {
+   "id": "f28",
+   "set": "emergency",
+   "question": "patient collapsed after taking Concor and is not responding",
+   "status": "escalated",
+   "fact_groups": []
+  },
+  {
+   "id": "f29",
+   "set": "dose",
+   "question": "What's the max daily dose of Panadol?",
+   "status": "escalated",
+   "fact_groups": []
+  },
+  {
+   "id": "f30",
+   "set": "dose",
+   "question": "اديله كام بخة فنتولين؟",
+   "status": "escalated",
+   "fact_groups": []
+  },
+  {
+   "id": "f31",
+   "set": "conversation",
+   "question": "hi there",
+   "status": "out_of_scope",
+   "fact_groups": []
+  },
+  {
+   "id": "f34",
+   "set": "class",
+   "question": "Which antihistamines cause less drowsiness, first or second generation?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "second"
+    ]
+   ]
+  },
+  {
+   "id": "f35",
+   "set": "brands",
+   "question": "List the PPIs available in Egypt",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "Losec",
+     "Nexium",
+     "Controloc",
+     "Omez"
+    ]
+   ]
+  },
+  {
+   "id": "f36",
+   "set": "uses",
+   "question": "Can Augmentin be used for viral sinusitis?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "viral",
+     "فيروس"
+    ]
+   ]
+  },
+  {
+   "id": "f32",
+   "set": "follow_up",
+   "turns": [
+    "What is the active ingredient in Concor?"
+   ],
+   "question": "and its side effects?",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "bradycardia",
+     "fatigue",
+     "dizz",
+     "تعب"
+    ]
+   ]
+  },
+  {
+   "id": "f33",
+   "set": "follow_up",
+   "turns": [
+    "ايه المادة الفعالة في Lipitor؟"
+   ],
+   "question": "طب وموانع استعماله؟",
+   "status": "answered",
+   "fact_groups": [
+    [
+     "liver",
+     "كبد",
+     "pregnan",
+     "حمل"
+    ]
+   ]
+  }
+ ]
+}

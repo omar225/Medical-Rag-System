@@ -1,16 +1,33 @@
+# Python
 .venv/
+venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets and local configuration (only the example file is shared)
 .env
 .env.*
 !.env.example
-.vscode/
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
 
-# Only the approved-nine Stage 2.1 ingestion JSON is versioned.
-# Other candidate outputs, temporary files, and new document IDs remain ignored.
+# Editors, OS and local assistant files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.claude/
+CLAUDE.md
+
+# Knowledge base: only the nine approved documents' generated JSON is shared
 data/knowledge_base/processed/*
 !data/knowledge_base/processed/KB-0[1-9].json
 data/knowledge_base/chunks/*
@@ -18,39 +35,26 @@ data/knowledge_base/chunks/*
 data/knowledge_base/metadata/generated/*
 !data/knowledge_base/metadata/generated/ingestion_manifest.json
 
-# Runtime and generated storage
-storage/vector_store/
-storage/sessions/
-storage/analytics/
-storage/logs/
-*.db
-*.sqlite
-*.sqlite3
-*.log
-
-# Downloaded models and large generated artifacts
+# Runtime data: the vector index is rebuilt from the KB on first start
+storage/
 models/
-*.pt
-*.pth
-*.safetensors
-*.bin
-
-# Reports and temporary files
-reports/evaluation/
-reports/performance/
-reports/frontend/
-tmp/
-temp/
-
-# Local handoff verification environments and credentials
-.handoff-verification/
-secrets/
-credentials/
-*.pem
-*.key
-*.p12
-*.pfx
-*.gguf
 *.npy
 *.npz
-# The reviewed recovery archive is explicitly selected, not a runtime cache.
+*.gguf
+*.safetensors
+*.bin
+*.log
+*.db
+*.sqlite*
+
+# Generated reports (the chat evaluation results in reports/evaluation/ are shared)
+reports/frontend/
+reports/retrieval/
+
+# Frontend build output and tooling
+frontend/node_modules/
+frontend/dist/
+frontend/.tooling/
+frontend/test-results/
+frontend/playwright-report/
+frontend/*.tsbuildinfo

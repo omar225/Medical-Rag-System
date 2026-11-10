@@ -63,7 +63,7 @@ test('starter question fills the composer without sending, and whitespace is val
 test('exact API request, genuine metadata, expandable citations, and text-only rendering', async ({ page }) => {
   const html = '<script>window.unsafe = true</script>'
   await page.route('**/api/chat', async route => {
-    expect(route.request().postDataJSON()).toEqual({ message: 'Test subject', session_id: null })
+    expect(route.request().postDataJSON()).toEqual({ message: 'Test subject', session_id: expect.any(String) })
     await route.fulfill({ json: { ...answered, answer: html } })
   })
   await page.goto('/')

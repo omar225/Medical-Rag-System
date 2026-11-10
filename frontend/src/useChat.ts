@@ -2,6 +2,9 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import { ChatError, requestChat } from './api'
 import type { ChatResponse } from './api'
 
+// One id per conversation: the API keeps the last few turns so follow-up questions work.
+const newSessionId = () => crypto.randomUUID()
+
 export interface Turn { id: string; question: string; pending: boolean; response?: ChatResponse; error?: ChatError }
 
 export function useChat() {
@@ -10,6 +13,7 @@ export function useChat() {
   const active = useRef<AbortController | null>(null)
   const version = useRef(0)
   const nextId = useRef(0)
+  const sessionId = useRef(newSessionId())
 
   useEffect(() => () => active.current?.abort(), [])
 
@@ -23,7 +27,7 @@ export function useChat() {
     setTurns(previous => retryId ? previous.map(item => item.id === id ? turn : item) : [...previous, turn])
     setPending(true)
     try {
-      const response = await requestChat(turn.question, controller.signal)
+      const response = await requestChat(turn.question, sessionId.current, controller.signal)
       if (version.current === requestVersion) {
         setTurns(previous => previous.map(item => item.id === id ? { ...turn, pending: false, response } : item))
       }
@@ -41,6 +45,7 @@ export function useChat() {
     ++version.current
     active.current?.abort()
     active.current = null
+    sessionId.current = newSessionId()
     setTurns([])
     setPending(false)
   }, [])

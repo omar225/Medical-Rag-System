@@ -7,10 +7,12 @@ import re
 import unicodedata
 
 from medical_rag.retrieval.corpus import ApprovedCorpus, canonical_hash
-from medical_rag.retrieval.embeddings.ollama import validate_text
+from medical_rag.retrieval.embeddings import validate_text
 
 
-NORMALIZATION_VERSION = "nfkc-arabic-aliases-v1"
+NORMALIZATION_VERSION = "nfkc-arabic-aliases-v2"
+# Arabic words take attached prefixes: و/ف (and), ب/ل (with/for), ال (the): "لبروفين", "بالبنادول".
+ARABIC_PREFIX = "(?:[وف]?(?:بال|لل|ال|ب|ل))?"
 _ORTHOGRAPHY = str.maketrans({"أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا", "ى": "ي", "ـ": "", "‐": "-", "‑": "-", "–": "-", "—": "-"})
 
 
@@ -75,7 +77,7 @@ class AliasRegistry:
                 variants[normalized] = entry
         ordered = sorted(variants, key=lambda value: (-len(value), value))
         self.pattern = re.compile("|".join(
-            f"(?P<a{index}>(?<!\\w)" + ("(?:ال)?" if re.match(r"[\u0621-\u064a]", variant) else "") + re.escape(variant) + r"(?!\w))"
+            f"(?P<a{index}>(?<!\\w)" + (ARABIC_PREFIX if re.match(r"[\u0621-\u064a]", variant) else "") + re.escape(variant) + r"(?!\w))"
             for index, variant in enumerate(ordered)
         )) if ordered else None
         self.groups = {f"a{index}": variants[variant] for index, variant in enumerate(ordered)}

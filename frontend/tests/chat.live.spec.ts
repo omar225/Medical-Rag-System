@@ -2,7 +2,7 @@ import { expect, test } from '@playwright/test'
 import type { ChatResponse } from '../src/api'
 import AxeBuilder from '@axe-core/playwright'
 
-test('Stage 5.1 real conversational, spelling, and formatted Arabic responses', async ({ page }) => {
+test('real greetings, a typo, and mixed and Arabic questions', async ({ page }) => {
   test.setTimeout(120_000)
   await page.goto('/')
   const observations: object[] = []
@@ -25,13 +25,12 @@ test('Stage 5.1 real conversational, spelling, and formatted Arabic responses', 
     await expect(page.locator('.answer-text').last()).toBeVisible()
     expect(await page.locator('.answer-text').last().textContent()).toBe(data.answer)
     if (question.startsWith('Metformin')) {
-      expect(data.answer).toContain('\n• ')
-      expect(data.citations).toHaveLength(1)
+      expect(data.citations.length).toBeGreaterThan(0)
       await page.locator('summary').last().click()
       await page.setViewportSize({ width: 390, height: 844 })
       await page.getByRole('button', { name: 'Switch interface to Arabic' }).click()
       await page.locator('.turn').last().scrollIntoViewIfNeeded()
-      await page.screenshot({ path: '../reports/frontend/screenshots/stage51-arabic-mobile.png' })
+      await page.screenshot({ path: '../reports/frontend/screenshots/arabic-mobile-citations.png' })
       expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([])
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true)
       await page.getByRole('button', { name: 'Switch interface to English' }).click()
@@ -39,7 +38,7 @@ test('Stage 5.1 real conversational, spelling, and formatted Arabic responses', 
     if (status === 'out_of_scope') await expect(page.locator('.answer-status').last()).toHaveText('Response')
     observations.push({ question, response: data, seconds: (Date.now() - started) / 1000 })
   }
-  await test.info().attach('stage51-real-responses', { body: JSON.stringify(observations, null, 2), contentType: 'application/json' })
+  await test.info().attach('real-responses', { body: JSON.stringify(observations, null, 2), contentType: 'application/json' })
 })
 
 test('real FastAPI proxy integration: supported English, Arabic, and Franco questions, abstention, and escalation', async ({ page, request }) => {

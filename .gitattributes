@@ -1,9 +1,15 @@
-# Preserve source/checksum identity across Windows checkouts.
+# Keep source bytes (the KB checksums) and line endings identical on every checkout.
 *.docx binary
 *.pdf binary
-*.zip binary
 *.py text eol=lf
 *.json text eol=lf
 *.md text eol=lf
-*.ps1 text eol=lf
 *.txt text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.yml text eol=lf
+*.ini text eol=lf
+Dockerfile text eol=lf
+.env.example text eol=lf

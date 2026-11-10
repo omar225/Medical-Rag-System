@@ -9,10 +9,12 @@ import os
 class ChatSettings:
     model: str = "qwen3.5:4b"
     temperature: float = 0.0
-    max_output_tokens: int = 768
+    max_output_tokens: int = 1024
     context_size: int = 8192
     timeout_seconds: float = 25.0
-    request_timeout_seconds: float = 30.0
+    request_timeout_seconds: float = 28.0
+    # A corrective second generation is attempted only if at least this much time remains.
+    retry_min_seconds: float = 10.0
 
     def __post_init__(self):
         if not isinstance(self.model, str) or not self.model.strip():
@@ -38,4 +40,5 @@ class ChatSettings:
             context_size=int(os.getenv("LLM_CONTEXT_SIZE", str(cls.context_size))),
             timeout_seconds=float(os.getenv("LLM_TIMEOUT_SECONDS", str(cls.timeout_seconds))),
             request_timeout_seconds=float(os.getenv("CHAT_TIMEOUT_SECONDS", str(cls.request_timeout_seconds))),
+            retry_min_seconds=float(os.getenv("LLM_RETRY_MIN_SECONDS", str(cls.retry_min_seconds))),
         )

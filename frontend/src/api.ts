@@ -27,7 +27,7 @@ export function isChatResponse(value: unknown): value is ChatResponse {
 
 const baseUrl = (import.meta.env.VITE_API_BASE_URL || '/api').replace(/\/+$/, '')
 
-export async function requestChat(message: string, signal: AbortSignal): Promise<ChatResponse> {
+export async function requestChat(message: string, sessionId: string, signal: AbortSignal): Promise<ChatResponse> {
   const controller = new AbortController()
   let timedOut = false
   const cancel = () => controller.abort()
@@ -37,7 +37,7 @@ export async function requestChat(message: string, signal: AbortSignal): Promise
   try {
     const response = await fetch(`${baseUrl}/chat`, {
       method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      body: JSON.stringify({ message, session_id: null }), signal: controller.signal,
+      body: JSON.stringify({ message, session_id: sessionId }), signal: controller.signal,
     })
     if (!response.ok) throw new ChatError(response.status === 422 ? 'validation' : 'service', response.status)
     const body: unknown = await response.json().catch(() => { throw new ChatError('invalid_response') })

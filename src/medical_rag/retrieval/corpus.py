@@ -9,8 +9,8 @@ from pathlib import Path
 import re
 from typing import Any
 
-from medical_rag.ingestion.loaders.docx_reader import APPROVED_SOURCES
-from medical_rag.ingestion.processing.pipeline import PIPELINE_VERSION
+from medical_rag.ingestion.docx_reader import APPROVED_SOURCES
+from medical_rag.ingestion.pipeline import PIPELINE_VERSION
 
 
 class CorpusError(RuntimeError):
